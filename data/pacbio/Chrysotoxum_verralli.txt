@@ -1,0 +1,3 @@
+telomeric_repeat	reverse_complement	frequency
+ATCATC	GATGAT	21488
+ATCATCATC	GATGATGAT	4866
