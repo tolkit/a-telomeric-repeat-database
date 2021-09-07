@@ -47,9 +47,9 @@ for (i in seq_len(nrow(data))) {
 
     if (!is.na(genus)) {
         cat(paste(
-            "|*",
-            species,
-            "*|",
+            "|",
+            paste0("*", species, "*", collapse = ""),
+            "|",
             family,
             "|",
             order,
