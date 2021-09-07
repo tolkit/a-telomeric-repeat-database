@@ -1,9 +1,12 @@
 #!/usr/bin/python3
+
+# Take a list of files
+# Query the goat API for higher taxons
+
 import os
 from pathlib import Path
 
 space = "%20"
-newline = "%0A"
 
 # get file names
 files = Path().cwd().glob("../data/*/*.txt")

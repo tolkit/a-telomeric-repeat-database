@@ -31,18 +31,19 @@ To note this is not a curated list, it is raw output from tidk, and the values m
 
 }")
 
-cat("| Species | Genus | Family | Order | Class | Telomeric repeat 1 | Telomeric_repeat 2 | Data type |\n")
-cat("| --- | --- | --- | --- | --- | --- | --- | --- |\n")
+cat("| Species | Family | Order | Class | Telomeric repeat 1 | Telomeric repeat 2 | Data type |\n")
+cat("| --- | --- | --- | --- | --- | --- | --- |\n")
 
 for (i in seq_len(nrow(data))) {
     species <- data[i, ]$species
-    genus <- data[i, ]$genus
     family <- data[i, ]$family
     order <- data[i, ]$order
     class <- data[i, ]$class
     telo_1 <- data[i, ]$telo_seq_1
-    telo_2 <- data[i, ]$telo_seq2
+    telo_2 <- data[i, ]$telo_seq_2
     type <- data[i, ]$type
+
+    genus <- data[i, ]$genus
 
     if (!is.na(genus)) {
         cat(paste(
