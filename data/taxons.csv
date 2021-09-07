@@ -42,6 +42,7 @@
 "29057","species","Ostrinia nubilalis","Ostrinia nubilalis","Ostrinia","Crambidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",497000000
 "987985","species","Mythimna impura","Mythimna impura","Mythimna","Noctuidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",709000000
 "987431","species","Xestia c-nigrum","Xestia c-nigrum","Xestia","Noctuidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",762420000
+"111903","species","Erebia ligea","Erebia ligea","Erebia","Nymphalidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",541000000
 "291688","species","Hesperia comma","Hesperia comma","Hesperia","Hesperiidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",552000000
 "1124515","species","Eristalis arbustorum","Eristalis arbustorum","Eristalis","Syrphidae","Diptera","Insecta","Arthropoda","Metazoa","Eukaryota",452000000
 "30195","species","Bombus terrestris","Bombus terrestris","Bombus","Apidae","Hymenoptera","Insecta","Arthropoda","Metazoa","Eukaryota",518340000
@@ -202,6 +203,7 @@
 "219539","species","Scaeva pyrastri","Scaeva pyrastri","Scaeva","Syrphidae","Diptera","Insecta","Arthropoda","Metazoa","Eukaryota",657580000
 "1190792","species","Hylaeus communis","Hylaeus communis","Hylaeus","Colletidae","Hymenoptera","Insecta","Arthropoda","Metazoa","Eukaryota",342000000
 "572840","species","Ditula angustiorana","Ditula angustiorana","Ditula","Tortricidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",471000000
+"41139","species","Coccinella septempunctata","Coccinella septempunctata","Coccinella","Coccinellidae","Coleoptera","Insecta","Arthropoda","Metazoa","Eukaryota",371640000
 "65598","species","Bombus pascuorum","Bombus pascuorum","Bombus","Apidae","Hymenoptera","Insecta","Arthropoda","Metazoa","Eukaryota",388162222.2222222
 "76990","species","Ancistrocerus nigricornis","Ancistrocerus nigricornis","Ancistrocerus","Vespidae","Hymenoptera","Insecta","Arthropoda","Metazoa","Eukaryota",236000000
 "522848","species","Mimas tiliae","Mimas tiliae","Mimas","Sphingidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",568870000
@@ -234,6 +236,7 @@
 "2655036","species","Archips podanus","Archips podanus","Archips","Tortricidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",563000000
 "721137","species","Habrosyne pyritoides","Habrosyne pyritoides","Habrosyne","Drepanidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",410000000
 "78633","species","Pieris napi","Pieris napi","Pieris","Pieridae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",408000000
+"987877","species","Amphipyra berbera","Amphipyra berbera","Amphipyra","Noctuidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",708477500
 "987872","species","Agrochola macilenta","Agrochola macilenta","Agrochola","Noctuidae","Lepidoptera","Insecta","Arthropoda","Metazoa","Eukaryota",687000000
 "201766","species","Apoderus coryli","Apoderus coryli","Apoderus","Attelabidae","Coleoptera","Insecta","Arthropoda","Metazoa","Eukaryota",911730555.5555556
 "1419289","species","Buathra laborator","Buathra laborator","Buathra","Ichneumonidae","Hymenoptera","Insecta","Arthropoda","Metazoa","Eukaryota",325000000

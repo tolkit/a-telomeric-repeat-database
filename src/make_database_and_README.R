@@ -50,8 +50,6 @@ for (i in seq_len(nrow(data))) {
             "|",
             species,
             "|",
-            genus,
-            "|",
             family,
             "|",
             order,

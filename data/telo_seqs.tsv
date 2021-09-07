@@ -1,4 +1,4 @@
-species	telo_seq_1	telo_seq2	type
+species	telo_seq_1	telo_seq_2	type
 Abrostola tripartita	AACCT	AACCTAACCT	assembly
 Acronicta aceris	AACCT	AACCTAACCT	assembly
 Adalia bipunctata	AAAAATTC	AACCT	assembly
@@ -154,6 +154,7 @@ Agrochola circellaris	AACCT		pacbio
 Agrochola macilenta	AACCT	AACCTAACCT	pacbio
 Agrypnus murinus	AACCT	AAACTAT	pacbio
 Amblyteles armatorius	ACGACG	ATCATC	pacbio
+Amphipyra berbera	AACCT	AACCTAACCT	pacbio
 Amphipyra tragopoginis	AACCT	AACCTAACCT	pacbio
 Ancistrocerus nigricornis			pacbio
 Andrena haemorrhoa	AACGAGTCG	AAACGAGTC	pacbio
@@ -207,6 +208,7 @@ Chrysotoxum verralli	ATCATC	ATCATCATC	pacbio
 Cistogaster globosa	AATAT	AATAAT	pacbio
 Clostera curtula	AACCT	AACCTAACCT	pacbio
 Clusia tigrina			pacbio
+Coccinella septempunctata			pacbio
 Colias croceus	AACCT	AACCTAACCT	pacbio
 Colostygia pectinataria	AACCT	AACCTAACCT	pacbio
 Colpoda steinii	CCCCC	CCCCCC	pacbio
@@ -239,6 +241,7 @@ Epirrhoe alternata	AACCT	AACCTAACCT	pacbio
 Epistrophe grossulariae	ACAGTG	AAATT	pacbio
 Episyrphus balteatus	AATAG	AAATT	pacbio
 Erannis defoliaria	AACCT	AACCTAACCT	pacbio
+Erebia ligea	AACCT	AACCTAACCT	pacbio
 Eristalis arbustorum	AATAAT	AAATAAAT	pacbio
 Eristalis horticola	AACATGC	AAGCATC	pacbio
 Eristalis pertinax	AAATAC	AAGAAT	pacbio
@@ -251,7 +254,7 @@ Eupithecia centaureata	AACCT	AACCTAACCT	pacbio
 Euplexia lucipara	AACCT	ACAGACAG	pacbio
 Euproctis similis	AACCT	AACCTAACCT	pacbio
 Eurydema oleracea			pacbio
-Evagetes crassicornis			pacbio
+Evagetes crassicornis	AACCCAGACCT		pacbio
 Furcula furcula	AACCT	AACCTAACCT	pacbio
 Gari tellinella	AACCCT	AACCCTAACCCT	pacbio
 Gibbula magus	AACATG	AACCCT	pacbio

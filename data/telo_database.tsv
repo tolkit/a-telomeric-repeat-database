@@ -1,4 +1,4 @@
-taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	kingdom	superkingdom	genome_size	telo_seq_1	telo_seq2	type
+taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	kingdom	superkingdom	genome_size	telo_seq_1	telo_seq_2	type
 			Acrobasis repandana									AACCT	AACCTAACCT	pacbio
 			Bellardia pandia									ACATAT	AAATT	pacbio
 			Cydia fagiglandana									AACCT	AACCTAACCT	pacbio
@@ -22,6 +22,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 767470	species	Pterostichus madidus	Pterostichus madidus	Pterostichus	Carabidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	554000000	AACCT	AACCTAACCT	assembly
 7084	species	Adalia bipunctata	Adalia bipunctata	Adalia	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	352080000	AAAAATTC	AACCT	assembly
 41139	species	Coccinella septempunctata	Coccinella septempunctata	Coccinella	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	371640000	AACCT	AACCTAACCT	assembly
+41139	species	Coccinella septempunctata	Coccinella septempunctata	Coccinella	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	371640000	""	""	pacbio
 115357	species	Harmonia axyridis	Harmonia axyridis	Harmonia	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	490545000	AACCT	""	pacbio
 703264	species	Hippodamia variegata	Hippodamia variegata	Hippodamia	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	359500000	AACCT	AACCTAACCT	pacbio
 558720	species	Propylea quattuordecimpunctata	Propylea quattuordecimpunctata	Propylea	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	755000000	AACCT	AACCTAACCT	pacbio
@@ -120,7 +121,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 1542540	species	Megachile ligniseca	Megachile ligniseca	Megachile	Megachilidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	261000000	ACAGAG	AACCT	pacbio
 481575	species	Megachile willughbiella	Megachile willughbiella	Megachile	Megachilidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	376000000	ACAGAG	AACCT	pacbio
 1667466	species	Anoplius nigerrimus	Anoplius nigerrimus	Anoplius	Pompilidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	626000000	""	""	pacbio
-1667454	species	Evagetes crassicornis	Evagetes crassicornis	Evagetes	Pompilidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	577000000	""	""	pacbio
+1667454	species	Evagetes crassicornis	Evagetes crassicornis	Evagetes	Pompilidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	577000000	AACCCAGACCT	""	pacbio
 362093	species	Athalia circularis	Athalia circularis	Athalia	Tenthredinidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	203000000	ACGACG	ACGACGACG	pacbio
 37344	species	Athalia rosae	Athalia rosae	Athalia	Tenthredinidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	173000000	AAAAA	AAAAAA	pacbio
 520905	species	Tenthredo livida	Tenthredo livida	Tenthredo	Tenthredinidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	353000000	AACCT	""	pacbio
@@ -223,6 +224,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 987866	species	Agrochola circellaris	Agrochola circellaris	Agrochola	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	572000000	AACCT	""	pacbio
 987872	species	Agrochola macilenta	Agrochola macilenta	Agrochola	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	687000000	AACCT	AACCTAACCT	pacbio
 987877	species	Amphipyra berbera	Amphipyra berbera	Amphipyra	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	708477500	AACCT	AACCTAACCT	assembly
+987877	species	Amphipyra berbera	Amphipyra berbera	Amphipyra	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	708477500	AACCT	AACCTAACCT	pacbio
 689058	species	Amphipyra tragopoginis	Amphipyra tragopoginis	Amphipyra	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	708477500	AACCT	AACCTAACCT	assembly
 689058	species	Amphipyra tragopoginis	Amphipyra tragopoginis	Amphipyra	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	708477500	AACCT	AACCTAACCT	pacbio
 875885	species	Apamea monoglypha	Apamea monoglypha	Apamea	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	632348000	AACCT	AACCTAACCT	assembly
@@ -277,6 +279,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 987449	species	Ptilodon capucinus	Ptilodon capucinus	Ptilodon	Notodontidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	349000000	AACCT	""	pacbio
 191396	species	Apatura iris	Apatura iris	Apatura	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	407000000	AACCT	AACCTAACCT	pacbio
 191398	species	Boloria selene	Boloria selene	Boloria	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	496000000	AACCT	AACCTAACCT	assembly
+111903	species	Erebia ligea	Erebia ligea	Erebia	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	541000000	AACCT	AACCTAACCT	pacbio
 104503	species	Euphydryas aurinia	Euphydryas aurinia	Euphydryas	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	717000000	AACCT	AACCTAACCT	pacbio
 405009	species	Fabriciana adippe	Fabriciana adippe	Fabriciana	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	496000000	AACCT	AACCTAACCT	assembly
 111917	species	Lasiommata megera	Lasiommata megera	Lasiommata	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	499000000	AACCT	AACCTAACCT	pacbio
