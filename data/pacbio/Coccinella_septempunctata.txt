@@ -1,1 +1,4 @@
 telomeric_repeat	reverse_complement	frequency
+AAGTCG	CGACTT	60826
+AACCT	AGGTT	8158
+AAGTCGAAGTCG	CGACTTCGACTT	4056
