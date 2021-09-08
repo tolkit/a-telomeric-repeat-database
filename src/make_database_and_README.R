@@ -24,7 +24,7 @@ The program used to infer telomeric repeats is <a href="https://github.com/tolki
 
 See `/src/README.md` for pipeline details.
 
-To note this is not a curated list, it is raw output from tidk, and as such, the values may not be accurate. The list is also being actively updated. I may make prettier output by clade in the future.
+To note this is not a curated list, it is raw output from tidk, and as such, the values may not be accurate. The list is also being actively updated. The main list is below, but see the `clades` directory to get breakdown by eukaryotic class. It will be immediately noticed that for some clades, tidk is not catching the telomeric repeats.
 
 | Species | Family | Order | Class | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
 | -- | --- | --- | --- | --- | --- | --- |

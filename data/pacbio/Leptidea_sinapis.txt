@@ -1,0 +1,4 @@
+telomeric_repeat	reverse_complement	frequency
+AACCT	AGGTT	2246481
+AACCTAACCT	AGGTTAGGTT	235995
+AACTT	AAGTT	4436

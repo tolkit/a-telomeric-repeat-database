@@ -9,3 +9,5 @@ bash goat_names.bash
 bash get_telo_seqs.bash > ../data/telo_seqs.tsv
 # update the README.md
 Rscript make_database_and_README.R > ../README.md
+# and make all the clade tables
+python3 clade_README.py
