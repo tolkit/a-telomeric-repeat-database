@@ -1,0 +1,7 @@
+# Gymnolaemata
+
+| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
+| -- | --- | --- | --- | --- | --- |
+| Bugulina stolonifera | Bugulidae | Cheilostomatida | ACAGT | AAACCCC | pacbio |
+| Cryptosula pallasiana | Cryptosulidae | Cheilostomatida | ACTACT | ATCATC | pacbio |
+| Membranipora membranacea | Membraniporidae | Cheilostomatida | AAATAAAT | ACCACC | pacbio |
