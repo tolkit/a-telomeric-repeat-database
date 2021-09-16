@@ -57,4 +57,6 @@ for key in uniq_classes:
         key_file.write("| -- | --- | --- | --- | --- | --- |\n")
         # now the rows of the table
         for row in classes_dict[key]:
-            key_file.write("| " + " | ".join(row) + " |\n")
+            sp = row[0]
+            # think about italics here.
+            key_file.write("| *" + sp + "* | " + " | ".join(row[1:]) + " |\n")
