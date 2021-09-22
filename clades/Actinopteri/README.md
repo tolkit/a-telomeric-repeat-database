@@ -10,3 +10,4 @@
 | *Taurulus bubalis* | Cottidae | Perciformes | AACCCT | ACACAC | pacbio |
 | *Pholis gunnellus* | Pholidae | Perciformes | AACCCT | AACCCTAACCCT | assembly |
 | *Pholis gunnellus* | Pholidae | Perciformes | AACCCT | AACCCTAACCCT | pacbio |
+| *Salmo trutta* | Salmonidae | Salmoniformes | AACCCT | ACACAC | assembly |

@@ -8,9 +8,13 @@ Amphipyra tragopoginis	AACCT	AACCTAACCT	assembly
 Andrena haemorrhoa	AAACGAGTC	AACGAGTCG	assembly
 Anthocharis cardamines	AACCT	AACCTAACCT	assembly
 Apamea monoglypha	AACCT	AACCTAACCT	assembly
+Aphantopus hyperantus	AACCT	AACCTAACCT	assembly
 Apoderus coryli	AACCC	AACCCAACCC	assembly
 Apotomis turbidana	AACCT	ACTGATAGAT	assembly
+Aquila chrysaetos_chrysaetos			assembly
 Aricia agestis	AACCT	AACCTAACCT	assembly
+Arvicola amphibius	AACCCT	AACCCTAACCCT	assembly
+Asterias rubens	AACCCT	AACCCTAACCCT	assembly
 Atethmia centrago	AACCT	AACCTAACCT	assembly
 Autographa gamma	AACCT	AACCTAACCT	assembly
 Autographa pulchrina	AACCT	AACCTAACCT	assembly
@@ -26,6 +30,7 @@ Bombus hypnorum	AACCCCAACCT	ACTCT	assembly
 Bombus pascuorum	AAAAAC	AAAAACGAAAAC	assembly
 Bombus sylvestris	AACCCGAACCT	AACGTAT	assembly
 Bombus terrestris	AACGTAT	AACCCCAACCT	assembly
+Brachyptera putata	ATATAT	ATATATATAT	assembly
 Bufo bufo	AACCCT	AACCCTAACCCT	assembly
 Canis lupus	AACCCT	AACCCTAACCCT	assembly
 Cantharis rustica	AACCT	AACCTAACCT	assembly
@@ -48,6 +53,7 @@ Cydia splendana	AACCT	AACCTAACCT	assembly
 Deilephila porcellus	AACCT	AACCTAACCT	assembly
 Dolichovespula media	AACCCAGACGC	AACGACGATATT	assembly
 Dolichovespula saxonica	AACCCAGACGC	AACAGT	assembly
+Dolomedes plantarius	ATATAT	ATATATAT	assembly
 Ectemnius continuus			assembly
 Ectemnius lituratus	AACCCAGACCT		assembly
 Eimeria tenella	AAACCCT		assembly
@@ -57,6 +63,7 @@ Ennomos quercinarius	AACCT	AACCTAACCT	assembly
 Erannis defoliaria	AACCT	AACCTAACCT	assembly
 Eristalis pertinax	AACTG	AAACAAAT	assembly
 Eristalis tenax	AAGAAT	AAGAATAAGAAT	assembly
+Erithacus rubecula	AAGGAAGG	AGAGG	assembly
 Erynnis tages	AACCT	AACCTAACCT	assembly
 Euproctis similis	AACCT	AACCTAACCT	assembly
 Fabriciana adippe	AACCT	AACCTAACCT	assembly
@@ -65,16 +72,19 @@ Glaucopsyche alexis	AACCT	AACCTAACCT	assembly
 Habrosyne pyritoides	AACCT	AACCTAACCT	assembly
 Hecatera dysodea	AACCT	AACCTAACCT	assembly
 Hedya salicella	AACCT	AACCTAACCT	assembly
+Hemaris fuciformis	AACCT	AACCTAACCT	assembly
 Hesperia comma	AACCT	AACCTAACCT	assembly
 Hylaea fasciaria	AACCT	AACCTAACCT	assembly
 Hypena proboscidalis	AACCT	AACCTAACCT	assembly
 Idaea aversata	AACCT	AACCTAACCT	assembly
+Impatiens glandulifera	AAGCATT	AAGCATC	assembly
 Inachis io	AACCT	AACCTAACCT	assembly
 Laothoe populi	AACCT	AACCTAACCT	assembly
 Laspeyria flexula	AACCT	AACCTAACCT	assembly
 Leptidea sinapis	AACCT	AACCTAACCT	assembly
 Limenitis camilla	AACCT	AACCTAACCT	assembly
 Lineus longissimus	AACCCT	AACCCTAACCCT	assembly
+Lutra lutra	AACCCT	AACCCTAACCCT	assembly
 Lycaena phlaeas	AACCT	AACCTAACCT	assembly
 Lymantria monacha	AACCT	AACCTAACCT	assembly
 Lysandra bellargus	AACCT	AACCTAACCT	assembly
@@ -103,6 +113,7 @@ Ocypus olens	AACCT	AACCTAACCT	assembly
 Pammene fasciana	AACCT	AACCTAACCT	assembly
 Parapoynx stratiotata	AACCT	AACCTAACCT	assembly
 Pararge aegeria	AACCT	AACCTAACCT	assembly
+Pecten maximus	CCCCC	AACCCT	assembly
 Peribatodes rhomboidaria	AACCT	AACCTAACCT	assembly
 Phalera bucephala	AACCT	AACCTAACCT	assembly
 Pheosia gnoma	AACCT	AACCTAACCT	assembly
@@ -112,6 +123,7 @@ Pholis gunnellus	AACCCT	AACCCTAACCCT	assembly
 Pieris brassicae	AACCT	AACCTAACCT	assembly
 Pieris napi	AACCT	AACCTAACCT	assembly
 Pieris rapae	AACCT	AACCTAACCT	assembly
+Pipistrellus pipistrellus	AACCCT	AACCCTAACCCT	assembly
 Plebejus argus	AACCT	AACCTAACCT	assembly
 Pterostichus madidus	AACCT	AACCTAACCT	assembly
 Pyrgus malvae	AACCT	AACCTAACCT	assembly
@@ -119,9 +131,13 @@ Pyrochroa serraticornis	ACCTG	ACCTGACCTG	assembly
 Rana temporaria	AACCCT	AACCCTAACCCT	assembly
 Rattus norvegicus	AACCCT	AACCCTAACCCT	assembly
 Rhagonycha fulva	AACCT	AACCTAACCT	assembly
+Salmo trutta	AACCCT	ACACAC	assembly
 Scaeva pyrastri			assembly
 Schrankia costaestrigalis	AACCT	AACCTAACCT	assembly
+Sciurus carolinensis	AACCCT	AACCCTAACCCT	assembly
+Sciurus vulgaris	AACCCT		assembly
 Spilosoma lubricipeda	AACCT	AACCTAACCT	assembly
+Streptopelia turtur			assembly
 Syritta pipiens	ACACAT		assembly
 Tachina fera	ACTAT	ACTATACTAT	assembly
 Taurulus bubalis	AACCCT	AACCCTAACCCT	assembly
@@ -133,6 +149,7 @@ Trachurus trachurus	AAAAA	AACCCT	assembly
 Vanessa atalanta	AACCT	AACCTAACCT	assembly
 Vanessa cardui	AACCT	AACCTAACCT	assembly
 Vespa crabro	AATAAT	AACCCTGACGC	assembly
+Vespa velutina	AACCCTGACGC	AATAAT	assembly
 Vespula germanica	AACCCAGACGC		assembly
 Vespula vulgaris	AACCCAGACGC		assembly
 Volucella inanis	ACAGGTG	AAATAAC	assembly
@@ -153,7 +170,9 @@ Acrocera orbiculus			pacbio
 Acronicta aceris	AACCT	AACCTAACCT	pacbio
 Adalia bipunctata	AACCT		pacbio
 Aelia acuminata			pacbio
+Agonopterix arenella	AACCT	AGGAT	pacbio
 Agonopterix heracliana	AACCT	AACCTAACCT	pacbio
+Agonopterix subpropinquella	AACCT	AACCTAACCT	pacbio
 Agriopis aurantiaria	AACCT	AACCTAACCT	pacbio
 Agriphila geniculea	AACCT	AACCTAACCT	pacbio
 Agriphila straminella	AACCT	AACCTAACCT	pacbio
@@ -172,6 +191,7 @@ Ancistrocerus nigricornis			pacbio
 Andrena dorsata			pacbio
 Andrena haemorrhoa	AACGAGTCG	AAACGAGTC	pacbio
 Andrena hattorfiana	AAAAAC	ACGACG	pacbio
+Andrena minutula			pacbio
 Anomoia purmunda	AATGAT	AATAAT	pacbio
 Anoplius nigerrimus			pacbio
 Antedon bifida	AACCCT	AACAAC	pacbio
@@ -224,6 +244,7 @@ Brachiomonas submarina	AAGGATGGAC	ACAGACAG	pacbio
 Buathra laborator			pacbio
 Bugulina stolonifera	ACAGT	AAACCCC	pacbio
 Buxus sempervirens	AAACCCT	CCCCC	pacbio
+Calamotropha paludella	AACCT	AACCTAACCT	pacbio
 Callomyia amoena	AAATG	AACAAC	pacbio
 Campaea margaritaria	AACCT	AACCTAACCT	pacbio
 Camptogramma bilineatum	AACCT	AACCTAACCT	pacbio
@@ -372,6 +393,7 @@ Leuctra nigra	AACCT		pacbio
 Limenitis camilla	AACCT	AACCTAACCT	pacbio
 Limnephilus lunatus	AACCT		pacbio
 Limnephilus marmoratus	AACCT	AACCTAACCT	pacbio
+Limnephilus rhombicus			pacbio
 Linaria vulgaris	AAACCCT	AATAAT	pacbio
 Lineus longissimus	AACCCT	ATCATC	pacbio
 Lobophora halterata	AACCT	AACCTAACCT	pacbio
@@ -391,6 +413,7 @@ Malus domestica	AAACCCT	AACCT	pacbio
 Malus sylvestris	AAACCCT	CCCCC	pacbio
 Mamestra brassicae	AACCT	AACCTAACCT	pacbio
 Maniola jurtina	AACCT	AACCTAACCT	pacbio
+Marasmarcha lunaedactyla	AACCT	AACCTAACCT	pacbio
 Marthasterias glacialis	AACCCT	AAAGGAC	pacbio
 Meconema thalassinum	AACCT	AACCTAACCT	pacbio
 Medicago arabica	AAACCCT	AAGAGATAC	pacbio
@@ -445,6 +468,7 @@ Omphaloscelis lunosa	AACCT		pacbio
 Onobrychis viciifolia	AAACCCT	AAAAA	pacbio
 Operophtera brumata	AACCT	AACCTAACCT	pacbio
 Opisthograptis luteolata	AACCT	AAATAG	pacbio
+Orcinus orca			pacbio
 Orgyia antiqua	AACCT	AACCTAACCT	pacbio
 Ostrinia nubilalis	AACCT	AACCTAACCT	pacbio
 Pammene fasciana	AACCT	AACCTAACCT	pacbio
@@ -477,6 +501,7 @@ Platycheirus albimanus	ACGTAG	ACACAC	pacbio
 Plebejus argus	AACCT	AACCTAACCT	pacbio
 Plutella xylostella	AACCT	AACCTAACCT	pacbio
 Podabrus alpinus	AACCT	AACCTAACCT	pacbio
+Pollenia angustigena			pacbio
 Polycentropus irroratus	AACCT	AACCTAACCT	pacbio
 Polygonum aviculare	AAACCCT	CCCCC	pacbio
 Polyommatus icarus	AACTCG	AACCT	pacbio
@@ -499,6 +524,7 @@ Rhopobota naevana	AACCT	AACCTAACCT	pacbio
 Rhytidiadelphus loreus			pacbio
 Rumex sanguineus	AAACCCT	CCCCC	pacbio
 Sacculina carcini	AAAATAAAG	ACACAC	pacbio
+Sarcophaga caerulescens			pacbio
 Sarcophaga crassimargo	AATAG	AATAGAATAG	pacbio
 Sarcophaga variegata	AATAG	AATAGAATAG	pacbio
 Scaeva pyrastri	AACTT	AATAG	pacbio

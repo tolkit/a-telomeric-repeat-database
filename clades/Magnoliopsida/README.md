@@ -13,6 +13,7 @@
 | *Polygonum aviculare* | Polygonaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
 | *Rumex sanguineus* | Polygonaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
 | *Euonymus europaeus* | Celastraceae | Celastrales | AAACCCT | AAAAA | pacbio |
+| *Impatiens glandulifera* | Balsaminaceae | Ericales | AAGCATT | AAGCATC | assembly |
 | *Lathyrus linifolius* | Fabaceae | Fabales |  |  | pacbio |
 | *Medicago arabica* | Fabaceae | Fabales | AAACCCT | AAGAGATAC | pacbio |
 | *Onobrychis viciifolia* | Fabaceae | Fabales | AAACCCT | AAAAA | pacbio |

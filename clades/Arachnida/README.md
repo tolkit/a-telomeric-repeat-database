@@ -4,3 +4,4 @@
 | -- | --- | --- | --- | --- | --- |
 | *Amaurobius ferox* | Amaurobiidae | Araneae | ATATAT | ATATATAT | pacbio |
 | *Atypus affinis* | Atypidae | Araneae | AGATAGAT | ATCATC | pacbio |
+| *Dolomedes plantarius* | Pisauridae | Araneae | ATATAT | ATATATAT | assembly |
