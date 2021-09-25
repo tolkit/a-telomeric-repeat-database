@@ -32,7 +32,7 @@ Bombus sylvestris	AACCCGAACCT	AACGTAT	assembly
 Bombus terrestris	AACGTAT	AACCCCAACCT	assembly
 Brachyptera putata	ATATAT	ATATATATAT	assembly
 Bufo bufo	AACCCT	AACCCTAACCCT	assembly
-Canis lupus	AACCCT	AACCCTAACCCT	assembly
+Canis lupus			assembly
 Cantharis rustica	AACCT	AACCTAACCT	assembly
 Caprimulgus europaeus	AACCCT	AACCCTAACCCT	assembly
 Carcina quercana	AACCT	AACCTAACCT	assembly
@@ -292,6 +292,7 @@ Cydia splendana	AACCT	AACCTAACCT	pacbio
 Danio rerio	AACCCT	AGATAGAT	pacbio
 Danthonia decumbens	AAACCCT	CCCCC	pacbio
 Deilephila porcellus	AACCT	AACCTAACCT	pacbio
+Delia platura			pacbio
 Diachrysia chrysitis	AACCT	AACCTAACCT	pacbio
 Diadumene lineata	AACCCT	AAGAGTGT	pacbio
 Dioctophyme renale	ACGATG	ATCATC	pacbio
@@ -359,6 +360,7 @@ Habrosyne pyritoides	AACCT	AACCTAACCT	pacbio
 Haliclystus octoradiatus	AATAAT	ACTAT	pacbio
 Hamearis lucina	AACCT	AACCTAACCT	pacbio
 Harmonia axyridis	AACCT		pacbio
+Harmothoe impar			pacbio
 Hecatera dysodea	AACCT	AACCTAACCT	pacbio
 Hedera helix	AAACCCT	AATAAT	pacbio
 Hedya salicella	AACCT	ACAGACAG	pacbio
@@ -393,7 +395,7 @@ Leuctra nigra	AACCT		pacbio
 Limenitis camilla	AACCT	AACCTAACCT	pacbio
 Limnephilus lunatus	AACCT		pacbio
 Limnephilus marmoratus	AACCT	AACCTAACCT	pacbio
-Limnephilus rhombicus			pacbio
+Limnephilus rhombicus	AACCT	AACCTAACCT	pacbio
 Linaria vulgaris	AAACCCT	AATAAT	pacbio
 Lineus longissimus	AACCCT	ATCATC	pacbio
 Lobophora halterata	AACCT	AACCTAACCT	pacbio
@@ -468,7 +470,7 @@ Omphaloscelis lunosa	AACCT		pacbio
 Onobrychis viciifolia	AAACCCT	AAAAA	pacbio
 Operophtera brumata	AACCT	AACCTAACCT	pacbio
 Opisthograptis luteolata	AACCT	AAATAG	pacbio
-Orcinus orca			pacbio
+Orcinus orca	AACCCT		pacbio
 Orgyia antiqua	AACCT	AACCTAACCT	pacbio
 Ostrinia nubilalis	AACCT	AACCTAACCT	pacbio
 Pammene fasciana	AACCT	AACCTAACCT	pacbio
@@ -501,7 +503,7 @@ Platycheirus albimanus	ACGTAG	ACACAC	pacbio
 Plebejus argus	AACCT	AACCTAACCT	pacbio
 Plutella xylostella	AACCT	AACCTAACCT	pacbio
 Podabrus alpinus	AACCT	AACCTAACCT	pacbio
-Pollenia angustigena			pacbio
+Pollenia angustigena	ACATACAT	ACATACATACAT	pacbio
 Polycentropus irroratus	AACCT	AACCTAACCT	pacbio
 Polygonum aviculare	AAACCCT	CCCCC	pacbio
 Polyommatus icarus	AACTCG	AACCT	pacbio
@@ -524,8 +526,9 @@ Rhopobota naevana	AACCT	AACCTAACCT	pacbio
 Rhytidiadelphus loreus			pacbio
 Rumex sanguineus	AAACCCT	CCCCC	pacbio
 Sacculina carcini	AAAATAAAG	ACACAC	pacbio
-Sarcophaga caerulescens			pacbio
+Sarcophaga caerulescens	AATAG	AATAGAATAG	pacbio
 Sarcophaga crassimargo	AATAG	AATAGAATAG	pacbio
+Sarcophaga rosellei			pacbio
 Sarcophaga variegata	AATAG	AATAGAATAG	pacbio
 Scaeva pyrastri	AACTT	AATAG	pacbio
 Scambus nigricans	ACACAC	ACACAG	pacbio

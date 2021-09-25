@@ -34,8 +34,9 @@
 | *Ocypus olens* | Staphylinidae | Coleoptera | AACCT | AACCTAACCT | assembly |
 | *Ocypus olens* | Staphylinidae | Coleoptera | AACCT |  | pacbio |
 | *Philonthus cognatus* | Staphylinidae | Coleoptera | AACCT | ACAGACAG | pacbio |
-| *Pollenia angustigena* |  | Diptera |  |  | pacbio |
+| *Pollenia angustigena* |  | Diptera | ACATACAT | ACATACATACAT | pacbio |
 | *Acrocera orbiculus* | Acroceridae | Diptera |  |  | pacbio |
+| *Delia platura* | Anthomyiidae | Diptera |  |  | pacbio |
 | *Machimus atricapillus* | Asilidae | Diptera | ACAGACAG | AATAC | pacbio |
 | *Bibio marci* | Bibionidae | Diptera |  |  | assembly |
 | *Bibio marci* | Bibionidae | Diptera |  |  | pacbio |
@@ -49,8 +50,9 @@
 | *Thecophora atra* | Conopidae | Diptera | AACCAGCACACG |  | pacbio |
 | *Callomyia amoena* | Platypezidae | Diptera | AAATG | AACAAC | pacbio |
 | *Stomorhina lunata* | Rhiniidae | Diptera | AACTAGAACTG | AACAGAACTAG | pacbio |
-| *Sarcophaga caerulescens* | Sarcophagidae | Diptera |  |  | pacbio |
+| *Sarcophaga caerulescens* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | pacbio |
 | *Sarcophaga crassimargo* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | pacbio |
+| *Sarcophaga rosellei* | Sarcophagidae | Diptera |  |  | pacbio |
 | *Sarcophaga variegata* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | pacbio |
 | *Scathophaga stercoraria* | Scathophagidae | Diptera | AAGAAT | AAATC | pacbio |
 | *Coremacera marginata* | Sciomyzidae | Diptera | AAATT | AAGAAT | pacbio |
@@ -473,5 +475,5 @@
 | *Glyphotaelius pellucidus* | Limnephilidae | Trichoptera | AACCT | AACTT | pacbio |
 | *Limnephilus lunatus* | Limnephilidae | Trichoptera | AACCT |  | pacbio |
 | *Limnephilus marmoratus* | Limnephilidae | Trichoptera | AACCT | AACCTAACCT | pacbio |
-| *Limnephilus rhombicus* | Limnephilidae | Trichoptera |  |  | pacbio |
+| *Limnephilus rhombicus* | Limnephilidae | Trichoptera | AACCT | AACCTAACCT | pacbio |
 | *Polycentropus irroratus* | Polycentropodidae | Trichoptera | AACCT | AACCTAACCT | pacbio |

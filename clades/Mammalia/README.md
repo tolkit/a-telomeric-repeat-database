@@ -4,8 +4,8 @@
 | -- | --- | --- | --- | --- | --- |
 | *Cervus elaphus* | Cervidae | Artiodactyla | AAAAA | AAAAAA | assembly |
 | *Cervus elaphus* | Cervidae | Artiodactyla | AAAAA | AAAAAA | pacbio |
-| *Orcinus orca* | Delphinidae | Artiodactyla |  |  | pacbio |
-| *Canis lupus* | Canidae | Carnivora | AACCCT | AACCCTAACCCT | assembly |
+| *Orcinus orca* | Delphinidae | Artiodactyla | AACCCT |  | pacbio |
+| *Canis lupus* | Canidae | Carnivora |  |  | assembly |
 | *Canis lupus* | Canidae | Carnivora | AACCCT | AACCCTAACCCT | pacbio |
 | *Lutra lutra* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | assembly |
 | *Meles meles* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | pacbio |

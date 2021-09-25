@@ -8,6 +8,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 35632	species	Lumbricus rubellus	Lumbricus rubellus	Lumbricus	Lumbricidae	Crassiclitellata	Clitellata	Annelida	Metazoa	Eukaryota	585360000	AAGGAC	AACCCT	pacbio
 60958	species	Piscicola geometra	Piscicola geometra	Piscicola	Piscicolidae	Hirudinida	Clitellata	Annelida	Metazoa	Eukaryota	204000000	AACACGAGATG	AACCCT	pacbio
 880429	species	Alitta virens	Alitta virens	Alitta	Nereididae	Phyllodocida	Polychaeta	Annelida	Metazoa	Eukaryota	660000000	AACCCT	ACTACT	pacbio
+46595	species	Harmothoe impar	Harmothoe impar	Harmothoe	Polynoidae	Phyllodocida	Polychaeta	Annelida	Metazoa	Eukaryota	2553206666.66667	""	""	pacbio
 1210411	species	Lepidonotus clava	Lepidonotus clava	Lepidonotus	Polynoidae	Phyllodocida	Polychaeta	Annelida	Metazoa	Eukaryota	1142000000	AACCCT	""	pacbio
 1210413	species	Sthenelais limicola	Sthenelais limicola	Sthenelais	Sigalionidae	Phyllodocida	Polychaeta	Annelida	Metazoa	Eukaryota	1206000000	AACCCT	AACCCTAACCCT	pacbio
 5802	species	Eimeria tenella	Eimeria tenella	Eimeria	Eimeriidae	Eucoccidiorida	Conoidasida	Apicomplexa	""	Eukaryota	53000000	AAACCCT	""	assembly
@@ -47,8 +48,9 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 662956	species	Ocypus olens	Ocypus olens	Ocypus	Staphylinidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	1037000000	AACCT	AACCTAACCT	assembly
 662956	species	Ocypus olens	Ocypus olens	Ocypus	Staphylinidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	1037000000	AACCT	""	pacbio
 346820	species	Philonthus cognatus	Philonthus cognatus	Philonthus	Staphylinidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	1037000000	AACCT	ACAGACAG	pacbio
-1266490	species	Pollenia angustigena	Pollenia angustigena	Pollenia	""	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	1375000000	""	""	pacbio
+1266490	species	Pollenia angustigena	Pollenia angustigena	Pollenia	""	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	1375000000	ACATACAT	ACATACATACAT	pacbio
 210248	species	Acrocera orbiculus	Acrocera orbiculus	Acrocera	Acroceridae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	221000000	""	""	pacbio
+81723	species	Delia platura	Delia platura	Delia	Anthomyiidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	713940000	""	""	pacbio
 2794001	species	Machimus atricapillus	Machimus atricapillus	Machimus	Asilidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	273000000	ACAGACAG	AATAC	pacbio
 189979	species	Bibio marci	Bibio marci	Bibio	Bibionidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	299920000	""	""	assembly
 189979	species	Bibio marci	Bibio marci	Bibio	Bibionidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	299920000	""	""	pacbio
@@ -62,8 +64,9 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 1219171	species	Thecophora atra	Thecophora atra	Thecophora	Conopidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	350000000	AACCAGCACACG	""	pacbio
 1445822	species	Callomyia amoena	Callomyia amoena	Callomyia	Platypezidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	502000000	AAATG	AACAAC	pacbio
 1606781	species	Stomorhina lunata	Stomorhina lunata	Stomorhina	Rhiniidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	741000000	AACTAGAACTG	AACAGAACTAG	pacbio
-596942	species	Sarcophaga caerulescens	Sarcophaga caerulescens	Sarcophaga	Sarcophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	601000000	""	""	pacbio
+596942	species	Sarcophaga caerulescens	Sarcophaga caerulescens	Sarcophaga	Sarcophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	601000000	AATAG	AATAGAATAG	pacbio
 1162327	species	Sarcophaga crassimargo	Sarcophaga crassimargo	Sarcophaga	Sarcophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	515000000	AATAG	AATAGAATAG	pacbio
+1206372	species	Sarcophaga rosellei	Sarcophaga rosellei	Sarcophaga	Sarcophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	571000000	""	""	pacbio
 236851	species	Sarcophaga variegata	Sarcophaga variegata	Sarcophaga	Sarcophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	718000000	AATAG	AATAGAATAG	pacbio
 95463	species	Scathophaga stercoraria	Scathophaga stercoraria	Scathophaga	Scathophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	1018000000	AAGAAT	AAATC	pacbio
 1226616	species	Coremacera marginata	Coremacera marginata	Coremacera	Sciomyzidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	984000000	AAATT	AAGAAT	pacbio
@@ -486,7 +489,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 1271742	species	Glyphotaelius pellucidus	Glyphotaelius pellucidus	Glyphotaelius	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	1100000000	AACCT	AACTT	pacbio
 1218281	species	Limnephilus lunatus	Limnephilus lunatus	Limnephilus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	1337000000	AACCT	""	pacbio
 1271730	species	Limnephilus marmoratus	Limnephilus marmoratus	Limnephilus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	1728000000	AACCT	AACCTAACCT	pacbio
-692089	species	Limnephilus rhombicus	Limnephilus rhombicus	Limnephilus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	1581000000	""	""	pacbio
+692089	species	Limnephilus rhombicus	Limnephilus rhombicus	Limnephilus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	1581000000	AACCT	AACCTAACCT	pacbio
 623212	species	Polycentropus irroratus	Polycentropus irroratus	Polycentropus	Polycentropodidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	571000000	AACCT	AACCTAACCT	pacbio
 27328	species	Metschnikowia zobellii	Metschnikowia zobellii	Metschnikowia	Metschnikowiaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Fungi	Eukaryota	14000000	""	""	pacbio
 317029	species	Trichoderma pseudokoningii	Trichoderma pseudokoningii	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Fungi	Eukaryota	33000000	CCCCC	CCCCCC	pacbio
@@ -518,8 +521,8 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 37610	species	Erithacus rubecula	Erithacus rubecula	Erithacus	Turdidae	Passeriformes	Aves	Chordata	Metazoa	Eukaryota	1779960000	AAGGAAGG	AGAGG	assembly
 9860	species	Cervus elaphus	Cervus elaphus	Cervus	Cervidae	Artiodactyla	Mammalia	Chordata	Metazoa	Eukaryota	3059000625	AAAAA	AAAAAA	assembly
 9860	species	Cervus elaphus	Cervus elaphus	Cervus	Cervidae	Artiodactyla	Mammalia	Chordata	Metazoa	Eukaryota	3059000625	AAAAA	AAAAAA	pacbio
-9733	species	Orcinus orca	Orcinus orca	Orcinus	Delphinidae	Artiodactyla	Mammalia	Chordata	Metazoa	Eukaryota	2644000000	""	""	pacbio
-9612	species	Canis lupus	Canis lupus	Canis	Canidae	Carnivora	Mammalia	Chordata	Metazoa	Eukaryota	2762617142.85714	AACCCT	AACCCTAACCCT	assembly
+9733	species	Orcinus orca	Orcinus orca	Orcinus	Delphinidae	Artiodactyla	Mammalia	Chordata	Metazoa	Eukaryota	2644000000	AACCCT	""	pacbio
+9612	species	Canis lupus	Canis lupus	Canis	Canidae	Carnivora	Mammalia	Chordata	Metazoa	Eukaryota	2762617142.85714	""	""	assembly
 9612	species	Canis lupus	Canis lupus	Canis	Canidae	Carnivora	Mammalia	Chordata	Metazoa	Eukaryota	2762617142.85714	AACCCT	AACCCTAACCCT	pacbio
 9657	species	Lutra lutra	Lutra lutra	Lutra	Mustelidae	Carnivora	Mammalia	Chordata	Metazoa	Eukaryota	2733605000	AACCCT	AACCCTAACCCT	assembly
 9662	species	Meles meles	Meles meles	Meles	Mustelidae	Carnivora	Mammalia	Chordata	Metazoa	Eukaryota	2587000000	AACCCT	AACCCTAACCCT	pacbio

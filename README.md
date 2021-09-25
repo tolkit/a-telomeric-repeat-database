@@ -8,11 +8,14 @@ See `/src/README.md` for pipeline details.
 
 To note this is not a curated list, it is raw output from tidk, and as such, the values may not be accurate. The list is also being actively updated. The main list is below, but see the `clades` directory to get breakdown by eukaryotic class. It will be immediately noticed that for some clades, tidk is not catching the telomeric repeats.
 
+A curated list is being worked on currently, and can be seen in `./data/curated/`.
+
 | Species | Family | Order | Class | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
 | -- | --- | --- | --- | --- | --- | --- |
 | *Lumbricus rubellus* | Lumbricidae | Crassiclitellata | Clitellata | AAGGAC | AACCCT | pacbio |
 | *Piscicola geometra* | Piscicolidae | Hirudinida | Clitellata | AACACGAGATG | AACCCT | pacbio |
 | *Alitta virens* | Nereididae | Phyllodocida | Polychaeta | AACCCT | ACTACT | pacbio |
+| *Harmothoe impar* | Polynoidae | Phyllodocida | Polychaeta |  |  | pacbio |
 | *Lepidonotus clava* | Polynoidae | Phyllodocida | Polychaeta | AACCCT |  | pacbio |
 | *Sthenelais limicola* | Sigalionidae | Phyllodocida | Polychaeta | AACCCT | AACCCTAACCCT | pacbio |
 | *Eimeria tenella* | Eimeriidae | Eucoccidiorida | Conoidasida | AAACCCT |  | assembly |
@@ -52,8 +55,9 @@ To note this is not a curated list, it is raw output from tidk, and as such, the
 | *Ocypus olens* | Staphylinidae | Coleoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Ocypus olens* | Staphylinidae | Coleoptera | Insecta | AACCT |  | pacbio |
 | *Philonthus cognatus* | Staphylinidae | Coleoptera | Insecta | AACCT | ACAGACAG | pacbio |
-| *Pollenia angustigena* |  | Diptera | Insecta |  |  | pacbio |
+| *Pollenia angustigena* |  | Diptera | Insecta | ACATACAT | ACATACATACAT | pacbio |
 | *Acrocera orbiculus* | Acroceridae | Diptera | Insecta |  |  | pacbio |
+| *Delia platura* | Anthomyiidae | Diptera | Insecta |  |  | pacbio |
 | *Machimus atricapillus* | Asilidae | Diptera | Insecta | ACAGACAG | AATAC | pacbio |
 | *Bibio marci* | Bibionidae | Diptera | Insecta |  |  | assembly |
 | *Bibio marci* | Bibionidae | Diptera | Insecta |  |  | pacbio |
@@ -67,8 +71,9 @@ To note this is not a curated list, it is raw output from tidk, and as such, the
 | *Thecophora atra* | Conopidae | Diptera | Insecta | AACCAGCACACG |  | pacbio |
 | *Callomyia amoena* | Platypezidae | Diptera | Insecta | AAATG | AACAAC | pacbio |
 | *Stomorhina lunata* | Rhiniidae | Diptera | Insecta | AACTAGAACTG | AACAGAACTAG | pacbio |
-| *Sarcophaga caerulescens* | Sarcophagidae | Diptera | Insecta |  |  | pacbio |
+| *Sarcophaga caerulescens* | Sarcophagidae | Diptera | Insecta | AATAG | AATAGAATAG | pacbio |
 | *Sarcophaga crassimargo* | Sarcophagidae | Diptera | Insecta | AATAG | AATAGAATAG | pacbio |
+| *Sarcophaga rosellei* | Sarcophagidae | Diptera | Insecta |  |  | pacbio |
 | *Sarcophaga variegata* | Sarcophagidae | Diptera | Insecta | AATAG | AATAGAATAG | pacbio |
 | *Scathophaga stercoraria* | Scathophagidae | Diptera | Insecta | AAGAAT | AAATC | pacbio |
 | *Coremacera marginata* | Sciomyzidae | Diptera | Insecta | AAATT | AAGAAT | pacbio |
@@ -491,7 +496,7 @@ To note this is not a curated list, it is raw output from tidk, and as such, the
 | *Glyphotaelius pellucidus* | Limnephilidae | Trichoptera | Insecta | AACCT | AACTT | pacbio |
 | *Limnephilus lunatus* | Limnephilidae | Trichoptera | Insecta | AACCT |  | pacbio |
 | *Limnephilus marmoratus* | Limnephilidae | Trichoptera | Insecta | AACCT | AACCTAACCT | pacbio |
-| *Limnephilus rhombicus* | Limnephilidae | Trichoptera | Insecta |  |  | pacbio |
+| *Limnephilus rhombicus* | Limnephilidae | Trichoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Polycentropus irroratus* | Polycentropodidae | Trichoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Metschnikowia zobellii* | Metschnikowiaceae | Saccharomycetales | Saccharomycetes |  |  | pacbio |
 | *Trichoderma pseudokoningii* | Hypocreaceae | Hypocreales | Sordariomycetes | CCCCC | CCCCCC | pacbio |
@@ -523,8 +528,8 @@ To note this is not a curated list, it is raw output from tidk, and as such, the
 | *Erithacus rubecula* | Turdidae | Passeriformes | Aves | AAGGAAGG | AGAGG | assembly |
 | *Cervus elaphus* | Cervidae | Artiodactyla | Mammalia | AAAAA | AAAAAA | assembly |
 | *Cervus elaphus* | Cervidae | Artiodactyla | Mammalia | AAAAA | AAAAAA | pacbio |
-| *Orcinus orca* | Delphinidae | Artiodactyla | Mammalia |  |  | pacbio |
-| *Canis lupus* | Canidae | Carnivora | Mammalia | AACCCT | AACCCTAACCCT | assembly |
+| *Orcinus orca* | Delphinidae | Artiodactyla | Mammalia | AACCCT |  | pacbio |
+| *Canis lupus* | Canidae | Carnivora | Mammalia |  |  | assembly |
 | *Canis lupus* | Canidae | Carnivora | Mammalia | AACCCT | AACCCTAACCCT | pacbio |
 | *Lutra lutra* | Mustelidae | Carnivora | Mammalia | AACCCT | AACCCTAACCCT | assembly |
 | *Meles meles* | Mustelidae | Carnivora | Mammalia | AACCCT | AACCCTAACCCT | pacbio |

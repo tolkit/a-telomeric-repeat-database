@@ -1,0 +1,494 @@
+taxon_id	species	genus	family	order	class	phylum	kingdom	superkingdom	telo_seq_1	telo_seq_2	type
+2768810	Ailanthus altissimus	Ailanthus	Simaroubaceae						AAACCCT		pacbio
+2795564	Aphantopus hyperantus	Aphantopus							AACCT		assembly
+8962	Aquila chrysaetos	Aquila							Unknown	Unknown	assembly
+987424	Eilema sororculum	Eilema							AACCT		pacbio
+2072697	Gibbula umbilicalis	Gibbula							AACCCT		pacbio
+171585	Inachis io	Inachis	Nymphalidae	Lepidoptera					AACCT		assembly
+35632	Lumbricus rubellus	Lumbricus	Lumbricidae	Crassiclitellata	Clitellata	Annelida	Metazoa	Eukaryota	AACCCT		pacbio
+60958	Piscicola geometra	Piscicola	Piscicolidae	Hirudinida	Clitellata	Annelida	Metazoa	Eukaryota	AACCCT		pacbio
+880429	Alitta virens	Alitta	Nereididae	Phyllodocida	Polychaeta	Annelida	Metazoa	Eukaryota	AACCCT		pacbio
+1210411	Lepidonotus clava	Lepidonotus	Polynoidae	Phyllodocida	Polychaeta	Annelida	Metazoa	Eukaryota	AACCCT		pacbio
+1210413	Sthenelais limicola	Sthenelais	Sigalionidae	Phyllodocida	Polychaeta	Annelida	Metazoa	Eukaryota	AACCCT		pacbio
+5802	Eimeria tenella	Eimeria	Eimeriidae	Eucoccidiorida	Conoidasida	Apicomplexa		Eukaryota	AAACCCT		assembly
+336583	Amaurobius ferox	Amaurobius	Amaurobiidae	Araneae	Arachnida	Arthropoda	Metazoa	Eukaryota	ATATAT		pacbio
+1046760	Atypus affinis	Atypus	Atypidae	Araneae	Arachnida	Arthropoda	Metazoa	Eukaryota	AAAATTGTTGATGGAGATCATAC		pacbio
+257759	Dolomedes plantarius	Dolomedes	Pisauridae	Araneae	Arachnida	Arthropoda	Metazoa	Eukaryota	ATATAT		assembly
+51650	Sacculina carcini	Sacculina	Sacculinidae	Rhizocephala	Hexanauplia	Arthropoda	Metazoa	Eukaryota	AAAATAAAG		pacbio
+201766	Apoderus coryli	Apoderus	Attelabidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCC		assembly
+195172	Cantharis rustica	Cantharis	Cantharidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+1553677	Podabrus alpinus	Podabrus	Cantharidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+41101	Rhagonycha fulva	Rhagonycha	Cantharidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+346772	Dromius quadrimaculatus	Dromius	Carabidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+110024	Nebria brevicollis	Nebria	Carabidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAATAACT		pacbio
+878211	Nebria salina	Nebria	Carabidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAATAACT		pacbio
+767470	Pterostichus madidus	Pterostichus	Carabidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+7084	Adalia bipunctata	Adalia	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+115342	Chilocorus renipustulatus	Chilocorus	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACTCTG	AAATATT	pacbio
+41139	Coccinella septempunctata	Coccinella	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+115357	Harmonia axyridis	Harmonia	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+703264	Hippodamia variegata	Hippodamia	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+558720	Propylea quattuordecimpunctata	Propylea	Coccinellidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+202166	Rhinocyllus conicus	Rhinocyllus	Curculionidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AGATAGAT		pacbio
+195168	Agrypnus murinus	Agrypnus	Elateridae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+295700	Malachius bipustulatus	Malachius	Melyridae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACCTG		assembly
+1553597	Oedemera lurida	Oedemera	Oedemeridae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACCTG		pacbio
+346838	Pyrochroa serraticornis	Pyrochroa	Pyrochroidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACCTG		assembly
+7061	Melolontha melolontha	Melolontha	Scarabaeidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAGTAATC	AAAGAT	pacbio
+414934	Phosphuga atrata	Phosphuga	Silphidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAGACAGAC		pacbio
+662956	Ocypus olens	Ocypus	Staphylinidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+346820	Philonthus cognatus	Philonthus	Staphylinidae	Coleoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1266490	Pollenia angustigena	Pollenia	Polleniidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACATACAT		pacbio
+210248	Acrocera orbiculus	Acrocera	Acroceridae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACAAGC	ACTGCTCCG	pacbio
+2794001	Machimus atricapillus	Machimus	Asilidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACAGACAG	AATAC	pacbio
+189979	Bibio marci	Bibio	Bibionidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	Unknown		assembly
+2741128	Bombylius discolor	Bombylius	Bombyliidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota			pacbio
+240869	Bombylius major	Bombylius	Bombyliidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACTACT	AATAAT	pacbio
+2795671	Bellardia pandia	Bellardia	Calliphoridae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACATAT	AAATT	pacbio
+226138	Lucilia richardsi	Lucilia	Calliphoridae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AGATAGAT	ACATACAT	pacbio
+576317	Clusia tigrina	Clusia	Clusiidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AGAGAT	AAATTAATTCCAACATTGTGT	pacbio
+1219160	Physocephala rufipes	Physocephala	Conopidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACAGACAG	AAAGACAAGAC	pacbio
+1219204	Sicus ferrugineus	Sicus	Conopidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAGTC	AAGTCAAGTC	pacbio
+1219171	Thecophora atra	Thecophora	Conopidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCAGCACACG		pacbio
+1445822	Callomyia amoena	Callomyia	Platypezidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAATG	AACAAC	pacbio
+1606781	Stomorhina lunata	Stomorhina	Rhiniidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACTAGAACTG	AACAGAACTAG	pacbio
+596942	Sarcophaga caerulescens	Sarcophaga	Sarcophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAG	AATAGAATAG	pacbio
+1162327	Sarcophaga crassimargo	Sarcophaga	Sarcophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAG	AATAGAATAG	pacbio
+236851	Sarcophaga variegata	Sarcophaga	Sarcophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAG	AATAGAATAG	pacbio
+95463	Scathophaga stercoraria	Scathophaga	Scathophagidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAGAAT	AAATC	pacbio
+1226616	Coremacera marginata	Coremacera	Sciomyzidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAATT	AAGAAT	pacbio
+226178	Baccha elongata	Baccha	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACAAC	ACATGTC	pacbio
+273407	Cheilosia pagana	Cheilosia	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	Unknown		pacbio
+368781	Cheilosia soror	Cheilosia	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	Unknown		pacbio
+273409	Cheilosia vulpina	Cheilosia	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	Unknown		pacbio
+323313	Chrysotoxum bicinctum	Chrysotoxum	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAATACAATAC		assembly
+2714347	Chrysotoxum verralli	Chrysotoxum	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ATCATC	Check?	pacbio
+2663927	Criorhina berberina	Criorhina	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AGGAT		pacbio
+1352479	Epistrophe grossulariae	Epistrophe	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACAGTG	AAATT	pacbio
+286459	Episyrphus balteatus	Episyrphus	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAG	AAATT	pacbio
+2725509	Eristalinus sepulchralis	Eristalinus	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAAT	AAATAAT	pacbio
+1124515	Eristalis arbustorum	Eristalis	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAAT	AAATAAAT	pacbio
+1859539	Eristalis horticola	Eristalis	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACATGC	AAGCATC	pacbio
+1572519	Eristalis pertinax	Eristalis	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACTG	AAACAAAT	assembly
+1572519	Eristalis pertinax	Eristalis	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAATAC	AAGAAT	pacbio
+198635	Eristalis tenax	Eristalis	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAGAAT	AAGAATAAGAAT	assembly
+198635	Eristalis tenax	Eristalis	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAGAAT	ACCATCC	pacbio
+290404	Eupeodes corollae	Eupeodes	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACTATC	AATGAT	pacbio
+1124558	Eupeodes latifasciatus	Eupeodes	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACCATG	AATAG	pacbio
+653684	Melanostoma mellinum	Melanostoma	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACAAC	AACAACAAC	pacbio
+92598	Melanostoma scalare	Melanostoma	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAAT	AACAAC	pacbio
+2714349	Myathropa florea	Myathropa	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AGCCAGCC	AAATACAT	pacbio
+414846	Platycheirus albimanus	Platycheirus	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACGTAG	ACACAC	pacbio
+226161	Rhingia campestris	Rhingia	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACCATCT	AAATATAG	pacbio
+219539	Scaeva pyrastri	Scaeva	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota			assembly
+219539	Scaeva pyrastri	Scaeva	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACTT	AATAG	pacbio
+2735243	Sphaerophoria taeniata	Sphaerophoria	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ATCATC	AAAAA	pacbio
+34682	Syritta pipiens	Syritta	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACACAT		assembly
+226151	Volucella inanis	Volucella	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACAGGTG	AAATAAC	assembly
+226151	Volucella inanis	Volucella	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAATAAC	AAATAAT	pacbio
+414876	Xanthogramma pedissequum	Xanthogramma	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACAGACTG		assembly
+374264	Xylota sylvarum	Xylota	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AGGATG	AGGATGAGGATG	assembly
+374264	Xylota sylvarum	Xylota	Syrphidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACTGACTG	AGGATG	pacbio
+1918221	Cistogaster globosa	Cistogaster	Tachinidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAT	AATAAT	pacbio
+569046	Gymnosoma rotundatum	Gymnosoma	Tachinidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAAT	ACTAT	pacbio
+613196	Nowickia ferox	Nowickia	Tachinidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATGAT	ACATAT	pacbio
+631328	Tachina fera	Tachina	Tachinidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACTAT		assembly
+631328	Tachina fera	Tachina	Tachinidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAG		pacbio
+1918310	Thecocarcelia acutangulata	Thecocarcelia	Tachinidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATCAT	AATCATAATCAT	pacbio
+103414	Anomoia purmunda	Anomoia	Tephritidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATGAT	AATAAT	pacbio
+2795681	Merzomyia westermanni	Merzomyia	Tephritidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAAAG	AAAGT	pacbio
+381337	Terellia serratulae	Terellia	Tephritidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AATAAT	AAAAAT	pacbio
+2719080	Nephrotoma flavescens	Nephrotoma	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAAATATG	AAGTAAT	pacbio
+52757	Tipula paludosa	Tipula	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	AGATATAT	AGATAT	pacbio
+197152	Cloeon dipterum	Cloeon	Baetidae	Ephemeroptera	Insecta	Arthropoda	Metazoa	Eukaryota	Check?		pacbio
+2014018	Ecdyonurus torrentis	Ecdyonurus	Heptageniidae	Ephemeroptera	Insecta	Arthropoda	Metazoa	Eukaryota	Check?		pacbio
+1678817	Rhithrogena germanica	Rhithrogena	Heptageniidae	Ephemeroptera	Insecta	Arthropoda	Metazoa	Eukaryota	Check?		pacbio
+483950	Acanthosoma haemorrhoidale	Acanthosoma	Acanthosomatidae	Hemiptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAACCACCCT		pacbio
+1545138	Gonocerus acuteangulatus	Gonocerus	Coreidae	Hemiptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCATCCCT		pacbio
+1511241	Pantilius tunicatus	Pantilius	Miridae	Hemiptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCATCCCT		pacbio
+260537	Notonecta glauca	Notonecta	Notonectidae	Hemiptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAACCTATCC		pacbio
+1511221	Aelia acuminata	Aelia	Pentatomidae	Hemiptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCATCCCT		assembly
+1545128	Eurydema oleracea	Eurydema	Pentatomidae	Hemiptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCATCCCT		pacbio
+1411666	Andrena dorsata	Andrena	Andrenidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAAGGGCATGAGGGT		pacbio
+444401	Andrena haemorrhoa	Andrena	Andrenidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAACGAGTC	AACGAGTCG	assembly
+444401	Andrena haemorrhoa	Andrena	Andrenidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACGAGTCG	AAACGAGTC	pacbio
+1126402	Andrena hattorfiana	Andrena	Andrenidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AAAAAC	ACGACG	pacbio
+1190802	Andrena minutula	Andrena	Andrenidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	Check?		pacbio
+207624	Bombus campestris	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCCAACCT		assembly
+85660	Bombus hortorum	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCCAACCT		assembly
+30191	Bombus hypnorum	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCCAACCT		assembly
+30191	Bombus hypnorum	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCCAACCT		pacbio
+65598	Bombus pascuorum	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCCAACCT		pacbio
+30194	Bombus pratorum	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCCAACCT		pacbio
+30201	Bombus sylvestris	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCGAACCT		assembly
+30201	Bombus sylvestris	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCGAACCT		pacbio
+30195	Bombus terrestris	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCCAACCT		assembly
+30195	Bombus terrestris	Bombus	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCCAACCT		pacbio
+601510	Nomada fabriciana	Nomada	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+601510	Nomada fabriciana	Nomada	Apidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	Check?		pacbio
+1190792	Hylaeus communis	Hylaeus	Colletidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		pacbio
+1167272	Cerceris rybyensis	Cerceris	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		assembly
+1167272	Cerceris rybyensis	Cerceris	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		pacbio
+1126389	Ectemnius continuus	Ectemnius	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		assembly
+2495015	Ectemnius lituratus	Ectemnius	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		assembly
+2495085	Mimumesa dahlbomi	Mimumesa	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+2495127	Nysson spinosus	Nysson	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		assembly
+2495127	Nysson spinosus	Nysson	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		pacbio
+1124896	Trypoxylon clavicerum	Trypoxylon	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	Check?		pacbio
+34708	Myrmica ruginodis	Myrmica	Formicidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+88504	Lasioglossum calceatum	Lasioglossum	Halictidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACGTAT	Check?	pacbio
+88531	Lasioglossum lativentre	Lasioglossum	Halictidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		pacbio
+88532	Lasioglossum leucozonium	Lasioglossum	Halictidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		pacbio
+88512	Lasioglossum malachurum	Lasioglossum	Halictidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACATCGT	AATGAATG	pacbio
+88514	Lasioglossum morio	Lasioglossum	Halictidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACGTAT	AACGCAT	pacbio
+88516	Lasioglossum pauxillum	Lasioglossum	Halictidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AGCAGC	AACCT	pacbio
+115100	Seladonia tumulorum	Seladonia	Halictidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota			pacbio
+1126396	Sphecodes ephippius	Sphecodes	Halictidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		pacbio
+1190790	Sphecodes monilicornis	Sphecodes	Halictidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		pacbio
+231887	Amblyteles armatorius	Amblyteles	Ichneumonidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACGACG	ATCATC	pacbio
+1419289	Buathra laborator	Buathra	Ichneumonidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	Check?		pacbio
+2795680	Ichneumon xanthorius	Ichneumon	Ichneumonidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACGAC	ACGATG	pacbio
+1045623	Scambus nigricans	Scambus	Ichneumonidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACACAC	ACACAG	pacbio
+1542540	Megachile ligniseca	Megachile	Megachilidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACAGAG		pacbio
+481575	Megachile willughbiella	Megachile	Megachilidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACAGAG		pacbio
+253715	Macropis europaea	Macropis	Melittidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCC		pacbio
+1667466	Anoplius nigerrimus	Anoplius	Pompilidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota			pacbio
+1667454	Evagetes crassicornis	Evagetes	Pompilidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCT		pacbio
+362093	Athalia circularis	Athalia	Tenthredinidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACGACG	ACGACGACG	pacbio
+1170485	Athalia cordata	Athalia	Tenthredinidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACGATG		pacbio
+37344	Athalia rosae	Athalia	Tenthredinidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	Unknown		pacbio
+520905	Tenthredo livida	Tenthredo	Tenthredinidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+362091	Tenthredo notha	Tenthredo	Tenthredinidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+330862	Tiphia femorata	Tiphia	Tiphiidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AGAGAT		pacbio
+76990	Ancistrocerus nigricornis	Ancistrocerus	Vespidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACCC		pacbio
+881891	Dolichovespula media	Dolichovespula	Vespidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACGC		assembly
+85443	Dolichovespula saxonica	Dolichovespula	Vespidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACGC		assembly
+85444	Dolichovespula sylvestris	Dolichovespula	Vespidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACGC		pacbio
+7445	Vespa crabro	Vespa	Vespidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCTGACGC		assembly
+202808	Vespa velutina	Vespa	Vespidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCTGACGC		assembly
+30212	Vespula germanica	Vespula	Vespidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACGC		assembly
+7454	Vespula vulgaris	Vespula	Vespidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCCAGACGC		assembly
+572725	Argyresthia goedartella	Argyresthia	Argyresthiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1869501	Blastobasis adustella	Blastobasis	Blastobasidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+2561016	Blastobasis lacticolella	Blastobasis	Blastobasidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+1101072	Zeuzera pyrina	Zeuzera	Cossidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+1660579	Agriphila geniculea	Agriphila	Crambidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+572809	Agriphila straminella	Agriphila	Crambidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1371681	Calamotropha paludella	Calamotropha	Crambidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100938	Catoptria pinella	Catoptria	Crambidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1594250	Chrysoteuchia culmella	Chrysoteuchia	Crambidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+29057	Ostrinia nubilalis	Ostrinia	Crambidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1594321	Parapoynx stratiotata	Parapoynx	Crambidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+1002972	Udea prunalis	Udea	Crambidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1594222	Agonopterix arenella	Agonopterix	Depressariidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1073575	Agonopterix heracliana	Agonopterix	Depressariidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1857958	Agonopterix subpropinquella	Agonopterix	Depressariidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+721137	Habrosyne pyritoides	Habrosyne	Drepanidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+721163	Thyatira batis	Thyatira	Drepanidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+721165	Watsonalla binaria	Watsonalla	Drepanidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+987419	Eilema depressum	Eilema	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+987935	Euproctis similis	Euproctis	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+753189	Hypena proboscidalis	Hypena	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+938238	Laspeyria flexula	Laspeyria	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+78897	Lymantria monacha	Lymantria	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+335469	Orgyia antiqua	Orgyia	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+214311	Phragmatobia fuliginosa	Phragmatobia	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+411963	Schrankia costaestrigalis	Schrankia	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+875881	Spilarctia lutea	Spilarctia	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+875880	Spilosoma lubricipeda	Spilosoma	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+997290	Thumatha senex	Thumatha	Erebidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1101149	Psoricoptera gibbosella	Psoricoptera	Gelechiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+104476	Agriopis aurantiaria	Agriopis	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934915	Apeira syringaria	Apeira	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934917	Aplocera efformata	Aplocera	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+82595	Biston betularia	Biston	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+934813	Campaea margaritaria	Campaea	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934908	Camptogramma bilineatum	Camptogramma	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934828	Chloroclysta siterata	Chloroclysta	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+190337	Chloroclystis v-ata	Chloroclystis	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934931	Colostygia pectinataria	Colostygia	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934829	Crocallis elinguaria	Crocallis	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+104457	Ecliptopera silaceata	Ecliptopera	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+572747	Ectropis crepuscularia	Ectropis	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+722662	Ennomos fuscantarius	Ennomos	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+875883	Ennomos quercinarius	Ennomos	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+190347	Epirrhoe alternata	Epirrhoe	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+104474	Erannis defoliaria	Erannis	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+934839	Eulithis prunata	Eulithis	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934844	Eupithecia centaureata	Eupithecia	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934860	Eupithecia tripunctaria	Eupithecia	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934940	Gymnoscelis rufifasciata	Gymnoscelis	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+104460	Hydriomena furcata	Hydriomena	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+722673	Hylaea fasciaria	Hylaea	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+104447	Idaea aversata	Idaea	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+934876	Lobophora halterata	Lobophora	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+688445	Macaria notata	Macaria	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+104452	Operophtera brumata	Operophtera	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934882	Opisthograptis luteolata	Opisthograptis	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+190356	Peribatodes rhomboidaria	Peribatodes	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+326947	Perizoma alchemillatum	Perizoma	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934819	Perizoma flavofasciatum	Perizoma	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934888	Philereme vetulata	Philereme	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+326962	Scotopteryx chenopodiata	Scotopteryx	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ACTCTG		pacbio
+934894	Selenia dentaria	Selenia	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+934902	Xanthorhoe fluctuata	Xanthorhoe	Geometridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+520884	Erynnis tages	Erynnis	Hesperiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+291688	Hesperia comma	Hesperia	Hesperiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+876063	Ochlodes sylvanus	Ochlodes	Hesperiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+218760	Pyrgus malvae	Pyrgus	Hesperiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+218773	Thymelicus lineola	Thymelicus	Hesperiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+272628	Thymelicus sylvestris	Thymelicus	Hesperiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+91739	Aricia agestis	Aricia	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+91738	Aricia artaxerxes	Aricia	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+203782	Celastrina argiolus	Celastrina	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+596548	Cupido minimus	Cupido	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+988025	Cyaniris semiargus	Cyaniris	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+203781	Glaucopsyche alexis	Glaucopsyche	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+282391	Lycaena phlaeas	Lycaena	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+138070	Lysandra bellargus	Lysandra	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+268709	Lysandra coridon	Lysandra	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+242267	Plebejus argus	Plebejus	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+265386	Polyommatus icarus	Polyommatus	Lycaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACTCG		pacbio
+938171	Abrostola tripartita	Abrostola	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987859	Acronicta aceris	Acronicta	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987866	Agrochola circellaris	Agrochola	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+987872	Agrochola macilenta	Agrochola	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+988056	Allophyes oxyacanthae	Allophyes	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+987877	Amphipyra berbera	Amphipyra	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+689058	Amphipyra tragopoginis	Amphipyra	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+875885	Apamea monoglypha	Apamea	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+1337163	Aporophyla lueneburgensis	Aporophyla	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+988071	Atethmia centrago	Atethmia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+254363	Autographa gamma	Autographa	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987893	Autographa pulchrina	Autographa	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987895	Caradrina clavipalpis	Caradrina	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+987896	Caradrina kadenii	Caradrina	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+116126	Cosmia trapezina	Cosmia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+938226	Craniophora ligustri	Craniophora	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+179674	Diachrysia chrysitis	Diachrysia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+988106	Dryobotodes eremita	Dryobotodes	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+987933	Euplexia lucipara	Euplexia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+116130	Eupsilia transversa	Eupsilia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1101106	Griposia aprilina	Griposia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+988125	Hecatera dysodea	Hecatera	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+214171	Hydraecia micacea	Hydraecia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+988174	Luperina testacea	Luperina	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+55057	Mamestra brassicae	Mamestra	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+997551	Mesoligia furuncula	Mesoligia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+997540	Mythimna ferrago	Mythimna	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987985	Mythimna impura	Mythimna	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987992	Noctua comes	Noctua	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+753202	Noctua fimbriata	Noctua	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987995	Noctua janthe	Noctua	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+214277	Noctua pronuba	Noctua	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+320037	Ochropleura plecta	Ochropleura	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+2492375	Omphaloscelis lunosa	Omphaloscelis	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+875884	Phlogophora meticulosa	Phlogophora	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+988148	Photedes minima	Photedes	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+987431	Xestia c-nigrum	Xestia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+988049	Xestia xanthographa	Xestia	Noctuidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987977	Meganola albula	Meganola	Nolidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+987902	Clostera curtula	Clostera	Notodontidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987943	Furcula furcula	Furcula	Notodontidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+753204	Notodonta dromedarius	Notodonta	Notodontidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+988002	Notodonta ziczac	Notodonta	Notodontidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+753216	Phalera bucephala	Phalera	Notodontidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+988018	Pheosia gnoma	Pheosia	Notodontidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+988019	Pheosia tremula	Pheosia	Notodontidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987449	Ptilodon capucinus	Ptilodon	Notodontidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+191396	Apatura iris	Apatura	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+191398	Boloria selene	Boloria	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+447833	Erebia aethiops	Erebia	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+111903	Erebia ligea	Erebia	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+104503	Euphydryas aurinia	Euphydryas	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+405009	Fabriciana adippe	Fabriciana	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+111917	Lasiommata megera	Lasiommata	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+270466	Limenitis camilla	Limenitis	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+191418	Maniola jurtina	Maniola	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+111923	Melanargia galathea	Melanargia	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+113334	Melitaea cinxia	Melitaea	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+113330	Mellicta athalia	Mellicta	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+929971	Nymphalis c-album	Nymphalis	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+171594	Nymphalis polychloros	Nymphalis	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+111881	Nymphalis urticae	Nymphalis	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+116150	Pararge aegeria	Pararge	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+42275	Vanessa atalanta	Vanessa	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+171605	Vanessa cardui	Vanessa	Nymphalidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+76193	Papilio machaon	Papilio	Papilionidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+116121	Carcina quercana	Carcina	Peleopodidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+227532	Anthocharis cardamines	Anthocharis	Pieridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+129397	Aporia crataegi	Aporia	Pieridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+72248	Colias croceus	Colias	Pieridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+72248	Colias croceus	Colias	Pieridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+189913	Leptidea sinapis	Leptidea	Pieridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+7116	Pieris brassicae	Pieris	Pieridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+78633	Pieris napi	Pieris	Pieridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+64459	Pieris rapae	Pieris	Pieridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+51655	Plutella xylostella	Plutella	Plutellidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+467774	Emmelina monodactyla	Emmelina	Pterophoridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1594453	Marasmarcha lunaedactyla	Marasmarcha	Pterophoridae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100900	Acrobasis consociella	Acrobasis	Pyralidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100902	Acrobasis repandana	Acrobasis	Pyralidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1101095	Endotricha flammealis	Endotricha	Pyralidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+328891	Hamearis lucina	Hamearis	Riodinidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+301037	Bembecia ichneumoniformis	Bembecia	Sesiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+748215	Sesia apiformis	Sesia	Sesiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1660703	Synanthedon vespiformis	Synanthedon	Sesiidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+644661	Deilephila porcellus	Deilephila	Sphingidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987953	Hemaris fuciformis	Hemaris	Sphingidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+522836	Laothoe populi	Laothoe	Sphingidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+522848	Mimas tiliae	Mimas	Sphingidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+987436	Sphinx pinastri	Sphinx	Sphingidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1101063	Tinea semifulvella	Tinea	Tineidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+1594354	Tinea trinotella	Tinea	Tineidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+758706	Acleris emargana	Acleris	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+758717	Acleris sparsana	Acleris	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100915	Apotomis betuletana	Apotomis	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100916	Apotomis turbidana	Apotomis	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+2655036	Archips podanus	Archips	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100919	Archips xylosteana	Archips	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1458189	Cydia fagiglandana	Cydia	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100963	Cydia splendana	Cydia	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+1100963	Cydia splendana	Cydia	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+572840	Ditula angustiorana	Ditula	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100976	Epagoge grotiana	Epagoge	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+2566568	Epinotia brunnichana	Epinotia	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100987	Eucosma campoliliana	Eucosma	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1100988	Eucosma cana	Eucosma	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1869985	Hedya salicella	Hedya	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+2769477	Neocochylis molliculana	Neocochylis	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1594315	Notocelia uddmanniana	Notocelia	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+1101027	Pammene fasciana	Pammene	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+753214	Pandemis cinnamomeana	Pandemis	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1101029	Pandemis corylana	Pandemis	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1858066	Ptycholomoides aeriferana	Ptycholomoides	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+572892	Rhopobota naevana	Rhopobota	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1101070	Zeiraphera isertana	Zeiraphera	Tortricidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1594356	Yponomeuta plumbellus	Yponomeuta	Yponomeutidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+263933	Yponomeuta sedellus	Yponomeuta	Yponomeutidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1870435	Ypsolopha scabrella	Ypsolopha	Ypsolophidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+1870436	Ypsolopha sequella	Ypsolopha	Ypsolophidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+287375	Zygaena filipendulae	Zygaena	Zygaenidae	Lepidoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		assembly
+189513	Chrysoperla carnea	Chrysoperla	Chrysopidae	Neuroptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCC		assembly
+197161	Ischnura elegans	Ischnura	Coenagrionidae	Odonata	Insecta	Arthropoda	Metazoa	Eukaryota	AACCC		pacbio
+116142	Chorthippus brunneus	Chorthippus	Acrididae	Orthoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+37639	Chorthippus parallelus	Chorthippus	Acrididae	Orthoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+128161	Teleogryllus oceanicus	Teleogryllus	Gryllidae	Orthoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+494438	Meconema thalassinum	Meconema	Tettigoniidae	Orthoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+143735	Leuctra nigra	Leuctra	Leuctridae	Plecoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+2014036	Nemoura dubitans	Nemoura	Nemouridae	Plecoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+143722	Nemurella pictetii	Nemurella	Nemouridae	Plecoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+2065413	Brachyptera putata	Brachyptera	Taeniopterygidae	Plecoptera	Insecta	Arthropoda	Metazoa	Eukaryota	ATATAT	Check?	assembly
+1271742	Glyphotaelius pellucidus	Glyphotaelius	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1218281	Limnephilus lunatus	Limnephilus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+1271730	Limnephilus marmoratus	Limnephilus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+692089	Limnephilus rhombicus	Limnephilus	Limnephilidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+623212	Polycentropus irroratus	Polycentropus	Polycentropodidae	Trichoptera	Insecta	Arthropoda	Metazoa	Eukaryota	AACCT		pacbio
+27328	Metschnikowia zobellii	Metschnikowia	Metschnikowiaceae	Saccharomycetales	Saccharomycetes	Ascomycota	Fungi	Eukaryota			pacbio
+317029	Trichoderma pseudokoningii	Trichoderma	Hypocreaceae	Hypocreales	Sordariomycetes	Ascomycota	Fungi	Eukaryota			pacbio
+47427	Armillaria gallica	Armillaria	Physalacriaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	AAACCCT		pacbio
+447506	Laetiporus sulphureus	Laetiporus	Laetiporaceae	Polyporales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	AACCT		pacbio
+5630	Laetiporus sulphureus	Laetiporus	Laetiporaceae	Polyporales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	AACCT		pacbio
+192920	Bugulina stolonifera	Bugulina	Bugulidae	Cheilostomatida	Gymnolaemata	Bryozoa	Metazoa	Eukaryota			pacbio
+558755	Cryptosula pallasiana	Cryptosula	Cryptosulidae	Cheilostomatida	Gymnolaemata	Bryozoa	Metazoa	Eukaryota			pacbio
+95170	Membranipora membranacea	Membranipora	Membraniporidae	Cheilostomatida	Gymnolaemata	Bryozoa	Metazoa	Eukaryota			pacbio
+41880	Pycnococcus provasolii	Pycnococcus	Pycnococcaceae			Chlorophyta	Viridiplantae	Eukaryota			pacbio
+327064	Brachiomonas submarina	Brachiomonas	Chlamydomonadaceae	Chlamydomonadales	Chlorophyceae	Chlorophyta	Viridiplantae	Eukaryota	AAGGATGGAC		pacbio
+257627	Dunaliella primolecta	Dunaliella	Dunaliellaceae	Chlamydomonadales	Chlorophyceae	Chlorophyta	Viridiplantae	Eukaryota	AACCCT		pacbio
+446457	Telmatherina bonti	Telmatherina	Telmatherinidae	Atheriniformes	Actinopteri	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+36212	Trachurus trachurus	Trachurus	Carangidae	Carangiformes	Actinopteri	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+40830	Barbus barbus	Barbus	Cyprinidae	Cypriniformes	Actinopteri	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+7955	Danio rerio	Danio	Danionidae	Cypriniformes	Actinopteri	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+61643	Taurulus bubalis	Taurulus	Cottidae	Perciformes	Actinopteri	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+61643	Taurulus bubalis	Taurulus	Cottidae	Perciformes	Actinopteri	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+56726	Pholis gunnellus	Pholis	Pholidae	Perciformes	Actinopteri	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+8032	Salmo trutta	Salmo	Salmonidae	Salmoniformes	Actinopteri	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+8384	Bufo bufo	Bufo	Bufonidae	Anura	Amphibia	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+8407	Rana temporaria	Rana	Ranidae	Anura	Amphibia	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+2771288	Aplidium turbinatum	Aplidium	Polyclinidae	Aplousobranchia	Ascidiacea	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+38561	Ascidia mentula	Ascidia	Ascidiidae	Phlebobranchia	Ascidiacea	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+8957	Accipiter gentilis	Accipiter	Accipitridae	Accipitriformes	Aves	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+111811	Caprimulgus europaeus	Caprimulgus	Caprimulgidae	Caprimulgiformes	Aves	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+177155	Streptopelia turtur	Streptopelia	Columbidae	Columbiformes	Aves	Chordata	Metazoa	Eukaryota			assembly
+37610	Erithacus rubecula	Erithacus	Turdidae	Passeriformes	Aves	Chordata	Metazoa	Eukaryota	AAGGAAGG	AGAGG	assembly
+9860	Cervus elaphus	Cervus	Cervidae	Artiodactyla	Mammalia	Chordata	Metazoa	Eukaryota			assembly
+9860	Cervus elaphus	Cervus	Cervidae	Artiodactyla	Mammalia	Chordata	Metazoa	Eukaryota			pacbio
+9733	Orcinus orca	Orcinus	Delphinidae	Artiodactyla	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+9612	Canis lupus	Canis	Canidae	Carnivora	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+9612	Canis lupus	Canis	Canidae	Carnivora	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+9657	Lutra lutra	Lutra	Mustelidae	Carnivora	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+9662	Meles meles	Meles	Mustelidae	Carnivora	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		pacbio
+59474	Pipistrellus pipistrellus	Pipistrellus	Vespertilionidae	Chiroptera	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+1047088	Arvicola amphibius	Arvicola	Cricetidae	Rodentia	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+10116	Rattus norvegicus	Rattus	Muridae	Rodentia	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+30640	Sciurus carolinensis	Sciurus	Sciuridae	Rodentia	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+55149	Sciurus vulgaris	Sciurus	Sciuridae	Rodentia	Mammalia	Chordata	Metazoa	Eukaryota	AACCCT		assembly
+63136	Colpoda steinii	Colpoda	Colpodidae	Colpodida	Colpodea	Ciliophora		Eukaryota	Unknown		pacbio
+1789172	Diadumene lineata	Diadumene	Diadumenidae	Actiniaria	Anthozoa	Cnidaria	Metazoa	Eukaryota	AACCCT		pacbio
+45351	Nematostella vectensis	Nematostella	Edwardsiidae	Actiniaria	Anthozoa	Cnidaria	Metazoa	Eukaryota	AACCCT		pacbio
+313498	Haliclystus octoradiatus	Haliclystus	Haliclystidae	Stauromedusae	Staurozoa	Cnidaria	Metazoa	Eukaryota	AATAAT		pacbio
+7604	Asterias rubens	Asterias	Asteriidae	Forcipulatida	Asteroidea	Echinodermata	Metazoa	Eukaryota	AACCCT		assembly
+7609	Marthasterias glacialis	Marthasterias	Asteriidae	Forcipulatida	Asteroidea	Echinodermata	Metazoa	Eukaryota	AACCCT		assembly
+7609	Marthasterias glacialis	Marthasterias	Asteriidae	Forcipulatida	Asteroidea	Echinodermata	Metazoa	Eukaryota	AACCCT		pacbio
+72669	Antedon bifida	Antedon	Antedonidae	Comatulida	Crinoidea	Echinodermata	Metazoa	Eukaryota	AACCCT		pacbio
+166959	Tetramitus jugosus	Tetramitus	Vahlkampfiidae			Heterolobosea		Eukaryota	AAACCC		pacbio
+2589376	Gari tellinella	Gari	Psammobiidae	Cardiida	Bivalvia	Mollusca	Metazoa	Eukaryota	AACCCT		pacbio
+6579	Pecten maximus	Pecten	Pectinidae	Pectinida	Bivalvia	Mollusca	Metazoa	Eukaryota	AACCCT		assembly
+87960	Patella depressa	Patella	Patellidae		Gastropoda	Mollusca	Metazoa	Eukaryota	AACCCT		pacbio
+88005	Patella pellucida	Patella	Patellidae		Gastropoda	Mollusca	Metazoa	Eukaryota	AACTCTCTACT	AACTCTACT	pacbio
+703304	Gibbula magus	Gibbula	Trochidae	Trochida	Gastropoda	Mollusca	Metazoa	Eukaryota	AACCCT		pacbio
+1620919	Phorcus lineatus	Phorcus	Trochidae	Trochida	Gastropoda	Mollusca	Metazoa	Eukaryota	AACCCT		pacbio
+216125	Steromphala cineraria	Steromphala	Trochidae	Trochida	Gastropoda	Mollusca	Metazoa	Eukaryota	AACCCT		pacbio
+105697	Mucor piriformis	Mucor	Mucoraceae	Mucorales	Mucoromycetes	Mucoromycota	Fungi	Eukaryota	AACCCTCGCAGGCCGTAGGCCGTGGGTGCT		pacbio
+513045	Dioctophyme renale	Dioctophyme	Dioctophymatidae	Dioctophymatida	Enoplea	Nematoda	Metazoa	Eukaryota	ACGATG		pacbio
+88925	Lineus longissimus	Lineus	Lineidae	Heteronemertea	Pilidiophora	Nemertea	Metazoa	Eukaryota	AACCCT		assembly
+88925	Lineus longissimus	Lineus	Lineidae	Heteronemertea	Pilidiophora	Nemertea	Metazoa	Eukaryota	AACCCT		pacbio
+28469	Hylocomiadelphus triquetrus	Hylocomiadelphus	Hylocomiaceae	Hypnales	Bryopsida	Streptophyta	Viridiplantae	Eukaryota	AACAG		pacbio
+28468	Rhytidiadelphus loreus	Rhytidiadelphus	Hylocomiaceae	Hypnales	Bryopsida	Streptophyta	Viridiplantae	Eukaryota			pacbio
+67444	Thamnobryum alopecurum	Thamnobryum	Neckeraceae	Hypnales	Bryopsida	Streptophyta	Viridiplantae	Eukaryota			pacbio
+94606	Thuidium delicatulum	Thuidium	Thuidiaceae	Hypnales	Bryopsida	Streptophyta	Viridiplantae	Eukaryota			pacbio
+67428	Thuidium tamariscinum	Thuidium	Thuidiaceae	Hypnales	Bryopsida	Streptophyta	Viridiplantae	Eukaryota			pacbio
+4052	Hedera helix	Hedera	Araliaceae	Apiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+41492	Bellis perennis	Bellis	Asteraceae	Asterales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+56535	Pulicaria dysenterica	Pulicaria	Asteraceae	Asterales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+128002	Tanacetum vulgare	Tanacetum	Asteraceae	Asterales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+3702	Arabidopsis thaliana	Arabidopsis	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+4002	Buxus sempervirens	Buxus	Buxaceae	Buxales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+169223	Honckenya peploides	Honckenya	Caryophyllaceae	Caryophyllales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+169241	Suaeda vera	Suaeda	Chenopodiaceae	Caryophyllales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+137693	Polygonum aviculare	Polygonum	Polygonaceae	Caryophyllales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+291096	Rumex sanguineus	Rumex	Polygonaceae	Caryophyllales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+123417	Euonymus europaeus	Euonymus	Celastraceae	Celastrales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+253017	Impatiens glandulifera	Impatiens	Balsaminaceae	Ericales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAGCATT		assembly
+313096	Lathyrus linifolius	Lathyrus	Fabaceae	Fabales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	Check?		pacbio
+70936	Medicago arabica	Medicago	Fabaceae	Fabales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+3882	Onobrychis viciifolia	Onobrychis	Fabaceae	Fabales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+3517	Alnus glutinosa	Alnus	Betulaceae	Fagales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+38942	Quercus robur	Quercus	Fagaceae	Fagales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+194200	Ballota nigra	Ballota	Lamiaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+260603	Lycopus europaeus	Lycopus	Lamiaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+53169	Scutellaria galericulata	Scutellaria	Lamiaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+1053395	Scutellaria minor	Scutellaria	Lamiaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+1060938	Stachys palustris	Stachys	Lamiaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+43171	Linaria vulgaris	Linaria	Plantaginaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+102599	Misopates orontium	Misopates	Plantaginaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+212925	Euphorbia lathyris	Euphorbia	Euphorbiaceae	Malpighiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+38846	Euphorbia peplus	Euphorbia	Euphorbiaceae	Malpighiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AACCCT		pacbio
+3986	Mercurialis annua	Mercurialis	Euphorbiaceae	Malpighiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+13055	Chamaenerion angustifolium	Chamaenerion	Onagraceae	Myrtales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+234461	Carex depauperata	Carex	Cyperaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+76502	Schoenoplectus lacustris	Schoenoplectus	Cyperaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+13579	Juncus effusus	Juncus	Juncaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+500232	Danthonia decumbens	Danthonia	Poaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+200993	Fumaria officinalis	Fumaria	Papaveraceae	Ranunculales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCG		pacbio
+193516	Hippophae rhamnoides	Hippophae	Elaeagnaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+57917	Filipendula ulmaria	Filipendula	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota			pacbio
+57919	Geum urbanum	Geum	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+3750	Malus domestica	Malus	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+3752	Malus sylvestris	Malus	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+57926	Potentilla anserina	Potentilla	Rosaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+33127	Parietaria judaica	Parietaria	Urticaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+3501	Urtica dioica	Urtica	Urticaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+473050	Urtica urens	Urtica	Urticaceae	Rosales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+4123	Convolvulus arvensis	Convolvulus	Convolvulaceae	Solanales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AAACCCT		pacbio
+45834	Solanum dulcamara	Solanum	Solanaceae	Solanales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	AACCCTG		pacbio
