@@ -61,6 +61,8 @@ More for back-up really, these two scripts (plus helpers) pull all of the curren
 
 `update_assembly_tidk.bash`
 
+for file in ./explore/*; do basename $file | awk -F_ '{print $1"_"$2}' | grep -v "\.txt"; done
+
 ```bash
 #!/usr/bin/env bash
 
@@ -68,9 +70,12 @@ date=$(date '+%Y-%m-%d')
 
 readlink -f /lustre/scratch116/tol/projects/darwin/data/*/*/assembly/release/reference > assembly_paths_${date}_init.txt
 
+# get the names of the species we have already proccessed.
+for file in ./explore/*; do basename $file | awk -F_ '{print $1"_"$2}' | grep -v "\.txt"; done > species_names.txt
+
 awk '{print $0"/insdc/genome.fasta.gz"}' assembly_paths_${date}_init.txt | sort >  assembly_paths_${date}.txt
 
-diff $1 assembly_paths_${date}.txt | grep ">" | cut -c 3- > assembly_paths_${date}_for_pipeline.txt
+grep -v -f species_names.txt assembly_paths_${date}.txt > assembly_paths_${date}_for_pipeline.txt
 
 rm assembly_paths_${date}_init.txt
 ```
@@ -100,7 +105,7 @@ date=$(date '+%Y-%m-%d')
 
 # get the updated paths, requires a previous SORTED file of paths.
 
-bash update_assembly_tidk.bash $1
+bash update_assembly_tidk.bash
 
 # then submit the pipeline
 
@@ -125,7 +130,8 @@ for dir in `ls -1d /lustre/scratch116/tol/projects/darwin/data/*/*`; do find $di
 	all_pacbio_paths_${date}.txt
 
 # replace pbio_read_paths2.txt with $1 later
-awk -F/ '{print $9}' $1 > path_pattern_file_${date}.txt
+
+for file in ./explore/*; do basename $file | awk -F_ '{print $1"_"$2}' | grep -v "\.txt"; done > path_pattern_file_${date}.txt
 
 # filter the big path file
 grep -v -f path_pattern_file_${date}.txt all_pacbio_paths_${date}.txt > filtered_paths_${date}.txt
