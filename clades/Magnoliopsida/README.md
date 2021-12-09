@@ -37,7 +37,7 @@
 | *Honckenya peploides* | Caryophyllaceae | Caryophyllales | AAACCCT | AAAAA | pacbio |
 | *Silene acaulis* | Caryophyllaceae | Caryophyllales | AACAAC | AATAAT | pacbio |
 | *Silene dioica* | Caryophyllaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
-| *Silene latifolia* | Caryophyllaceae | Caryophyllales |  |  | pacbio |
+| *Silene latifolia* | Caryophyllaceae | Caryophyllales | AAACCCT | AATGCT | pacbio |
 | *Stellaria media* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Suaeda vera* | Chenopodiaceae | Caryophyllales | AAACCCT | AATAAT | pacbio |
 | *Persicaria maculosa* | Polygonaceae | Caryophyllales |  |  | pacbio |
@@ -102,7 +102,7 @@
 | *Misopates orontium* | Plantaginaceae | Lamiales | AAACCCT | ATATAT | pacbio |
 | *Plantago coronopus* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Plantago lanceolata* | Plantaginaceae | Lamiales | AACCCTAAT | AACCCTAATAACCCTAAT | pacbio |
-| *Veronica chamaedrys* | Plantaginaceae | Lamiales |  |  | pacbio |
+| *Veronica chamaedrys* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Veronica hederifolia* | Plantaginaceae | Lamiales | AAGAAG | AAGAAGAAG | pacbio |
 | *Veronica spicata* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Buddleja davidii* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |

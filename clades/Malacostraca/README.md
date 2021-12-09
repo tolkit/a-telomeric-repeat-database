@@ -10,6 +10,6 @@
 | *Porcellana platycheles* | Porcellanidae | Decapoda | AACCT | AAAGTTCCTCG | pacbio |
 | *Xantho hydrophilus* | Xanthidae | Decapoda | AACCT | ACACAC | pacbio |
 | *Asellus aquaticus* | Asellidae | Isopoda |  |  | pacbio |
-| *Idotea granulosa* | Idoteidae | Isopoda |  |  | pacbio |
+| *Idotea granulosa* | Idoteidae | Isopoda | ATATAT | AGATAGATAT | pacbio |
 | *Oniscus asellus* | Oniscidae | Isopoda | ATATAT | ATATATAT | pacbio |
 | *Philoscia muscorum* | Philosciidae | Isopoda |  |  | pacbio |

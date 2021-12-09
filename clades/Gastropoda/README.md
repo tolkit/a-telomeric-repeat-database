@@ -10,7 +10,7 @@
 | *Patella vulgata* | Patellidae |  |  |  | pacbio |
 | *Physa fontinalis* | Physidae |  | AACCCT | AGATAGAT | pacbio |
 | *Physella acuta* | Physidae |  | ATCATC | AGATAGAT | pacbio |
-| *Anisus vortex* | Planorbidae |  |  |  | pacbio |
+| *Anisus vortex* | Planorbidae |  | AAGTAAGT | AAGTAAGTAAGT | pacbio |
 | *Biomphalaria glabrata* | Planorbidae |  | AACCCT | AACCCTAACCCT | pacbio |
 | *Planorbis planorbis* | Planorbidae |  | AGATGGAT | AGATATAT | pacbio |
 | *Valvata piscinalis* | Valvatidae |  | AATACTAC | AATACTACAATACTAC | pacbio |
@@ -21,7 +21,7 @@
 | *Nucella lapillus* | Muricidae | Neogastropoda | ACACAC | ACTACT | pacbio |
 | *Tritia reticulata* | Nassariidae | Neogastropoda | ACTACT | AACCCT | pacbio |
 | *Crimora papillata* |  | Nudibranchia | ACTACT | ACTACTACT | pacbio |
-| *Microchlamylla gracilis* | Coryphellidae | Nudibranchia |  |  | pacbio |
+| *Microchlamylla gracilis* | Coryphellidae | Nudibranchia | ACAGTAGC | AACCCT | pacbio |
 | *Doris pseudoargus* | Dorididae | Nudibranchia | AAACAC | AACCCT | pacbio |
 | *Helicella itala* | Geomitridae | Stylommatophora | ACTACT | ACTACTACT | pacbio |
 | *Xeroplexa intersecta* | Geomitridae | Stylommatophora | AACTAACT | AACTAACTAACT | pacbio |

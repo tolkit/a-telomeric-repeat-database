@@ -34,7 +34,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Terebella lapidaria* | Terebellidae | Terebellida | Polychaeta | ACTGACTG | ACACAC | pacbio |
 | *Eimeria maxima* | Eimeriidae | Eucoccidiorida | Conoidasida | AAGGAGGAGACAAT | ACACAT | pacbio |
 | *Eimeria tenella* | Eimeriidae | Eucoccidiorida | Conoidasida | AAACCCT |  | assembly |
-| *Eratigena atrica* | Agelenidae | Araneae | Arachnida |  |  | pacbio |
+| *Eratigena atrica* | Agelenidae | Araneae | Arachnida | ACACAC | ATATAT | pacbio |
 | *Amaurobius ferox* | Amaurobiidae | Araneae | Arachnida | ATATAT | ATATATAT | pacbio |
 | *Amaurobius similis* | Amaurobiidae | Araneae | Arachnida | ACACAC | ACACACAC | pacbio |
 | *Araneus diadematus* | Araneidae | Araneae | Arachnida | AATAT |  | pacbio |
@@ -59,11 +59,11 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Enoplognatha latimana* | Theridiidae | Araneae | Arachnida | AAAGC | ACACAC | pacbio |
 | *Steatoda bipunctata* | Theridiidae | Araneae | Arachnida |  |  | pacbio |
 | *Xysticus cristatus* | Thomisidae | Araneae | Arachnida | ACACAC | ACACACAC | pacbio |
-| *Uloborus plumipes* | Uloboridae | Araneae | Arachnida |  |  | pacbio |
+| *Uloborus plumipes* | Uloboridae | Araneae | Arachnida | ACACAC | ATATAT | pacbio |
 | *Zoropsis spinimana* | Zoropsidae | Araneae | Arachnida | ATATAT | ATATATAT | pacbio |
 | *Odiellus spinosus* | Phalangiidae | Opiliones | Arachnida | ACGAG | AACCT | pacbio |
 | *Euscorpius flavicaudis* | Euscorpiidae | Scorpiones | Arachnida | AACCT | AACCTAACCT | pacbio |
-| *Stigmatogaster subterranea* | Himantariidae | Geophilomorpha | Chilopoda |  |  | pacbio |
+| *Stigmatogaster subterranea* | Himantariidae | Geophilomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
 | *Lithobius forficatus* | Lithobiidae | Lithobiomorpha | Chilopoda | AAAGTCG | AAAGTCGAAAGTCG | pacbio |
 | *Lithobius melanops* | Lithobiidae | Lithobiomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
 | *Lithobius variegatus* | Lithobiidae | Lithobiomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
@@ -94,15 +94,15 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Pterostichus madidus* | Carabidae | Coleoptera | Insecta | AATAAT | ATCCATCC | pacbio |
 | *Pterostichus strenuus* | Carabidae | Coleoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Clytus arietis* | Cerambycidae | Coleoptera | Insecta | AATAAT | AATAATAAT | pacbio |
-| *Rutpela maculata* | Cerambycidae | Coleoptera | Insecta |  |  | pacbio |
+| *Rutpela maculata* | Cerambycidae | Coleoptera | Insecta | AATAAT | ACACAC | pacbio |
 | *Chrysolina oricalcia* | Chrysomelidae | Coleoptera | Insecta | ATCCATCC | ATCCATCCATCC | pacbio |
 | *Gastrophysa viridula* | Chrysomelidae | Coleoptera | Insecta | ACACAC | ACACACAC | pacbio |
-| *Lilioceris lilii* | Chrysomelidae | Coleoptera | Insecta |  |  | pacbio |
+| *Lilioceris lilii* | Chrysomelidae | Coleoptera | Insecta | ACACAC | AAACG | pacbio |
 | *Oulema melanopus* | Chrysomelidae | Coleoptera | Insecta | ACAGACTG | ACAGACAGACTG | pacbio |
 | *Adalia bipunctata* | Coccinellidae | Coleoptera | Insecta | AAAAATTC | AACCT | assembly |
 | *Adalia bipunctata* | Coccinellidae | Coleoptera | Insecta | AACCT |  | pacbio |
 | *Adalia decempunctata* | Coccinellidae | Coleoptera | Insecta | AAGTC | ACATC | pacbio |
-| *Anatis ocellata* | Coccinellidae | Coleoptera | Insecta |  |  | pacbio |
+| *Anatis ocellata* | Coccinellidae | Coleoptera | Insecta | AACCT | ACACTG | pacbio |
 | *Calvia quattuordecimguttata* | Coccinellidae | Coleoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Chilocorus renipustulatus* | Coccinellidae | Coleoptera | Insecta | ACTCTG | AAATATT | pacbio |
 | *Coccinella septempunctata* | Coccinellidae | Coleoptera | Insecta | AACCT | AACCTAACCT | assembly |
@@ -115,7 +115,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Subcoccinella vigintiquattuorpunctata* | Coccinellidae | Coleoptera | Insecta | AACAT | AACATAACAT | pacbio |
 | *Curculio glandium* | Curculionidae | Coleoptera | Insecta | AACCC | AGATAGAT | pacbio |
 | *Limnobaris t-album* | Curculionidae | Coleoptera | Insecta | ATATAT | ACACAC | pacbio |
-| *Otiorhynchus sulcatus* | Curculionidae | Coleoptera | Insecta |  |  | pacbio |
+| *Otiorhynchus sulcatus* | Curculionidae | Coleoptera | Insecta | AAATAAAT | AAATAAATAAAT | pacbio |
 | *Polydrusus cervinus* | Curculionidae | Coleoptera | Insecta | AACAGACCCG | AAATGC | pacbio |
 | *Rhinocyllus conicus* | Curculionidae | Coleoptera | Insecta | AGATAGAT | AGATAGATAGAT | pacbio |
 | *Agriotes lineatus* | Elateridae | Coleoptera | Insecta | AAAGGTCACC | AAGCC | pacbio |
@@ -166,19 +166,19 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Thecophora atra* | Conopidae | Diptera | Insecta | AACCAGCACACG |  | pacbio |
 | *Empis livida* | Empididae | Diptera | Insecta |  |  | pacbio |
 | *Fannia serena* | Fanniidae | Diptera | Insecta |  |  | pacbio |
-| *Sapromyzosoma quadripunctata* | Lauxaniidae | Diptera | Insecta |  |  | pacbio |
+| *Sapromyzosoma quadripunctata* | Lauxaniidae | Diptera | Insecta | AAAAAC | AAAAACAAAAAC | pacbio |
 | *Tricholauxania praeusta* | Lauxaniidae | Diptera | Insecta | AACTCACTC | AATAAT | pacbio |
 | *Coenosia intermedia* | Muscidae | Diptera | Insecta | ACATATC | AACAAC | pacbio |
 | *Hebecnema nigricolor* | Muscidae | Diptera | Insecta | ACATAT | ACATATACATAT | pacbio |
-| *Helina depuncta* | Muscidae | Diptera | Insecta |  |  | pacbio |
+| *Helina depuncta* | Muscidae | Diptera | Insecta | AAATAAAT | AAAGTT | pacbio |
 | *Helina evecta* | Muscidae | Diptera | Insecta | AAAGTT | AACATT | pacbio |
-| *Helina quadrum* | Muscidae | Diptera | Insecta |  |  | pacbio |
+| *Helina quadrum* | Muscidae | Diptera | Insecta | AGATGAT | AATAG | pacbio |
 | *Lophosceles cinereiventris* | Muscidae | Diptera | Insecta | AAATG | AAATCTGAAATG | pacbio |
 | *Mesembrina meridiana* | Muscidae | Diptera | Insecta | AAATAACT | ACAGACTG | pacbio |
 | *Morellia simplex* | Muscidae | Diptera | Insecta | AATAAT | AAATAT | pacbio |
 | *Musca autumnalis* | Muscidae | Diptera | Insecta | AAAATAT | AAAAT | pacbio |
 | *Phaonia pallida* | Muscidae | Diptera | Insecta | AATTC | AATTCAATTC | pacbio |
-| *Phaonia rufiventris* | Muscidae | Diptera | Insecta |  |  | pacbio |
+| *Phaonia rufiventris* | Muscidae | Diptera | Insecta | AAGTC | AAGTCAAGTC | pacbio |
 | *Phaonia tuguriorum* | Muscidae | Diptera | Insecta | AAATAAAT | AAATAAATAAAT | pacbio |
 | *Thricops semicinereus* | Muscidae | Diptera | Insecta | ACAGACGG | ACAGACGGACAGACGG | pacbio |
 | *Callomyia amoena* | Platypezidae | Diptera | Insecta | AAATG | AACAAC | pacbio |
@@ -203,7 +203,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Hydromya dorsalis* | Sciomyzidae | Diptera | Insecta | AAATT | AAAATT | pacbio |
 | *Pherbellia cinerella* | Sciomyzidae | Diptera | Insecta |  |  | pacbio |
 | *Chloromyia formosa* | Stratiomyidae | Diptera | Insecta | ACAGACAG | ACAGACAGACAG | pacbio |
-| *Oplodontha viridula* | Stratiomyidae | Diptera | Insecta |  |  | pacbio |
+| *Oplodontha viridula* | Stratiomyidae | Diptera | Insecta | ATATAT | ATATATAT | pacbio |
 | *Baccha elongata* | Syrphidae | Diptera | Insecta | AACAAC | ACATGTC | pacbio |
 | *Cheilosia illustrata* | Syrphidae | Diptera | Insecta | AACAAC | AACAACAAC | pacbio |
 | *Cheilosia pagana* | Syrphidae | Diptera | Insecta |  |  | pacbio |
@@ -309,7 +309,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Lygus pratensis* | Miridae | Hemiptera | Insecta | AACACTCCCT |  | pacbio |
 | *Pantilius tunicatus* | Miridae | Hemiptera | Insecta |  |  | pacbio |
 | *Stenodema laevigata* | Miridae | Hemiptera | Insecta | AACCATCCCT | ACATACAT | pacbio |
-| *Icerya purchasi* | Monophlebidae | Hemiptera | Insecta |  |  | pacbio |
+| *Icerya purchasi* | Monophlebidae | Hemiptera | Insecta | AATAAT | AATAATAAT | pacbio |
 | *Himacerus apterus* | Nabidae | Hemiptera | Insecta | ACACAC | ACACACAC | pacbio |
 | *Himacerus mirmicoides* | Nabidae | Hemiptera | Insecta | AACCATCCCT | ACACAC | pacbio |
 | *Nabis ferus* | Nabidae | Hemiptera | Insecta | ACACAC | ACACACAC | pacbio |
@@ -456,7 +456,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Euclidia mi* | Erebidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Euproctis similis* | Erebidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Euproctis similis* | Erebidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
-| *Herminia grisealis* | Erebidae | Lepidoptera | Insecta |  |  | pacbio |
+| *Herminia grisealis* | Erebidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Herminia tarsipennalis* | Erebidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Hypena proboscidalis* | Erebidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Hypena proboscidalis* | Erebidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -617,7 +617,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Euplexia lucipara* | Noctuidae | Lepidoptera | Insecta | AACCT | ACAGACAG | pacbio |
 | *Eupsilia transversa* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Eupsilia transversa* | Noctuidae | Lepidoptera | Insecta | AACCT |  | pacbio |
-| *Fissipunctia ypsillon* | Noctuidae | Lepidoptera | Insecta |  |  | pacbio |
+| *Fissipunctia ypsillon* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Globia sparganii* | Noctuidae | Lepidoptera | Insecta |  |  | pacbio |
 | *Griposia aprilina* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Griposia aprilina* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -647,7 +647,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Ochropleura plecta* | Noctuidae | Lepidoptera | Insecta | AACCT |  | pacbio |
 | *Omphaloscelis lunosa* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Omphaloscelis lunosa* | Noctuidae | Lepidoptera | Insecta | AACCT |  | pacbio |
-| *Orthosia cerasi* | Noctuidae | Lepidoptera | Insecta |  |  | pacbio |
+| *Orthosia cerasi* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Phlogophora meticulosa* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Phlogophora meticulosa* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Photedes minima* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -660,7 +660,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Xestia triangulum* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Xestia xanthographa* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Xestia xanthographa* | Noctuidae | Lepidoptera | Insecta | AACCT |  | pacbio |
-| *Xylocampa areola* | Noctuidae | Lepidoptera | Insecta |  |  | pacbio |
+| *Xylocampa areola* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Bena bicolorana* | Nolidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Meganola albula* | Nolidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Nola cucullatella* | Nolidae | Lepidoptera | Insecta | AACCT | ACACAC | pacbio |
@@ -693,7 +693,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Euphydryas aurinia* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Fabriciana adippe* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Fabriciana adippe* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
-| *Hipparchia semele* | Nymphalidae | Lepidoptera | Insecta |  |  | pacbio |
+| *Hipparchia semele* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Lasiommata megera* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Limenitis camilla* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Limenitis camilla* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -854,7 +854,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Porcellana platycheles* | Porcellanidae | Decapoda | Malacostraca | AACCT | AAAGTTCCTCG | pacbio |
 | *Xantho hydrophilus* | Xanthidae | Decapoda | Malacostraca | AACCT | ACACAC | pacbio |
 | *Asellus aquaticus* | Asellidae | Isopoda | Malacostraca |  |  | pacbio |
-| *Idotea granulosa* | Idoteidae | Isopoda | Malacostraca |  |  | pacbio |
+| *Idotea granulosa* | Idoteidae | Isopoda | Malacostraca | ATATAT | AGATAGATAT | pacbio |
 | *Oniscus asellus* | Oniscidae | Isopoda | Malacostraca | ATATAT | ATATATAT | pacbio |
 | *Philoscia muscorum* | Philosciidae | Isopoda | Malacostraca |  |  | pacbio |
 | *Epicoccum nigrum* | Didymellaceae | Pleosporales | Dothideomycetes |  |  | pacbio |
@@ -968,7 +968,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Patella vulgata* | Patellidae |  | Gastropoda |  |  | pacbio |
 | *Physa fontinalis* | Physidae |  | Gastropoda | AACCCT | AGATAGAT | pacbio |
 | *Physella acuta* | Physidae |  | Gastropoda | ATCATC | AGATAGAT | pacbio |
-| *Anisus vortex* | Planorbidae |  | Gastropoda |  |  | pacbio |
+| *Anisus vortex* | Planorbidae |  | Gastropoda | AAGTAAGT | AAGTAAGTAAGT | pacbio |
 | *Biomphalaria glabrata* | Planorbidae |  | Gastropoda | AACCCT | AACCCTAACCCT | pacbio |
 | *Planorbis planorbis* | Planorbidae |  | Gastropoda | AGATGGAT | AGATATAT | pacbio |
 | *Valvata piscinalis* | Valvatidae |  | Gastropoda | AATACTAC | AATACTACAATACTAC | pacbio |
@@ -979,7 +979,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Nucella lapillus* | Muricidae | Neogastropoda | Gastropoda | ACACAC | ACTACT | pacbio |
 | *Tritia reticulata* | Nassariidae | Neogastropoda | Gastropoda | ACTACT | AACCCT | pacbio |
 | *Crimora papillata* |  | Nudibranchia | Gastropoda | ACTACT | ACTACTACT | pacbio |
-| *Microchlamylla gracilis* | Coryphellidae | Nudibranchia | Gastropoda |  |  | pacbio |
+| *Microchlamylla gracilis* | Coryphellidae | Nudibranchia | Gastropoda | ACAGTAGC | AACCCT | pacbio |
 | *Doris pseudoargus* | Dorididae | Nudibranchia | Gastropoda | AAACAC | AACCCT | pacbio |
 | *Helicella itala* | Geomitridae | Stylommatophora | Gastropoda | ACTACT | ACTACTACT | pacbio |
 | *Xeroplexa intersecta* | Geomitridae | Stylommatophora | Gastropoda | AACTAACT | AACTAACTAACT | pacbio |
@@ -1043,7 +1043,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Honckenya peploides* | Caryophyllaceae | Caryophyllales | Magnoliopsida | AAACCCT | AAAAA | pacbio |
 | *Silene acaulis* | Caryophyllaceae | Caryophyllales | Magnoliopsida | AACAAC | AATAAT | pacbio |
 | *Silene dioica* | Caryophyllaceae | Caryophyllales | Magnoliopsida | AAACCCT | CCCCC | pacbio |
-| *Silene latifolia* | Caryophyllaceae | Caryophyllales | Magnoliopsida |  |  | pacbio |
+| *Silene latifolia* | Caryophyllaceae | Caryophyllales | Magnoliopsida | AAACCCT | AATGCT | pacbio |
 | *Stellaria media* | Caryophyllaceae | Caryophyllales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Suaeda vera* | Chenopodiaceae | Caryophyllales | Magnoliopsida | AAACCCT | AATAAT | pacbio |
 | *Persicaria maculosa* | Polygonaceae | Caryophyllales | Magnoliopsida |  |  | pacbio |
@@ -1108,7 +1108,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Misopates orontium* | Plantaginaceae | Lamiales | Magnoliopsida | AAACCCT | ATATAT | pacbio |
 | *Plantago coronopus* | Plantaginaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Plantago lanceolata* | Plantaginaceae | Lamiales | Magnoliopsida | AACCCTAAT | AACCCTAATAACCCTAAT | pacbio |
-| *Veronica chamaedrys* | Plantaginaceae | Lamiales | Magnoliopsida |  |  | pacbio |
+| *Veronica chamaedrys* | Plantaginaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Veronica hederifolia* | Plantaginaceae | Lamiales | Magnoliopsida | AAGAAG | AAGAAGAAG | pacbio |
 | *Veronica spicata* | Plantaginaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Buddleja davidii* | Scrophulariaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -1173,7 +1173,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Atropa belladonna* | Solanaceae | Solanales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Solanum dulcamara* | Solanaceae | Solanales | Magnoliopsida | AACCCTG | AATAAT | pacbio |
 | *Lunularia cruciata* | Lunulariaceae | Lunulariales | Marchantiopsida | AAACCCT | CCCCC | pacbio |
-| *Equisetum hyemale* | Equisetaceae | Equisetales | Polypodiopsida |  |  | pacbio |
+| *Equisetum hyemale* | Equisetaceae | Equisetales | Polypodiopsida | AGATAGAT | AGATAGATAGAT | pacbio |
 | *Equisetum palustre* | Equisetaceae | Equisetales | Polypodiopsida | AGAGAG | AGATAGAT | pacbio |
 | *Equisetum telmateia* | Equisetaceae | Equisetales | Polypodiopsida | AGATAGAT | AGATAGATAGAT | pacbio |
 | *Asplenium scolopendrium* | Aspleniaceae | Polypodiales | Polypodiopsida | ATATAT | ATATATAT | pacbio |
