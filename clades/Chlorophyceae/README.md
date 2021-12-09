@@ -4,3 +4,4 @@
 | -- | --- | --- | --- | --- | --- |
 | *Brachiomonas submarina* | Chlamydomonadaceae | Chlamydomonadales | AAGGATGGAC | ACAGACAG | pacbio |
 | *Dunaliella primolecta* | Dunaliellaceae | Chlamydomonadales | ACACACAC | ACACAC | pacbio |
+| *Hydrodictyon reticulatum* | Hydrodictyaceae | Sphaeropleales | ACACAC | ACAGACAG | pacbio |

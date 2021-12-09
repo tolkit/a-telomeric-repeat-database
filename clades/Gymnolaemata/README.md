@@ -4,4 +4,6 @@
 | -- | --- | --- | --- | --- | --- |
 | *Bugulina stolonifera* | Bugulidae | Cheilostomatida | ACAGT | AAACCCC | pacbio |
 | *Cryptosula pallasiana* | Cryptosulidae | Cheilostomatida | ACTACT | ATCATC | pacbio |
+| *Membranipora membranacea* | Membraniporidae | Cheilostomatida | AAACCCC | AACCCCG | assembly |
 | *Membranipora membranacea* | Membraniporidae | Cheilostomatida | AAATAAAT | ACCACC | pacbio |
+| *Watersipora subatra* | Watersiporidae | Cheilostomatida | AAGTCT | AAGTCTAAGTCT | pacbio |
