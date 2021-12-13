@@ -5,6 +5,7 @@
 | *Ancylus fluviatilis* | Ancylidae |  | AACCCT | AACCCTAACCCT | pacbio |
 | *Testudinalia testudinalis* | Lottiidae |  | AACCCT | AACCCTAACCCT | pacbio |
 | *Patella depressa* | Patellidae |  | AACCCT | AACCCTAACCCT | pacbio |
+| *Patella pellucida* | Patellidae |  | AACCCT | AACCCTAACCCT | assembly |
 | *Patella pellucida* | Patellidae |  | AACTCTCTACT | AACTCTACT | pacbio |
 | *Patella ulyssiponensis* | Patellidae |  | AACCCT | AACCCTAACCCT | pacbio |
 | *Patella vulgata* | Patellidae |  |  |  | pacbio |

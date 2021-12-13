@@ -6,6 +6,7 @@ Adalia bipunctata	AAAAATTC	AACCT	assembly
 Aelia acuminata	AACCATCCCT		assembly
 Agriopis aurantiaria	AACCT	AACCTAACCT	assembly
 Agrochola circellaris	AACCT	AACCTAACCT	assembly
+Agrochola macilenta	AACCT	AACCTAACCT	assembly
 Amphipyra berbera	AACCT	AACCTAACCT	assembly
 Amphipyra tragopoginis	AACCT	AACCTAACCT	assembly
 Ancistrocerus nigricornis	AACCCAGACCC	AACCCAGACCCAACCCAGACCC	assembly
@@ -14,6 +15,7 @@ Anoplius nigerrimus	AACCCAGACCT	AAAAA	assembly
 Anthocharis cardamines	AACCT	AACCTAACCT	assembly
 Apamea monoglypha	AACCT	AACCTAACCT	assembly
 Aphantopus hyperantus	AACCT	AACCTAACCT	assembly
+Aplidium turbinatum	AACCCT	AACCCTAACCCT	assembly
 Apoderus coryli	AACCC	AACCCAACCC	assembly
 Aporia crataegi	AACCT	AACCTAACCT	assembly
 Apotomis turbidana	AACCT	ACTGATAGAT	assembly
@@ -52,18 +54,24 @@ Chrysoperla carnea	AACCC	AACCCAACCC	assembly
 Chrysoteuchia culmella	AACCT	AACCTAACCT	assembly
 Chrysotoxum bicinctum	AAATACAATAC	AATAC	assembly
 Clostera curtula	AACCT	AACCTAACCT	assembly
+Clusia tigrina	ATATAT	ATATATATATATAT	assembly
 Coccinella septempunctata	AACCT	AACCTAACCT	assembly
 Colias croceus	AACCT	AACCTAACCT	assembly
 Coremacera marginata	AAAAT	AAAATAAAAT	assembly
 Cosmia trapezina	AACCT	AACCTAACCT	assembly
 Craniophora ligustri	AACCT	AACCTAACCT	assembly
+Criorhina berberina	AAATT	ACCCC	assembly
 Crocallis elinguaria	AACCT	AACCTAACCT	assembly
 Cyaniris semiargus	AACCT	AACCTAACCT	assembly
 Cydia splendana	AACCT	AACCTAACCT	assembly
 Deilephila porcellus	AACCT	AACCTAACCT	assembly
+Diadumene lineata	AACCCT	AACCCTAACCCT	assembly
 Dolichovespula media	AACCCAGACGC	AACGACGATATT	assembly
 Dolichovespula saxonica	AACCCAGACGC	AACAGT	assembly
+Dolichovespula sylvestris	AACCCAGACGC	AACCCAGACGCAACCCAGACGC	assembly
 Dolomedes plantarius	ATATAT	ATATATAT	assembly
+Dryobotodes eremita	AACCT	AACCTAACCT	assembly
+Dunaliella primolecta	AACCCT	AACCCTAACCCT	assembly
 Ectemnius continuus			assembly
 Ectemnius lituratus	AACCCAGACCT		assembly
 Eilema depressum	AACCT	AACCTAACCT	assembly
@@ -80,6 +88,8 @@ Eristalis pertinax	AACTG	AAACAAAT	assembly
 Eristalis tenax	AAGAAT	AAGAATAAGAAT	assembly
 Erithacus rubecula	AAGGAAGG	AGAGG	assembly
 Erynnis tages	AACCT	AACCTAACCT	assembly
+Eulithis prunata	AACCT	AACCTAACCT	assembly
+Eupeodes latifasciatus	ACCATG	ATCATC	assembly
 Euproctis similis	AACCT	AACCTAACCT	assembly
 Eupsilia transversa	AACCT	AACCTAACCT	assembly
 Fabriciana adippe	AACCT	AACCTAACCT	assembly
@@ -98,6 +108,7 @@ Hydraecia micacea	AACCT	AACCTAACCT	assembly
 Hydriomena furcata	AACCT	AACCTAACCT	assembly
 Hylaea fasciaria	AACCT	AACCTAACCT	assembly
 Hypena proboscidalis	AACCT	AACCTAACCT	assembly
+Ichneumon xanthorius	ACGATG	AACGAC	assembly
 Idaea aversata	AACCT	AACCTAACCT	assembly
 Impatiens glandulifera	AAGCATT	AAGCATC	assembly
 Inachis io	AACCT	AACCTAACCT	assembly
@@ -107,6 +118,8 @@ Lasioglossum morio	AACGTAT	AACGCAT	assembly
 Laspeyria flexula	AACCT	AACCTAACCT	assembly
 Leptidea sinapis	AACCT	AACCTAACCT	assembly
 Limenitis camilla	AACCT	AACCTAACCT	assembly
+Limnephilus lunatus	AACCT	AACCTAACCT	assembly
+Limnephilus marmoratus	AACCT	AACCTAACCT	assembly
 Lineus longissimus	AACCCT	AACCCTAACCCT	assembly
 Lutra lutra	AACCCT	AACCCTAACCCT	assembly
 Lycaena phlaeas	AACCT	AACCTAACCT	assembly
@@ -119,12 +132,14 @@ Malus sylvestris	AAACCCT	AAACCCTAAACCCT	assembly
 Mamestra brassicae	AACCT	AACCTAACCT	assembly
 Maniola jurtina	AACCT	AACCTAACCT	assembly
 Marthasterias glacialis	AACCCT	AACCCTAACCCT	assembly
+Melanargia galathea	AACCT	AACCTAACCT	assembly
 Melanostoma mellinum	AACAAC	AACAACAAC	assembly
 Melitaea cinxia	AACCT	AACCTAACCT	assembly
 Mellicta athalia	AACCT	AACCTAACCT	assembly
 Membranipora membranacea	AAACCCC	AACCCCG	assembly
 Mesoligia furuncula	AACCT	AACCTAACCT	assembly
 Mimas tiliae	AACCT	AACCTAACCT	assembly
+Mimumesa dahlbomi	ACCTG	ACCTGACCTG	assembly
 Mythimna ferrago	AACCT	AACCTAACCT	assembly
 Mythimna impura	AACCT	AACCTAACCT	assembly
 Noctua fimbriata	AACCT	AACCTAACCT	assembly
@@ -133,6 +148,7 @@ Noctua pronuba	AACCT	AACCTAACCT	assembly
 Nomada fabriciana	AACCT		assembly
 Notocelia uddmanniana	AACCT	AACCTAACCT	assembly
 Notodonta dromedarius	AACCT	AACCTAACCT	assembly
+Notodonta ziczac	AACCT	AACCTAACCT	assembly
 Nymphalis polychloros	AACCT	AACCTAACCT	assembly
 Nymphalis urticae	AACCT	AACCTAACCT	assembly
 Nysson spinosus	AACCCAGACCT	AACAT	assembly
@@ -144,11 +160,13 @@ Orgyia antiqua	AACCT	AACCTAACCT	assembly
 Pammene fasciana	AACCT	AACCTAACCT	assembly
 Parapoynx stratiotata	AACCT	AACCTAACCT	assembly
 Pararge aegeria	AACCT	AACCTAACCT	assembly
+Patella pellucida	AACCCT	AACCCTAACCCT	assembly
 Pecten maximus	CCCCC	AACCCT	assembly
 Peribatodes rhomboidaria	AACCT	AACCTAACCT	assembly
 Phalera bucephala	AACCT	AACCTAACCT	assembly
 Pheosia gnoma	AACCT	AACCTAACCT	assembly
 Pheosia tremula	AACCT	AACCTAACCT	assembly
+Philereme vetulata	AACCT	AACCTAACCT	assembly
 Phlogophora meticulosa	AACCT	AACCTAACCT	assembly
 Pholis gunnellus	AACCCT	AACCCTAACCCT	assembly
 Pieris brassicae	AACCT	AACCTAACCT	assembly
@@ -171,11 +189,15 @@ Schrankia costaestrigalis	AACCT	AACCTAACCT	assembly
 Sciurus carolinensis	AACCCT	AACCCTAACCCT	assembly
 Sciurus vulgaris	AACCCT	AACCCTAACCCT	assembly
 Scyliorhinus canicula	AACCCT	AGATAGAT	assembly
+Seladonia tumulorum	AACCCT	AACCCTAACCCT	assembly
+Selenia dentaria	AACCT	AACCTAACCT	assembly
 Sesia apiformis	AACCT	AACCTAACCT	assembly
+Sphecodes monilicornis	AACCCAGACCT	AATATACTAG	assembly
 Spilarctia lutea	AACCT	AACCTAACCT	assembly
 Spilosoma lubricipeda	AACCT	AACCTAACCT	assembly
 Steromphala cineraria	AACCCT	AACCCTAACCCT	assembly
 Streptopelia turtur			assembly
+Synanthedon vespiformis	AACCT	AACCTAACCT	assembly
 Syritta pipiens	ACACAT		assembly
 Tachina fera	ACTAT	ACTATACTAT	assembly
 Taurulus bubalis	AACCCT	AACCCTAACCCT	assembly
@@ -939,6 +961,7 @@ Plantago coronopus	AAACCCT	AAACCCTAAACCCT	pacbio
 Plantago lanceolata	AACCCTAAT	AACCCTAATAACCCTAAT	pacbio
 Platismatia glauca			pacbio
 Platycheirus albimanus	ACGTAG	ACACAC	pacbio
+Platycheirus scutatus			pacbio
 Platycis minutus	AACCT	AGATAGAT	pacbio
 Platycnemis pennipes			pacbio
 Plea minutissima	AAGAATATAGAAT	AAGAATATAGAATAAGAATATAGAAT	pacbio
