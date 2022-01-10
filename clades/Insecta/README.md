@@ -92,6 +92,7 @@
 | *Clusia tigrina* | Clusiidae | Diptera |  |  | pacbio |
 | *Conops quadrifasciatus* | Conopidae | Diptera | AAAAT | AAATT | pacbio |
 | *Physocephala rufipes* | Conopidae | Diptera | ACAGACAG | AAAGACAAGAC | pacbio |
+| *Sicus ferrugineus* | Conopidae | Diptera | AAGTC | AAGTCAAGTC | assembly |
 | *Sicus ferrugineus* | Conopidae | Diptera | AAGTC | AAGTCAAGTC | pacbio |
 | *Thecophora atra* | Conopidae | Diptera | AACCAGCACACG |  | pacbio |
 | *Empis livida* | Empididae | Diptera |  |  | pacbio |
@@ -379,6 +380,7 @@
 | *Agonopterix arenella* | Depressariidae | Lepidoptera | AACCT | AGGAT | pacbio |
 | *Agonopterix heracliana* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Agonopterix ocellana* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Habrosyne pyritoides* | Drepanidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Habrosyne pyritoides* | Drepanidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -422,6 +424,7 @@
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Apeira syringaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Aplocera efformata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Aplocera efformata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Biston betularia* | Geometridae | Lepidoptera | AACCT | ACCTACCT | assembly |
 | *Biston betularia* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -557,6 +560,7 @@
 | *Diarsia rubi* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Dryobotodes eremita* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Dryobotodes eremita* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Euplexia lucipara* | Noctuidae | Lepidoptera | AACCT | AAATG | assembly |
 | *Euplexia lucipara* | Noctuidae | Lepidoptera | AACCT | ACAGACAG | pacbio |
 | *Eupsilia transversa* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Eupsilia transversa* | Noctuidae | Lepidoptera | AACCT |  | pacbio |
@@ -630,6 +634,7 @@
 | *Boloria selene* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Boloria selene* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Coenonympha tullia* | Nymphalidae | Lepidoptera | AACCT | ACTCAG | pacbio |
+| *Erebia aethiops* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Erebia aethiops* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Erebia epiphron* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Erebia ligea* | Nymphalidae | Lepidoptera | AACCT | AACCTAACTACCT | assembly |
@@ -681,6 +686,7 @@
 | *Plutella xylostella* | Plutellidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Emmelina monodactyla* | Pterophoridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Emmelina monodactyla* | Pterophoridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Marasmarcha lunaedactyla* | Pterophoridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Marasmarcha lunaedactyla* | Pterophoridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acrobasis consociella* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acrobasis repandana* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -716,6 +722,7 @@
 | *Acleris cristana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acleris emargana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acleris rhombana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Acleris sparsana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Acleris sparsana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Apotomis betuletana* | Tortricidae | Lepidoptera | AACCT | ACAGGC | pacbio |
 | *Apotomis turbidana* | Tortricidae | Lepidoptera | AACCT | ACTGATAGAT | assembly |
@@ -764,6 +771,7 @@
 | *Aeshna mixta* | Aeshnidae | Odonata | ATATAT | ATATATAT | pacbio |
 | *Coenagrion puella* | Coenagrionidae | Odonata | AGCCATCGCCAT | AGCCATCGCCATAGCCATCGCCAT | pacbio |
 | *Enallagma cyathigerum* | Coenagrionidae | Odonata | ACACAC | ACACACAC | pacbio |
+| *Ischnura elegans* | Coenagrionidae | Odonata | AGATC |  | assembly |
 | *Ischnura elegans* | Coenagrionidae | Odonata | AACCC |  | pacbio |
 | *Chalcolestes viridis* | Lestidae | Odonata | AACCC | ACACAC | pacbio |
 | *Sympetrum striolatum* | Libellulidae | Odonata | ACACAC | ACTCACTC | pacbio |
@@ -776,7 +784,9 @@
 | *Meconema thalassinum* | Tettigoniidae | Orthoptera | AACCT | AACCTAACCT | pacbio |
 | *Chloroperla tripunctata* | Chloroperlidae | Plecoptera | ACTACT | AGATAGAT | pacbio |
 | *Leuctra nigra* | Leuctridae | Plecoptera | AACCT |  | pacbio |
+| *Nemoura dubitans* | Nemouridae | Plecoptera | ATCATC | ATCATCATC | assembly |
 | *Nemoura dubitans* | Nemouridae | Plecoptera | AACCT | AGAGC | pacbio |
+| *Nemurella pictetii* | Nemouridae | Plecoptera | AGCAGC | AACCT | assembly |
 | *Nemurella pictetii* | Nemouridae | Plecoptera | AACCT | AAGTAG | pacbio |
 | *Isoperla grammatica* | Perlodidae | Plecoptera | AAATAAAT | AACCT | pacbio |
 | *Brachyptera putata* | Taeniopterygidae | Plecoptera | ATATAT | ATATATATAT | assembly |

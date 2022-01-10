@@ -3,6 +3,7 @@
 | Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
 | -- | --- | --- | --- | --- | --- |
 | *Cerastoderma edule* | Cardiidae | Cardiida | AACCCT | AACCCTAACCCT | pacbio |
+| *Gari tellinella* | Psammobiidae | Cardiida | AACCCT | AACCCTAACCCT | assembly |
 | *Gari tellinella* | Psammobiidae | Cardiida | AACCCT | AACCCTAACCCT | pacbio |
 | *Macomangulus tenuis* | Tellinidae | Cardiida | AACCCT | AACATGGT | pacbio |
 | *Magallana gigas* | Ostreidae | Ostreida | AACCCT | AACCCTAACCCT | pacbio |

@@ -1,9 +1,11 @@
 species	telo_seq_1	telo_seq_2	type
 ANDRENA HAEM	AAACGAGTC	AAACGAGTCAAACGAGTC	assembly
 Abrostola tripartita	AACCT	AACCTAACCT	assembly
+Acleris sparsana	AACCT	AACCTAACCT	assembly
 Acronicta aceris	AACCT	AACCTAACCT	assembly
 Adalia bipunctata	AAAAATTC	AACCT	assembly
 Aelia acuminata	AACCATCCCT		assembly
+Agonopterix subpropinquella	AACCT	AACCTAACCT	assembly
 Agriopis aurantiaria	AACCT	AACCTAACCT	assembly
 Agrochola circellaris	AACCT	AACCTAACCT	assembly
 Agrochola macilenta	AACCT	AACCTAACCT	assembly
@@ -16,6 +18,7 @@ Anthocharis cardamines	AACCT	AACCTAACCT	assembly
 Apamea monoglypha	AACCT	AACCTAACCT	assembly
 Aphantopus hyperantus	AACCT	AACCTAACCT	assembly
 Aplidium turbinatum	AACCCT	AACCCTAACCCT	assembly
+Aplocera efformata	AACCT	AACCTAACCT	assembly
 Apoderus coryli	AACCC	AACCCAACCC	assembly
 Aporia crataegi	AACCT	AACCTAACCT	assembly
 Apotomis turbidana	AACCT	ACTGATAGAT	assembly
@@ -82,6 +85,7 @@ Endotricha flammealis	AACCT	AACCTAACCT	assembly
 Ennomos fuscantarius	AACCT	AACCTAACCT	assembly
 Ennomos quercinarius	AACCT	AACCTAACCT	assembly
 Erannis defoliaria	AACCT	AACCTAACCT	assembly
+Erebia aethiops	AACCT	AACCTAACCT	assembly
 Erebia ligea	AACCT	AACCTAACTACCT	assembly
 Eristalis arbustorum	AGCTATG	ATATAT	assembly
 Eristalis pertinax	AACTG	AAACAAAT	assembly
@@ -90,10 +94,12 @@ Erithacus rubecula	AAGGAAGG	AGAGG	assembly
 Erynnis tages	AACCT	AACCTAACCT	assembly
 Eulithis prunata	AACCT	AACCTAACCT	assembly
 Eupeodes latifasciatus	ACCATG	ATCATC	assembly
+Euplexia lucipara	AACCT	AAATG	assembly
 Euproctis similis	AACCT	AACCTAACCT	assembly
 Eupsilia transversa	AACCT	AACCTAACCT	assembly
 Fabriciana adippe	AACCT	AACCTAACCT	assembly
 Furcula furcula	AACCT	AACCTAACCT	assembly
+Gari tellinella	AACCCT	AACCCTAACCCT	assembly
 Glaucopsyche alexis	AACCT	AACCTAACCT	assembly
 Griposia aprilina	AACCT	AACCTAACCT	assembly
 Gymnosoma rotundatum	AAAAAAAATT	AATAAT	assembly
@@ -112,6 +118,7 @@ Ichneumon xanthorius	ACGATG	AACGAC	assembly
 Idaea aversata	AACCT	AACCTAACCT	assembly
 Impatiens glandulifera	AAGCATT	AAGCATC	assembly
 Inachis io	AACCT	AACCTAACCT	assembly
+Ischnura elegans	AGATC		assembly
 Laothoe populi	AACCT	AACCTAACCT	assembly
 Lasioglossum lativentre	AATAT	AACCCAGACCT	assembly
 Lasioglossum morio	AACGTAT	AACGCAT	assembly
@@ -131,9 +138,11 @@ Malachius bipustulatus	ACCTG	ACCTGACCTG	assembly
 Malus sylvestris	AAACCCT	AAACCCTAAACCCT	assembly
 Mamestra brassicae	AACCT	AACCTAACCT	assembly
 Maniola jurtina	AACCT	AACCTAACCT	assembly
+Marasmarcha lunaedactyla	AACCT	AACCTAACCT	assembly
 Marthasterias glacialis	AACCCT	AACCCTAACCCT	assembly
 Melanargia galathea	AACCT	AACCTAACCT	assembly
 Melanostoma mellinum	AACAAC	AACAACAAC	assembly
+Meles meles			assembly
 Melitaea cinxia	AACCT	AACCTAACCT	assembly
 Mellicta athalia	AACCT	AACCTAACCT	assembly
 Membranipora membranacea	AAACCCC	AACCCCG	assembly
@@ -142,6 +151,8 @@ Mimas tiliae	AACCT	AACCTAACCT	assembly
 Mimumesa dahlbomi	ACCTG	ACCTGACCTG	assembly
 Mythimna ferrago	AACCT	AACCTAACCT	assembly
 Mythimna impura	AACCT	AACCTAACCT	assembly
+Nemoura dubitans	ATCATC	ATCATCATC	assembly
+Nemurella pictetii	AGCAGC	AACCT	assembly
 Noctua fimbriata	AACCT	AACCTAACCT	assembly
 Noctua janthe	AACCT	AACCTAACCT	assembly
 Noctua pronuba	AACCT	AACCTAACCT	assembly
@@ -169,6 +180,7 @@ Pheosia tremula	AACCT	AACCTAACCT	assembly
 Philereme vetulata	AACCT	AACCTAACCT	assembly
 Phlogophora meticulosa	AACCT	AACCTAACCT	assembly
 Pholis gunnellus	AACCCT	AACCCTAACCCT	assembly
+Phorcus lineatus	AACCCT	AAACAC	assembly
 Pieris brassicae	AACCT	AACCTAACCT	assembly
 Pieris napi	AACCT	AACCTAACCT	assembly
 Pieris rapae	AACCT	AACCTAACCT	assembly
@@ -192,6 +204,7 @@ Scyliorhinus canicula	AACCCT	AGATAGAT	assembly
 Seladonia tumulorum	AACCCT	AACCCTAACCCT	assembly
 Selenia dentaria	AACCT	AACCTAACCT	assembly
 Sesia apiformis	AACCT	AACCTAACCT	assembly
+Sicus ferrugineus	AAGTC	AAGTCAAGTC	assembly
 Sphecodes monilicornis	AACCCAGACCT	AATATACTAG	assembly
 Spilarctia lutea	AACCT	AACCTAACCT	assembly
 Spilosoma lubricipeda	AACCT	AACCTAACCT	assembly

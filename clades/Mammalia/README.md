@@ -8,6 +8,7 @@
 | *Canis lupus* | Canidae | Carnivora | AACCCT | AACCCTAACCCT | assembly |
 | *Canis lupus* | Canidae | Carnivora | AACCCT | AACCCTAACCCT | pacbio |
 | *Lutra lutra* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | assembly |
+| *Meles meles* | Mustelidae | Carnivora |  |  | assembly |
 | *Meles meles* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | pacbio |
 | *Pipistrellus pipistrellus* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | assembly |
 | *Sorex araneus* | Soricidae | Eulipotyphla | AACCCT | AACCCTAACCCT | pacbio |

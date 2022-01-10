@@ -31,6 +31,7 @@
 | *Cornu aspersum* | Helicidae | Stylommatophora | ACTACT | AGATAGAT | pacbio |
 | *Calliostoma zizyphinum* | Calliostomatidae | Trochida | AACCCT | AAACCCT | pacbio |
 | *Gibbula magus* | Trochidae | Trochida | AACATG | AACCCT | pacbio |
+| *Phorcus lineatus* | Trochidae | Trochida | AACCCT | AAACAC | assembly |
 | *Phorcus lineatus* | Trochidae | Trochida | AACCCT | AACCCTAACCCT | pacbio |
 | *Steromphala cineraria* | Trochidae | Trochida | AACCCT | AACCCTAACCCT | assembly |
 | *Steromphala cineraria* | Trochidae | Trochida | AACCCT | AACCCTAACCCT | pacbio |
