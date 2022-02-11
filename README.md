@@ -78,6 +78,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Podabrus alpinus* | Cantharidae | Coleoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Rhagonycha fulva* | Cantharidae | Coleoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Rhagonycha fulva* | Cantharidae | Coleoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Agonum fuliginosum* | Carabidae | Coleoptera | Insecta | ACACAC | ACACAT | pacbio |
 | *Demetrias atricapillus* | Carabidae | Coleoptera | Insecta | ACATACAT | ACATACATACAT | pacbio |
 | *Dromius quadrimaculatus* | Carabidae | Coleoptera | Insecta |  |  | pacbio |
 | *Harpalus rufipes* | Carabidae | Coleoptera | Insecta | ACATACAT | ACACAC | pacbio |
@@ -187,6 +188,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Phyto melanocephala* | Rhinophoridae | Diptera | Insecta | AAATT | AACAT | pacbio |
 | *Rhinophora lepida* | Rhinophoridae | Diptera | Insecta | ACATACAT | ACATAT | pacbio |
 | *Blaesoxipha plumicornis* | Sarcophagidae | Diptera | Insecta | AAAAC | AAAACAAAAC | pacbio |
+| *Sarcophaga caerulescens* | Sarcophagidae | Diptera | Insecta | AATAG | AATAGAATAG | assembly |
 | *Sarcophaga caerulescens* | Sarcophagidae | Diptera | Insecta | AATAG | AATAGAATAG | pacbio |
 | *Sarcophaga carnaria* | Sarcophagidae | Diptera | Insecta | AATAG | AATAGAATAG | pacbio |
 | *Sarcophaga crassimargo* | Sarcophagidae | Diptera | Insecta | AATAG | AATAGAATAG | pacbio |
@@ -309,6 +311,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Grypocoris stysi* | Miridae | Hemiptera | Insecta | AACCATCCCT | AACCATCCCTAACCATCCCT | pacbio |
 | *Lygus pratensis* | Miridae | Hemiptera | Insecta | AACACTCCCT |  | pacbio |
 | *Pantilius tunicatus* | Miridae | Hemiptera | Insecta |  |  | pacbio |
+| *Rhabdomiris striatellus* | Miridae | Hemiptera | Insecta | AACCATCCCT | AACCATCCCTAACCATCCCT | pacbio |
 | *Stenodema laevigata* | Miridae | Hemiptera | Insecta | AACCATCCCT | ACATACAT | pacbio |
 | *Icerya purchasi* | Monophlebidae | Hemiptera | Insecta | AATAAT | AATAATAAT | pacbio |
 | *Himacerus apterus* | Nabidae | Hemiptera | Insecta | ACACAC | ACACACAC | pacbio |
@@ -427,9 +430,11 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Blastobasis lacticolella* | Blastobasidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | Insecta | AACCT | AACAAC | pacbio |
+| *Agriphila geniculea* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Agriphila geniculea* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Agriphila straminella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Agriphila tristella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Calamotropha paludella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Calamotropha paludella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Catoptria pinella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Chrysoteuchia culmella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
@@ -490,6 +495,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Recurvaria leucatella* | Gelechiidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Agriopis marginaria* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Apeira syringaria* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Aplocera efformata* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Aplocera efformata* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -528,6 +534,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Idaea aversata* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Lobophora halterata* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Lomaspilis marginata* | Geometridae | Lepidoptera | Insecta | AACGTGAT | AATAGAT | pacbio |
+| *Macaria notata* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Macaria notata* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Operophtera brumata* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Operophtera fagata* | Geometridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -585,6 +592,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Polyommatus icarus* | Lycaenidae | Lepidoptera | Insecta | AACTCG | AACCT | pacbio |
 | *Satyrium w-album* | Lycaenidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Thecla betulae* | Lycaenidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Micropterix aruncella* | Micropterigidae | Lepidoptera | Insecta | AAGACGGTAAGTGTGTATGTATGT | AACCT | pacbio |
 | *Mompha ochraceella* | Momphidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Abrostola tripartita* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Abrostola tripartita* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -640,6 +648,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Hoplodrina octogenaria* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Hydraecia micacea* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Hydraecia micacea* | Noctuidae | Lepidoptera | Insecta | AACCT |  | pacbio |
+| *Luperina testacea* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Luperina testacea* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Mamestra brassicae* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Mamestra brassicae* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -787,6 +796,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Tinea trinotella* | Tineidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Tinea trinotella* | Tineidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Acleris cristana* | Tortricidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Acleris emargana* | Tortricidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Acleris emargana* | Tortricidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Acleris rhombana* | Tortricidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Acleris sparsana* | Tortricidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |

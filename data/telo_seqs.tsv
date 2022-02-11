@@ -1,12 +1,14 @@
 species	telo_seq_1	telo_seq_2	type
 ANDRENA HAEM	AAACGAGTC	AAACGAGTCAAACGAGTC	assembly
 Abrostola tripartita	AACCT	AACCTAACCT	assembly
+Acleris emargana	AACCT	AACCTAACCT	assembly
 Acleris sparsana	AACCT	AACCTAACCT	assembly
 Acronicta aceris	AACCT	AACCTAACCT	assembly
 Adalia bipunctata	AAAAATTC	AACCT	assembly
 Aelia acuminata	AACCATCCCT		assembly
 Agonopterix subpropinquella	AACCT	AACCTAACCT	assembly
 Agriopis aurantiaria	AACCT	AACCTAACCT	assembly
+Agriphila geniculea	AACCT	AACCTAACCT	assembly
 Agrochola circellaris	AACCT	AACCTAACCT	assembly
 Agrochola macilenta	AACCT	AACCTAACCT	assembly
 Amphipyra berbera	AACCT	AACCTAACCT	assembly
@@ -44,6 +46,7 @@ Bombus sylvestris	AACCCGAACCT	AACGTAT	assembly
 Bombus terrestris	AACGTAT	AACCCCAACCT	assembly
 Brachyptera putata	ATATAT	ATATATATAT	assembly
 Bufo bufo	AACCCT	AACCCTAACCCT	assembly
+Calamotropha paludella	AACCT	AACCTAACCT	assembly
 Campaea margaritaria	AACCT	AACCTAACCT	assembly
 Canis lupus	AACCCT	AACCCTAACCCT	assembly
 Cantharis rustica	AACCT	AACCTAACCT	assembly
@@ -128,11 +131,13 @@ Limenitis camilla	AACCT	AACCTAACCT	assembly
 Limnephilus lunatus	AACCT	AACCTAACCT	assembly
 Limnephilus marmoratus	AACCT	AACCTAACCT	assembly
 Lineus longissimus	AACCCT	AACCCTAACCCT	assembly
+Luperina testacea	AACCT	AACCTAACCT	assembly
 Lutra lutra	AACCCT	AACCCTAACCCT	assembly
 Lycaena phlaeas	AACCT	AACCTAACCT	assembly
 Lymantria monacha	AACCT	AACCTAACCT	assembly
 Lysandra bellargus	AACCT	AACCTAACCT	assembly
 Lysandra coridon	AACCT	AACCTAACCT	assembly
+Macaria notata	AACCT	AACCTAACCT	assembly
 Macropis europaea	AACCC		assembly
 Malachius bipustulatus	ACCTG	ACCTGACCTG	assembly
 Malus sylvestris	AAACCCT	AAACCCTAAACCCT	assembly
@@ -196,6 +201,7 @@ Rattus norvegicus	AACCCT	AACCCTAACCCT	assembly
 Rhagonycha fulva	AACCT	AACCTAACCT	assembly
 Sacculina carcini	AACCT	AACCTAACCT	assembly
 Salmo trutta	ACACAC	AACCCT	assembly
+Sarcophaga caerulescens	AATAG	AATAGAATAG	assembly
 Scaeva pyrastri			assembly
 Schrankia costaestrigalis	AACCT	AACCTAACCT	assembly
 Sciurus carolinensis	AACCCT	AACCCTAACCCT	assembly
@@ -261,7 +267,9 @@ Agonopterix arenella	AACCT	AGGAT	pacbio
 Agonopterix heracliana	AACCT	AACCTAACCT	pacbio
 Agonopterix ocellana	AACCT	AACCTAACCT	pacbio
 Agonopterix subpropinquella	AACCT	AACCTAACCT	pacbio
+Agonum fuliginosum	ACACAC	ACACAT	pacbio
 Agriopis aurantiaria	AACCT	AACCTAACCT	pacbio
+Agriopis marginaria	AACCT	AACCTAACCT	pacbio
 Agriotes lineatus	AAAGGTCACC	AAGCC	pacbio
 Agriphila geniculea	AACCT	AACCTAACCT	pacbio
 Agriphila straminella	AACCT	AACCTAACCT	pacbio
@@ -825,6 +833,7 @@ Metacallophyllis laciniata	ACAGGCGTGCCC	AAGCGAGATGCAAGCGATGC	pacbio
 Metellina segmentata	AACTTGT	ACTATGG	pacbio
 Metschnikowia zobellii			pacbio
 Microchlamylla gracilis	ACAGTAGC	AACCCT	pacbio
+Micropterix aruncella	AAGACGGTAAGTGTGTATGTATGT	AACCT	pacbio
 Miltochrista miniata	AACCT	AACCTAACCT	pacbio
 Mimachlamys varia	AACCCT	AACCCTAACCCT	pacbio
 Mimas tiliae	AACCT	AACCTAACCT	pacbio
@@ -1018,6 +1027,7 @@ Ranunculus bulbosus	AACCCCG	AACCCCGAACCCCG	pacbio
 Rattus norvegicus	AACCCT	AACCCTAACCCT	pacbio
 Recurvaria leucatella	AACCT	AACCTAACCT	pacbio
 Reynoutria japonica	AAACCCT	AACAAC	pacbio
+Rhabdomiris striatellus	AACCATCCCT	AACCATCCCTAACCATCCCT	pacbio
 Rhagio tringarius	AAAATAAAT	AAATAAAT	pacbio
 Rhagonycha fulva	AACCT	AACCTAACCT	pacbio
 Rhamnus cathartica	AAACCCT	AAACCCTAAACCCT	pacbio

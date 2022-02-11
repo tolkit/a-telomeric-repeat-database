@@ -11,6 +11,7 @@
 | *Podabrus alpinus* | Cantharidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
 | *Rhagonycha fulva* | Cantharidae | Coleoptera | AACCT | AACCTAACCT | assembly |
 | *Rhagonycha fulva* | Cantharidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
+| *Agonum fuliginosum* | Carabidae | Coleoptera | ACACAC | ACACAT | pacbio |
 | *Demetrias atricapillus* | Carabidae | Coleoptera | ACATACAT | ACATACATACAT | pacbio |
 | *Dromius quadrimaculatus* | Carabidae | Coleoptera |  |  | pacbio |
 | *Harpalus rufipes* | Carabidae | Coleoptera | ACATACAT | ACACAC | pacbio |
@@ -120,6 +121,7 @@
 | *Phyto melanocephala* | Rhinophoridae | Diptera | AAATT | AACAT | pacbio |
 | *Rhinophora lepida* | Rhinophoridae | Diptera | ACATACAT | ACATAT | pacbio |
 | *Blaesoxipha plumicornis* | Sarcophagidae | Diptera | AAAAC | AAAACAAAAC | pacbio |
+| *Sarcophaga caerulescens* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | assembly |
 | *Sarcophaga caerulescens* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | pacbio |
 | *Sarcophaga carnaria* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | pacbio |
 | *Sarcophaga crassimargo* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | pacbio |
@@ -242,6 +244,7 @@
 | *Grypocoris stysi* | Miridae | Hemiptera | AACCATCCCT | AACCATCCCTAACCATCCCT | pacbio |
 | *Lygus pratensis* | Miridae | Hemiptera | AACACTCCCT |  | pacbio |
 | *Pantilius tunicatus* | Miridae | Hemiptera |  |  | pacbio |
+| *Rhabdomiris striatellus* | Miridae | Hemiptera | AACCATCCCT | AACCATCCCTAACCATCCCT | pacbio |
 | *Stenodema laevigata* | Miridae | Hemiptera | AACCATCCCT | ACATACAT | pacbio |
 | *Icerya purchasi* | Monophlebidae | Hemiptera | AATAAT | AATAATAAT | pacbio |
 | *Himacerus apterus* | Nabidae | Hemiptera | ACACAC | ACACACAC | pacbio |
@@ -360,9 +363,11 @@
 | *Blastobasis lacticolella* | Blastobasidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | AACCT | AACAAC | pacbio |
+| *Agriphila geniculea* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Agriphila geniculea* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Agriphila straminella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Agriphila tristella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Calamotropha paludella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Calamotropha paludella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Catoptria pinella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Chrysoteuchia culmella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -423,6 +428,7 @@
 | *Recurvaria leucatella* | Gelechiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Agriopis marginaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Apeira syringaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Aplocera efformata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Aplocera efformata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -461,6 +467,7 @@
 | *Idaea aversata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Lobophora halterata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Lomaspilis marginata* | Geometridae | Lepidoptera | AACGTGAT | AATAGAT | pacbio |
+| *Macaria notata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Macaria notata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Operophtera brumata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Operophtera fagata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -518,6 +525,7 @@
 | *Polyommatus icarus* | Lycaenidae | Lepidoptera | AACTCG | AACCT | pacbio |
 | *Satyrium w-album* | Lycaenidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Thecla betulae* | Lycaenidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Micropterix aruncella* | Micropterigidae | Lepidoptera | AAGACGGTAAGTGTGTATGTATGT | AACCT | pacbio |
 | *Mompha ochraceella* | Momphidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Abrostola tripartita* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Abrostola tripartita* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -573,6 +581,7 @@
 | *Hoplodrina octogenaria* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Hydraecia micacea* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Hydraecia micacea* | Noctuidae | Lepidoptera | AACCT |  | pacbio |
+| *Luperina testacea* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Luperina testacea* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Mamestra brassicae* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Mamestra brassicae* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -720,6 +729,7 @@
 | *Tinea trinotella* | Tineidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Tinea trinotella* | Tineidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acleris cristana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Acleris emargana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Acleris emargana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acleris rhombana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acleris sparsana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
