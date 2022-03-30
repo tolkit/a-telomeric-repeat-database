@@ -105,6 +105,7 @@
 | *Helina depuncta* | Muscidae | Diptera | AAATAAAT | AAAGTT | pacbio |
 | *Helina evecta* | Muscidae | Diptera | AAAGTT | AACATT | pacbio |
 | *Helina quadrum* | Muscidae | Diptera | AGATGAT | AATAG | pacbio |
+| *Hydrotaea cyrtoneurina* | Muscidae | Diptera | AATACT | AAATTAAT | pacbio |
 | *Lophosceles cinereiventris* | Muscidae | Diptera | AAATG | AAATCTGAAATG | pacbio |
 | *Mesembrina meridiana* | Muscidae | Diptera | AAATAACT | ACAGACTG | pacbio |
 | *Morellia simplex* | Muscidae | Diptera | AATAAT | AAATAT | pacbio |
@@ -187,6 +188,7 @@
 | *Syrphus ribesii* | Syrphidae | Diptera | AACAAC | ATGCCC | pacbio |
 | *Volucella inanis* | Syrphidae | Diptera | ACAGGTG | AAATAAC | assembly |
 | *Volucella inanis* | Syrphidae | Diptera | AAATAAC | AAATAAT | pacbio |
+| *Volucella inflata* | Syrphidae | Diptera | AATAAT |  | assembly |
 | *Volucella inflata* | Syrphidae | Diptera | AATAAT |  | pacbio |
 | *Volucella pellucens* | Syrphidae | Diptera | AATAAT | AATAATAAT | pacbio |
 | *Xanthogramma pedissequum* | Syrphidae | Diptera | ACAGACTG | AATAG | assembly |
@@ -302,6 +304,7 @@
 | *Nysson spinosus* | Crabronidae | Hymenoptera | AACCCAGACCT |  | pacbio |
 | *Pemphredon lugubris* | Crabronidae | Hymenoptera |  |  | pacbio |
 | *Trypoxylon clavicerum* | Crabronidae | Hymenoptera |  |  | pacbio |
+| *Lasius niger* | Formicidae | Hymenoptera | AACCT | AACCTAACCT | pacbio |
 | *Myrmica ruginodis* | Formicidae | Hymenoptera | AACCT | AGCAGC | pacbio |
 | *Lasioglossum calceatum* | Halictidae | Hymenoptera | AACGTAT | AACGTAC | pacbio |
 | *Lasioglossum lativentre* | Halictidae | Hymenoptera | AATAT | AACCCAGACCT | assembly |
@@ -363,9 +366,11 @@
 | *Blastobasis lacticolella* | Blastobasidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | AACCT | AACAAC | pacbio |
+| *Acentria ephemerella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Agriphila geniculea* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Agriphila geniculea* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Agriphila straminella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Agriphila tristella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Agriphila tristella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Calamotropha paludella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Calamotropha paludella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -387,6 +392,8 @@
 | *Agonopterix ocellana* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Carcina quercana* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Carcina quercana* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Habrosyne pyritoides* | Drepanidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Habrosyne pyritoides* | Drepanidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Thyatira batis* | Drepanidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -581,6 +588,7 @@
 | *Hoplodrina octogenaria* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Hydraecia micacea* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Hydraecia micacea* | Noctuidae | Lepidoptera | AACCT |  | pacbio |
+| *Lacanobia wlatinum* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Luperina testacea* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Luperina testacea* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Mamestra brassicae* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -652,6 +660,7 @@
 | *Fabriciana adippe* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Fabriciana adippe* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Hipparchia semele* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Lasiommata megera* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Lasiommata megera* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Limenitis camilla* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Limenitis camilla* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -676,8 +685,6 @@
 | *Vanessa cardui* | Nymphalidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Crassa unitella* | Oecophoridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Papilio machaon* | Papilionidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
-| *Carcina quercana* | Peleopodidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
-| *Carcina quercana* | Peleopodidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Anthocharis cardamines* | Pieridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Anthocharis cardamines* | Pieridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Aporia crataegi* | Pieridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -699,6 +706,7 @@
 | *Marasmarcha lunaedactyla* | Pterophoridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acrobasis consociella* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acrobasis repandana* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Acrobasis suavella* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Endotricha flammealis* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Endotricha flammealis* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Hypsopygia costalis* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |

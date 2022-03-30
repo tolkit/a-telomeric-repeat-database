@@ -106,6 +106,7 @@
 | *Veronica hederifolia* | Plantaginaceae | Lamiales | AAGAAG | AAGAAGAAG | pacbio |
 | *Veronica spicata* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Buddleja davidii* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Scrophularia auriculata* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Scrophularia nodosa* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Verbena officinalis* | Verbenaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Colchicum autumnale* | Colchicaceae | Liliales | AAACCCT | AAACCCTAAACCCT | pacbio |

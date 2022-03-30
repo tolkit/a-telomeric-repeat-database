@@ -67,6 +67,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Stigmatogaster subterranea* | Himantariidae | Geophilomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
 | *Lithobius forficatus* | Lithobiidae | Lithobiomorpha | Chilopoda | AAAGTCG | AAAGTCGAAAGTCG | pacbio |
 | *Lithobius melanops* | Lithobiidae | Lithobiomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
+| *Lithobius piceus* | Lithobiidae | Lithobiomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
 | *Lithobius variegatus* | Lithobiidae | Lithobiomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
 | *Glomeris marginata* | Glomeridae | Glomerida | Diplopoda | AACCT | AAGTGTCCG | pacbio |
 | *Apoderus coryli* | Attelabidae | Coleoptera | Insecta | AACCC | AACCCAACCC | assembly |
@@ -172,6 +173,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Helina depuncta* | Muscidae | Diptera | Insecta | AAATAAAT | AAAGTT | pacbio |
 | *Helina evecta* | Muscidae | Diptera | Insecta | AAAGTT | AACATT | pacbio |
 | *Helina quadrum* | Muscidae | Diptera | Insecta | AGATGAT | AATAG | pacbio |
+| *Hydrotaea cyrtoneurina* | Muscidae | Diptera | Insecta | AATACT | AAATTAAT | pacbio |
 | *Lophosceles cinereiventris* | Muscidae | Diptera | Insecta | AAATG | AAATCTGAAATG | pacbio |
 | *Mesembrina meridiana* | Muscidae | Diptera | Insecta | AAATAACT | ACAGACTG | pacbio |
 | *Morellia simplex* | Muscidae | Diptera | Insecta | AATAAT | AAATAT | pacbio |
@@ -254,6 +256,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Syrphus ribesii* | Syrphidae | Diptera | Insecta | AACAAC | ATGCCC | pacbio |
 | *Volucella inanis* | Syrphidae | Diptera | Insecta | ACAGGTG | AAATAAC | assembly |
 | *Volucella inanis* | Syrphidae | Diptera | Insecta | AAATAAC | AAATAAT | pacbio |
+| *Volucella inflata* | Syrphidae | Diptera | Insecta | AATAAT |  | assembly |
 | *Volucella inflata* | Syrphidae | Diptera | Insecta | AATAAT |  | pacbio |
 | *Volucella pellucens* | Syrphidae | Diptera | Insecta | AATAAT | AATAATAAT | pacbio |
 | *Xanthogramma pedissequum* | Syrphidae | Diptera | Insecta | ACAGACTG | AATAG | assembly |
@@ -369,6 +372,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Nysson spinosus* | Crabronidae | Hymenoptera | Insecta | AACCCAGACCT |  | pacbio |
 | *Pemphredon lugubris* | Crabronidae | Hymenoptera | Insecta |  |  | pacbio |
 | *Trypoxylon clavicerum* | Crabronidae | Hymenoptera | Insecta |  |  | pacbio |
+| *Lasius niger* | Formicidae | Hymenoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Myrmica ruginodis* | Formicidae | Hymenoptera | Insecta | AACCT | AGCAGC | pacbio |
 | *Lasioglossum calceatum* | Halictidae | Hymenoptera | Insecta | AACGTAT | AACGTAC | pacbio |
 | *Lasioglossum lativentre* | Halictidae | Hymenoptera | Insecta | AATAT | AACCCAGACCT | assembly |
@@ -430,9 +434,11 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Blastobasis lacticolella* | Blastobasidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | Insecta | AACCT | AACAAC | pacbio |
+| *Acentria ephemerella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Agriphila geniculea* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Agriphila geniculea* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Agriphila straminella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Agriphila tristella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Agriphila tristella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Calamotropha paludella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Calamotropha paludella* | Crambidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -454,6 +460,8 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Agonopterix ocellana* | Depressariidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Carcina quercana* | Depressariidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
+| *Carcina quercana* | Depressariidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Habrosyne pyritoides* | Drepanidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Habrosyne pyritoides* | Drepanidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Thyatira batis* | Drepanidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
@@ -648,6 +656,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Hoplodrina octogenaria* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Hydraecia micacea* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Hydraecia micacea* | Noctuidae | Lepidoptera | Insecta | AACCT |  | pacbio |
+| *Lacanobia wlatinum* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Luperina testacea* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Luperina testacea* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Mamestra brassicae* | Noctuidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
@@ -719,6 +728,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Fabriciana adippe* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Fabriciana adippe* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Hipparchia semele* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Lasiommata megera* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Lasiommata megera* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Limenitis camilla* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Limenitis camilla* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -743,8 +753,6 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Vanessa cardui* | Nymphalidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Crassa unitella* | Oecophoridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Papilio machaon* | Papilionidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
-| *Carcina quercana* | Peleopodidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
-| *Carcina quercana* | Peleopodidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Anthocharis cardamines* | Pieridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Anthocharis cardamines* | Pieridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Aporia crataegi* | Pieridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
@@ -766,6 +774,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Marasmarcha lunaedactyla* | Pterophoridae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Acrobasis consociella* | Pyralidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Acrobasis repandana* | Pyralidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Acrobasis suavella* | Pyralidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Endotricha flammealis* | Pyralidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Endotricha flammealis* | Pyralidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Hypsopygia costalis* | Pyralidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
@@ -1040,6 +1049,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Steromphala cineraria* | Trochidae | Trochida | Gastropoda | AACCCT | AACCCTAACCCT | pacbio |
 | *Acanthochitona crinita* | Acanthochitonidae | Chitonida | Polyplacophora | AACCCT | AACAT | pacbio |
 | *Mucor piriformis* | Mucoraceae | Mucorales | Mucoromycetes | AAAAA | CCCCC | pacbio |
+| *Caenorhabditis monodelphis* | Rhabditidae | Rhabditida | Chromadorea | AAGCCT | AAGCCTAAGCCT | pacbio |
 | *Dioctophyme renale* | Dioctophymatidae | Dioctophymatida | Enoplea | ACGATG | ATCATC | pacbio |
 | *Lineus longissimus* | Lineidae | Heteronemertea | Pilidiophora | AACCCT | AACCCTAACCCT | assembly |
 | *Lineus longissimus* | Lineidae | Heteronemertea | Pilidiophora | AACCCT | ATCATC | pacbio |
@@ -1159,6 +1169,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Veronica hederifolia* | Plantaginaceae | Lamiales | Magnoliopsida | AAGAAG | AAGAAGAAG | pacbio |
 | *Veronica spicata* | Plantaginaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Buddleja davidii* | Scrophulariaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Scrophularia auriculata* | Scrophulariaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Scrophularia nodosa* | Scrophulariaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Verbena officinalis* | Verbenaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Colchicum autumnale* | Colchicaceae | Liliales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |

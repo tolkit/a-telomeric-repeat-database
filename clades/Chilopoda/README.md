@@ -5,4 +5,5 @@
 | *Stigmatogaster subterranea* | Himantariidae | Geophilomorpha | AACCT | AACCTAACCT | pacbio |
 | *Lithobius forficatus* | Lithobiidae | Lithobiomorpha | AAAGTCG | AAAGTCGAAAGTCG | pacbio |
 | *Lithobius melanops* | Lithobiidae | Lithobiomorpha | AACCT | AACCTAACCT | pacbio |
+| *Lithobius piceus* | Lithobiidae | Lithobiomorpha | AACCT | AACCTAACCT | pacbio |
 | *Lithobius variegatus* | Lithobiidae | Lithobiomorpha | AACCT | AACCTAACCT | pacbio |

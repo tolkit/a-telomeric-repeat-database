@@ -9,6 +9,7 @@ Aelia acuminata	AACCATCCCT		assembly
 Agonopterix subpropinquella	AACCT	AACCTAACCT	assembly
 Agriopis aurantiaria	AACCT	AACCTAACCT	assembly
 Agriphila geniculea	AACCT	AACCTAACCT	assembly
+Agriphila tristella	AACCT	AACCTAACCT	assembly
 Agrochola circellaris	AACCT	AACCTAACCT	assembly
 Agrochola macilenta	AACCT	AACCTAACCT	assembly
 Amphipyra berbera	AACCT	AACCTAACCT	assembly
@@ -125,6 +126,7 @@ Ischnura elegans	AGATC		assembly
 Laothoe populi	AACCT	AACCTAACCT	assembly
 Lasioglossum lativentre	AATAT	AACCCAGACCT	assembly
 Lasioglossum morio	AACGTAT	AACGCAT	assembly
+Lasiommata megera	AACCT	AACCTAACCT	assembly
 Laspeyria flexula	AACCT	AACCTAACCT	assembly
 Leptidea sinapis	AACCT	AACCTAACCT	assembly
 Limenitis camilla	AACCT	AACCTAACCT	assembly
@@ -218,6 +220,7 @@ Steromphala cineraria	AACCCT	AACCCTAACCCT	assembly
 Streptopelia turtur			assembly
 Synanthedon vespiformis	AACCT	AACCTAACCT	assembly
 Syritta pipiens	ACACAT		assembly
+TEST			assembly
 Tachina fera	ACTAT	ACTATACTAT	assembly
 Taurulus bubalis	AACCCT	AACCCTAACCCT	assembly
 Tenthredo notha	AACCT	AACCTAACCT	assembly
@@ -234,6 +237,7 @@ Vespa velutina	AACCCTGACGC	AACCCTGACGCAACCCTGACGC	assembly
 Vespula germanica	AACCCAGACGC		assembly
 Vespula vulgaris	AACCCAGACGC		assembly
 Volucella inanis	ACAGGTG	AAATAAC	assembly
+Volucella inflata	AATAAT		assembly
 Xanthogramma pedissequum	ACAGACTG	AATAG	assembly
 Xestia c-nigrum	AACCT	AACCTAACCT	assembly
 Xestia xanthographa	AACCT	AACCTAACCT	assembly
@@ -245,6 +249,7 @@ Abrostola tripartita	AACCT	AACCTAACCT	pacbio
 Acanthochitona crinita	AACCCT	AACAT	pacbio
 Acanthosoma haemorrhoidale	AAACCACCCT		pacbio
 Accipiter gentilis	AACCCT	AACCCTAACCCT	pacbio
+Acentria ephemerella	AACCT	AACCTAACCT	pacbio
 Acer campestre	AAACCCT	AAACCCTAAACCCT	pacbio
 Acleris cristana	AACCT	AACCTAACCT	pacbio
 Acleris emargana	AACCT	AACCTAACCT	pacbio
@@ -252,6 +257,7 @@ Acleris rhombana	AACCT	AACCTAACCT	pacbio
 Acleris sparsana	AACCT	AACCTAACCT	pacbio
 Acrobasis consociella	AACCT	AACCTAACCT	pacbio
 Acrobasis repandana	AACCT	AACCTAACCT	pacbio
+Acrobasis suavella	AACCT	AACCTAACCT	pacbio
 Acrocera orbiculus			pacbio
 Acronicta aceris	AACCT	AACCTAACCT	pacbio
 Acronicta rumicis	AACCT	AACCTAACCT	pacbio
@@ -403,6 +409,7 @@ Buddleja davidii	AAACCCT	AAACCCTAAACCCT	pacbio
 Bugulina stolonifera	ACAGT	AAACCCC	pacbio
 Butomus umbellatus	AAACCCT	AAACCCTAAACCCT	pacbio
 Buxus sempervirens	AAACCCT	CCCCC	pacbio
+Caenorhabditis monodelphis	AAGCCT	AAGCCTAAGCCT	pacbio
 Cakile maritima	AAACCCT	ACAGACT	pacbio
 Calamotropha paludella	AACCT	AACCTAACCT	pacbio
 Calliblepharis jubata	ATATAT	ATATATAT	pacbio
@@ -703,6 +710,7 @@ Hydrobius fuscipes			pacbio
 Hydrodictyon reticulatum	ACACAC	ACAGACAG	pacbio
 Hydromya dorsalis	AAATT	AAAATT	pacbio
 Hydropsyche siltalai	AACCT	AACCTAACCT	pacbio
+Hydrotaea cyrtoneurina	AATACT	AAATTAAT	pacbio
 Hylaea fasciaria	AACCT	AACCTAACCT	pacbio
 Hylaeus communis			pacbio
 Hylemya vagans	AAAATAT	AAATTAT	pacbio
@@ -729,6 +737,7 @@ Juncus effusus	AAACCCT	ATATAT	pacbio
 Kleidocerys resedae	AATAC	ACTCTGAG	pacbio
 Knautia arvensis	AGATAGAT	AATAAT	pacbio
 Korscheltellus lupulinus	AACCT	AACCG	pacbio
+Lacanobia wlatinum	AACCT	AACCTAACCT	pacbio
 Laetiporus sulphureus	CCCCC	CCCCCCC	pacbio
 Lamium album	AAACCCT	AAACCCTAAACCCT	pacbio
 Lamium purpureum	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -740,6 +749,7 @@ Lasioglossum malachurum	ACATCGT	AATGAATG	pacbio
 Lasioglossum morio	AACGTAT	AACGCAT	pacbio
 Lasioglossum pauxillum	AGCAGC	AACCT	pacbio
 Lasiommata megera	AACCT	AACCTAACCT	pacbio
+Lasius niger	AACCT	AACCTAACCT	pacbio
 Laspeyria flexula	AACCT	AACCTAACCT	pacbio
 Lathraea clandestina	AAACCCT	AAACCCTAAACCCT	pacbio
 Lathraea squamaria	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -770,6 +780,7 @@ Linyphia triangularis	AATAAT	ATATAT	pacbio
 Lipophrys pholis	AGATAGAT	AACCCT	pacbio
 Lithobius forficatus	AAAGTCG	AAAGTCGAAAGTCG	pacbio
 Lithobius melanops	AACCT	AACCTAACCT	pacbio
+Lithobius piceus	AACCT	AACCTAACCT	pacbio
 Lithobius variegatus	AACCT	AACCTAACCT	pacbio
 Littorina obtusata	AACCCT	ACACAC	pacbio
 Lobophora halterata	AACCT	AACCTAACCT	pacbio
@@ -1066,6 +1077,7 @@ Schrankia costaestrigalis	AACCT	AACCTAACCT	pacbio
 Scoliopteryx libatrix	AACCT	AACCTAACCT	pacbio
 Scopula imitaria	AACCT	AACCTAACCT	pacbio
 Scotopteryx chenopodiata	ACTCTG	AACCT	pacbio
+Scrophularia auriculata	AAACCCT	AAACCCTAAACCCT	pacbio
 Scrophularia nodosa	AAACCCT	AAACCCTAAACCCT	pacbio
 Scutellaria galericulata	AAACCCT	CCCCC	pacbio
 Scutellaria minor	AAACCCT	AATAAT	pacbio
