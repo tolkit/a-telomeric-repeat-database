@@ -31,6 +31,7 @@
 | *Cakile maritima* | Brassicaceae | Brassicales | AAACCCT | ACAGACT | pacbio |
 | *Lepidium draba* | Brassicaceae | Brassicales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Buxus sempervirens* | Buxaceae | Buxales | AAACCCT | CCCCC | pacbio |
+| *Agrostemma githago* | Caryophyllaceae | Caryophyllales | AATAAT | AAACCCT | pacbio |
 | *Cerastium fontanum* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Cerastium glomeratum* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Dianthus deltoides* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -43,6 +44,7 @@
 | *Persicaria maculosa* | Polygonaceae | Caryophyllales |  |  | pacbio |
 | *Polygonum aviculare* | Polygonaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
 | *Reynoutria japonica* | Polygonaceae | Caryophyllales | AAACCCT | AACAAC | pacbio |
+| *Rumex acetosa* | Polygonaceae | Caryophyllales | AACAAC | AACAACAAC | pacbio |
 | *Rumex hydrolapathum* | Polygonaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Rumex sanguineus* | Polygonaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
 | *Euonymus europaeus* | Celastraceae | Celastrales | AAACCCT | AAAAA | pacbio |
@@ -63,6 +65,7 @@
 | *Lotus corniculatus* | Fabaceae | Fabales | AAACCCT | AGATAGAT | pacbio |
 | *Medicago arabica* | Fabaceae | Fabales | AAACCCT | AAGAGATAC | pacbio |
 | *Onobrychis viciifolia* | Fabaceae | Fabales | AAACCCT | AAAAA | pacbio |
+| *Trifolium fragiferum* | Fabaceae | Fabales | AAACCCT | AACCCTG | pacbio |
 | *Trifolium pratense* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Ulex europaeus* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Vicia cracca* | Fabaceae | Fabales | AATAAT | AATAATAAT | pacbio |

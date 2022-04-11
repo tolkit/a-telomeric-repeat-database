@@ -5,6 +5,7 @@
 | *Telmatherina bonti* | Telmatherinidae | Atheriniformes | ACCAG | AACCCT | pacbio |
 | *Lipophrys pholis* | Blenniidae | Blenniiformes | AGATAGAT | AACCCT | pacbio |
 | *Trachurus trachurus* | Carangidae | Carangiformes | AAAAA | AACCCT | assembly |
+| *Trachurus trachurus* | Carangidae | Carangiformes |  |  | pacbio |
 | *Barbus barbus* | Cyprinidae | Cypriniformes | AACCCT | ACACAC | pacbio |
 | *Danio rerio* | Danionidae | Cypriniformes | AACCCT | AGATAGAT | pacbio |
 | *Taurulus bubalis* | Cottidae | Perciformes | AACCCT | AACCCTAACCCT | assembly |

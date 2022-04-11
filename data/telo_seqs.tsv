@@ -282,6 +282,7 @@ Agriphila straminella	AACCT	AACCTAACCT	pacbio
 Agriphila tristella	AACCT	AACCTAACCT	pacbio
 Agrochola circellaris	AACCT		pacbio
 Agrochola macilenta	AACCT	AACCTAACCT	pacbio
+Agrostemma githago	AATAAT	AAACCCT	pacbio
 Agrotis puta	AACCT	AACCTAACCT	pacbio
 Agrypnus murinus	AACCT	AAACTAT	pacbio
 Ailanthus altissima	AAACCCT	AATAAT	pacbio
@@ -560,6 +561,7 @@ Drymus ryeii	AACCTACCT	AACCATCCCT	pacbio
 Dryobotodes eremita	AACCT	AACCTAACCT	pacbio
 Dunaliella primolecta	ACACACAC	ACACAC	pacbio
 Dysdera crocata	AGATAGAT	ACTCACTC	pacbio
+Dysmachus trigonus			pacbio
 Dysstroma truncata	AACCT	AACCTAACCT	pacbio
 Ecdyonurus torrentis			pacbio
 Echinus esculentus	AACCCT	AACCCTAACCCT	pacbio
@@ -761,6 +763,7 @@ Lepidonotus clava	AACCCT		pacbio
 Leptidea sinapis	AACCT	AACCTAACCT	pacbio
 Leptoglossus occidentalis	ACACAC	AACCACCCCT	pacbio
 Leucocybe candicans			pacbio
+Leucophora personata	AAATAAAT	ACAGACAG	pacbio
 Leucozona laternaria	AATAG	AACAAC	pacbio
 Leuctra nigra	AACCT		pacbio
 Leymus arenarius	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -1053,6 +1056,7 @@ Rhopalus subrufus	ACTCACTC	ACTCACTCACTCACTC	pacbio
 Rhopobota naevana	AACCT	AACCTAACCT	pacbio
 Rhyparochromus vulgaris	AACCATCCCT	AATAAT	pacbio
 Rhytidiadelphus loreus			pacbio
+Rumex acetosa	AACAAC	AACAACAAC	pacbio
 Rumex hydrolapathum	AAACCCT	AAACCCTAAACCCT	pacbio
 Rumex sanguineus	AAACCCT	CCCCC	pacbio
 Rutpela maculata	AATAAT	ACACAC	pacbio
@@ -1123,21 +1127,28 @@ Steromphala cineraria	AACCCT	AACCCTAACCCT	pacbio
 Sthenelais limicola	AACCCT	AACCCTAACCCT	pacbio
 Stigmatogaster subterranea	AACCT	AACCTAACCT	pacbio
 Stomorhina lunata	AACTAGAACTG	AACAGAACTAG	pacbio
+Stratiomys singularior	AATCATC	AATCATCAATCATC	pacbio
 Styela clava	AACCCT	AACCCTAACCCT	pacbio
 Suaeda vera	AAACCCT	AATAAT	pacbio
 Subcoccinella vigintiquattuorpunctata	AACAT	AACATAACAT	pacbio
 Sympetrum striolatum	ACACAC	ACTCACTC	pacbio
 Synanthedon andrenaeformis	AACCT	AACCTAACCT	pacbio
+Synanthedon formicaeformis	AACCT	AACCTAACCT	pacbio
+Synanthedon myopaeformis	AACCT	AACCTAACCT	pacbio
 Synanthedon vespiformis	AACCT	AACCTAACCT	pacbio
 Syritta pipiens	ATCATC	ACACAT	pacbio
 Syrphus ribesii	AACAAC	ATGCCC	pacbio
+Tabanus autumnalis	ATCATC	ACACAC	pacbio
 Tabanus bromius	AAAACAT	ATCATC	pacbio
 Tachina fera	AATAG	AATAGAATAG	pacbio
+Tachina grossa	ACATAT	AATAG	pacbio
+Tachina lurida	ACATAT	AATAG	pacbio
 Tanacetum vulgare	AAACCCT	ATATAT	pacbio
 Taurulus bubalis	AACCCT	ACACAC	pacbio
 Teleogryllus oceanicus	AACCT	ACTACT	pacbio
 Telmatherina bonti	ACCAG	AACCCT	pacbio
 Tenthredo livida	AACCT		pacbio
+Tenthredo mesomela	AGGGATATC	AATGCAG	pacbio
 Tenthredo notha			pacbio
 Tephritis neesii	AAAAT	AAGACC	pacbio
 Terebella lapidaria	ACTGACTG	ACACAC	pacbio
@@ -1168,8 +1179,10 @@ Tinea trinotella	AACCT	AACCTAACCT	pacbio
 Tiphia femorata	AGAGAT		pacbio
 Tipula paludosa	AGATATAT	AGATAT	pacbio
 Tipula vernalis	AAAATGT	ACCATC	pacbio
+Trachurus trachurus			pacbio
 Trichoderma pseudokoningii	CCCCC	CCCCCC	pacbio
 Tricholauxania praeusta	AACTCACTC	AATAAT	pacbio
+Trifolium fragiferum	AAACCCT	AACCCTG	pacbio
 Trifolium pratense	AAACCCT	AAACCCTAAACCCT	pacbio
 Triodia sylvina	AACCT	AACCTAACCT	pacbio
 Tritia reticulata	ACTACT	AACCCT	pacbio

@@ -74,8 +74,10 @@
 | *Delia platura* | Anthomyiidae | Diptera | ACAGACAG | AAGTGTATGGC | pacbio |
 | *Hylemya vagans* | Anthomyiidae | Diptera | AAAATAT | AAATTAT | pacbio |
 | *Hylemya variata* | Anthomyiidae | Diptera | ACTAT | ACTATACTAT | pacbio |
+| *Leucophora personata* | Anthomyiidae | Diptera | AAATAAAT | ACAGACAG | pacbio |
 | *Choerades marginata* | Asilidae | Diptera |  |  | pacbio |
 | *Dioctria rufipes* | Asilidae | Diptera | AAAGGCG | AAAGGCGAAAGGCG | pacbio |
+| *Dysmachus trigonus* | Asilidae | Diptera |  |  | pacbio |
 | *Machimus atricapillus* | Asilidae | Diptera | ACAGACAG | AATAC | pacbio |
 | *Bibio marci* | Bibionidae | Diptera |  |  | assembly |
 | *Bibio marci* | Bibionidae | Diptera |  |  | pacbio |
@@ -138,6 +140,7 @@
 | *Pherbellia cinerella* | Sciomyzidae | Diptera |  |  | pacbio |
 | *Chloromyia formosa* | Stratiomyidae | Diptera | ACAGACAG | ACAGACAGACAG | pacbio |
 | *Oplodontha viridula* | Stratiomyidae | Diptera | ATATAT | ATATATAT | pacbio |
+| *Stratiomys singularior* | Stratiomyidae | Diptera | AATCATC | AATCATCAATCATC | pacbio |
 | *Baccha elongata* | Syrphidae | Diptera | AACAAC | ACATGTC | pacbio |
 | *Cheilosia illustrata* | Syrphidae | Diptera | AACAAC | AACAACAAC | pacbio |
 | *Cheilosia pagana* | Syrphidae | Diptera |  |  | pacbio |
@@ -195,6 +198,7 @@
 | *Xanthogramma pedissequum* | Syrphidae | Diptera | ACAGACTG | ATCATC | pacbio |
 | *Xylota sylvarum* | Syrphidae | Diptera | AGGATG | AGGATGAGGATG | assembly |
 | *Xylota sylvarum* | Syrphidae | Diptera | ACTGACTG | AGGATG | pacbio |
+| *Tabanus autumnalis* | Tabanidae | Diptera | ATCATC | ACACAC | pacbio |
 | *Tabanus bromius* | Tabanidae | Diptera | AAAACAT | ATCATC | pacbio |
 | *Actia lamia* | Tachinidae | Diptera | ACCTG | ACCTGACCTG | pacbio |
 | *Cistogaster globosa* | Tachinidae | Diptera | AATAT | AATAAT | pacbio |
@@ -209,6 +213,8 @@
 | *Phasia obesa* | Tachinidae | Diptera | ACATAT | AAATT | pacbio |
 | *Tachina fera* | Tachinidae | Diptera | ACTAT | ACTATACTAT | assembly |
 | *Tachina fera* | Tachinidae | Diptera | AATAG | AATAGAATAG | pacbio |
+| *Tachina grossa* | Tachinidae | Diptera | ACATAT | AATAG | pacbio |
+| *Tachina lurida* | Tachinidae | Diptera | ACATAT | AATAG | pacbio |
 | *Thecocarcelia acutangulata* | Tachinidae | Diptera | AATCAT | AATGAT | assembly |
 | *Thecocarcelia acutangulata* | Tachinidae | Diptera | AATCAT | AATCATAATCAT | pacbio |
 | *Anomoia purmunda* | Tephritidae | Diptera | AATGAT | AATAAT | pacbio |
@@ -339,6 +345,7 @@
 | *Athalia cordata* | Tenthredinidae | Hymenoptera |  |  | pacbio |
 | *Athalia rosae* | Tenthredinidae | Hymenoptera | AAAAA | AAAAAA | pacbio |
 | *Tenthredo livida* | Tenthredinidae | Hymenoptera | AACCT |  | pacbio |
+| *Tenthredo mesomela* | Tenthredinidae | Hymenoptera | AGGGATATC | AATGCAG | pacbio |
 | *Tenthredo notha* | Tenthredinidae | Hymenoptera | AACCT | AACCTAACCT | assembly |
 | *Tenthredo notha* | Tenthredinidae | Hymenoptera |  |  | pacbio |
 | *Tiphia femorata* | Tiphiidae | Hymenoptera | AGAGAT |  | pacbio |
@@ -720,6 +727,8 @@
 | *Sesia apiformis* | Sesiidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Sesia apiformis* | Sesiidae | Lepidoptera | AACCT |  | pacbio |
 | *Synanthedon andrenaeformis* | Sesiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Synanthedon formicaeformis* | Sesiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Synanthedon myopaeformis* | Sesiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Synanthedon vespiformis* | Sesiidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Synanthedon vespiformis* | Sesiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Deilephila porcellus* | Sphingidae | Lepidoptera | AACCT | AACCTAACCT | assembly |

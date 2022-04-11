@@ -13,8 +13,8 @@
 | *Pleurotus eryngii var. ferulae* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus eryngii var. eryngii* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus eryngii* | Pleurotaceae | Agaricales |  |  | pacbio |
-| *Pleurotus ostreatus var. ostreatus* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus sp. 'Florida'* | Pleurotaceae | Agaricales |  |  | pacbio |
+| *Pleurotus ostreatus var. ostreatus* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus ostreatus* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Laetiporus sulphureus var. sulphureus* | Laetiporaceae | Polyporales | CCCCC | CCCCCCC | pacbio |
 | *Laetiporus sulphureus* | Laetiporaceae | Polyporales | CCCCC | CCCCCCC | pacbio |
