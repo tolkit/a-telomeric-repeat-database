@@ -13,3 +13,4 @@
 | *Idotea granulosa* | Idoteidae | Isopoda | ATATAT | AGATAGATAT | pacbio |
 | *Oniscus asellus* | Oniscidae | Isopoda | ATATAT | ATATATAT | pacbio |
 | *Philoscia muscorum* | Philosciidae | Isopoda |  |  | pacbio |
+| *Porcellio spinicornis* | Porcellionidae | Isopoda | AGGATG | ACTCTG | pacbio |

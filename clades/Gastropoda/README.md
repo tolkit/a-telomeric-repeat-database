@@ -22,7 +22,6 @@
 | *Nucella lapillus* | Muricidae | Neogastropoda | ACACAC | ACTACT | pacbio |
 | *Tritia reticulata* | Nassariidae | Neogastropoda | ACTACT | AACCCT | pacbio |
 | *Crimora papillata* |  | Nudibranchia | ACTACT | ACTACTACT | pacbio |
-| *Microchlamylla gracilis* | Coryphellidae | Nudibranchia | ACAGTAGC | AACCCT | pacbio |
 | *Doris pseudoargus* | Dorididae | Nudibranchia | AAACAC | AACCCT | pacbio |
 | *Helicella itala* | Geomitridae | Stylommatophora | ACTACT | ACTACTACT | pacbio |
 | *Xeroplexa intersecta* | Geomitridae | Stylommatophora | AACTAACT | AACTAACTAACT | pacbio |

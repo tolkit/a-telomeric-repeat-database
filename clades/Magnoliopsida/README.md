@@ -40,6 +40,7 @@
 | *Silene dioica* | Caryophyllaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
 | *Silene latifolia* | Caryophyllaceae | Caryophyllales | AAACCCT | AATGCT | pacbio |
 | *Stellaria media* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Chenopodium album* | Chenopodiaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Suaeda vera* | Chenopodiaceae | Caryophyllales | AAACCCT | AATAAT | pacbio |
 | *Persicaria maculosa* | Polygonaceae | Caryophyllales |  |  | pacbio |
 | *Polygonum aviculare* | Polygonaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |

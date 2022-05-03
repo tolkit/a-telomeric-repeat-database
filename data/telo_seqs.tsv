@@ -457,12 +457,14 @@ Chalcolestes viridis	AACCC	ACACAC	pacbio
 Chamaemelum nobile	AAACCCT	ATATAT	pacbio
 Chamaenerion angustifolium	AAACCCT	CCCCC	pacbio
 Charanyca ferruginea	AACCT	ACACCTACCCT	pacbio
+Charanyca trigrammica	AACCT	AACCTAACCT	pacbio
 Cheilosia illustrata	AACAAC	AACAACAAC	pacbio
 Cheilosia pagana			pacbio
 Cheilosia soror			pacbio
 Cheilosia vulpina			pacbio
 Chelidonium majus	AAACCCT	AACCCT	pacbio
 Chelura terebrans			pacbio
+Chenopodium album	AAACCCT	AAACCCTAAACCCT	pacbio
 Chilocorus renipustulatus	ACTCTG	AAATATT	pacbio
 Chloroclysta siterata	AACCT	AACCTAACCT	pacbio
 Chloroclystis v-ata	AACCT	AACCTAACCT	pacbio
@@ -626,6 +628,7 @@ Euphorbia lathyris	AAACCCT	ACATACATAT	pacbio
 Euphorbia peplus	AACCCT	CCCCC	pacbio
 Euphrasia foulaensis	AAACCCT	AAACCCTAAACCCT	pacbio
 Euphydryas aurinia	AACCT	AACCTAACCT	pacbio
+Eupithecia abbreviata	AACCT	AACCTAACCT	pacbio
 Eupithecia centaureata	AACCT	AACCTAACCT	pacbio
 Eupithecia tripunctaria	AACCT	AACCTAACCT	pacbio
 Euplexia lucipara	AACCT	ACAGACAG	pacbio
@@ -763,6 +766,7 @@ Lepidonotus clava	AACCCT		pacbio
 Leptidea sinapis	AACCT	AACCTAACCT	pacbio
 Leptoglossus occidentalis	ACACAC	AACCACCCCT	pacbio
 Leucocybe candicans			pacbio
+Leucophora obtusa	AAATAAAT	AAATAAATAAAT	pacbio
 Leucophora personata	AAATAAAT	ACAGACAG	pacbio
 Leucozona laternaria	AATAG	AACAAC	pacbio
 Leuctra nigra	AACCT		pacbio
@@ -969,6 +973,7 @@ Phasia obesa	ACATAT	AAATT	pacbio
 Pheosia gnoma	AACCT		pacbio
 Pheosia tremula	AACCT		pacbio
 Pherbellia cinerella			pacbio
+Pherbina coryleti	AACATC	AGAGAT	pacbio
 Philereme vetulata	AACCT	AACCTAACCT	pacbio
 Philonthus cognatus	AACCT	ACAGACAG	pacbio
 Philoscia muscorum			pacbio
@@ -1020,11 +1025,13 @@ Polysphincta tuberosa	AAACAC	ACACAG	pacbio
 Polytrichum commune	AACCT	AGATAGAT	pacbio
 Populus tremula	AAACCCT	AAACCCTAAACCCT	pacbio
 Porcellana platycheles	AACCT	AAAGTTCCTCG	pacbio
+Porcellio spinicornis	AGGATG	ACTCTG	pacbio
 Potentilla anserina	AAACCCT	AACCT	pacbio
 Propylea quattuordecimpunctata	AACCT	AACCTAACCT	pacbio
 Protocalliphora azurea	AGATAT	ACATAT	pacbio
 Protodeltote pygarga	AACCT	AACCTAACCT	pacbio
 Pseudoips prasinana	AACCT	AACCTAACCT	pacbio
+Psila merdaria	AATAG	AATACC	pacbio
 Psoricoptera gibbosella	AACCT	AACCTAACCT	pacbio
 Pterostichus madidus	AATAAT	ATCCATCC	pacbio
 Pterostichus strenuus	AACCT	AACCTAACCT	pacbio
@@ -1042,6 +1049,7 @@ Rattus norvegicus	AACCCT	AACCCTAACCCT	pacbio
 Recurvaria leucatella	AACCT	AACCTAACCT	pacbio
 Reynoutria japonica	AAACCCT	AACAAC	pacbio
 Rhabdomiris striatellus	AACCATCCCT	AACCATCCCTAACCATCCCT	pacbio
+Rhagio annulatus	AATAAT	AAATAAAT	pacbio
 Rhagio tringarius	AAAATAAAT	AAATAAAT	pacbio
 Rhagonycha fulva	AACCT	AACCTAACCT	pacbio
 Rhamnus cathartica	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -1051,6 +1059,7 @@ Rhinophora lepida	ACATACAT	ACATAT	pacbio
 Rhithrogena germanica			pacbio
 Rhithrogena semicolorata	ACACAC	ACACACAC	pacbio
 Rhodomonas baltica	AAACCCT	ACACTC	pacbio
+Rhogogaster chlorosoma	AACCT	AACGAC	pacbio
 Rhopalus parumpunctatus	ACACAC	AAGCAT	pacbio
 Rhopalus subrufus	ACTCACTC	ACTCACTCACTCACTC	pacbio
 Rhopobota naevana	AACCT	AACCTAACCT	pacbio
@@ -1074,6 +1083,7 @@ Sarcophaga subvicina	AATAG	AATAGAATAG	pacbio
 Sarcophaga variegata	AATAG	AATAGAATAG	pacbio
 Satyrium w-album	AACCT	AACCTAACCT	pacbio
 Scaeva pyrastri	AACTT	AATAG	pacbio
+Scalpellum scalpellum	AAGTCT	AAATACACATAACT	pacbio
 Scambus nigricans	ACACAC	ACACAG	pacbio
 Scathophaga stercoraria	AAGAAT	AAATC	pacbio
 Schoenoplectus lacustris	AAACCCT	AATAAT	pacbio
@@ -1094,6 +1104,7 @@ Semibalanus balanoides	AACCT	ACACAC	pacbio
 Senecio vulgaris	AAACCCT	AATAAT	pacbio
 Sericostoma personatum	ACACAC	ACACACAC	pacbio
 Sesia apiformis	AACCT		pacbio
+Sesia bembeciformis	AACCT	AACCTAACCT	pacbio
 Shargacucullia verbasci	AACCT	AACCTAACCT	pacbio
 Sherardia arvensis	CCCCC		pacbio
 Sialis lutaria	AACCT		pacbio
@@ -1120,13 +1131,16 @@ Spirobranchus lamarcki	AACCCT	AACCCTAACCCT	pacbio
 Spisula solida	AACCCT	AACCCTAACCCT	pacbio
 Stachys palustris	AAACCCT	AACCT	pacbio
 Steatoda bipunctata			pacbio
+Stelis phaeoptera	AAAGGC	AACCCT	pacbio
 Stellaria media	AAACCCT	AAACCCTAAACCCT	pacbio
 Stenocranus minutus	AACCT	ATCATC	pacbio
 Stenodema laevigata	AACCATCCCT	ACATACAT	pacbio
+Stenoptilia bipunctidactyla	AACCT	AACCTAACCT	pacbio
 Steromphala cineraria	AACCCT	AACCCTAACCCT	pacbio
 Sthenelais limicola	AACCCT	AACCCTAACCCT	pacbio
 Stigmatogaster subterranea	AACCT	AACCTAACCT	pacbio
 Stomorhina lunata	AACTAGAACTG	AACAGAACTAG	pacbio
+Stratiomys potamida	AATACAG	AAAGTAAGTCTCTGT	pacbio
 Stratiomys singularior	AATCATC	AATCATCAATCATC	pacbio
 Styela clava	AACCCT	AACCCTAACCCT	pacbio
 Suaeda vera	AAACCCT	AATAAT	pacbio
