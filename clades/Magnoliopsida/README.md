@@ -2,6 +2,7 @@
 
 | Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
 | -- | --- | --- | --- | --- | --- |
+| *Alisma plantago-aquatica* | Alismataceae | Alismatales | ATCATC | AAACCCT | pacbio |
 | *Aponogeton distachyos* | Aponogetonaceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Arum maculatum* | Araceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Butomus umbellatus* | Butomaceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -141,6 +142,7 @@
 | *Typha latifolia* | Typhaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Berberis aquifolium* | Berberidaceae | Ranunculales |  |  | pacbio |
 | *Chelidonium majus* | Papaveraceae | Ranunculales | AAACCCT | AACCCT | pacbio |
+| *Fumaria muralis* | Papaveraceae | Ranunculales | AAACCG | AAACCGAAACCG | pacbio |
 | *Fumaria officinalis* | Papaveraceae | Ranunculales | AAACCG | AAACCGAAACCG | pacbio |
 | *Papaver dubium* | Papaveraceae | Ranunculales | AACCCTG | AACCCTGAACCCTG | pacbio |
 | *Anemone pulsatilla* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |

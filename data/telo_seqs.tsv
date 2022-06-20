@@ -288,7 +288,9 @@ Agrypnus murinus	AACCT	AAACTAT	pacbio
 Ailanthus altissima	AAACCCT	AATAAT	pacbio
 Alchemilla alpina	AAACCCT		pacbio
 Alchemilla arvensis	AAACCCT		pacbio
+Alisma plantago-aquatica	ATCATC	AAACCCT	pacbio
 Alitta virens	AACCCT	ACTACT	pacbio
+Allacma fusca	AAACTTGGAATT	AAACTTGGAATTAAACTTGGAATT	pacbio
 Allium ampeloprasum			pacbio
 Allium triquetrum	AACCGAGCCCAT	AACCGAGCCCATAACCGAGCCCAT	pacbio
 Allophyes oxyacanthae	AACCT		pacbio
@@ -437,6 +439,7 @@ Carex pendula	AAACCCT	AAACCCTAAACCCT	pacbio
 Carex rostrata	AAACCCT	AAACCCTAAACCCT	pacbio
 Carpinus betulus	AAACCCT	CCCCC	pacbio
 Carpodesmia tamariscifolia	ACACT	ACACAC	pacbio
+Carterocephalus palaemon	AACCT	AACCTAACCT	pacbio
 Catocala fraxini			pacbio
 Catoptria pinella	AACCT	AACCTAACCT	pacbio
 Celastrina argiolus	AACCT	AACCTAACCT	pacbio
@@ -644,7 +647,9 @@ Fannia serena			pacbio
 Ferdinandea cuprea	AACAAC	AACAACAAC	pacbio
 Filipendula ulmaria	AAAAA	CCCCC	pacbio
 Fissipunctia ypsillon	AACCT	AACCTAACCT	pacbio
+Flammulina velutipes	CCCCC		pacbio
 Forficula auricularia	AAAAA	AAAAAA	pacbio
+Fumaria muralis	AAACCG	AAACCGAAACCG	pacbio
 Fumaria officinalis	AAACCG	AAACCGAAACCG	pacbio
 Furcula furcula	AACCT	AACCTAACCT	pacbio
 Galium aparine	AAACCCT	CCCCC	pacbio
@@ -668,6 +673,7 @@ Goniada maculata	AACCCT	AACCCTAACCCT	pacbio
 Gonocerus acuteangulatus			pacbio
 Griposia aprilina	AACCT	AACCTAACCT	pacbio
 Grypocoris stysi	AACCATCCCT	AACCATCCCTAACCATCCCT	pacbio
+Gulosus aristotelis	AACCCT	AAGGAAGG	pacbio
 Gymnocheta viridis	ATCATC	ATCATCATC	pacbio
 Gymnoscelis rufifasciata	AACCT	AACCTAACCT	pacbio
 Gymnosoma rotundatum	AATAAT	ACTAT	pacbio
@@ -867,6 +873,7 @@ Musca autumnalis	AAAATAT	AAAAT	pacbio
 Myathropa florea	AGCCAGCC	AAATACAT	pacbio
 Myelois circumvoluta	AACCT	AACCTAACCT	pacbio
 Myodes glareolus	AACCCT	AACCCTAACCCT	pacbio
+Myopa tessellatipennis	ACGCATG	ACTCT	pacbio
 Myrica gale	AAACCCT	AAACCCTAAACCCT	pacbio
 Myrmica ruginodis	AACCT	AGCAGC	pacbio
 Mysia undata			pacbio

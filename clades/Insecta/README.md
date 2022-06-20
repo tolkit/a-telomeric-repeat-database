@@ -95,6 +95,7 @@
 | *Clusia tigrina* | Clusiidae | Diptera | ATATAT | ATATATATATATAT | assembly |
 | *Clusia tigrina* | Clusiidae | Diptera |  |  | pacbio |
 | *Conops quadrifasciatus* | Conopidae | Diptera | AAAAT | AAATT | pacbio |
+| *Myopa tessellatipennis* | Conopidae | Diptera | ACGCATG | ACTCT | pacbio |
 | *Physocephala rufipes* | Conopidae | Diptera | ACAGACAG | AAAGACAAGAC | pacbio |
 | *Sicus ferrugineus* | Conopidae | Diptera | AAGTC | AAGTCAAGTC | assembly |
 | *Sicus ferrugineus* | Conopidae | Diptera | AAGTC | AAGTCAAGTC | pacbio |
@@ -513,6 +514,7 @@
 | *Hepialus humuli* | Hepialidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Korscheltellus lupulinus* | Hepialidae | Lepidoptera | AACCT | AACCG | pacbio |
 | *Triodia sylvina* | Hepialidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Carterocephalus palaemon* | Hesperiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Erynnis tages* | Hesperiidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Erynnis tages* | Hesperiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Hesperia comma* | Hesperiidae | Lepidoptera | AACCT | AACCTAACCT | assembly |

@@ -69,6 +69,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Lithobius melanops* | Lithobiidae | Lithobiomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
 | *Lithobius piceus* | Lithobiidae | Lithobiomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
 | *Lithobius variegatus* | Lithobiidae | Lithobiomorpha | Chilopoda | AACCT | AACCTAACCT | pacbio |
+| *Allacma fusca* | Sminthuridae | Symphypleona | Collembola | AAACTTGGAATT | AAACTTGGAATTAAACTTGGAATT | pacbio |
 | *Glomeris marginata* | Glomeridae | Glomerida | Diplopoda | AACCT | AAGTGTCCG | pacbio |
 | *Apoderus coryli* | Attelabidae | Coleoptera | Insecta | AACCC | AACCCAACCC | assembly |
 | *Apoderus coryli* | Attelabidae | Coleoptera | Insecta | AAATAATT |  | pacbio |
@@ -163,6 +164,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Clusia tigrina* | Clusiidae | Diptera | Insecta | ATATAT | ATATATATATATAT | assembly |
 | *Clusia tigrina* | Clusiidae | Diptera | Insecta |  |  | pacbio |
 | *Conops quadrifasciatus* | Conopidae | Diptera | Insecta | AAAAT | AAATT | pacbio |
+| *Myopa tessellatipennis* | Conopidae | Diptera | Insecta | ACGCATG | ACTCT | pacbio |
 | *Physocephala rufipes* | Conopidae | Diptera | Insecta | ACAGACAG | AAAGACAAGAC | pacbio |
 | *Sicus ferrugineus* | Conopidae | Diptera | Insecta | AAGTC | AAGTCAAGTC | assembly |
 | *Sicus ferrugineus* | Conopidae | Diptera | Insecta | AAGTC | AAGTCAAGTC | pacbio |
@@ -581,6 +583,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Hepialus humuli* | Hepialidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Korscheltellus lupulinus* | Hepialidae | Lepidoptera | Insecta | AACCT | AACCG | pacbio |
 | *Triodia sylvina* | Hepialidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
+| *Carterocephalus palaemon* | Hesperiidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Erynnis tages* | Hesperiidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
 | *Erynnis tages* | Hesperiidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | pacbio |
 | *Hesperia comma* | Hesperiidae | Lepidoptera | Insecta | AACCT | AACCTAACCT | assembly |
@@ -941,6 +944,9 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Agaricus bisporus* | Agaricaceae | Agaricales | Agaricomycetes |  |  | pacbio |
 | *Leucocybe candicans* | Lyophyllaceae | Agaricales | Agaricomycetes |  |  | pacbio |
 | *Armillaria gallica* | Physalacriaceae | Agaricales | Agaricomycetes | AAACCCT | AACCCTG | pacbio |
+| *Flammulina velutipes* | Physalacriaceae | Agaricales | Agaricomycetes | CCCCC |  | pacbio |
+| *Flammulina velutipes* | Physalacriaceae | Agaricales | Agaricomycetes | CCCCC |  | pacbio |
+| *Flammulina velutipes* | Physalacriaceae | Agaricales | Agaricomycetes | CCCCC |  | pacbio |
 | *Pleurotus eryngii* | Pleurotaceae | Agaricales | Agaricomycetes |  |  | pacbio |
 | *Pleurotus eryngii* | Pleurotaceae | Agaricales | Agaricomycetes |  |  | pacbio |
 | *Pleurotus eryngii* | Pleurotaceae | Agaricales | Agaricomycetes |  |  | pacbio |
@@ -1087,6 +1093,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Thuidium delicatulum* | Thuidiaceae | Hypnales | Bryopsida |  |  | pacbio |
 | *Thuidium tamariscinum* | Thuidiaceae | Hypnales | Bryopsida |  |  | pacbio |
 | *Huperzia selago* | Lycopodiaceae | Lycopodiales | Lycopodiopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Alisma plantago-aquatica* | Alismataceae | Alismatales | Magnoliopsida | ATCATC | AAACCCT | pacbio |
 | *Aponogeton distachyos* | Aponogetonaceae | Alismatales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Arum maculatum* | Araceae | Alismatales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Butomus umbellatus* | Butomaceae | Alismatales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -1226,6 +1233,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Typha latifolia* | Typhaceae | Poales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Berberis aquifolium* | Berberidaceae | Ranunculales | Magnoliopsida |  |  | pacbio |
 | *Chelidonium majus* | Papaveraceae | Ranunculales | Magnoliopsida | AAACCCT | AACCCT | pacbio |
+| *Fumaria muralis* | Papaveraceae | Ranunculales | Magnoliopsida | AAACCG | AAACCGAAACCG | pacbio |
 | *Fumaria officinalis* | Papaveraceae | Ranunculales | Magnoliopsida | AAACCG | AAACCGAAACCG | pacbio |
 | *Papaver dubium* | Papaveraceae | Ranunculales | Magnoliopsida | AACCCTG | AACCCTGAACCCTG | pacbio |
 | *Anemone pulsatilla* | Ranunculaceae | Ranunculales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
