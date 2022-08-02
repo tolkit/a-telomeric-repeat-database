@@ -4,6 +4,7 @@
 | -- | --- | --- | --- | --- | --- |
 | *Ancylus fluviatilis* | Ancylidae |  | AACCCT | AACCCTAACCCT | pacbio |
 | *Testudinalia testudinalis* | Lottiidae |  | AACCCT | AACCCTAACCCT | pacbio |
+| *Stagnicola fuscus* | Lymnaeidae |  | AACCCT | AACCCTAACCCT | pacbio |
 | *Patella depressa* | Patellidae |  | AACCCT | AACCCTAACCCT | pacbio |
 | *Patella pellucida* | Patellidae |  | AACCCT | AACCCTAACCCT | assembly |
 | *Patella pellucida* | Patellidae |  | AACTCTCTACT | AACTCTACT | pacbio |

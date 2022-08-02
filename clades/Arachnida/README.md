@@ -5,7 +5,10 @@
 | *Eratigena atrica* | Agelenidae | Araneae | ACACAC | ATATAT | pacbio |
 | *Amaurobius ferox* | Amaurobiidae | Araneae | ATATAT | ATATATAT | pacbio |
 | *Amaurobius similis* | Amaurobiidae | Araneae | ACACAC | ACACACAC | pacbio |
+| *Araneus angulatus* | Araneidae | Araneae | ACAGACAG | AACCAACC | pacbio |
 | *Araneus diadematus* | Araneidae | Araneae | AATAT |  | pacbio |
+| *Argiope bruennichi* | Araneidae | Araneae | ACACAC | AGATAGAT | pacbio |
+| *Gibbaranea gibbosa* | Araneidae | Araneae | ACACAC | ACAGACAG | pacbio |
 | *Zygiella x-notata* | Araneidae | Araneae | AGATAGAT | CCCCC | pacbio |
 | *Atypus affinis* | Atypidae | Araneae | AGATAGAT | ATCATC | pacbio |
 | *Clubiona reclusa* | Clubionidae | Araneae | ATATAT | AAAAAA | pacbio |
@@ -25,7 +28,9 @@
 | *Meta bourneti* | Tetragnathidae | Araneae | ACCTACCT | ACATACAT | pacbio |
 | *Metellina segmentata* | Tetragnathidae | Araneae | AACTTGT | ACTATGG | pacbio |
 | *Enoplognatha latimana* | Theridiidae | Araneae | AAAGC | ACACAC | pacbio |
+| *Enoplognatha ovata* | Theridiidae | Araneae | ACACAC | ACACACAC | pacbio |
 | *Steatoda bipunctata* | Theridiidae | Araneae |  |  | pacbio |
+| *Misumena vatia* | Thomisidae | Araneae | ACACAC | ACATACAT | pacbio |
 | *Xysticus cristatus* | Thomisidae | Araneae | ACACAC | ACACACAC | pacbio |
 | *Uloborus plumipes* | Uloboridae | Araneae | ACACAC | ATATAT | pacbio |
 | *Zoropsis spinimana* | Zoropsidae | Araneae | ATATAT | ATATATAT | pacbio |

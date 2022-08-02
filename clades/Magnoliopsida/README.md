@@ -20,10 +20,12 @@
 | *Bellis perennis* | Asteraceae | Asterales | AAACCCT | AGATAGAT | pacbio |
 | *Chamaemelum nobile* | Asteraceae | Asterales | AAACCCT | ATATAT | pacbio |
 | *Cicerbita muralis* | Asteraceae | Asterales | ACATACAT | AAACCCT | pacbio |
+| *Hypochaeris radicata* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Pulicaria dysenterica* | Asteraceae | Asterales | AACAAC | AAACCCT | pacbio |
 | *Senecio vulgaris* | Asteraceae | Asterales | AAACCCT | AATAAT | pacbio |
 | *Tanacetum vulgare* | Asteraceae | Asterales | AAACCCT | ATATAT | pacbio |
 | *Tussilago farfara* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Jasione montana* | Campanulaceae | Asterales | AACCCTG | AACCCCTG | pacbio |
 | *Nymphoides peltata* | Menyanthaceae | Asterales | AAACCCT |  | pacbio |
 | *Borago officinalis* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Pentaglottis sempervirens* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -144,7 +146,9 @@
 | *Chelidonium majus* | Papaveraceae | Ranunculales | AAACCCT | AACCCT | pacbio |
 | *Fumaria muralis* | Papaveraceae | Ranunculales | AAACCG | AAACCGAAACCG | pacbio |
 | *Fumaria officinalis* | Papaveraceae | Ranunculales | AAACCG | AAACCGAAACCG | pacbio |
+| *Glaucium flavum* | Papaveraceae | Ranunculales | AAAACCCTACCCG | AAAACCCTACCCGAAAACCCTACCCG | pacbio |
 | *Papaver dubium* | Papaveraceae | Ranunculales | AACCCTG | AACCCTGAACCCTG | pacbio |
+| *Adonis annua* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Anemone pulsatilla* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Clematis vitalba* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Ranunculus acris* | Ranunculaceae | Ranunculales |  |  | pacbio |
@@ -155,6 +159,7 @@
 | *Rhamnus cathartica* | Rhamnaceae | Rosales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Alchemilla alpina* | Rosaceae | Rosales | AAACCCT |  | pacbio |
 | *Alchemilla arvensis* | Rosaceae | Rosales | AAACCCT |  | pacbio |
+| *Alchemilla micans* | Rosaceae | Rosales | AAACCCT | CCCCC | pacbio |
 | *Crataegus laevigata* | Rosaceae | Rosales | AAACCCT | CCCCC | pacbio |
 | *Crataegus monogyna* | Rosaceae | Rosales | AAACCCT | AATAAT | pacbio |
 | *Dasiphora fruticosa* | Rosaceae | Rosales | AAACCCT |  | pacbio |

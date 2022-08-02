@@ -6,3 +6,4 @@
 | *Dunaliella primolecta* | Dunaliellaceae | Chlamydomonadales | AACCCT | AACCCTAACCCT | assembly |
 | *Dunaliella primolecta* | Dunaliellaceae | Chlamydomonadales | ACACACAC | ACACAC | pacbio |
 | *Hydrodictyon reticulatum* | Hydrodictyaceae | Sphaeropleales | ACACAC | ACAGACAG | pacbio |
+| *Coelastrum microporum* | Scenedesmaceae | Sphaeropleales |  |  | pacbio |
