@@ -5,5 +5,6 @@
 | *Equisetum hyemale* | Equisetaceae | Equisetales | AGATAGAT | AGATAGATAGAT | pacbio |
 | *Equisetum palustre* | Equisetaceae | Equisetales | AGAGAG | AGATAGAT | pacbio |
 | *Equisetum telmateia* | Equisetaceae | Equisetales | AGATAGAT | AGATAGATAGAT | pacbio |
+| *Equisetum variegatum* | Equisetaceae | Equisetales | AGATAGAT | AGATAGATAGAT | pacbio |
 | *Asplenium scolopendrium* | Aspleniaceae | Polypodiales | ATATAT | ATATATAT | pacbio |
 | *Polypodium vulgare* | Polypodiaceae | Polypodiales | ATATAT | AAACCCT | pacbio |

@@ -1,0 +1,5 @@
+telomeric_repeat	reverse_complement	frequency
+AAATC	GATTT	26370
+AGATAT	ATATCT	22848
+AATGTAT	ATACATT	2342
+ACATCGT	ACGATGT	230

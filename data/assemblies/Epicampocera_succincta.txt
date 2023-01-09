@@ -1,0 +1,2 @@
+telomeric_repeat	reverse_complement	frequency
+ACACTACTGTACACTATAGGGT	ACCCTATAGTGTACAGTAGTGT	300

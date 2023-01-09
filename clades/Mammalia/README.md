@@ -10,7 +10,9 @@
 | *Lutra lutra* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | assembly |
 | *Meles meles* | Mustelidae | Carnivora |  |  | assembly |
 | *Meles meles* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | pacbio |
+| *Myotis daubentonii* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | pacbio |
 | *Pipistrellus pipistrellus* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | assembly |
+| *Pipistrellus pygmaeus* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | pacbio |
 | *Sorex araneus* | Soricidae | Eulipotyphla | AACCCT | AACCCTAACCCT | pacbio |
 | *Homo sapiens* | Hominidae | Primates | AATGG | AACCCT | pacbio |
 | *Arvicola amphibius* | Cricetidae | Rodentia | AACCCT | AACCCTAACCCT | assembly |
@@ -20,4 +22,5 @@
 | *Mus musculus* | Muridae | Rodentia | AACCCTAACCCT | AACCCT | pacbio |
 | *Rattus norvegicus* | Muridae | Rodentia | AACCCT | AACCCTAACCCT | assembly |
 | *Rattus norvegicus* | Muridae | Rodentia | AACCCT | AACCCTAACCCT | pacbio |
+| *Sciurus carolinensis* | Sciuridae | Rodentia | AACCCT | AACCCTAACCCT | assembly |
 | *Sciurus vulgaris* | Sciuridae | Rodentia | AACCCT | AACCCTAACCCT | assembly |

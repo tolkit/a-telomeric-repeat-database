@@ -9,6 +9,7 @@
 | *Patella pellucida* | Patellidae |  | AACCCT | AACCCTAACCCT | assembly |
 | *Patella pellucida* | Patellidae |  | AACTCTCTACT | AACTCTACT | pacbio |
 | *Patella ulyssiponensis* | Patellidae |  | AACCCT | AACCCTAACCCT | pacbio |
+| *Patella vulgata* | Patellidae |  | AACCCT | AACCCTAACCCT | assembly |
 | *Patella vulgata* | Patellidae |  |  |  | pacbio |
 | *Physa fontinalis* | Physidae |  | AACCCT | AGATAGAT | pacbio |
 | *Physella acuta* | Physidae |  | ATCATC | AGATAGAT | pacbio |
@@ -30,6 +31,7 @@
 | *Cepaea nemoralis* | Helicidae | Stylommatophora | ACACAC | ACTACT | pacbio |
 | *Cornu aspersum* | Helicidae | Stylommatophora | ACTACT | AGATAGAT | pacbio |
 | *Calliostoma zizyphinum* | Calliostomatidae | Trochida | AACCCT | AAACCCT | pacbio |
+| *Gibbula magus* | Trochidae | Trochida | AACCCT | AACCCTAACCCT | assembly |
 | *Gibbula magus* | Trochidae | Trochida | AACATG | AACCCT | pacbio |
 | *Phorcus lineatus* | Trochidae | Trochida | AACCCT | AAACAC | assembly |
 | *Phorcus lineatus* | Trochidae | Trochida | AACCCT | AACCCTAACCCT | pacbio |
