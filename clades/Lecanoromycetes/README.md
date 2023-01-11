@@ -4,3 +4,4 @@
 | -- | --- | --- | --- | --- | --- |
 | *Cladonia squamosa* | Cladoniaceae | Lecanorales |  |  | pacbio |
 | *Platismatia glauca* | Parmeliaceae | Lecanorales |  |  | pacbio |
+| *Flavoplaca marina* | Teloschistaceae | Teloschistales |  |  | pacbio |

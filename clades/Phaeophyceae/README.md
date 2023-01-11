@@ -5,3 +5,4 @@
 | *Pelvetia canaliculata* | Fucaceae | Fucales | AACCCT | AACCCTAACCCT | pacbio |
 | *Carpodesmia tamariscifolia* | Sargassaceae | Fucales | ACACT | ACACAC | pacbio |
 | *Halidrys siliquosa* | Sargassaceae | Fucales | AACCCT | ACAGT | pacbio |
+| *Alaria esculenta* | Alariaceae | Laminariales | ACAGACAG | AAAGC | pacbio |

@@ -2,10 +2,16 @@
 
 | Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
 | -- | --- | --- | --- | --- | --- |
+| *Aspidapion aeneum* | Apionidae | Coleoptera |  |  | pacbio |
+| *Aspidapion radiolus* | Apionidae | Coleoptera |  |  | pacbio |
+| *Betulapion simile* | Apionidae | Coleoptera |  |  | pacbio |
 | *Apoderus coryli* | Attelabidae | Coleoptera | AACCC | AACCCAACCC | assembly |
 | *Apoderus coryli* | Attelabidae | Coleoptera | AAATAATT |  | pacbio |
 | *Attelabus nitens* | Attelabidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
 | *Agrilus cyanescens* | Buprestidae | Coleoptera | AACCT | AACCTAACCT | assembly |
+| *Agrilus cyanescens* | Buprestidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
+| *Cantharis cryptica* | Cantharidae | Coleoptera |  |  | pacbio |
+| *Cantharis nigricans* | Cantharidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
 | *Cantharis rufa* | Cantharidae | Coleoptera | AACCT | AACCTAACCT | assembly |
 | *Cantharis rufa* | Cantharidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
 | *Cantharis rustica* | Cantharidae | Coleoptera | AACCT | AACCTAACCT | assembly |
@@ -16,6 +22,10 @@
 | *Rhagonycha fulva* | Cantharidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
 | *Agonum fuliginosum* | Carabidae | Coleoptera | AAATGTG | AATGT | assembly |
 | *Agonum fuliginosum* | Carabidae | Coleoptera | ACACAC | ACACAT | pacbio |
+| *Asaphidion curtum* | Carabidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
+| *Bembidion guttula* | Carabidae | Coleoptera |  |  | pacbio |
+| *Brachinus crepitans* | Carabidae | Coleoptera |  |  | pacbio |
+| *Clivina fossor* | Carabidae | Coleoptera |  |  | pacbio |
 | *Demetrias atricapillus* | Carabidae | Coleoptera | ACATACAT | ACATACATACAT | pacbio |
 | *Dromius quadrimaculatus* | Carabidae | Coleoptera |  |  | pacbio |
 | *Harpalus rufipes* | Carabidae | Coleoptera | ACATACAT | ACACAC | pacbio |
@@ -35,14 +45,21 @@
 | *Clytus arietis* | Cerambycidae | Coleoptera | AATAAT | AATAATAAT | pacbio |
 | *Rutpela maculata* | Cerambycidae | Coleoptera | AAACCCATCCTAATTTCATC | AACCT | assembly |
 | *Rutpela maculata* | Cerambycidae | Coleoptera | AATAAT | ACACAC | pacbio |
+| *Cassida rubiginosa* | Chrysomelidae | Coleoptera |  |  | pacbio |
+| *Chrysolina americana* | Chrysomelidae | Coleoptera |  |  | pacbio |
 | *Chrysolina oricalcia* | Chrysomelidae | Coleoptera | AACCT | AACCTAACCT | assembly |
 | *Chrysolina oricalcia* | Chrysomelidae | Coleoptera | ATCCATCC | ATCCATCCATCC | pacbio |
+| *Chrysolina polita* | Chrysomelidae | Coleoptera |  |  | pacbio |
+| *Crepidodera aurea* | Chrysomelidae | Coleoptera |  |  | pacbio |
+| *Crepidodera fulvicornis* | Chrysomelidae | Coleoptera | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Cryptocephalus moraei* | Chrysomelidae | Coleoptera | ACATGC | ACATGCACATGC | assembly |
 | *Cryptocephalus moraei* | Chrysomelidae | Coleoptera |  |  | pacbio |
+| *Cryptocephalus primarius* | Chrysomelidae | Coleoptera |  |  | pacbio |
 | *Gastrophysa viridula* | Chrysomelidae | Coleoptera | ACACAC | ACACACAC | pacbio |
 | *Lilioceris lilii* | Chrysomelidae | Coleoptera | ACACAC | AAACG | pacbio |
 | *Lochmaea crataegi* | Chrysomelidae | Coleoptera | AACCT | AACCTAACCT | assembly |
 | *Oulema melanopus* | Chrysomelidae | Coleoptera | ACAGACTG | ACAGACAGACTG | pacbio |
+| *Cis boleti* | Ciidae | Coleoptera |  |  | pacbio |
 | *Adalia bipunctata* | Coccinellidae | Coleoptera | AAAAATTC | AACCT | assembly |
 | *Adalia bipunctata* | Coccinellidae | Coleoptera | AACCT |  | pacbio |
 | *Adalia decempunctata* | Coccinellidae | Coleoptera | AAGTC | ACATC | pacbio |
@@ -58,6 +75,8 @@
 | *Hippodamia variegata* | Coccinellidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
 | *Propylea quattuordecimpunctata* | Coccinellidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
 | *Subcoccinella vigintiquattuorpunctata* | Coccinellidae | Coleoptera | AACAT | AACATAACAT | pacbio |
+| *Cryptophagus acutangulus* | Cryptophagidae | Coleoptera |  |  | pacbio |
+| *Ceutorhynchus obstrictus* | Curculionidae | Coleoptera |  |  | pacbio |
 | *Curculio glandium* | Curculionidae | Coleoptera | AACCC | AGATAGAT | pacbio |
 | *Limnobaris t-album* | Curculionidae | Coleoptera | ATATAT | ACACAC | pacbio |
 | *Otiorhynchus atroapterus* | Curculionidae | Coleoptera | AGATAGAT | AGATAGATAGAT | pacbio |
@@ -66,12 +85,16 @@
 | *Polydrusus cervinus* | Curculionidae | Coleoptera | AACAGACCCG | AACAGACCCGAACAGACCCG | assembly |
 | *Polydrusus cervinus* | Curculionidae | Coleoptera | AACAGACCCG | AAATGC | pacbio |
 | *Rhinocyllus conicus* | Curculionidae | Coleoptera | AGATAGAT | AGATAGATAGAT | pacbio |
+| *Dascillus cervinus* | Dascillidae | Coleoptera |  |  | pacbio |
+| *Adrastus pallens* | Elateridae | Coleoptera | AACCT | AACCTAACCT | pacbio |
 | *Agriotes lineatus* | Elateridae | Coleoptera | AAAGGTCACC | AAGCC | pacbio |
 | *Agriotes sputator* | Elateridae | Coleoptera | AATCAATC | AATAC | pacbio |
 | *Agrypnus murinus* | Elateridae | Coleoptera | AACCT | AACCTAACCT | assembly |
 | *Agrypnus murinus* | Elateridae | Coleoptera | AACCT | AAACTAT | pacbio |
 | *Denticollis linearis* | Elateridae | Coleoptera | AAAGGAC | AACCT | pacbio |
 | *Elmis aenea* | Elmidae | Coleoptera | AAATT | AAAAATT | assembly |
+| *Elmis aenea* | Elmidae | Coleoptera |  |  | pacbio |
+| *Dorytomus taeniatus* | Erirhinidae | Coleoptera |  |  | pacbio |
 | *Peltodytes caesus* | Haliplidae | Coleoptera | AAAAATAC |  | pacbio |
 | *Hydrobius fuscipes* | Hydrophilidae | Coleoptera |  |  | pacbio |
 | *Sinodendron cylindricum* | Lucanidae | Coleoptera | AATAAT | ACTACT | pacbio |
@@ -84,8 +107,11 @@
 | *Oedemera virescens* | Oedemeridae | Coleoptera | AACCCAGACCT | AACCCAGACCTAACCCAGACCT | pacbio |
 | *Pyrochroa serraticornis* | Pyrochroidae | Coleoptera | ACCTG | ACCTGACCTG | assembly |
 | *Pyrochroa serraticornis* | Pyrochroidae | Coleoptera | ACCTG | ACCTGACCTG | pacbio |
+| *Anomala dubia* | Scarabaeidae | Coleoptera |  |  | pacbio |
+| *Cetonia aurata* | Scarabaeidae | Coleoptera |  |  | pacbio |
 | *Melolontha melolontha* | Scarabaeidae | Coleoptera | AAATCCG | AGATCCG | assembly |
 | *Melolontha melolontha* | Scarabaeidae | Coleoptera | AAGTAATC | AAAGAT | pacbio |
+| *Anaspis maculata* | Scraptiidae | Coleoptera |  |  | pacbio |
 | *Phosphuga atrata* | Silphidae | Coleoptera | AAGACTAGACAGAC | AAGACTAGACAGACAAGACTAGACAGAC | assembly |
 | *Phosphuga atrata* | Silphidae | Coleoptera | AAGACAGAC | ACAGACTAG | pacbio |
 | *Anotylus rugosus* | Staphylinidae | Coleoptera | AACCT | AACCTAACCT | pacbio |
@@ -100,6 +126,7 @@
 | *Acrocera orbiculus* | Acroceridae | Diptera |  |  | pacbio |
 | *Anthomyia liturata* | Anthomyiidae | Diptera | AAGATAGAT | AGATAGAT | pacbio |
 | *Anthomyia pluvialis* | Anthomyiidae | Diptera | ACATACAT | AGATAGAT | pacbio |
+| *Botanophila fugax* | Anthomyiidae | Diptera |  |  | pacbio |
 | *Delia platura* | Anthomyiidae | Diptera | ACAGACAG | AAGTGTATGGC | pacbio |
 | *Hylemya vagans* | Anthomyiidae | Diptera | AAAATAT | AAATTAT | pacbio |
 | *Hylemya variata* | Anthomyiidae | Diptera | ACTAT | ACTATACTAT | pacbio |
@@ -113,11 +140,13 @@
 | *Neoitamus cyanurus* | Asilidae | Diptera | ACAGGACTC | ACTCAGG | assembly |
 | *Bibio marci* | Bibionidae | Diptera |  |  | assembly |
 | *Bibio marci* | Bibionidae | Diptera |  |  | pacbio |
+| *Dilophus febrilis* | Bibionidae | Diptera |  |  | pacbio |
 | *Bombylius discolor* | Bombyliidae | Diptera | AAGTG | AAGATAC | assembly |
 | *Bombylius discolor* | Bombyliidae | Diptera |  |  | pacbio |
 | *Bombylius major* | Bombyliidae | Diptera | AATAT |  | assembly |
 | *Bombylius major* | Bombyliidae | Diptera | ACTACT | AATAAT | pacbio |
 | *Villa modesta* | Bombyliidae | Diptera | AATAAT | CCCCC | pacbio |
+| *Bellardia bayeri* | Calliphoridae | Diptera |  |  | pacbio |
 | *Bellardia pandia* | Calliphoridae | Diptera | AATAAT | AATAATAAT | assembly |
 | *Bellardia pandia* | Calliphoridae | Diptera | ACATAT | AAATT | pacbio |
 | *Calliphora vicina* | Calliphoridae | Diptera | AACAGAACTAG | AACTAGAACTG | pacbio |
@@ -128,9 +157,13 @@
 | *Melinda viridicyanea* | Calliphoridae | Diptera | AATGTATGT | AATGTATGTAATGTATGT | pacbio |
 | *Protocalliphora azurea* | Calliphoridae | Diptera | ACATAT | ACATATACATAT | assembly |
 | *Protocalliphora azurea* | Calliphoridae | Diptera | AGATAT | ACATAT | pacbio |
+| *Chironomus plumosus* | Chironomidae | Diptera |  |  | pacbio |
+| *Chlorops speciosus* | Chloropidae | Diptera |  |  | pacbio |
 | *Clusia tigrina* | Clusiidae | Diptera | ATATAT | ATATATATATATAT | assembly |
 | *Clusia tigrina* | Clusiidae | Diptera |  |  | pacbio |
+| *Coelopa frigida* | Coelopidae | Diptera |  |  | pacbio |
 | *Coelopa pilipes* | Coelopidae | Diptera | AACAAT | AACAATAACAATAACAAT | assembly |
+| *Coelopa pilipes* | Coelopidae | Diptera | AACATT | AACAAT | pacbio |
 | *Conops quadrifasciatus* | Conopidae | Diptera | AAAAT | AAATT | pacbio |
 | *Myopa tessellatipennis* | Conopidae | Diptera | ACGCATG |  | assembly |
 | *Myopa tessellatipennis* | Conopidae | Diptera | ACGCATG | ACTCT | pacbio |
@@ -139,9 +172,23 @@
 | *Sicus ferrugineus* | Conopidae | Diptera | AAGTC | AAGTCAAGTC | pacbio |
 | *Thecophora atra* | Conopidae | Diptera | AACCAGCACACG | AACCAGCACACGAACCAGCACACG | assembly |
 | *Thecophora atra* | Conopidae | Diptera | AACCAGCACACG |  | pacbio |
+| *Anopheles coluzzii* | Culicidae | Diptera |  |  | pacbio |
 | *Poecilobothrus nobilitatus* | Dolichopodidae | Diptera | AACAAT | AATGAT | assembly |
+| *Chymomyza fuscimana* | Drosophilidae | Diptera |  |  | pacbio |
+| *Drosophila busckii* | Drosophilidae | Diptera |  |  | pacbio |
+| *Drosophila funebris* | Drosophilidae | Diptera |  |  | pacbio |
+| *Drosophila helvetica* | Drosophilidae | Diptera |  |  | pacbio |
+| *Drosophila histrio* | Drosophilidae | Diptera |  |  | pacbio |
+| *Drosophila kuntzei* | Drosophilidae | Diptera |  |  | pacbio |
+| *Drosophila phalerata* | Drosophilidae | Diptera |  |  | pacbio |
+| *Drosophila testacea* | Drosophilidae | Diptera |  |  | pacbio |
+| *Empis aestiva* | Empididae | Diptera |  |  | pacbio |
 | *Empis livida* | Empididae | Diptera |  |  | pacbio |
+| *Empis stercorea* | Empididae | Diptera |  |  | pacbio |
+| *Empis tessellata* | Empididae | Diptera |  |  | pacbio |
+| *Empis trigramma* | Empididae | Diptera |  |  | pacbio |
 | *Fannia serena* | Fanniidae | Diptera |  |  | pacbio |
+| *Crataerina pallida* | Hippoboscidae | Diptera |  |  | pacbio |
 | *Sapromyzosoma quadripunctata* | Lauxaniidae | Diptera | AAAAAC | AAAAACAAAAAC | pacbio |
 | *Tricholauxania praeusta* | Lauxaniidae | Diptera | AACTCACTC | AATAAT | pacbio |
 | *Coenosia intermedia* | Muscidae | Diptera | ACATATC | AACAAC | pacbio |
@@ -171,6 +218,7 @@
 | *Pollenia angustigena* | Polleniidae | Diptera | ACATACAT | ACATACATACAT | assembly |
 | *Pollenia angustigena* | Polleniidae | Diptera | ACATACAT | ACATACATACAT | pacbio |
 | *Psila merdaria* | Psilidae | Diptera | AATAG | AATACC | pacbio |
+| *Chrysopilus cristatus* | Rhagionidae | Diptera |  |  | pacbio |
 | *Rhagio annulatus* | Rhagionidae | Diptera | AATAAT | AAATAAAT | pacbio |
 | *Rhagio tringarius* | Rhagionidae | Diptera | AAAATAAAT | AAATAAAT | pacbio |
 | *Stomorhina lunata* | Rhiniidae | Diptera | ACTAGACTATG | AATACT | assembly |
@@ -190,6 +238,7 @@
 | *Sarcophaga subvicina* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | pacbio |
 | *Sarcophaga variegata* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | assembly |
 | *Sarcophaga variegata* | Sarcophagidae | Diptera | AATAG | AATAGAATAG | pacbio |
+| *Cleigastra apicalis* | Scathophagidae | Diptera |  |  | pacbio |
 | *Scathophaga stercoraria* | Scathophagidae | Diptera | AAGAAT | AAATC | pacbio |
 | *Coremacera marginata* | Sciomyzidae | Diptera | AAAAT | AAAATAAAAT | assembly |
 | *Coremacera marginata* | Sciomyzidae | Diptera | AAATT | AAGAAT | pacbio |
@@ -199,6 +248,7 @@
 | *Pherbellia cinerella* | Sciomyzidae | Diptera |  |  | pacbio |
 | *Pherbina coryleti* | Sciomyzidae | Diptera | AATGTC | AGAGAT | assembly |
 | *Pherbina coryleti* | Sciomyzidae | Diptera | AACATC | AGAGAT | pacbio |
+| *Beris chalybata* | Stratiomyidae | Diptera |  |  | pacbio |
 | *Chloromyia formosa* | Stratiomyidae | Diptera | ACAGACAG | ACAGACAGACAG | pacbio |
 | *Nemotelus nigrinus* | Stratiomyidae | Diptera | AATGATG | ACCGCATACCGT | assembly |
 | *Nemotelus nigrinus* | Stratiomyidae | Diptera | AGATAGAT | AGATAGATAGAT | pacbio |
@@ -209,9 +259,12 @@
 | *Stratiomys singularior* | Stratiomyidae | Diptera | AATCATC | AATCATCAATCATC | pacbio |
 | *Baccha elongata* | Syrphidae | Diptera | AACAAC | ACATGTC | pacbio |
 | *Blera fallax* | Syrphidae | Diptera |  |  | assembly |
+| *Blera fallax* | Syrphidae | Diptera |  |  | pacbio |
 | *Brachypalpus laphriformis* | Syrphidae | Diptera |  |  | assembly |
 | *Brachypalpus laphriformis* | Syrphidae | Diptera | ACTACT | AAATAAAT | pacbio |
+| *Chalcosyrphus nemorum* | Syrphidae | Diptera |  |  | pacbio |
 | *Cheilosia illustrata* | Syrphidae | Diptera | AACAAC | AACAACAAC | pacbio |
+| *Cheilosia impressa* | Syrphidae | Diptera |  |  | pacbio |
 | *Cheilosia pagana* | Syrphidae | Diptera |  |  | assembly |
 | *Cheilosia pagana* | Syrphidae | Diptera |  |  | pacbio |
 | *Cheilosia soror* | Syrphidae | Diptera |  |  | pacbio |
@@ -226,6 +279,7 @@
 | *Chrysotoxum verralli* | Syrphidae | Diptera | ATCATC | ATCATCATC | pacbio |
 | *Criorhina berberina* | Syrphidae | Diptera | AAATT | ACCCC | assembly |
 | *Criorhina berberina* | Syrphidae | Diptera | AGGAT |  | pacbio |
+| *Criorhina floccosa* | Syrphidae | Diptera |  |  | pacbio |
 | *Dasysyrphus albostriatus* | Syrphidae | Diptera | AACAAT | AACAGC | assembly |
 | *Dasysyrphus albostriatus* | Syrphidae | Diptera | AACAAC | AACAACAAC | pacbio |
 | *Dasysyrphus tricinctus* | Syrphidae | Diptera | AACATGC | AACATGCAACATGC | pacbio |
@@ -313,6 +367,7 @@
 | *Merzomyia westermanni* | Tephritidae | Diptera | AAAAG | AAAGT | pacbio |
 | *Tephritis neesii* | Tephritidae | Diptera | AAAAT | AAGACC | pacbio |
 | *Terellia serratulae* | Tephritidae | Diptera | AATAAT | AAAAAT | pacbio |
+| *Ctenophora pectinicornis* | Tipulidae | Diptera | ACGAGG | AAAATAAAT | pacbio |
 | *Nephrotoma appendiculata* | Tipulidae | Diptera | AAAATATG | AAAATATGAAAATATG | assembly |
 | *Nephrotoma appendiculata* | Tipulidae | Diptera | AAAATATG | ACACAC | pacbio |
 | *Nephrotoma flavescens* | Tipulidae | Diptera | AAAATATG | AAAATATGAAAATATG | assembly |
@@ -330,6 +385,7 @@
 | *Elasmostethus interstinctus* | Acanthosomatidae | Hemiptera | AAACCACCCT | AGATAGAT | pacbio |
 | *Elasmucha grisea* | Acanthosomatidae | Hemiptera |  |  | pacbio |
 | *Aphelocheirus aestivalis* | Aphelocheiridae | Hemiptera | ACAGAGAGGC | AATAT | pacbio |
+| *Drepanosiphum platanoidis* | Aphididae | Hemiptera |  |  | pacbio |
 | *Cercopis vulnerata* | Cercopidae | Hemiptera | ACACAC | AACCT | pacbio |
 | *Anoscopus histrionicus* | Cicadellidae | Hemiptera | AATATAG | AATGG | pacbio |
 | *Aphrodes makarovi* | Cicadellidae | Hemiptera | AAGAAT | AAGAATAAGAAT | pacbio |
@@ -339,16 +395,19 @@
 | *Cixius nervosus* | Cixiidae | Hemiptera | AAAATTGTTGATGGAGATCATAC | AACCT | pacbio |
 | *Tachycixius pilosus* | Cixiidae | Hemiptera | AACCT | AAAAAA | pacbio |
 | *Coreus marginatus* | Coreidae | Hemiptera | ACACAC | ACACACAC | pacbio |
+| *Enoplops scapha* | Coreidae | Hemiptera |  |  | pacbio |
 | *Gonocerus acuteangulatus* | Coreidae | Hemiptera | AACCATCCCT | AACCATCCCTAACCATCCCT | assembly |
 | *Gonocerus acuteangulatus* | Coreidae | Hemiptera |  |  | pacbio |
 | *Leptoglossus occidentalis* | Coreidae | Hemiptera | ACACAC | AACCACCCCT | pacbio |
 | *Canthophorus impressus* | Cydnidae | Hemiptera | AAAAA | AAAAAA | pacbio |
 | *Legnotus limbosus* | Cydnidae | Hemiptera | AAATAACT | AAATAACTAAATAACT | pacbio |
 | *Tritomegas bicolor* | Cydnidae | Hemiptera | ACACAC | ACACACACAC | pacbio |
+| *Conomelus anceps* | Delphacidae | Hemiptera |  |  | pacbio |
 | *Stenocranus minutus* | Delphacidae | Hemiptera | AACCT | ATCATC | pacbio |
 | *Issus coleoptratus* | Issidae | Hemiptera | AACCT | ACACAC | pacbio |
 | *Kleidocerys resedae* | Lygaeidae | Hemiptera | AATAC | ACTCTGAG | pacbio |
 | *Centrotus cornutus* | Membracidae | Hemiptera | AACCT | AACCTAACCT | pacbio |
+| *Closterotomus norwegicus* | Miridae | Hemiptera |  |  | pacbio |
 | *Closterotomus trivialis* | Miridae | Hemiptera | ACCGAG | AACCATCCCT | pacbio |
 | *Grypocoris stysi* | Miridae | Hemiptera | AACCATCCCT | AACCATCCCTAACCATCCCT | pacbio |
 | *Lygus pratensis* | Miridae | Hemiptera | AACACTCCCT |  | pacbio |
@@ -370,11 +429,13 @@
 | *Troilus luridus* | Pentatomidae | Hemiptera | AAATCCCTCTAGGGACCTAG | ACATACAT | pacbio |
 | *Plea minutissima* | Pleidae | Hemiptera | AAGAATATAGAAT | AAGAATATAGAATAAGAATATAGAAT | pacbio |
 | *Planococcus citri* | Pseudococcidae | Hemiptera | AACCT | AACCTAACCT | pacbio |
+| *Cacopsylla fulguralis* | Psyllidae | Hemiptera | AACCT | ACCATC | pacbio |
 | *Corizus hyoscyami* | Rhopalidae | Hemiptera | AACCATCCCT | ACAGACAG | pacbio |
 | *Rhopalus parumpunctatus* | Rhopalidae | Hemiptera | ACACAC | AAGCAT | pacbio |
 | *Rhopalus subrufus* | Rhopalidae | Hemiptera | ACTCACTC | ACTCACTCACTCACTC | pacbio |
 | *Drymus ryeii* | Rhyparochromidae | Hemiptera | AACCTACCT | AACCATCCCT | pacbio |
 | *Rhyparochromus vulgaris* | Rhyparochromidae | Hemiptera | AACCATCCCT | AATAAT | pacbio |
+| *Andrena bicolor* | Andrenidae | Hymenoptera |  |  | pacbio |
 | *Andrena bucephala* | Andrenidae | Hymenoptera | AAAAT | AACACTAACCC | assembly |
 | *Andrena bucephala* | Andrenidae | Hymenoptera | ACCAGTG | AAAATAATTG | pacbio |
 | *Andrena chrysosceles* | Andrenidae | Hymenoptera | ACTCATACTCAT | AACATG | pacbio |
@@ -389,6 +450,8 @@
 | *Andrena helvola* | Andrenidae | Hymenoptera | AACGAC | AAGGGTGAAGGGTGT | pacbio |
 | *Andrena minutula* | Andrenidae | Hymenoptera | AAATT | ACCCATACCGATACCCATACCGAT | assembly |
 | *Andrena minutula* | Andrenidae | Hymenoptera |  |  | pacbio |
+| *Andrena nitida* | Andrenidae | Hymenoptera |  |  | pacbio |
+| *Andrena praecox* | Andrenidae | Hymenoptera |  |  | pacbio |
 | *Andrena trimmerana* | Andrenidae | Hymenoptera | ACCAGTG | AAAAATAATTG | pacbio |
 | *Panurgus banksianus* | Andrenidae | Hymenoptera | ACGACG | AACCT | pacbio |
 | *Anthophora furcata* | Apidae | Hymenoptera | AACCT | AACCTAACCT | pacbio |
@@ -409,6 +472,7 @@
 | *Bombus sylvestris* | Apidae | Hymenoptera | AACCCGAACCT |  | pacbio |
 | *Bombus terrestris* | Apidae | Hymenoptera | AACGTAT | AACCCCAACCT | assembly |
 | *Bombus terrestris* | Apidae | Hymenoptera | AACCCCAACCT | AACCT | pacbio |
+| *Bombus vestalis* | Apidae | Hymenoptera |  |  | pacbio |
 | *Nomada fabriciana* | Apidae | Hymenoptera | AACCT |  | assembly |
 | *Nomada fabriciana* | Apidae | Hymenoptera |  |  | pacbio |
 | *Nomada ferruginata* | Apidae | Hymenoptera | AGCCG | AAGTAAGT | pacbio |
@@ -420,9 +484,12 @@
 | *Athalia rosae* | Athaliidae | Hymenoptera | AAAAA | AAAAAA | pacbio |
 | *Chalcis sispes* | Chalcididae | Hymenoptera | ACGATG | ATCATC | pacbio |
 | *Hylaeus communis* | Colletidae | Hymenoptera |  |  | pacbio |
+| *Cerceris arenaria* | Crabronidae | Hymenoptera |  |  | pacbio |
 | *Cerceris rybyensis* | Crabronidae | Hymenoptera | AACCCAGACCT | AAAAT | assembly |
 | *Cerceris rybyensis* | Crabronidae | Hymenoptera | AACCCAGACCT | ACCACT | pacbio |
+| *Crossocerus cetratus* | Crabronidae | Hymenoptera |  |  | pacbio |
 | *Crossocerus megacephalus* | Crabronidae | Hymenoptera | ACTGACTG | ACTGACTGACTG | pacbio |
+| *Ectemnius cavifrons* | Crabronidae | Hymenoptera |  |  | pacbio |
 | *Ectemnius continuus* | Crabronidae | Hymenoptera |  |  | assembly |
 | *Ectemnius continuus* | Crabronidae | Hymenoptera |  |  | pacbio |
 | *Ectemnius lituratus* | Crabronidae | Hymenoptera | AACCCAGACCT |  | assembly |
@@ -454,12 +521,18 @@
 | *Sphecodes monilicornis* | Halictidae | Hymenoptera | AACCCAGACCT | AGATAT | pacbio |
 | *Alloplasta piceator* | Ichneumonidae | Hymenoptera | ACGACGACT | ACGATG | assembly |
 | *Alloplasta piceator* | Ichneumonidae | Hymenoptera | ACGACG | ATCATC | pacbio |
+| *Amblyjoppa fuscipennis* | Ichneumonidae | Hymenoptera |  |  | pacbio |
 | *Amblyjoppa proteus* | Ichneumonidae | Hymenoptera | ACACGC | ACGAGG | pacbio |
 | *Amblyteles armatorius* | Ichneumonidae | Hymenoptera | AACATCATCG | ACGGCAGCG | assembly |
 | *Amblyteles armatorius* | Ichneumonidae | Hymenoptera | ACGACG | ATCATC | pacbio |
+| *Apechthis compunctor* | Ichneumonidae | Hymenoptera | ACAGAG | ACAGAGAG | pacbio |
 | *Buathra laborator* | Ichneumonidae | Hymenoptera | AATGAATG | AATGAATGAATG | assembly |
 | *Buathra laborator* | Ichneumonidae | Hymenoptera |  |  | pacbio |
+| *Campoletis raptor* | Ichneumonidae | Hymenoptera |  |  | pacbio |
 | *Clistopyga incitator* | Ichneumonidae | Hymenoptera | AAAGAACCT | AAAGAACCTAAAGAACCT | assembly |
+| *Clistopyga incitator* | Ichneumonidae | Hymenoptera |  |  | pacbio |
+| *Cylloceria caligata* | Ichneumonidae | Hymenoptera |  |  | pacbio |
+| *Ephialtes manifestator* | Ichneumonidae | Hymenoptera |  |  | pacbio |
 | *Ichneumon xanthorius* | Ichneumonidae | Hymenoptera | ACGATG | AACGAC | assembly |
 | *Ichneumon xanthorius* | Ichneumonidae | Hymenoptera | AACGAC | ACGATG | pacbio |
 | *Netelia dilatata* | Ichneumonidae | Hymenoptera | AAAATAAAT | AAAAT | assembly |
@@ -468,6 +541,7 @@
 | *Ophion luteus* | Ichneumonidae | Hymenoptera | ACACAC | ACACACAC | pacbio |
 | *Polysphincta tuberosa* | Ichneumonidae | Hymenoptera | AAACAC | ACACAG | pacbio |
 | *Scambus nigricans* | Ichneumonidae | Hymenoptera | ACACAC | ACACAG | pacbio |
+| *Coelioxys conoideus* | Megachilidae | Hymenoptera | ACAGAG | ACAGACAG | pacbio |
 | *Megachile ligniseca* | Megachilidae | Hymenoptera | ACAGAG | ACAGAGACAGAG | assembly |
 | *Megachile ligniseca* | Megachilidae | Hymenoptera | ACAGAG | AACCT | pacbio |
 | *Megachile willughbiella* | Megachilidae | Hymenoptera | ACAGAG | ACAGAGACAGAG | assembly |
@@ -479,8 +553,10 @@
 | *Melitta haemorrhoidalis* | Melittidae | Hymenoptera | AACCCAGACCT | AACCCAGACCTAACCCAGACCT | pacbio |
 | *Anoplius nigerrimus* | Pompilidae | Hymenoptera | AACCCAGACCT | AAAAA | assembly |
 | *Anoplius nigerrimus* | Pompilidae | Hymenoptera |  |  | pacbio |
+| *Arachnospila anceps* | Pompilidae | Hymenoptera |  |  | pacbio |
 | *Evagetes crassicornis* | Pompilidae | Hymenoptera | AACCCAGACCT |  | pacbio |
 | *Ammophila pubescens* | Sphecidae | Hymenoptera | AACTCACT | ACAGAG | pacbio |
+| *Ammophila sabulosa* | Sphecidae | Hymenoptera |  |  | pacbio |
 | *Macrophya alboannulata* | Tenthredinidae | Hymenoptera | ACCTG | ACCTGACCTG | pacbio |
 | *Phymatocera aterrima* | Tenthredinidae | Hymenoptera | AACCT | AAGGG | pacbio |
 | *Rhogogaster chlorosoma* | Tenthredinidae | Hymenoptera | AACCT | AACCTAACCT | assembly |
@@ -520,6 +596,7 @@
 | *Blastobasis lacticolella* | Blastobasidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Anthophila fabriciana* | Choreutidae | Lepidoptera |  |  | pacbio |
 | *Coleophora flavipennella* | Coleophoridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Coleophora flavipennella* | Coleophoridae | Lepidoptera |  |  | pacbio |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Zeuzera pyrina* | Cossidae | Lepidoptera | AACCT | AACAAC | pacbio |
 | *Acentria ephemerella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -534,6 +611,7 @@
 | *Catoptria pinella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Chrysoteuchia culmella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Chrysoteuchia culmella* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Crambus lathoniellus* | Crambidae | Lepidoptera |  |  | pacbio |
 | *Cydalima perspectalis* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Elophila nymphaeata* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Eudonia lacustrata* | Crambidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -555,6 +633,7 @@
 | *Agonopterix subpropinquella* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Carcina quercana* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Carcina quercana* | Depressariidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Achlya flavicornis* | Drepanidae | Lepidoptera |  |  | pacbio |
 | *Drepana falcataria* | Drepanidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Drepana falcataria* | Drepanidae | Lepidoptera |  |  | pacbio |
 | *Habrosyne pyritoides* | Drepanidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -564,6 +643,7 @@
 | *Watsonalla binaria* | Drepanidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Watsonalla binaria* | Drepanidae | Lepidoptera | AACCT |  | pacbio |
 | *Watsonalla cultraria* | Drepanidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Elachista subocellea* | Elachistidae | Lepidoptera |  |  | pacbio |
 | *Atolmis rubricollis* | Erebidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Catocala fraxini* | Erebidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Catocala fraxini* | Erebidae | Lepidoptera |  |  | pacbio |
@@ -603,8 +683,12 @@
 | *Thumatha senex* | Erebidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Tyria jacobaeae* | Erebidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Anarsia innoxiella* | Gelechiidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Anarsia innoxiella* | Gelechiidae | Lepidoptera |  |  | pacbio |
+| *Aproaerema taeniolella* | Gelechiidae | Lepidoptera |  |  | pacbio |
 | *Athrips mouffetella* | Gelechiidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Athrips mouffetella* | Gelechiidae | Lepidoptera | AACCT | AAATG | pacbio |
+| *Brachmia blandella* | Gelechiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Carpatolechia fugitivella* | Gelechiidae | Lepidoptera |  |  | pacbio |
 | *Psoricoptera gibbosella* | Gelechiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Recurvaria leucatella* | Gelechiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acasis viretata* | Geometridae | Lepidoptera | ACACCT | AACCT | pacbio |
@@ -612,20 +696,24 @@
 | *Agriopis aurantiaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Agriopis marginaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Agriopis marginaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Alcis repandata* | Geometridae | Lepidoptera |  |  | pacbio |
 | *Alsophila aescularia* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Alsophila aescularia* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Anticlea derivata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Anticlea derivata* | Geometridae | Lepidoptera |  |  | pacbio |
 | *Apeira syringaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Apeira syringaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Aplocera efformata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Aplocera efformata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Apocheima hispidaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Apocheima hispidaria* | Geometridae | Lepidoptera |  |  | pacbio |
 | *Biston betularia* | Geometridae | Lepidoptera | AACCT | ACCTACCT | assembly |
 | *Biston betularia* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Campaea margaritaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Campaea margaritaria* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Camptogramma bilineatum* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Chesias legatella* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Chesias legatella* | Geometridae | Lepidoptera |  |  | pacbio |
 | *Chloroclysta siterata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Chloroclysta siterata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Chloroclystis v-ata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -638,6 +726,7 @@
 | *Ecliptopera silaceata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Ectropis crepuscularia* | Geometridae | Lepidoptera |  |  | pacbio |
 | *Electrophaes corylata* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Electrophaes corylata* | Geometridae | Lepidoptera |  |  | pacbio |
 | *Ennomos erosarius* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Ennomos fuscantarius* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Ennomos fuscantarius* | Geometridae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -754,7 +843,9 @@
 | *Abrostola triplasia* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acronicta aceris* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Acronicta aceris* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Acronicta alni* | Noctuidae | Lepidoptera |  |  | pacbio |
 | *Acronicta leporina* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Acronicta leporina* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acronicta psi* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Acronicta psi* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acronicta rumicis* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -778,7 +869,10 @@
 | *Anorthoa munda* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Anorthoa munda* | Noctuidae | Lepidoptera | AACCT | ACCCTACCT | pacbio |
 | *Antitype chi* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Antitype chi* | Noctuidae | Lepidoptera |  |  | pacbio |
+| *Apamea anceps* | Noctuidae | Lepidoptera |  |  | pacbio |
 | *Apamea epomidion* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Apamea epomidion* | Noctuidae | Lepidoptera |  |  | pacbio |
 | *Apamea monoglypha* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Apamea monoglypha* | Noctuidae | Lepidoptera | AACCT |  | pacbio |
 | *Apamea scolopacina* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -787,7 +881,9 @@
 | *Aporophyla lueneburgensis* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Aporophyla lueneburgensis* | Noctuidae | Lepidoptera | AACCT | ACAGACAG | pacbio |
 | *Aporophyla nigra* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Aporophyla nigra* | Noctuidae | Lepidoptera |  |  | pacbio |
 | *Arenostola phragmitidis* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Asteroscopus sphinx* | Noctuidae | Lepidoptera |  |  | pacbio |
 | *Atethmia centrago* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Atethmia centrago* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Autographa gamma* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -813,9 +909,12 @@
 | *Craniophora ligustri* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Diachrysia chrysitis* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Diachrysia chrysitis* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Diarsia dahlii* | Noctuidae | Lepidoptera |  |  | pacbio |
 | *Diarsia rubi* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Diarsia rubi* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Diloba caeruleocephala* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Diloba caeruleocephala* | Noctuidae | Lepidoptera |  |  | pacbio |
+| *Dryobota labecula* | Noctuidae | Lepidoptera |  |  | pacbio |
 | *Dryobotodes eremita* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Dryobotodes eremita* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Eugnorisma glareosa* | Noctuidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -893,6 +992,7 @@
 | *Pseudoips prasinana* | Nolidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Clostera curtula* | Notodontidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Clostera curtula* | Notodontidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Drymonia ruficornis* | Notodontidae | Lepidoptera |  |  | pacbio |
 | *Furcula furcula* | Notodontidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Furcula furcula* | Notodontidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Notodonta dromedarius* | Notodontidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -976,6 +1076,7 @@
 | *Acrobasis repandana* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acrobasis suavella* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Acrobasis suavella* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Aglossa pinguinalis* | Pyralidae | Lepidoptera |  |  | pacbio |
 | *Apomyelois bistriatella* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Apomyelois bistriatella* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Elegia similella* | Pyralidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -1007,6 +1108,7 @@
 | *Synanthedon myopaeformis* | Sesiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Synanthedon vespiformis* | Sesiidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Synanthedon vespiformis* | Sesiidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Deilephila elpenor* | Sphingidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Deilephila porcellus* | Sphingidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Deilephila porcellus* | Sphingidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Hemaris fuciformis* | Sphingidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -1026,6 +1128,8 @@
 | *Acleris cristana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acleris emargana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Acleris emargana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Acleris ferrugana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Acleris holmiana* | Tortricidae | Lepidoptera |  |  | pacbio |
 | *Acleris kochiella* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Acleris literana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Acleris literana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
@@ -1034,17 +1138,21 @@
 | *Acleris sparsana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Apotomis betuletana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Apotomis betuletana* | Tortricidae | Lepidoptera | AACCT | ACAGGC | pacbio |
+| *Apotomis capreana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Apotomis turbidana* | Tortricidae | Lepidoptera | AACCT | ACTGATAGAT | assembly |
 | *Apotomis turbidana* | Tortricidae | Lepidoptera | AACCT | AGATAGAT | pacbio |
+| *Archips crataeganus* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Archips podanus* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Archips xylosteana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Archips xylosteana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Clepsis spectrana* | Tortricidae | Lepidoptera |  |  | pacbio |
 | *Cochylimorpha straminea* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Cydia amplana* | Tortricidae | Lepidoptera |  |  | pacbio |
 | *Cydia fagiglandana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Cydia splendana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Cydia splendana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Cydia strobilella* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
+| *Cydia strobilella* | Tortricidae | Lepidoptera |  |  | pacbio |
 | *Ditula angustiorana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Epagoge grotiana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Epinotia bilunana* | Tortricidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
@@ -1092,10 +1200,12 @@
 | *Ypsolopha sequella* | Ypsolophidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | AACCT | AACCTAACCT | assembly |
 | *Zygaena filipendulae* | Zygaenidae | Lepidoptera | AACCT | AACCTAACCT | pacbio |
+| *Boreus hyemalis* | Boreidae | Mecoptera |  |  | pacbio |
 | *Sialis lutaria* | Sialidae | Megaloptera | AACCT |  | pacbio |
 | *Chrysoperla carnea* | Chrysopidae | Neuroptera | AACCC | AACCCAACCC | assembly |
 | *Chrysoperla carnea* | Chrysopidae | Neuroptera | AACCC |  | pacbio |
 | *Drepanepteryx phalaenoides* | Hemerobiidae | Neuroptera | AACCTAACCT | AACCT | pacbio |
+| *Aeshna juncea* | Aeshnidae | Odonata |  |  | pacbio |
 | *Aeshna mixta* | Aeshnidae | Odonata | ATATAT | ATATATAT | pacbio |
 | *Coenagrion puella* | Coenagrionidae | Odonata | AGCCATCGCCAT | AGCCATCGCCATAGCCATCGCCAT | pacbio |
 | *Enallagma cyathigerum* | Coenagrionidae | Odonata | ACACAC | ACACACAC | pacbio |
@@ -1127,9 +1237,11 @@
 | *Brachyptera putata* | Taeniopterygidae | Plecoptera | ATATAT | ATATATATAT | assembly |
 | *Brachyptera risi* | Taeniopterygidae | Plecoptera | ATATAT | ATATATAT | pacbio |
 | *Xanthostigma xanthostigma* | Raphidiidae | Raphidioptera | AAGACAGT | AAGACAGTAAGACAGT | pacbio |
+| *Agapetus fuscipes* | Glossosomatidae | Trichoptera |  |  | pacbio |
 | *Silo pallipes* | Goeridae | Trichoptera | ATATAT | ATATATAT | pacbio |
 | *Hydropsyche siltalai* | Hydropsychidae | Trichoptera | AACCT | AACCTAACCT | pacbio |
 | *Athripsodes cinereus* | Leptoceridae | Trichoptera | AACCT | AACCTAACCT | assembly |
+| *Athripsodes cinereus* | Leptoceridae | Trichoptera |  |  | pacbio |
 | *Anabolia nervosa* | Limnephilidae | Trichoptera | AATGACAGCG | ACTACT | pacbio |
 | *Chaetopteryx villosa* | Limnephilidae | Trichoptera |  |  | pacbio |
 | *Glyphotaelius pellucidus* | Limnephilidae | Trichoptera | AACCT | AACCTAACCT | assembly |

@@ -13,7 +13,9 @@
 | *Angelica archangelica* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Angelica sylvestris* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Anthriscus sylvestris* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Conopodium majus* | Apiaceae | Apiales | AAACCCT | AACCCTG | pacbio |
 | *Helosciadium nodiflorum* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Heracleum sphondylium* | Apiaceae | Apiales |  |  | pacbio |
 | *Ligusticum scoticum* | Apiaceae | Apiales |  |  | pacbio |
 | *Smyrnium perfoliatum* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Hedera helix* | Araliaceae | Apiales | AAACCCT | AAACCCTAAACCCT | assembly |
@@ -26,44 +28,69 @@
 | *Iris foetidissima* | Iridaceae | Asparagales | AACCCT | AACCCTAACCCT | pacbio |
 | *Iris pseudacorus* | Iridaceae | Asparagales | AACCCT | AACCCTAACCCT | pacbio |
 | *Ophrys apifera* | Orchidaceae | Asparagales | ACCAGT | ACGCACGC | pacbio |
+| *Achillea millefolium* | Asteraceae | Asterales |  |  | pacbio |
+| *Achillea ptarmica* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Arctium minus* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Artemisia maritima* | Asteraceae | Asterales |  |  | pacbio |
 | *Artemisia vulgaris* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Bellis perennis* | Asteraceae | Asterales | AAACCCT | AGATAGAT | pacbio |
 | *Centaurea nigra* | Asteraceae | Asterales |  |  | pacbio |
 | *Chamaemelum nobile* | Asteraceae | Asterales | AAACCCT | ATATAT | pacbio |
 | *Cicerbita muralis* | Asteraceae | Asterales | ACATACAT | AAACCCT | pacbio |
+| *Filago vulgaris* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Helminthotheca echioides* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Hypochaeris maculata* | Asteraceae | Asterales |  |  | pacbio |
 | *Hypochaeris radicata* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Inula conyza* | Asteraceae | Asterales |  |  | pacbio |
 | *Leontodon hispidus* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Petasites fragrans* | Asteraceae | Asterales |  |  | pacbio |
+| *Petasites japonicus* | Asteraceae | Asterales |  |  | pacbio |
 | *Pulicaria dysenterica* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Pulicaria dysenterica* | Asteraceae | Asterales | AACAAC | AAACCCT | pacbio |
+| *Scorzoneroides autumnalis* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Senecio squalidus* | Asteraceae | Asterales | AAACCCT |  | assembly |
 | *Senecio vulgaris* | Asteraceae | Asterales | AAACCCT | AATAAT | pacbio |
+| *Sonchus arvensis* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Sonchus asper* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Tanacetum vulgare* | Asteraceae | Asterales | AAACCCT | ATATAT | pacbio |
+| *Tripleurospermum maritimum* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Tripolium pannonicum* | Asteraceae | Asterales | AGATAGAT | AACGAT | pacbio |
 | *Tussilago farfara* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Campanula glomerata* | Campanulaceae | Asterales |  |  | pacbio |
 | *Jasione montana* | Campanulaceae | Asterales | AACCCTG | AACCCCTG | pacbio |
+| *Phyteuma orbiculare* | Campanulaceae | Asterales |  |  | pacbio |
 | *Nymphoides peltata* | Menyanthaceae | Asterales | AAACCCT |  | pacbio |
 | *Borago officinalis* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Echium vulgare* | Boraginaceae | Boraginales |  |  | pacbio |
+| *Myosotis scorpioides* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Pentaglottis sempervirens* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Symphytum officinale* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Arabidopsis thaliana* | Brassicaceae | Brassicales | AAACCCT | AACCT | pacbio |
 | *Brassica oleracea* | Brassicaceae | Brassicales |  |  | pacbio |
 | *Cakile maritima* | Brassicaceae | Brassicales | AAACCCT | ACAGACT | pacbio |
+| *Cochlearia danica* | Brassicaceae | Brassicales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Lepidium draba* | Brassicaceae | Brassicales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Sisymbrium officinale* | Brassicaceae | Brassicales | AAACCCT | AACCCT | pacbio |
 | *Buxus sempervirens* | Buxaceae | Buxales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Buxus sempervirens* | Buxaceae | Buxales | AAACCCT | CCCCC | pacbio |
 | *Agrostemma githago* | Caryophyllaceae | Caryophyllales | AATAAT | AAACCCT | pacbio |
 | *Cerastium fontanum* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Cerastium glomeratum* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Dianthus deltoides* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Herniaria ciliolata* | Caryophyllaceae | Caryophyllales |  |  | pacbio |
 | *Honckenya peploides* | Caryophyllaceae | Caryophyllales | AAACCCT | AAAAA | pacbio |
+| *Sagina procumbens* | Caryophyllaceae | Caryophyllales | AAACCCT | AACCT | pacbio |
 | *Saponaria officinalis* | Caryophyllaceae | Caryophyllales | ACAGACAGATAG | ACAGACAGATAGACAGACAGATAG | pacbio |
 | *Silene acaulis* | Caryophyllaceae | Caryophyllales | AACAAC | AATAAT | pacbio |
 | *Silene dioica* | Caryophyllaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
 | *Silene latifolia* | Caryophyllaceae | Caryophyllales | AAACCCT | AATGCT | pacbio |
+| *Spergularia bocconei* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Spergularia marina* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Stellaria media* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Atriplex glabriuscula* | Chenopodiaceae | Caryophyllales |  |  | pacbio |
 | *Chenopodium album* | Chenopodiaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Suaeda vera* | Chenopodiaceae | Caryophyllales | AAACCCT | AATAAT | pacbio |
+| *Phytolacca acinosa* | Phytolaccaceae | Caryophyllales |  |  | pacbio |
 | *Fallopia sachalinensis* | Polygonaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Persicaria maculosa* | Polygonaceae | Caryophyllales |  |  | pacbio |
 | *Polygonum aviculare* | Polygonaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | assembly |
@@ -72,6 +99,7 @@
 | *Rumex acetosa* | Polygonaceae | Caryophyllales | AACAAC | AACAACAAC | pacbio |
 | *Rumex hydrolapathum* | Polygonaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Rumex sanguineus* | Polygonaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
+| *Tamarix gallica* | Tamaricaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Euonymus europaeus* | Celastraceae | Celastrales | AAACCCT | AAAAA | pacbio |
 | *Ceratophyllum demersum* | Ceratophyllaceae | Ceratophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Cornus suecica* | Cornaceae | Cornales |  |  | pacbio |
@@ -81,40 +109,57 @@
 | *Viburnum lantana* | Adoxaceae | Dipsacales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Knautia arvensis* | Caprifoliaceae | Dipsacales | AGATAGAT | AATAAT | pacbio |
 | *Linnaea borealis* | Caprifoliaceae | Dipsacales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Succisa pratensis* | Caprifoliaceae | Dipsacales | AAACCCT |  | pacbio |
 | *Impatiens glandulifera* | Balsaminaceae | Ericales | AAGCATT | AAGCATC | assembly |
 | *Impatiens glandulifera* | Balsaminaceae | Ericales | AAGCATC | AAGCATCAAGCATC | pacbio |
 | *Impatiens noli-tangere* | Balsaminaceae | Ericales |  |  | pacbio |
+| *Diapensia lapponica* | Diapensiaceae | Ericales | AACCCT |  | pacbio |
 | *Arctostaphylos uva-ursi* | Ericaceae | Ericales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Monotropa hypopitys* | Ericaceae | Ericales |  |  | pacbio |
 | *Lysimachia vulgaris* | Primulaceae | Ericales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Samolus valerandi* | Primulaceae | Ericales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Anthyllis vulneraria* | Fabaceae | Fabales | AACCT | AACCTAACCT | pacbio |
+| *Galega officinalis* | Fabaceae | Fabales | AAACCCT | AGATAGAT | pacbio |
+| *Genista pilosa* | Fabaceae | Fabales |  |  | pacbio |
 | *Lathyrus aphaca* | Fabaceae | Fabales | AGATAGAT |  | pacbio |
 | *Lathyrus linifolius* | Fabaceae | Fabales |  |  | pacbio |
 | *Lotus corniculatus* | Fabaceae | Fabales | AAACCCT | AGATAGAT | pacbio |
 | *Medicago arabica* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Medicago arabica* | Fabaceae | Fabales | AAACCCT | AAGAGATAC | pacbio |
+| *Medicago lupulina* | Fabaceae | Fabales |  |  | pacbio |
+| *Medicago sativa* | Fabaceae | Fabales |  |  | pacbio |
 | *Onobrychis viciifolia* | Fabaceae | Fabales | AAACCCT | AAAAA | pacbio |
 | *Trifolium fragiferum* | Fabaceae | Fabales | AAACCCT | AACCCTG | pacbio |
 | *Trifolium pratense* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Trifolium subterraneum* | Fabaceae | Fabales | AAACCCT | ACCCTAG | pacbio |
 | *Ulex europaeus* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Vicia cracca* | Fabaceae | Fabales | AATAAT | AATAATAAT | pacbio |
 | *Vicia sativa* | Fabaceae | Fabales | AAACCCT | AATAAT | pacbio |
+| *Vicia sepium* | Fabaceae | Fabales | AGATAGAT | AAACCCT | pacbio |
 | *Alnus glutinosa* | Betulaceae | Fagales | AAACCCT | CCCCC | pacbio |
 | *Betula pubescens* | Betulaceae | Fagales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Carpinus betulus* | Betulaceae | Fagales | AAACCCT | CCCCC | pacbio |
+| *Castanea sativa* | Fagaceae | Fagales |  |  | pacbio |
 | *Quercus cerris* | Fagaceae | Fagales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Quercus robur* | Fagaceae | Fagales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Quercus robur* | Fagaceae | Fagales | AAACCCT | AAAAA | pacbio |
 | *Myrica gale* | Myricaceae | Fagales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Vinca minor* | Apocynaceae | Gentianales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Centaurium erythraea* | Gentianaceae | Gentianales | AAACCCT |  | pacbio |
 | *Cruciata laevipes* | Rubiaceae | Gentianales | AAACCCT |  | pacbio |
 | *Galium aparine* | Rubiaceae | Gentianales | AAACCCT | CCCCC | pacbio |
+| *Galium odoratum* | Rubiaceae | Gentianales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Galium verum* | Rubiaceae | Gentianales |  |  | pacbio |
 | *Sherardia arvensis* | Rubiaceae | Gentianales | CCCCC |  | pacbio |
 | *Erodium maritimum* | Geraniaceae | Geraniales | CCCCC | CCCCCC | pacbio |
 | *Erodium moschatum* | Geraniaceae | Geraniales | ACTACT | AAACCCT | pacbio |
 | *Geranium dissectum* | Geraniaceae | Geraniales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Geranium lucidum* | Geraniaceae | Geraniales | AACCCT | AACCCTAACCCT | pacbio |
 | *Geranium robertianum* | Geraniaceae | Geraniales | AACCCT |  | pacbio |
+| *Geranium sanguineum* | Geraniaceae | Geraniales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Geranium sylvaticum* | Geraniaceae | Geraniales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Gunnera manicata* | Gunneraceae | Gunnerales |  |  | pacbio |
+| *Gunnera tinctoria* | Gunneraceae | Gunnerales |  |  | pacbio |
 | *Ballota nigra* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Ballota nigra* | Lamiaceae | Lamiales | AAACCCT | AAAAA | pacbio |
 | *Lamium album* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -125,6 +170,8 @@
 | *Scutellaria galericulata* | Lamiaceae | Lamiales | AAACCCT | CCCCC | pacbio |
 | *Scutellaria minor* | Lamiaceae | Lamiales | AAACCCT | AATAAT | pacbio |
 | *Stachys palustris* | Lamiaceae | Lamiales | AAACCCT | AACCT | pacbio |
+| *Stachys sylvatica* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Teucrium scorodonia* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Thymus serpyllum* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Ligustrum vulgare* | Oleaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Euphrasia confusa* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -132,19 +179,27 @@
 | *Lathraea clandestina* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Lathraea squamaria* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Melampyrum pratense* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Melampyrum sylvaticum* | Orobanchaceae | Lamiales |  |  | pacbio |
 | *Orobanche hederae* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Erythranthe lutea* | Phrymaceae | Lamiales |  |  | pacbio |
+| *Callitriche obtusangula* | Plantaginaceae | Lamiales |  |  | pacbio |
 | *Chaenorhinum minus* | Plantaginaceae | Lamiales | AAACCCT | AAAAA | pacbio |
 | *Hippuris vulgaris* | Plantaginaceae | Lamiales | AAACCCT | AATCT | pacbio |
 | *Linaria vulgaris* | Plantaginaceae | Lamiales | AAACCCT | AATAAT | pacbio |
+| *Littorella uniflora* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Misopates orontium* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Misopates orontium* | Plantaginaceae | Lamiales | AAACCCT | ATATAT | pacbio |
 | *Plantago coronopus* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Plantago lanceolata* | Plantaginaceae | Lamiales | AACCCTAAT | AACCCTAATAACCCTAAT | pacbio |
+| *Plantago maritima* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Veronica arvensis* | Plantaginaceae | Lamiales | AAACCCT |  | pacbio |
 | *Veronica chamaedrys* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Veronica hederifolia* | Plantaginaceae | Lamiales | AAGAAG | AAGAAGAAG | pacbio |
+| *Veronica officinalis* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Veronica serpyllifolia* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Veronica spicata* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Buddleja davidii* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Limosella aquatica* | Scrophulariaceae | Lamiales | AAACCCT |  | pacbio |
 | *Scrophularia auriculata* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Scrophularia nodosa* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Verbena officinalis* | Verbenaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -157,10 +212,18 @@
 | *Mercurialis perennis* | Euphorbiaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Hypericum perforatum* | Hypericaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Populus tremula* | Salicaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Salix lapponum* | Salicaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Salix myrsinifolia* | Salicaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Salix phylicifolia* | Salicaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Viola riviniana* | Violaceae | Malpighiales | AAACCCT | AACCCT | pacbio |
+| *Helianthemum apenninum* | Cistaceae | Malvales |  |  | pacbio |
 | *Daphne mezereum* | Thymelaeaceae | Malvales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Lythrum salicaria* | Lythraceae | Myrtales | AAACCCT | CCCCC | pacbio |
 | *Chamaenerion angustifolium* | Onagraceae | Myrtales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Chamaenerion angustifolium* | Onagraceae | Myrtales | AAACCCT | CCCCC | pacbio |
+| *Circaea lutetiana* | Onagraceae | Myrtales |  |  | pacbio |
+| *Nymphaea alba* | Nymphaeaceae | Nymphaeales |  |  | pacbio |
+| *Aristolochia clematitis* | Aristolochiaceae | Piperales |  |  | pacbio |
 | *Carex depauperata* | Cyperaceae | Poales | AAACCCT | AACCCTG | pacbio |
 | *Carex nigra* | Cyperaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Carex pendula* | Cyperaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -187,17 +250,23 @@
 | *Fumaria officinalis* | Papaveraceae | Ranunculales | AAACCG | AAACCGAAACCG | pacbio |
 | *Glaucium flavum* | Papaveraceae | Ranunculales | AAAACCCTACCCG | AAAACCCTACCCGAAAACCCTACCCG | pacbio |
 | *Papaver dubium* | Papaveraceae | Ranunculales | AACCCTG | AACCCTGAACCCTG | pacbio |
+| *Papaver rhoeas* | Papaveraceae | Ranunculales |  |  | pacbio |
+| *Pseudofumaria lutea* | Papaveraceae | Ranunculales | AAACCG |  | pacbio |
 | *Adonis annua* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Caltha palustris* | Ranunculaceae | Ranunculales |  |  | pacbio |
 | *Clematis vitalba* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Ranunculus acris* | Ranunculaceae | Ranunculales |  |  | pacbio |
 | *Ranunculus bulbosus* | Ranunculaceae | Ranunculales | AACCCCG | AACCCCGAACCCCG | pacbio |
+| *Ranunculus sardous* | Ranunculaceae | Ranunculales | ACTCACTC | AATCAATC | pacbio |
 | *Trollius europaeus* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Humulus lupulus* | Cannabaceae | Rosales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Hippophae rhamnoides* | Elaeagnaceae | Rosales | AAACCCT | AATAAT | pacbio |
 | *Rhamnus cathartica* | Rhamnaceae | Rosales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Agrimonia eupatoria* | Rosaceae | Rosales |  |  | pacbio |
 | *Alchemilla alpina* | Rosaceae | Rosales | AAACCCT |  | pacbio |
 | *Alchemilla arvensis* | Rosaceae | Rosales | AAACCCT |  | pacbio |
 | *Alchemilla micans* | Rosaceae | Rosales | AAACCCT | CCCCC | pacbio |
+| *Comarum palustre* | Rosaceae | Rosales |  |  | pacbio |
 | *Crataegus laevigata* | Rosaceae | Rosales | AAACCCT | CCCCC | pacbio |
 | *Crataegus monogyna* | Rosaceae | Rosales | AAACCCT | AATAAT | pacbio |
 | *Dasiphora fruticosa* | Rosaceae | Rosales | AAACCCT |  | pacbio |
@@ -210,12 +279,21 @@
 | *Malus sylvestris* | Rosaceae | Rosales | AAACCCT | CCCCC | pacbio |
 | *Potentilla anserina* | Rosaceae | Rosales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Potentilla anserina* | Rosaceae | Rosales | AAACCCT | AACCT | pacbio |
+| *Potentilla reptans* | Rosaceae | Rosales | AACCT | AACCTAACCT | pacbio |
+| *Potentilla sterilis* | Rosaceae | Rosales | AAACCCT |  | pacbio |
+| *Pyrus communis* | Rosaceae | Rosales |  |  | pacbio |
+| *Rosa agrestis* | Rosaceae | Rosales |  |  | pacbio |
+| *Rosa rubiginosa* | Rosaceae | Rosales | AAACCCT |  | pacbio |
 | *Parietaria judaica* | Urticaceae | Rosales | AAACCCT | AAAAA | pacbio |
 | *Urtica dioica* | Urticaceae | Rosales | AAACCCT | ACAGTC | pacbio |
 | *Urtica urens* | Urticaceae | Rosales | AAACCCT | AAGAGATAC | pacbio |
 | *Viscum album* | Viscaceae | Santalales | CCCCC | CCCCCC | pacbio |
 | *Acer campestre* | Sapindaceae | Sapindales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Acer pseudoplatanus* | Sapindaceae | Sapindales |  |  | pacbio |
+| *Umbilicus rupestris* | Crassulaceae | Saxifragales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Calystegia sepium* | Convolvulaceae | Solanales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Convolvulus arvensis* | Convolvulaceae | Solanales | AAACCCT | ACTACT | pacbio |
+| *Cuscuta epithymum* | Convolvulaceae | Solanales |  |  | pacbio |
 | *Atropa belladonna* | Solanaceae | Solanales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Solanum dulcamara* | Solanaceae | Solanales | AACCCTG | AACCCTGAACCCTG | assembly |
 | *Solanum dulcamara* | Solanaceae | Solanales | AACCCTG | AATAAT | pacbio |

@@ -4,6 +4,8 @@
 | -- | --- | --- | --- | --- | --- |
 | *Ceramium secundatum* | Ceramiaceae | Ceramiales | AACAAC | AACAACAAC | pacbio |
 | *Ceramium virgatum* | Ceramiaceae | Ceramiales | AAAAT | AAAATAAAT | pacbio |
+| *Heterosiphonia plumosa* | Dasyaceae | Ceramiales | AACCT | AACCAC | pacbio |
+| *Vertebrata lanosa* | Rhodomelaceae | Ceramiales | AACCCT | AACACAC | pacbio |
 | *Calliblepharis jubata* | Cystocloniaceae | Gigartinales | ATATAT | ATATATAT | pacbio |
 | *Metacallophyllis laciniata* | Kallymeniaceae | Gigartinales | ACAGGCGTGCCC | AAGCGAGATGCAAGCGATGC | pacbio |
 | *Palmaria palmata* | Palmariaceae | Palmariales | ACACTGAGT | ACAGGCGTGCCC | pacbio |
