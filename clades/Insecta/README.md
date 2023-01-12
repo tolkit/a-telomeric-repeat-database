@@ -263,7 +263,7 @@
 | *Musca autumnalis* | Muscidae | Diptera | AAAATAT | AAAAT | pacbio |
 | *Myospila meditabunda* | Muscidae | Diptera | AATTAC | AATTACAATTAC | pacbio |
 | *Neomyia cornicina* | Muscidae | Diptera | ACATAT | ACATATACATAT | pacbio |
-| *Phaonia gobertii* | Muscidae | Diptera |  |  | pacbio |
+| *Phaonia gobertii* | Muscidae | Diptera | AATTC | AGATAT | pacbio |
 | *Phaonia pallida* | Muscidae | Diptera | AATTC | AATTCAATTC | pacbio |
 | *Phaonia palpata* | Muscidae | Diptera | AGATAT | AATTC | pacbio |
 | *Phaonia rufiventris* | Muscidae | Diptera | AAGTC | AAGTCAAGTC | pacbio |

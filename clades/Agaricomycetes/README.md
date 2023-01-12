@@ -18,8 +18,8 @@
 | *Flammulina velutipes var. lupinicola* | Physalacriaceae | Agaricales | CCCCC |  | pacbio |
 | *Flammulina velutipes var. lactea* | Physalacriaceae | Agaricales | CCCCC |  | pacbio |
 | *Flammulina velutipes* | Physalacriaceae | Agaricales | CCCCC |  | pacbio |
-| *Pleurotus eryngii var. ferulae* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus eryngii var. eryngii* | Pleurotaceae | Agaricales |  |  | pacbio |
+| *Pleurotus eryngii var. ferulae* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus eryngii var. elaeoselini* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus eryngii* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus sp. 'Florida'* | Pleurotaceae | Agaricales |  |  | pacbio |

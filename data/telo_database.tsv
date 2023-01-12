@@ -383,7 +383,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 221902	species	Musca autumnalis	Musca autumnalis	Musca	Muscidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	948660000	AAAATAT	AAAAT	pacbio
 559661	species	Myospila meditabunda	Myospila meditabunda	Myospila	Muscidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	830077500	AATTAC	AATTACAATTAC	pacbio
 305608	species	Neomyia cornicina	Neomyia cornicina	Neomyia	Muscidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	948660000	ACATAT	ACATATACATAT	pacbio
-1511666	species	Phaonia gobertii	Phaonia gobertii	Phaonia	Muscidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	830077500	""	""	pacbio
+1511666	species	Phaonia gobertii	Phaonia gobertii	Phaonia	Muscidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	830077500	AATTC	AGATAT	pacbio
 559663	species	Phaonia pallida	Phaonia pallida	Phaonia	Muscidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	830077500	AATTC	AATTCAATTC	pacbio
 2882607	species	Phaonia palpata	Phaonia palpata	Phaonia	Muscidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	830077500	AGATAT	AATTC	pacbio
 2823191	species	Phaonia rufiventris	Phaonia rufiventris	Phaonia	Muscidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	830077500	AAGTC	AAGTCAAGTC	pacbio
@@ -1641,8 +1641,8 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 2082123	varietas	Flammulina velutipes var. lupinicola	Flammulina velutipes	Flammulina	Physalacriaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	460118437	CCCCC	""	pacbio
 70293	varietas	Flammulina velutipes var. lactea	Flammulina velutipes	Flammulina	Physalacriaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	460118437	CCCCC	""	pacbio
 38945	species	Flammulina velutipes	Flammulina velutipes	Flammulina	Physalacriaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	460118437	CCCCC	""	pacbio
-228215	varietas	Pleurotus eryngii var. ferulae	Pleurotus eryngii	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	460118437	""	""	pacbio
 280321	varietas	Pleurotus eryngii var. eryngii	Pleurotus eryngii	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	460118437	""	""	pacbio
+228215	varietas	Pleurotus eryngii var. ferulae	Pleurotus eryngii	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	460118437	""	""	pacbio
 662516	varietas	Pleurotus eryngii var. elaeoselini	Pleurotus eryngii	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	460118437	""	""	pacbio
 5323	species	Pleurotus eryngii	Pleurotus eryngii	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	460118437	""	""	pacbio
 188765	morph	Pleurotus sp. 'Florida'	Pleurotus ostreatus	Pleurotus	Pleurotaceae	Agaricales	Agaricomycetes	Basidiomycota	Fungi	Eukaryota	460118437	""	""	pacbio

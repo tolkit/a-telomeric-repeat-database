@@ -372,7 +372,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Musca autumnalis* | Muscidae | Diptera | Insecta | AAAATAT | AAAAT | pacbio |
 | *Myospila meditabunda* | Muscidae | Diptera | Insecta | AATTAC | AATTACAATTAC | pacbio |
 | *Neomyia cornicina* | Muscidae | Diptera | Insecta | ACATAT | ACATATACATAT | pacbio |
-| *Phaonia gobertii* | Muscidae | Diptera | Insecta |  |  | pacbio |
+| *Phaonia gobertii* | Muscidae | Diptera | Insecta | AATTC | AGATAT | pacbio |
 | *Phaonia pallida* | Muscidae | Diptera | Insecta | AATTC | AATTCAATTC | pacbio |
 | *Phaonia palpata* | Muscidae | Diptera | Insecta | AGATAT | AATTC | pacbio |
 | *Phaonia rufiventris* | Muscidae | Diptera | Insecta | AAGTC | AAGTCAAGTC | pacbio |
