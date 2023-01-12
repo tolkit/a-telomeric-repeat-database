@@ -5,11 +5,13 @@
 | *Cervus elaphus* | Cervidae | Artiodactyla | AAAAA | AAAAAA | assembly |
 | *Cervus elaphus* | Cervidae | Artiodactyla | AAAAA | AAAAAA | pacbio |
 | *Orcinus orca* | Delphinidae | Artiodactyla | AACCCT |  | pacbio |
+| *Hyperoodon ampullatus* | Ziphiidae | Artiodactyla | AACCCT | AACCCTAACCCT | pacbio |
 | *Canis lupus* | Canidae | Carnivora | AACCCT | AACCCTAACCCT | assembly |
 | *Canis lupus* | Canidae | Carnivora | AACCCT | AACCCTAACCCT | pacbio |
 | *Lutra lutra* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | assembly |
 | *Meles meles* | Mustelidae | Carnivora |  |  | assembly |
 | *Meles meles* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | pacbio |
+| *Eptesicus nilssonii* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | pacbio |
 | *Myotis daubentonii* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | pacbio |
 | *Pipistrellus pipistrellus* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | assembly |
 | *Pipistrellus pygmaeus* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | pacbio |

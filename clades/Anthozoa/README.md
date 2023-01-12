@@ -6,3 +6,4 @@
 | *Diadumene lineata* | Diadumenidae | Actiniaria | AACCCT | AACCCTAACCCT | assembly |
 | *Diadumene lineata* | Diadumenidae | Actiniaria | AACCCT | AAGAGTGT | pacbio |
 | *Nematostella vectensis* | Edwardsiidae | Actiniaria | AACCCT | ACCATC | pacbio |
+| *Metridium senile* | Metridiidae | Actiniaria | AACCCT | AAGAC | pacbio |

@@ -7,13 +7,13 @@
 | *Agaricus bisporus var. bisporus* | Agaricaceae | Agaricales |  |  | pacbio |
 | *Agaricus bisporus var. burnettii* | Agaricaceae | Agaricales |  |  | pacbio |
 | *Agaricus bisporus* | Agaricaceae | Agaricales |  |  | pacbio |
-| *Clavaria fumosa* | Clavariaceae | Agaricales |  |  | pacbio |
+| *Clavaria fumosa* | Clavariaceae | Agaricales | AACCCT | AACCCTAACCCT | pacbio |
 | *Entoloma incanum* | Entolomataceae | Agaricales |  |  | pacbio |
-| *Inocybe grammopodia* | Inocybaceae | Agaricales |  |  | pacbio |
+| *Inocybe grammopodia* | Inocybaceae | Agaricales | AAGCATC | AACCCT | pacbio |
 | *Inocybe tigrina* | Inocybaceae | Agaricales |  |  | pacbio |
 | *Pseudosperma umbrinellum* | Inocybaceae | Agaricales | AGAGAGAT | AACGAC | pacbio |
 | *Leucocybe candicans* | Lyophyllaceae | Agaricales |  |  | pacbio |
-| *Lyophyllum leucophaeatum* | Lyophyllaceae | Agaricales |  |  | pacbio |
+| *Lyophyllum leucophaeatum* | Lyophyllaceae | Agaricales | ACAGACAG | ACAGACAGACAG | pacbio |
 | *Armillaria gallica* | Physalacriaceae | Agaricales | AAACCCT | AACCCTG | pacbio |
 | *Flammulina velutipes var. lupinicola* | Physalacriaceae | Agaricales | CCCCC |  | pacbio |
 | *Flammulina velutipes var. lactea* | Physalacriaceae | Agaricales | CCCCC |  | pacbio |
@@ -29,12 +29,13 @@
 | *Volvopluteus gloiocephalus* | Pluteaceae | Agaricales |  |  | pacbio |
 | *Coprinellus micaceus* | Psathyrellaceae | Agaricales |  |  | pacbio |
 | *Tricholoma cingulatum* | Tricholomataceae | Agaricales |  |  | pacbio |
-| *Tricholoma hemisulphureum* | Tricholomataceae | Agaricales |  |  | pacbio |
-| *Guepinia helvelloides* |  | Auriculariales |  |  | pacbio |
+| *Tricholoma hemisulphureum* | Tricholomataceae | Agaricales | AAACCCT | AAACCCTAAACCCT | pacbio |
+| *Guepinia helvelloides* |  | Auriculariales | AGATAGAT | AACCCT | pacbio |
 | *Laetiporus sulphureus var. sulphureus* | Laetiporaceae | Polyporales | CCCCC | CCCCCCC | pacbio |
 | *Laetiporus sulphureus* | Laetiporaceae | Polyporales | CCCCC | CCCCCCC | pacbio |
 | *Hericium coralloides* | Hericiaceae | Russulales |  |  | pacbio |
+| *Peniophora laeta* | Peniophoraceae | Russulales |  |  | pacbio |
 | *Lactarius evosmus* | Russulaceae | Russulales |  |  | pacbio |
-| *Lactarius tabidus* | Russulaceae | Russulales |  |  | pacbio |
+| *Lactarius tabidus* | Russulaceae | Russulales | AACTCGGAACTCGG | AAGCCT | pacbio |
 | *Russula farinipes* | Russulaceae | Russulales |  |  | pacbio |
 | *Stereum gausapatum* | Stereaceae | Russulales |  |  | pacbio |

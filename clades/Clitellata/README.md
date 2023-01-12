@@ -3,7 +3,7 @@
 | Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
 | -- | --- | --- | --- | --- | --- |
 | *Aporrectodea caliginosa* | Lumbricidae | Crassiclitellata |  |  | pacbio |
-| *Aporrectodea longa* | Lumbricidae | Crassiclitellata |  |  | pacbio |
+| *Aporrectodea longa* | Lumbricidae | Crassiclitellata | AACCCT | AACCCTAACCCT | pacbio |
 | *Eisenia fetida* | Lumbricidae | Crassiclitellata | ATCATC | AACCCT | pacbio |
 | *Eiseniella tetraedra* | Lumbricidae | Crassiclitellata | AACCCT | ACATACAT | pacbio |
 | *Lumbricus castaneus* | Lumbricidae | Crassiclitellata | ATCATC | AACCCT | pacbio |

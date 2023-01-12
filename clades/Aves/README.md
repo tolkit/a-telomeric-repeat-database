@@ -6,8 +6,8 @@
 | *Accipiter gentilis* | Accipitridae | Accipitriformes | AACCCT | AACCCTAACCCT | pacbio |
 | *Caprimulgus europaeus* | Caprimulgidae | Caprimulgiformes | AACCCT | AACCCTAACCCT | assembly |
 | *Streptopelia turtur* | Columbidae | Columbiformes |  |  | assembly |
-| *Tetrao urogallus* | Phasianidae | Galliformes |  |  | pacbio |
-| *Cinclus cinclus* | Cinclidae | Passeriformes |  |  | pacbio |
+| *Tetrao urogallus* | Phasianidae | Galliformes | AACCCT | AACCCTAACCCT | pacbio |
+| *Cinclus cinclus* | Cinclidae | Passeriformes | AACCCT | AAGGG | pacbio |
 | *Erithacus rubecula* | Turdidae | Passeriformes | AAGGAAGG | AGAGG | assembly |
 | *Phaethon aethereus* | Phaethontidae | Pelecaniformes | AACCCT | AACCCTAACCCT | pacbio |
 | *Calonectris borealis* | Procellariidae | Procellariiformes | AACCCT | CCCCC | pacbio |

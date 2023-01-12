@@ -518,15 +518,15 @@ Acasis viretata	ACACCT	AACCT	pacbio
 Accipiter gentilis	AACCCT	AACCCTAACCCT	pacbio
 Acentria ephemerella	AACCT	AACCTAACCT	pacbio
 Acer campestre	AAACCCT	AAACCCTAAACCCT	pacbio
-Acer pseudoplatanus			pacbio
-Achillea millefolium			pacbio
+Acer pseudoplatanus	AAACCCT	AAACCCTAAACCCT	pacbio
+Achillea millefolium	AAACCCT	AGATAGAT	pacbio
 Achillea ptarmica	AAACCCT	AAACCCTAAACCCT	pacbio
-Achlya flavicornis			pacbio
+Achlya flavicornis	AACCT	AAATG	pacbio
 Acholoe squamosa	AACCCT	AACCCTAACCCT	pacbio
 Acleris cristana	AACCT	AACCTAACCT	pacbio
 Acleris emargana	AACCT	AACCTAACCT	pacbio
 Acleris ferrugana	AACCT	AACCTAACCT	pacbio
-Acleris holmiana			pacbio
+Acleris holmiana	AACCT	AACCTAACCT	pacbio
 Acleris kochiella	AACCT	AACCTAACCT	pacbio
 Acleris literana	AACCT	AACCTAACCT	pacbio
 Acleris rhombana	AACCT	AACCTAACCT	pacbio
@@ -537,7 +537,7 @@ Acrobasis repandana	AACCT	AACCTAACCT	pacbio
 Acrobasis suavella	AACCT	AACCTAACCT	pacbio
 Acrocera orbiculus			pacbio
 Acronicta aceris	AACCT	AACCTAACCT	pacbio
-Acronicta alni			pacbio
+Acronicta alni	AACCT	AACCTAACCT	pacbio
 Acronicta leporina	AACCT	AACCTAACCT	pacbio
 Acronicta psi	AACCT	AACCTAACCT	pacbio
 Acronicta rumicis	AACCT	AACCTAACCT	pacbio
@@ -549,13 +549,13 @@ Adonis annua	AAACCCT	AAACCCTAAACCCT	pacbio
 Adoxa moschatellina	AAACCCT	AAACCCTAAACCCT	pacbio
 Adrastus pallens	AACCT	AACCTAACCT	pacbio
 Aelia acuminata			pacbio
-Aeshna juncea			pacbio
+Aeshna juncea	AACCC	AACTGACT	pacbio
 Aeshna mixta	ATATAT	ATATATAT	pacbio
 Agalenatea redii	ACAGACAG	ACATACAT	pacbio
-Agapetus fuscipes			pacbio
+Agapetus fuscipes	AACCT	AACCTAACCT	pacbio
 Agaricus bisporus			pacbio
 Agelena labyrinthica	ACATACAT	AGATAGAT	pacbio
-Aglossa pinguinalis			pacbio
+Aglossa pinguinalis	AACCT	AACCTAACCT	pacbio
 Agonopterix arenella	AACCT	AGGAT	pacbio
 Agonopterix heracliana	AACCT	AACCTAACCT	pacbio
 Agonopterix ocellana	AACCT	AACCTAACCT	pacbio
@@ -571,8 +571,10 @@ Agriphila geniculea	AACCT	AACCTAACCT	pacbio
 Agriphila straminella	AACCT	AACCTAACCT	pacbio
 Agriphila tristella	AACCT	AACCTAACCT	pacbio
 Agrochola circellaris	AACCT		pacbio
+Agrochola lota	AACCT	AACCTAACCT	pacbio
 Agrochola macilenta	AACCT	AACCTAACCT	pacbio
 Agrostemma githago	AATAAT	AAACCCT	pacbio
+Agrostis stolonifera	AAACCCT	AAACCCTAAACCCT	pacbio
 Agrotis puta	AACCT	AACCTAACCT	pacbio
 Agrypnus murinus	AACCT	AAACTAT	pacbio
 Ailanthus altissima	AAACCCT	AATAAT	pacbio
@@ -580,38 +582,42 @@ Alaria esculenta	ACAGACAG	AAAGC	pacbio
 Alchemilla alpina	AAACCCT		pacbio
 Alchemilla arvensis	AAACCCT		pacbio
 Alchemilla micans	AAACCCT	CCCCC	pacbio
-Alcis repandata			pacbio
+Alcis repandata	AACCT	AACCTAACCT	pacbio
 Alisma plantago-aquatica	ATCATC	AAACCCT	pacbio
 Alitta virens	AACCCT	ACTACT	pacbio
 Allacma fusca	AAACTTGGAATT	AAACTTGGAATTAAACTTGGAATT	pacbio
 Allium ampeloprasum			pacbio
 Allium triquetrum	AACCGAGCCCAT	AACCGAGCCCATAACCGAGCCCAT	pacbio
+Allium vineale	AACCGAGCCCAT		pacbio
 Allophyes oxyacanthae	AACCT		pacbio
 Alloplasta piceator	ACGACG	ATCATC	pacbio
 Alnus glutinosa	AAACCCT	CCCCC	pacbio
 Alopecosa pulverulenta	ATATAT	ACACAC	pacbio
+Alopecurus pratensis	AAACCCT	AAACCCTAAACCCT	pacbio
 Alsophila aescularia	AACCT	AACCTAACCT	pacbio
 Amaurobius ferox	ATATAT	ATATATAT	pacbio
 Amaurobius similis	ACACAC	ACACACAC	pacbio
-Amblyjoppa fuscipennis			pacbio
+Amblyjoppa fuscipennis	ACGAGG	ACGCACGC	pacbio
 Amblyjoppa proteus	ACACGC	ACGAGG	pacbio
 Amblyteles armatorius	ACGACG	ATCATC	pacbio
+Ammophila arenaria	AAACCCT	AAACCCTAAACCCT	pacbio
 Ammophila pubescens	AACTCACT	ACAGAG	pacbio
-Ammophila sabulosa			pacbio
+Ammophila sabulosa	AAGTC	ACTGG	pacbio
 Amphicteis midas			pacbio
+Amphipoea lucens	AACCT	AACCTAACCT	pacbio
 Amphipoea oculea	AACCT	AACCTAACCT	pacbio
 Amphipyra berbera	AACCT	AACCTAACCT	pacbio
 Amphipyra tragopoginis	AACCT	AACCTAACCT	pacbio
 Anabolia nervosa	AATGACAGCG	ACTACT	pacbio
 Anaplectoides prasina	AACCT	AAAAGTC	pacbio
-Anarsia innoxiella			pacbio
-Anaspis maculata			pacbio
+Anarsia innoxiella	AACCT	AACCTAACCT	pacbio
+Anaspis maculata	ACCTG	ACCTGACCTG	pacbio
 Anatis ocellata	AACCT	ACACTG	pacbio
 Ancistrocerus nigricornis			pacbio
 Ancylus fluviatilis	AACCCT	AACCCTAACCCT	pacbio
-Andrena bicolor			pacbio
+Andrena bicolor	AACCTG	AAGCC	pacbio
 Andrena bucephala	ACCAGTG	AAAATAATTG	pacbio
-Andrena carantonica			pacbio
+Andrena carantonica	ACCAGTG	ACCAGTGACCAGTG	pacbio
 Andrena chrysosceles	ACTCATACTCAT	AACATG	pacbio
 Andrena dorsata			pacbio
 Andrena fulva	AAACG	AATGGT	pacbio
@@ -619,14 +625,16 @@ Andrena haemorrhoa	AACGAGTCG	AAACGAGTC	pacbio
 Andrena hattorfiana	AAAAAC	ACGACG	pacbio
 Andrena helvola	AACGAC	AAGGGTGAAGGGTGT	pacbio
 Andrena minutula			pacbio
-Andrena nitida			pacbio
-Andrena praecox			pacbio
+Andrena nitida	AAGTC	ACTGG	pacbio
+Andrena praecox	AAAAT	AAACCCT	pacbio
 Andrena trimmerana	ACCAGTG	AAAAATAATTG	pacbio
+Anemone nemorosa	AAACCCT	AAACAC	pacbio
 Anemone pulsatilla	AAACCCT	AAACCCTAAACCCT	pacbio
 Angelica archangelica	AAACCCT	AAACCCTAAACCCT	pacbio
 Angelica sylvestris	AAACCCT	AAACCCTAAACCCT	pacbio
 Anisus vortex	AAGTAAGT	AAGTAAGTAAGT	pacbio
-Anomala dubia			pacbio
+Anomala dubia	AACCT	ACCCTACCT	pacbio
+Anomodon viticulosus	AATGAT	ACTCACTC	pacbio
 Anomoia purmunda	AATGAT	AATAAT	pacbio
 Anopheles coluzzii			pacbio
 Anoplius nigerrimus			pacbio
@@ -641,12 +649,13 @@ Anthomyia pluvialis	ACATACAT	AGATAGAT	pacbio
 Anthophila fabriciana			pacbio
 Anthophora furcata	AACCT	AACCTAACCT	pacbio
 Anthophora plumipes	AACCT	AACCTAACCT	pacbio
+Anthoxanthum odoratum	AACCCT	AAACCCT	pacbio
 Anthriscus sylvestris	AAACCCT	AAACCCTAAACCCT	pacbio
 Anthyllis vulneraria	AACCT	AACCTAACCT	pacbio
-Anticlea derivata			pacbio
-Antitype chi			pacbio
-Apamea anceps			pacbio
-Apamea epomidion			pacbio
+Anticlea derivata	AACCT	AACCTAACCT	pacbio
+Antitype chi	AACCT	AACCTAACCT	pacbio
+Apamea anceps	AACCT	AACCTAACCT	pacbio
+Apamea epomidion	AACCT	AACCTAACCT	pacbio
 Apamea monoglypha	AACCT		pacbio
 Apamea scolopacina	AACCT	AACCTAACCT	pacbio
 Apamea sordens	AACCT	AACCTAACCT	pacbio
@@ -657,7 +666,8 @@ Aphelocheirus aestivalis	ACAGAGAGGC	AATAT	pacbio
 Aphrodes makarovi	AAGAAT	AAGAATAAGAAT	pacbio
 Aplidium turbinatum	AACCCT	AACCCTAACCCT	pacbio
 Aplocera efformata	AACCT	AACCTAACCT	pacbio
-Apocheima hispidaria			pacbio
+Aplysia punctata	AACCCT	ACATACAT	pacbio
+Apocheima hispidaria	AACCT	AACCTAACCT	pacbio
 Apoda limacodes	AACCT	AACCTAACCT	pacbio
 Apodemus flavicollis	AACCCT	AACCCTAACCCT	pacbio
 Apodemus sylvaticus	AACCCT	AACCCTAACCCT	pacbio
@@ -666,16 +676,16 @@ Apomyelois bistriatella	AACCT	AACCTAACCT	pacbio
 Aponogeton distachyos	AAACCCT	AAACCCTAAACCCT	pacbio
 Aporia crataegi	AACCT	AACCTAACCT	pacbio
 Aporophyla lueneburgensis	AACCT	ACAGACAG	pacbio
-Aporophyla nigra			pacbio
+Aporophyla nigra	AACCT	AACCTAACCT	pacbio
 Aporrectodea caliginosa			pacbio
-Aporrectodea longa			pacbio
+Aporrectodea longa	AACCCT	AACCCTAACCCT	pacbio
 Apotomis betuletana	AACCT	ACAGGC	pacbio
 Apotomis capreana	AACCT	AACCTAACCT	pacbio
 Apotomis turbidana	AACCT	AGATAGAT	pacbio
-Aproaerema taeniolella			pacbio
+Aproaerema taeniolella	AACCT	AACCTAACCT	pacbio
 Arabidopsis thaliana	AAACCCT	AACCT	pacbio
-Arachnomyces peruvianus			pacbio
-Arachnospila anceps			pacbio
+Arachnomyces peruvianus	AACCCT		pacbio
+Arachnospila anceps	AACCCAGACCT	AACCCAGACCTAACCCAGACCT	pacbio
 Araneus angulatus	ACAGACAG	AACCAACC	pacbio
 Araneus diadematus	AATAT		pacbio
 Archips crataeganus	AACCT	AACCTAACCT	pacbio
@@ -690,50 +700,52 @@ Argynnis aglaja	AACCT	AACCTAACCT	pacbio
 Argyresthia goedartella	AACCT	AACCTAACCT	pacbio
 Aricia agestis	AACCT	AACCTAACCT	pacbio
 Aricia artaxerxes	AACCT	AACCTAACCT	pacbio
-Aristolochia clematitis			pacbio
+Aristolochia clematitis	AACCCTG	AGAGGGCG	pacbio
 Armillaria gallica	AAACCCT	AACCCTG	pacbio
-Artemisia maritima			pacbio
+Arrhenatherum elatius	AAACCCT	AAACCCTAAACCCT	pacbio
+Artemisia maritima	AAACCCT	AAACCCTAAACCCT	pacbio
 Artemisia vulgaris	AAACCCT	AAACCCTAAACCCT	pacbio
 Arum italicum	AAACCCT	AAACCCTAAACCCT	pacbio
 Arum maculatum	AAACCCT	AAACCCTAAACCCT	pacbio
 Asaphidion curtum	AACCT	AACCTAACCT	pacbio
 Ascidia mentula	AACCCT	AACCCTAACCCT	pacbio
 Asellus aquaticus			pacbio
-Aspidapion aeneum			pacbio
-Aspidapion radiolus			pacbio
+Aspidapion aeneum	ACAGACAG	ACAGACAGACAG	pacbio
+Aspidapion radiolus	AAACCTAACC	AAATTG	pacbio
 Asplenium scolopendrium	ATATAT	ATATATAT	pacbio
 Astacilla damnoniensis	AGATAGAT	AACCCT	pacbio
-Asteroscopus sphinx			pacbio
+Asteroscopus sphinx	AACCT	AACCTAACCT	pacbio
 Atelecyclus rotundatus	AACCT	AACCTAACCT	pacbio
 Atethmia centrago	AACCT	AACCTAACCT	pacbio
 Athalia circularis	ACGACG	ACGACGACG	pacbio
 Athalia cordata			pacbio
 Athalia rosae	AAAAA	AAAAAA	pacbio
 Athrips mouffetella	AACCT	AAATG	pacbio
-Athripsodes cinereus			pacbio
+Athripsodes cinereus	AACCT	AACCTAACCT	pacbio
 Atolmis rubricollis	AACCT	AACCTAACCT	pacbio
-Atriplex glabriuscula			pacbio
+Atriplex glabriuscula	AAATAAT	AAATAATAAATAAT	pacbio
 Atropa belladonna	AAACCCT	AAACCCTAAACCCT	pacbio
 Attelabus nitens	AACCT	AACCTAACCT	pacbio
 Atypus affinis	AGATAGAT	ATCATC	pacbio
 Autographa gamma	AACCT	AACCTAACCT	pacbio
 Autographa pulchrina	AACCT	AACCTAACCT	pacbio
 Axylia putris	AACCT	AACCTAACCT	pacbio
+Azorinus chamasolen	AACCCT	AACCCTAACCCT	pacbio
 Baccha elongata	AACAAC	ACATGTC	pacbio
 Ballota nigra	AAACCCT	AAAAA	pacbio
 Barbatula barbatula	AACCCT	AACCCTAACCCT	pacbio
 Barbus barbus	AACCCT	ACACAC	pacbio
 Batrachedra praeangusta	AACCT	AACCTAACCT	pacbio
-Bellardia bayeri			pacbio
+Bellardia bayeri	ACATAT	AATTC	pacbio
 Bellardia pandia	ACATAT	AAATT	pacbio
 Bellis perennis	AAACCCT	AGATAGAT	pacbio
 Bembecia ichneumoniformis	AACCT	AACCTAACCT	pacbio
-Bembidion guttula			pacbio
+Bembidion guttula	AACCT	AAACCTAACCT	pacbio
 Bena bicolorana	AACCT	AACCTAACCT	pacbio
 Berberis aquifolium			pacbio
-Beris chalybata			pacbio
+Beris chalybata	AAACATTTCAAATGATGGCTGAGGTT	AGATAGAT	pacbio
 Betula pubescens	AAACCCT	AAACCCTAAACCCT	pacbio
-Betulapion simile			pacbio
+Betulapion simile	ACCTG	ACCTGACCTG	pacbio
 Bibio marci			pacbio
 Bicyclus anynana	AACCT	AACCTAACCT	pacbio
 Biomphalaria glabrata	AACCCT	AACCCTAACCCT	pacbio
@@ -742,7 +754,7 @@ Bithynia leachii	AACCCT	AACCCTAACCCT	pacbio
 Blaesoxipha plumicornis	AAAAC	AAAACAAAAC	pacbio
 Blastobasis adustella	AACCT	AACCTAACCT	pacbio
 Blastobasis lacticolella	AACCT	AACCTAACCT	pacbio
-Blera fallax			pacbio
+Blera fallax	ACGATG	ACGATGACGATG	pacbio
 Boloria selene	AACCT	AACCTAACCT	pacbio
 Bombus campestris			pacbio
 Bombus hortorum	AACCCCAACCT	AACCT	pacbio
@@ -753,13 +765,13 @@ Bombus pratorum	AACGAACG	AACCCCAACCT	pacbio
 Bombus rupestris	AACCCCAACCT	AACTG	pacbio
 Bombus sylvestris	AACCCGAACCT		pacbio
 Bombus terrestris	AACCCCAACCT	AACCT	pacbio
-Bombus vestalis			pacbio
+Bombus vestalis	AACTG	AACCCCAACCT	pacbio
 Bombylius discolor			pacbio
 Bombylius major	ACTACT	AATAAT	pacbio
 Borago officinalis	AAACCCT	AAACCCTAAACCCT	pacbio
-Boreus hyemalis			pacbio
-Botanophila fugax			pacbio
-Brachinus crepitans			pacbio
+Boreus hyemalis	AAAGGT	ACAGACAG	pacbio
+Botanophila fugax	AAATAAAT	ACAGACAG	pacbio
+Brachinus crepitans	AACCT	AACCTAACCT	pacbio
 Brachiomonas submarina	AAGGATGGAC	ACAGACAG	pacbio
 Brachmia blandella	AACCT	AACCTAACCT	pacbio
 Brachylomia viminalis	AACCT	AACCTAACCT	pacbio
@@ -767,6 +779,9 @@ Brachypalpus laphriformis	ACTACT	AAATAAAT	pacbio
 Brachyptera risi	ATATAT	ATATATAT	pacbio
 Brassica oleracea			pacbio
 Briza media	AAACCCT	AAACCCTAAACCCT	pacbio
+Bromus hordeaceus	AAACCCT	AAACCCTAAACCCT	pacbio
+Bromus interruptus	AAACCCT	AAACCCTAAACCCT	pacbio
+Bromus ramosus	AAACCCT	AAACCCTAAACCCT	pacbio
 Bromus sterilis	AAACCCT	AAACCCTAAACCCT	pacbio
 Bryonia dioica	AAACCCT	AAACCCTAAACCCT	pacbio
 Buathra laborator			pacbio
@@ -782,20 +797,20 @@ Calliblepharis jubata	ATATAT	ATATATAT	pacbio
 Calliostoma zizyphinum	AACCCT	AAACCCT	pacbio
 Calliphora vicina	AACAGAACTAG	AACTAGAACTG	pacbio
 Calliphora vomitoria	AACAGAACTAG	AGATAGAT	pacbio
-Callitriche obtusangula			pacbio
+Callitriche obtusangula	AAGTAAGT	AAGTAAGTAAGT	pacbio
 Callomyia amoena	AAATG	AACAAC	pacbio
 Callophrys rubi	AACCT	AACCTAACCT	pacbio
 Calonectris borealis	AACCCT	CCCCC	pacbio
-Caltha palustris			pacbio
+Caltha palustris	AAACCCT	AAACCCTAAACCCT	pacbio
 Calvia quattuordecimguttata	AACCT	AACCTAACCT	pacbio
 Calystegia sepium	AAACCCT	AAACCCTAAACCCT	pacbio
 Campaea margaritaria	AACCT	AACCTAACCT	pacbio
-Campanula glomerata			pacbio
-Campoletis raptor			pacbio
+Campanula glomerata	AAACCCT	AAACCCTAAACCCT	pacbio
+Campoletis raptor	AAACAAACCC	ACTGACTG	pacbio
 Camptogramma bilineatum	AACCT	AACCTAACCT	pacbio
 Cancer pagurus	AACCT	ACAGACAG	pacbio
 Canis lupus	AACCCT	AACCCTAACCCT	pacbio
-Cantharis cryptica			pacbio
+Cantharis cryptica	AACCT	AACCTAACCT	pacbio
 Cantharis nigricans	AACCT	AACCTAACCT	pacbio
 Cantharis rufa	AACCT	AACCTAACCT	pacbio
 Cantharis rustica	AACCT	AACCTAACCT	pacbio
@@ -804,16 +819,18 @@ Caradrina clavipalpis	AACCT	AACCTAACCT	pacbio
 Caradrina kadenii	AACCT		pacbio
 Carassius carassius	AGATAGAT	AACCCT	pacbio
 Carcina quercana	AACCT	AACCTAACCT	pacbio
+Carex arenaria	AAACCCT	AAACCCTAAACCCT	pacbio
 Carex depauperata	AAACCCT	AACCCTG	pacbio
+Carex divulsa	AAACCCT	AAACCCTAAACCCT	pacbio
 Carex nigra	AAACCCT	AAACCCTAAACCCT	pacbio
 Carex pendula	AAACCCT	AAACCCTAAACCCT	pacbio
 Carex rostrata	AAACCCT	AAACCCTAAACCCT	pacbio
-Carpatolechia fugitivella			pacbio
+Carpatolechia fugitivella	AACCT	AACCTAACCT	pacbio
 Carpinus betulus	AAACCCT	CCCCC	pacbio
 Carpodesmia tamariscifolia	ACACT	ACACAC	pacbio
 Carterocephalus palaemon	AACCT	AACCTAACCT	pacbio
-Cassida rubiginosa			pacbio
-Castanea sativa			pacbio
+Cassida rubiginosa	AAATTC	AATCAT	pacbio
+Castanea sativa	AAACCCT	AAACCCTAAACCCT	pacbio
 Catocala fraxini			pacbio
 Catoptria pinella	AACCT	AACCTAACCT	pacbio
 Celastrina argiolus	AACCT	AACCTAACCT	pacbio
@@ -822,30 +839,31 @@ Centaurium erythraea	AAACCCT		pacbio
 Centrotus cornutus	AACCT	AACCTAACCT	pacbio
 Cepaea hortensis	ACTACT	AACCCT	pacbio
 Cepaea nemoralis	ACACAC	ACTACT	pacbio
+Cephalanthera longifolia			pacbio
 Ceramium secundatum	AACAAC	AACAACAAC	pacbio
 Ceramium virgatum	AAAAT	AAAATAAAT	pacbio
 Cerastium fontanum	AAACCCT	AAACCCTAAACCCT	pacbio
 Cerastium glomeratum	AAACCCT	AAACCCTAAACCCT	pacbio
 Cerastoderma edule	AACCCT	AACCCTAACCCT	pacbio
 Ceratophyllum demersum	AAACCCT	AAACCCTAAACCCT	pacbio
-Cerceris arenaria			pacbio
+Cerceris arenaria	AAACCCT	AAACCCTAAACCCT	pacbio
 Cerceris rybyensis	AACCCAGACCT	ACCACT	pacbio
 Cercopis vulnerata	ACACAC	AACCT	pacbio
 Cervus elaphus	AAAAA	AAAAAA	pacbio
-Cetonia aurata			pacbio
-Ceutorhynchus obstrictus			pacbio
+Cetonia aurata	AATAG	AGATAGAT	pacbio
+Ceutorhynchus obstrictus	AAACTAACCC	AAACTAACCCAAACTAACCC	pacbio
 Chaenorhinum minus	AAACCCT	AAAAA	pacbio
 Chaetoceros curvisetus	ACCCT	ACCCTACCCT	pacbio
 Chaetopteryx villosa			pacbio
 Chalcis sispes	ACGATG	ATCATC	pacbio
 Chalcolestes viridis	AACCC	ACACAC	pacbio
-Chalcosyrphus nemorum			pacbio
+Chalcosyrphus nemorum	ACTCT	AGAGGC	pacbio
 Chamaemelum nobile	AAACCCT	ATATAT	pacbio
 Chamaenerion angustifolium	AAACCCT	CCCCC	pacbio
 Charanyca ferruginea	AACCT	ACACCTACCCT	pacbio
 Charanyca trigrammica	AACCT	AACCTAACCT	pacbio
 Cheilosia illustrata	AACAAC	AACAACAAC	pacbio
-Cheilosia impressa			pacbio
+Cheilosia impressa	AAAGGTTC	AAAGGTTCAAAGGTTC	pacbio
 Cheilosia pagana			pacbio
 Cheilosia soror			pacbio
 Cheilosia urbana	AACTCC	ACACCG	pacbio
@@ -853,50 +871,53 @@ Cheilosia vulpina			pacbio
 Chelidonium majus	AAACCCT	AACCCT	pacbio
 Chelura terebrans			pacbio
 Chenopodium album	AAACCCT	AAACCCTAAACCCT	pacbio
-Chesias legatella			pacbio
+Chesias legatella	AACCT	AACCTAACCT	pacbio
 Chilocorus renipustulatus	ACTCTG	AAATATT	pacbio
-Chironomus plumosus			pacbio
+Chironomus plumosus	AAATT	ACTAGAG	pacbio
 Chloroclysta siterata	AACCT	AACCTAACCT	pacbio
 Chloroclystis v-ata	AACCT	AACCTAACCT	pacbio
 Chloroidium saccharophilum			pacbio
 Chloromyia formosa	ACAGACAG	ACAGACAGACAG	pacbio
 Chloroperla tripunctata	ACTACT	AGATAGAT	pacbio
-Chlorops speciosus			pacbio
+Chlorops speciosus	AGATAGAT	AGATAGATAGAT	pacbio
 Choerades marginata			pacbio
 Chorthippus albomarginatus	AACCT	AACTTG	pacbio
 Chorthippus brunneus	AACCT	ACACAG	pacbio
 Chorthippus parallelus	AACCT		pacbio
 Chrysogaster coemiteriorum	AACAAC	AACAACAAC	pacbio
-Chrysolina americana			pacbio
+Chrysolina americana	AACCT	ATCCATCC	pacbio
 Chrysolina oricalcia	ATCCATCC	ATCCATCCATCC	pacbio
-Chrysolina polita			pacbio
+Chrysolina polita	AACCT	AACCTAACCT	pacbio
 Chrysoperla carnea	AACCC		pacbio
-Chrysopilus cristatus			pacbio
+Chrysoperla lucasina	AACCC	AACCCAACCC	pacbio
+Chrysopilus cristatus	AAATTAAT	AAATTAATAAATTAAT	pacbio
 Chrysoteuchia culmella	AACCT	AACCTAACCT	pacbio
 Chrysotila carterae	AACCCT		pacbio
 Chrysotoxum bicinctum	AAATACAATAC	AACAAG	pacbio
 Chrysotoxum festivum	AGATAGAT	AAAGT	pacbio
 Chrysotoxum verralli	ATCATC	ATCATCATC	pacbio
-Chymomyza fuscimana			pacbio
+Chymomyza fuscimana	AAATAAT	AAATAAAT	pacbio
 Cicerbita muralis	ACATACAT	AAACCCT	pacbio
 Ciliata mustela	AGATAGATAGAT	AACCCT	pacbio
-Cinclus cinclus			pacbio
-Circaea lutetiana			pacbio
-Cis boleti			pacbio
+Cinclus cinclus	AACCCT	AAGGG	pacbio
+Circaea lutetiana	AAACCCT	AAACCCTAAACCCT	pacbio
+Cis boleti	ACCTG	ACAGACAGACAGG	pacbio
 Cistogaster globosa	AATAT	AATAAT	pacbio
 Cixius nervosus	AAAATTGTTGATGGAGATCATAC	AACCT	pacbio
 Cladonia squamosa			pacbio
-Clavaria fumosa			pacbio
-Clavelina lepadiformis			pacbio
-Cleigastra apicalis			pacbio
+Clausilia bidentata	AACCCT	AGATAGAT	pacbio
+Clavaria fumosa	AACCCT	AACCCTAACCCT	pacbio
+Clavelina lepadiformis	AACCCT	AACCCTAACCCT	pacbio
+Cleigastra apicalis	AAAAATT	AAATAAC	pacbio
 Clematis vitalba	AAACCCT	AAACCCTAAACCCT	pacbio
 Clepsis spectrana			pacbio
-Clistopyga incitator			pacbio
+Climacium dendroides	AAACCCT	AATGG	pacbio
+Clistopyga incitator	ACGATG	AAGTACTTGATGGGTACC	pacbio
 Clistosaccus paguri	ACACAC	ACACACAC	pacbio
-Clivina fossor			pacbio
+Clivina fossor	AACCT	AACCTAACCT	pacbio
 Cloeon dipterum			pacbio
 Clostera curtula	AACCT	AACCTAACCT	pacbio
-Closterotomus norwegicus			pacbio
+Closterotomus norwegicus	AACCATCCCT	AACCATCCCTAACCATCCCT	pacbio
 Closterotomus trivialis	ACCGAG	AACCATCCCT	pacbio
 Clubiona reclusa	ATATAT	AAAAAA	pacbio
 Clubiona terrestris			pacbio
@@ -907,27 +928,29 @@ Cochlearia danica	AAACCCT	AAACCCTAAACCCT	pacbio
 Cochylimorpha straminea	AACCT	AACCTAACCT	pacbio
 Coelastrum microporum			pacbio
 Coelioxys conoideus	ACAGAG	ACAGACAG	pacbio
-Coelopa frigida			pacbio
+Coelopa frigida	AAATGTCT	AAATGTCTAAATGTCT	pacbio
 Coelopa pilipes	AACATT	AACAAT	pacbio
 Coenagrion puella	AGCCATCGCCAT	AGCCATCGCCATAGCCATCGCCAT	pacbio
 Coenonympha tullia	AACCT	ACTCAG	pacbio
 Coenosia intermedia	ACATATC	AACAAC	pacbio
 Colchicum autumnale	AAACCCT	AAACCCTAAACCCT	pacbio
-Coleophora flavipennella			pacbio
+Coleophora flavipennella	AACCT	AACCTAACCT	pacbio
 Colias croceus	AACCT	AACCTAACCT	pacbio
 Colocasia coryli	AACCT	AACCTAACCT	pacbio
 Colostygia pectinataria	AACCT	AACCTAACCT	pacbio
 Colotois pennaria	AACCT	AACCTAACCT	pacbio
 Colpoda steinii	CCCCC	CCCCCC	pacbio
-Comarum palustre			pacbio
-Conger conger			pacbio
-Conomelus anceps			pacbio
+Comarum palustre	AAACCCT	AATGG	pacbio
+Conger conger	AACCCT	AACCCTAACCCT	pacbio
+Conistra vaccinii	AACCT	AACCTAACCT	pacbio
+Conomelus anceps	AACCT	AACCTAACCT	pacbio
 Conopodium majus	AAACCCT	AACCCTG	pacbio
 Conops quadrifasciatus	AAAAT	AAATT	pacbio
 Convolvulus arvensis	AAACCCT	ACTACT	pacbio
 Coprinellus micaceus			pacbio
-Coregonus lavaretus			pacbio
-Corella eumyota			pacbio
+Cordylophora caspia	AACCCT	AACCCTAACCCT	pacbio
+Coregonus lavaretus	AACCCT	AACCCTAACCCT	pacbio
+Corella eumyota	AACCCT	ACCCTG	pacbio
 Coremacera marginata	AAATT	AAGAAT	pacbio
 Coreus marginatus	ACACAC	ACACACAC	pacbio
 Corizus hyoscyami	AACCATCCCT	ACAGACAG	pacbio
@@ -935,64 +958,73 @@ Cornu aspersum	ACTACT	AGATAGAT	pacbio
 Cornus suecica			pacbio
 Cosmia pyralina	AACCT	AACCTAACCT	pacbio
 Cosmia trapezina			pacbio
-Crambus lathoniellus			pacbio
+Crambus lathoniellus	AACCT	AACCTAACCT	pacbio
 Crangonyx pseudogracilis			pacbio
 Craniophora ligustri	AACCT	AACCTAACCT	pacbio
 Crassa unitella	AACCT	AACCTAACCT	pacbio
 Crataegus laevigata	AAACCCT	CCCCC	pacbio
 Crataegus monogyna	AAACCCT	AATAAT	pacbio
-Crataerina pallida			pacbio
-Crepidodera aurea			pacbio
+Crataerina pallida	AAATC	AAACAAT	pacbio
+Crepidodera aurea	ACACACAGAG	AACAGACACG	pacbio
 Crepidodera fulvicornis	AAACCCT	AAACCCTAAACCCT	pacbio
 Crimora papillata	ACTACT	ACTACTACT	pacbio
 Criorhina berberina	AGGAT		pacbio
-Criorhina floccosa			pacbio
+Criorhina floccosa	AACCT	AAAAT	pacbio
 Crocallis elinguaria	AACCT		pacbio
-Crossocerus cetratus			pacbio
+Crossocerus cetratus	ACCAG	AAATT	pacbio
 Crossocerus megacephalus	ACTGACTG	ACTGACTGACTG	pacbio
 Cruciata laevipes	AAACCCT		pacbio
 Cryptocephalus moraei			pacbio
-Cryptocephalus primarius			pacbio
-Cryptophagus acutangulus			pacbio
+Cryptocephalus primarius	AACCT	AACCTAACCT	pacbio
+Cryptogramma crispa	AAACCCT	AAGTAAGT	pacbio
+Cryptophagus acutangulus	AAATAAAT	AAATAAATAAAT	pacbio
 Cryptosula pallasiana	ACTACT	ATCATC	pacbio
 Ctenophora pectinicornis	ACGAGG	AAAATAAAT	pacbio
 Cupido minimus	AACCT	AACCTAACCT	pacbio
 Curculio glandium	AACCC	AGATAGAT	pacbio
-Cuscuta epithymum			pacbio
+Cuscuta epithymum	AAACCCT	AACCCTG	pacbio
 Cyaniris semiargus	AACCT	AACCTAACCT	pacbio
 Cybosia mesomella	AACCT	AACCTAACCT	pacbio
 Cyclosa conica	ACATACAT	ATCCATCC	pacbio
 Cydalima perspectalis	AACCT	AACCTAACCT	pacbio
-Cydia amplana			pacbio
+Cydia amplana	AACCT	AACCTAACCT	pacbio
 Cydia fagiglandana	AACCT	AACCTAACCT	pacbio
 Cydia splendana	AACCT	AACCTAACCT	pacbio
-Cydia strobilella			pacbio
-Cylloceria caligata			pacbio
+Cydia strobilella	AACCT	AACCTAACCT	pacbio
+Cylloceria caligata	ACATACAT	ACATACATACAT	pacbio
+Dactylorhiza maculata	AAACCCT	AAACCCTAAACCCT	pacbio
 Danio rerio	AACCCT	AGATAGAT	pacbio
 Danthonia decumbens	AAACCCT	CCCCC	pacbio
 Daphne mezereum	AAACCCT	AAACCCTAAACCCT	pacbio
-Dascillus cervinus			pacbio
+Dascillus cervinus	AACCT	AACCTAACCT	pacbio
 Dasiphora fruticosa	AAACCCT		pacbio
 Dasysyrphus albostriatus	AACAAC	AACAACAAC	pacbio
 Dasysyrphus tricinctus	AACATGC	AACATGCAACATGC	pacbio
+Daudebardia rufa	AACTAACT	AACTAACTAACT	pacbio
 Deilephila elpenor	AACCT	AACCTAACCT	pacbio
 Deilephila porcellus	AACCT	AACCTAACCT	pacbio
 Delia platura	ACAGACAG	AAGTGTATGGC	pacbio
 Demetrias atricapillus	ACATACAT	ACATACATACAT	pacbio
 Denticollis linearis	AAAGGAC	AACCT	pacbio
+Depressaria radiella	AACCT	AACCTAACCT	pacbio
+Deschampsia cespitosa	AAACCCT	AAACCCTAAACCCT	pacbio
 Diachrysia chrysitis	AACCT	AACCTAACCT	pacbio
 Diacronema lutheri	ACACAC	ACACACAC	pacbio
 Diadumene lineata	AACCCT	AAGAGTGT	pacbio
 Dianthus deltoides	AAACCCT	AAACCCTAAACCCT	pacbio
 Diapensia lapponica	AACCCT		pacbio
-Diarsia dahlii			pacbio
+Diaphora mendica	AACCT	AACCTAACCT	pacbio
+Diarsia dahlii	AACCT	AACCTAACCT	pacbio
+Diarsia mendica	AACCT	AACCTAACCT	pacbio
 Diarsia rubi	AACCT	AACCTAACCT	pacbio
 Dichetophora obliterata			pacbio
+Dicycla oo	AACCT	AACCTAACCT	pacbio
 Dicyrtomina minuta	AACCT	ACAGACAG	pacbio
-Diloba caeruleocephala			pacbio
-Dilophus febrilis			pacbio
+Diloba caeruleocephala	AACCT	AACCTAACCT	pacbio
+Dilophus febrilis	AAATAG	AAATAAG	pacbio
 Dioctophyme renale	ACGATG	ATCATC	pacbio
 Dioctria rufipes	AAAGGCG	AAAGGCGAAAGGCG	pacbio
+Discus rotundatus	AACTAACT	AACTAACTAACT	pacbio
 Ditula angustiorana	AACCT	AACCTAACCT	pacbio
 Dolichovespula media	AACCCAGACGC	ACAGT	pacbio
 Dolichovespula norwegica	AACCCAGACGC	AACCCAGACGCAACCCAGACGC	pacbio
@@ -1001,21 +1033,22 @@ Dolichovespula sylvestris	AACCCAGACGC		pacbio
 Dolomedes fimbriatus	ACATACAT	ATATAT	pacbio
 Dolycoris baccarum	ACACAC	ACACACAC	pacbio
 Doris pseudoargus	AAACAC	AACCCT	pacbio
-Dorytomus taeniatus			pacbio
+Dorytomus taeniatus	AAATC	AAATG	pacbio
 Drepana falcataria			pacbio
 Drepanepteryx phalaenoides	AACCTAACCT	AACCT	pacbio
-Drepanosiphum platanoidis			pacbio
+Drepanosiphum platanoidis	AACCT	AACCTAACCT	pacbio
 Dromius quadrimaculatus			pacbio
-Drosophila busckii			pacbio
-Drosophila funebris			pacbio
+Drosophila busckii	ACTGACTG	AAGTAAT	pacbio
+Drosophila funebris	AGATAT	ACACAT	pacbio
 Drosophila helvetica			pacbio
-Drosophila histrio			pacbio
-Drosophila kuntzei			pacbio
-Drosophila phalerata			pacbio
-Drosophila testacea			pacbio
-Drymonia ruficornis			pacbio
+Drosophila histrio	ACACAT	ACATAG	pacbio
+Drosophila kuntzei	ACTGACTG	ACAGACAG	pacbio
+Drosophila limbata	AAGTAT	AAATAT	pacbio
+Drosophila phalerata	AAATAAGT	ACAGACAG	pacbio
+Drosophila testacea	ACTGACTG	ACACAT	pacbio
+Drymonia ruficornis	ACAGAG	AACCT	pacbio
 Drymus ryeii	AACCTACCT	AACCATCCCT	pacbio
-Dryobota labecula			pacbio
+Dryobota labecula	AACCT	AACCTAACCT	pacbio
 Dryobotodes eremita	AACCT	AACCTAACCT	pacbio
 Dunaliella primolecta	ACACACAC	ACACAC	pacbio
 Dysdera crocata	AGATAGAT	ACTCACTC	pacbio
@@ -1023,63 +1056,77 @@ Dysmachus trigonus			pacbio
 Dysstroma truncata	AACCT	AACCTAACCT	pacbio
 Ecdyonurus torrentis			pacbio
 Echinus esculentus	AACCCT	AACCCTAACCCT	pacbio
-Echium vulgare			pacbio
+Echium vulgare	AAACCCT	AAACCCTAAACCCT	pacbio
 Ecliptopera silaceata	AACCT	AACCTAACCT	pacbio
-Ectemnius cavifrons			pacbio
+Ectemnius cavifrons	AACAG	ACTCT	pacbio
 Ectemnius continuus			pacbio
 Ectemnius lituratus	ACTCACTC		pacbio
+Ectobius pallidus	AAGACC	AACCT	pacbio
 Ectropis crepuscularia			pacbio
+Eilema caniola	AACCT	ACAGACAG	pacbio
 Eilema depressum	AACCT	ACAGACAG	pacbio
 Eilema griseolum	AACCT	AACCTAACCT	pacbio
 Eilema sororcula	AACCT	AACCTAACCT	pacbio
 Eimeria maxima	AAGGAGGAGACAAT	ACACAT	pacbio
 Eisenia fetida	ATCATC	AACCCT	pacbio
 Eiseniella tetraedra	AACCCT	ACATACAT	pacbio
-Elachista subocellea			pacbio
+Elachista subocellea	AACCT	AACCTAACCT	pacbio
 Elasmostethus interstinctus	AAACCACCCT	AGATAGAT	pacbio
 Elasmucha grisea			pacbio
-Electrophaes corylata			pacbio
+Electrophaes corylata	AACCT	AACCTAACCT	pacbio
+Eledone cirrhosa	AAGCT	AACTT	pacbio
 Elegia similella			pacbio
-Elmis aenea			pacbio
+Elmis aenea	ACAGAG	ACATATGACATG	pacbio
 Elophila nymphaeata	AACCT	AACCTAACCT	pacbio
 Emmelina monodactyla	AACCT	AACCTAACCT	pacbio
-Empis aestiva			pacbio
+Empis aestiva	AAAATAT		pacbio
 Empis livida			pacbio
-Empis stercorea			pacbio
-Empis tessellata			pacbio
-Empis trigramma			pacbio
+Empis stercorea	AACAGC	ACTAT	pacbio
+Empis tessellata	AAAGAT	AAAATT	pacbio
+Empis trigramma	AAAATC	AAAATCAAAATC	pacbio
 Enallagma cyathigerum	ACACAC	ACACACAC	pacbio
+Enarmonia formosana	AACCT	AACCTAACCT	pacbio
+Endomychus coccineus	AACCT	ACACAT	pacbio
 Endotricha flammealis	AACCT	AACCTAACCT	pacbio
 Ennomos erosarius	AACCT	AACCTAACCT	pacbio
 Ennomos fuscantarius	AACCT	AACCTAACCT	pacbio
 Ennomos quercinarius	AACCT	AACCTAACCT	pacbio
 Enoplognatha latimana	AAAGC	ACACAC	pacbio
 Enoplognatha ovata	ACACAC	ACACACAC	pacbio
-Enoplops scapha			pacbio
+Enoplops scapha	ACAGAG	AGATAGAT	pacbio
 Entoloma incanum			pacbio
 Epagoge grotiana	AACCT	AACCTAACCT	pacbio
 Ephialtes manifestator			pacbio
 Epicampocera succincta	AATAG	AATAGAATAG	pacbio
 Epicoccum nigrum			pacbio
+Epinotia bilunana	AACCT	AACCTAACCT	pacbio
 Epinotia brunnichana	AACCT	AACCTAACCT	pacbio
 Epinotia demarniana			pacbio
 Epinotia nisella	AACCT	AACCTAACCT	pacbio
 Epinotia ramella	AACCT	AACCTAACCT	pacbio
+Epipactis palustris	AAACCCT		pacbio
+Epipactis purpurata			pacbio
+Epiphragma ocellare	AAGATAG	AAGTCAGTC	pacbio
 Epirrhoe alternata	AACCT	AACCTAACCT	pacbio
+Epistrophe eligans	AATTC	AAAAT	pacbio
 Epistrophe grossulariae	ACAGTG	AAATT	pacbio
 Epistrophella euchroma	AAAAT	AAAGT	pacbio
 Episyrphus balteatus	AATAG	AAATT	pacbio
+Eptesicus nilssonii	AACCCT	AACCCTAACCCT	pacbio
+Equisetum arvense	AAACCCT	AGATAGAT	pacbio
 Equisetum hyemale	AGATAGAT	AGATAGATAGAT	pacbio
 Equisetum palustre	AGAGAG	AGATAGAT	pacbio
 Equisetum telmateia	AGATAGAT	AGATAGATAGAT	pacbio
 Equisetum variegatum	AGATAGAT	AGATAGATAGAT	pacbio
 Erannis defoliaria	AACCT	AACCTAACCT	pacbio
 Eratigena atrica	ACACAC	ATATAT	pacbio
-Eratigena duellica			pacbio
+Eratigena duellica	AGATAGAT	ACTCACTC	pacbio
 Eratigena saeva	AACAC	ACATACAT	pacbio
 Erebia aethiops	AACCT	AACCTAACCT	pacbio
 Erebia epiphron	AACCT	AACCTAACCT	pacbio
 Erebia ligea	AACCT	AACCTAACCT	pacbio
+Eremobia ochroleuca	AACCT	AACCTAACCT	pacbio
+Eriocaulon aquaticum	AAAAAACCCT	AACCT	pacbio
 Eriothrix rufomaculata	ACATAT	ACATATACATAT	pacbio
 Eristalinus sepulchralis	AATAAT	AAATAAT	pacbio
 Eristalis arbustorum	AATAAT	AAATAAAT	pacbio
@@ -1090,6 +1137,7 @@ Erodium maritimum	CCCCC	CCCCCC	pacbio
 Erodium moschatum	ACTACT	AAACCCT	pacbio
 Erynnis tages	AACCT	AACCTAACCT	pacbio
 Erythranthe lutea			pacbio
+Esperia sulphurella	AACCT	AACCTAACCT	pacbio
 Euclidia mi	AACCT	AACCTAACCT	pacbio
 Euclymene oerstedii	AACCCT	AACCCTAACCCT	pacbio
 Eucosma campoliliana	AACCT	AACCTAACCT	pacbio
@@ -1097,7 +1145,9 @@ Eucosma cana	AACCT	AACCTAACCT	pacbio
 Eudemis profundana	AACCT	AACCTAACCT	pacbio
 Eudonia lacustrata	AACCT	AACCTAACCT	pacbio
 Euglenaria anabaena	AACCCT	AACCCTAACCCT	pacbio
+Eugnorisma glareosa	AACCT	AACCTAACCT	pacbio
 Eulithis prunata	AACCT		pacbio
+Eulithis testata	AACCT	AACCTAACCT	pacbio
 Eumerus sabulonum			pacbio
 Euonymus europaeus	AAACCCT	AAAAA	pacbio
 Eupeodes corollae	ACTATC	AATGAT	pacbio
@@ -1112,6 +1162,8 @@ Euphydryas aurinia	AACCT	AACCTAACCT	pacbio
 Eupithecia abbreviata	AACCT	AACCTAACCT	pacbio
 Eupithecia centaureata	AACCT	AACCTAACCT	pacbio
 Eupithecia dodoneata	AACCT	AACCTAACCT	pacbio
+Eupithecia exiguata	AACCT	AACCTAACCT	pacbio
+Eupithecia insigniata	AACCT	AACCTAACCT	pacbio
 Eupithecia tripunctaria	AACCT	AACCTAACCT	pacbio
 Eupithecia vulgata	AACCT	AACCTAACCT	pacbio
 Euplexia lucipara	AACCT	ACAGACAG	pacbio
@@ -1119,11 +1171,22 @@ Euproctis similis	AACCT	AACCTAACCT	pacbio
 Eupsilia transversa	AACCT		pacbio
 Eurydema oleracea			pacbio
 Euscorpius flavicaudis	AACCT	AACCTAACCT	pacbio
+Euspilapteryx auroguttella	AACCT	AACCTAACCT	pacbio
+Eustalomyia histrio	ACATACAT	ACATACATACAT	pacbio
 Euthycera fumigata	AGATAT	AATATG	pacbio
+Euzophera pinguis	AACCT	AACCTAACCT	pacbio
+Evacanthus interruptus	AACCT	AACCTAACCT	pacbio
 Evagetes crassicornis	AACCCAGACCT		pacbio
 Evergestis limbata	AACCT	AACCTAACCT	pacbio
+Exephanes ischioxanthus	ACACGC	AAAAGCCTTT	pacbio
+Exsertotheca crispa	AAACCCT	AACCCT	pacbio
+Eysarcoris venustissimus	AACCATCCCT	AACCATCCCTAACCATCCCT	pacbio
 Fabriciana adippe	AACCT	AACCTAACCT	pacbio
+Fabulina fabula	AGATAGAT	AACCCT	pacbio
+Facelina auriculata	ACAGTAGC	AACCCT	pacbio
 Fallopia sachalinensis	AAACCCT	AAACCCTAAACCCT	pacbio
+Fannia armata	AAGTC	AAGTCAAGTC	pacbio
+Fannia lustrator	AAGACC	AAGACCAAGACC	pacbio
 Fannia serena			pacbio
 Ferdinandea cuprea	AACAAC	AACAACAAC	pacbio
 Filago vulgaris	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -1138,11 +1201,14 @@ Furcula furcula	AACCT	AACCTAACCT	pacbio
 Galega officinalis	AAACCCT	AGATAGAT	pacbio
 Galium aparine	AAACCCT	CCCCC	pacbio
 Galium odoratum	AAACCCT	AAACCCTAAACCCT	pacbio
-Galium verum			pacbio
+Galium verum	AAACCCT	AAACCCTAAACCCT	pacbio
+Gandaritis pyraliata	AACCT	AACCTAACCT	pacbio
+Gari fervensis	AACCCT	AACCCTAACCCT	pacbio
 Gari tellinella	AACCCT	AACCCTAACCCT	pacbio
 Gasterosteus aculeatus	AGATAGAT	AACCCT	pacbio
+Gasteruption jaculator	AAAACCCTAGC	ACCATC	pacbio
 Gastrophysa viridula	ACACAC	ACACACAC	pacbio
-Genista pilosa			pacbio
+Genista pilosa	AAACCCT	AAACCCTAAACCCT	pacbio
 Geranium dissectum	AAACCCT	AAACCCTAAACCCT	pacbio
 Geranium lucidum	AACCCT	AACCCTAACCCT	pacbio
 Geranium robertianum	AACCCT		pacbio
@@ -1158,6 +1224,7 @@ Glaucopsyche alexis	AACCT	ACAGACAG	pacbio
 Globia sparganii			pacbio
 Glomeris marginata	AACCT	AAGTGTCCG	pacbio
 Glossiphonia complanata	AATGAATG	AAGTAAGT	pacbio
+Glyceria maxima	AAACCCT	ACCCTAG	pacbio
 Glyphotaelius pellucidus	AACCT	AACTT	pacbio
 Gobio gobio	AACCCT	AGATAGAT	pacbio
 Gomphocerippus rufus	AACCT	AACCTAACCT	pacbio
@@ -1165,10 +1232,10 @@ Goniada maculata	AACCCT	AACCCTAACCCT	pacbio
 Gonocerus acuteangulatus			pacbio
 Griposia aprilina	AACCT	AACCTAACCT	pacbio
 Grypocoris stysi	AACCATCCCT	AACCATCCCTAACCATCCCT	pacbio
-Guepinia helvelloides			pacbio
+Guepinia helvelloides	AGATAGAT	AACCCT	pacbio
 Gulosus aristotelis	AACCCT	AAGGAAGG	pacbio
-Gunnera manicata			pacbio
-Gunnera tinctoria			pacbio
+Gunnera manicata	AAACCCT	AAACCCTAAACCCT	pacbio
+Gunnera tinctoria	AAACCCT	AAACCCTAAACCCT	pacbio
 Gymnocheta viridis	ATCATC	ATCATCATC	pacbio
 Gymnoscelis rufifasciata	AACCT	AACCTAACCT	pacbio
 Gymnosoma rotundatum	AATAAT	ACTAT	pacbio
@@ -1179,6 +1246,7 @@ Halyzia sedecimguttata	AACTCC	AACTCCAACTCC	pacbio
 Hamearis lucina	AACCT	AACCTAACCT	pacbio
 Harmonia axyridis	AACCT		pacbio
 Harmothoe impar	AACCCT	AACCCTAACCCT	pacbio
+Harpalus rubripes	ACATACAT	ACATACATACAT	pacbio
 Harpalus rufipes	ACATACAT	ACACAC	pacbio
 Hebecnema nigricolor	ACATAT	ACATATACATAT	pacbio
 Hebecnema umbratica	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -1187,6 +1255,7 @@ Hedera helix	AAACCCT	AATAAT	pacbio
 Hedya salicella	AACCT	ACAGACAG	pacbio
 Helianthemum apenninum			pacbio
 Helicella itala	ACTACT	ACTACTACT	pacbio
+Helina celsa	AAGACAT	AAATAAAT	pacbio
 Helina depuncta	AAATAAAT	AAAGTT	pacbio
 Helina evecta	AAAGTT	AACATT	pacbio
 Helina quadrum	AGATGAT	AATAG	pacbio
@@ -1195,14 +1264,18 @@ Helobdella stagnalis	ACATACAT	AAATGAAT	pacbio
 Helophilus pendulus	AATAAT	AACAAT	pacbio
 Helosciadium nodiflorum	AAACCCT	AAACCCTAAACCCT	pacbio
 Hemaris fuciformis	AACCT	AACCTAACCT	pacbio
+Hemistola chrysoprasaria	AACCT	AACCTAACCT	pacbio
+Hemithea aestivaria	AACCT	AACCTAACCT	pacbio
 Hepialus humuli	AACCT	AACCTAACCT	pacbio
-Heracleum sphondylium			pacbio
+Heracleum sphondylium	AAACCCT	AAACCCTAAACCCT	pacbio
 Hericium coralloides			pacbio
 Herina lugubris	AAATT	AATAAT	pacbio
+Hermaeophaga mercurialis	AACCT	AACCTAACCT	pacbio
 Herminia grisealis	AACCT	AACCTAACCT	pacbio
 Herminia tarsipennalis	AACCT	AACCTAACCT	pacbio
-Herniaria ciliolata			pacbio
+Herniaria ciliolata	AAACCCT	AAACCCTAAACCCT	pacbio
 Hesperia comma	AACCT	AACCTAACCT	pacbio
+Heteropelma amictum	AACGAACG	ACGACGATG	pacbio
 Heterosiphonia plumosa	AACCT	AACCAC	pacbio
 Heterosminthurus bilineatus	AACCT	AACCTAACCT	pacbio
 Hierochloe odorata	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -1212,13 +1285,22 @@ Hipparchia semele	AACCT	AACCTAACCT	pacbio
 Hippodamia variegata	AACCT	AACCTAACCT	pacbio
 Hippophae rhamnoides	AAACCCT	AATAAT	pacbio
 Hippuris vulgaris	AAACCCT	AATCT	pacbio
+Hirtodrosophila cameraria	ACACAT	AAATAAAT	pacbio
+Hirtodrosophila confusa	ACAGAT	ACACAT	pacbio
+Hirtodrosophila trivittata	AATCTATC	AAAGATAG	pacbio
+Hofmannophila pseudospretella	AACCT	AACCTAACCT	pacbio
 Holcus mollis	AAACCCT	AAACCCTAAACCCT	pacbio
 Homo sapiens	AATGG	AACCCT	pacbio
+Homolobus annulicornis	ACGATG	AAGAGAC	pacbio
 Honckenya peploides	AAACCCT	AAAAA	pacbio
+Hoplodrina blanda	AACCT	AACCTAACCT	pacbio
 Hoplodrina octogenaria	AACCT	AACCTAACCT	pacbio
+Horisme vitalbata	AACCT	ATCCC	pacbio
 Humulus lupulus	AAACCCT	AAACCCTAAACCCT	pacbio
 Huperzia selago	AAACCCT	AAACCCTAAACCCT	pacbio
 Hyacinthoides non-scripta			pacbio
+Hybos culiciformis	AAGTC	AAGTCAAGTC	pacbio
+Hybos femoratus			pacbio
 Hydraecia micacea	AACCT		pacbio
 Hydriomena furcata	AACCT	AACCTAACCT	pacbio
 Hydrobius fuscipes			pacbio
@@ -1226,6 +1308,7 @@ Hydrodictyon reticulatum	ACACAC	ACAGACAG	pacbio
 Hydromya dorsalis	AAATT	AAAATT	pacbio
 Hydropsyche siltalai	AACCT	AACCTAACCT	pacbio
 Hydrotaea cyrtoneurina	AATACT	AAATTAAT	pacbio
+Hydrotaea diabolus	AAAAGGAT	ACAGGG	pacbio
 Hylaea fasciaria	AACCT	AACCTAACCT	pacbio
 Hylaeus communis			pacbio
 Hylemya vagans	AAAATAT	AAATTAT	pacbio
@@ -1233,23 +1316,26 @@ Hylemya variata	ACTAT	ACTATACTAT	pacbio
 Hylocomiadelphus triquetrus	AACAG		pacbio
 Hypena proboscidalis	AACCT	AACCTAACCT	pacbio
 Hypericum perforatum	AAACCCT	AAACCCTAAACCCT	pacbio
-Hyperoplus immaculatus			pacbio
-Hypochaeris maculata			pacbio
+Hyperoodon ampullatus	AACCCT	AACCCTAACCCT	pacbio
+Hyperoplus immaculatus	AACCCT	AACCCTAACCCT	pacbio
+Hypochaeris maculata	AAACCCT	AAACCCTAAACCCT	pacbio
 Hypochaeris radicata	AAACCCT	AAACCCTAAACCCT	pacbio
+Hypomecis punctinalis	AACCT	AACCTAACCT	pacbio
 Hypsopygia costalis	AACCT	AACCTAACCT	pacbio
 Hypsopygia glaucinalis	AACCT	AAATG	pacbio
 Icerya purchasi	AATAAT	AATAATAAT	pacbio
 Ichneumon xanthorius	AACGAC	ACGATG	pacbio
 Idaea aversata	AACCT	AACCTAACCT	pacbio
+Idaea dimidiata	AACCT	AACCTAACCT	pacbio
 Idotea granulosa	ATATAT	AGATAGATAT	pacbio
 Ilex aquifolium	AAACCCT	AAACCCTAAACCCT	pacbio
 Impatiens glandulifera	AAGCATC	AAGCATCAAGCATC	pacbio
 Impatiens noli-tangere			pacbio
 Inachis io	AACCT	AACCTAACCT	pacbio
 Incurvaria masculella	AACCT	AACCTAACCT	pacbio
-Inocybe grammopodia			pacbio
+Inocybe grammopodia	AAGCATC	AACCCT	pacbio
 Inocybe tigrina			pacbio
-Inula conyza			pacbio
+Inula conyza	AAACCCT	AAACCCTAAACCCT	pacbio
 Iris foetidissima	AACCCT	AACCCTAACCCT	pacbio
 Iris pseudacorus	AACCCT	AACCCTAACCCT	pacbio
 Ischnura elegans	AACCC		pacbio
@@ -1258,40 +1344,52 @@ Isothecium myosuroides	AAACCCT	AACCCT	pacbio
 Issus coleoptratus	AACCT	ACACAC	pacbio
 Jasione montana	AACCCTG	AACCCCTG	pacbio
 Juncus effusus	AAACCCT	ATATAT	pacbio
+Juncus inflexus	AAACCCT	AAACCCTAAACCCT	pacbio
 Kleidocerys resedae	AATAC	ACTCTGAG	pacbio
 Knautia arvensis	AGATAGAT	AATAAT	pacbio
 Korscheltellus lupulinus	AACCT	AACCG	pacbio
+Labia minor	AACCG	ACATACAT	pacbio
 Lacanobia wlatinum	AACCT	AACCTAACCT	pacbio
 Lactarius evosmus			pacbio
-Lactarius tabidus			pacbio
+Lactarius tabidus	AACTCGGAACTCGG	AAGCCT	pacbio
 Laetiporus sulphureus	CCCCC	CCCCCCC	pacbio
 Lagria hirta	ATCATC	ACAGACAG	pacbio
 Lamium album	AAACCCT	AAACCCTAAACCCT	pacbio
 Lamium purpureum	AAACCCT	AAACCCTAAACCCT	pacbio
+Lampropteryx suffumata	AACCT	AACCTAACCT	pacbio
 Laothoe populi	ACAGACAG	AACCT	pacbio
 Lasioglossum calceatum	AACGTAT	AACGTAC	pacbio
+Lasioglossum fulvicorne			pacbio
 Lasioglossum lativentre	AACCCAGACCT	ACAGACAG	pacbio
 Lasioglossum leucozonium			pacbio
 Lasioglossum malachurum	ACATCGT	AATGAATG	pacbio
 Lasioglossum morio	AACGTAT	AACGCAT	pacbio
 Lasioglossum pauxillum	AGCAGC	AACCT	pacbio
+Lasioglossum villosulum	AACTGTG	AACTGTGAACTGTG	pacbio
 Lasiommata megera	AACCT	AACCTAACCT	pacbio
+Lasius fuliginosus	AACCT	AACCTAACCT	pacbio
 Lasius niger	AACCT	AACCTAACCT	pacbio
 Laspeyria flexula	AACCT	AACCTAACCT	pacbio
 Lathraea clandestina	AAACCCT	AAACCCTAAACCCT	pacbio
 Lathraea squamaria	AAACCCT	AAACCCTAAACCCT	pacbio
+Lathrobium geminum	AAAGGC	AAAGAC	pacbio
 Lathyrus aphaca	AGATAGAT		pacbio
 Lathyrus linifolius			pacbio
 Ledra aurita	AACCT	AACCTAACCT	pacbio
 Legnotus limbosus	AAATAACT	AAATAACTAAATAACT	pacbio
 Leistus again			pacbio
 Leistus spinibarbis			pacbio
+Lemna minuta	AAACCCT	AAACCCTAAACCCT	pacbio
+Lemna trisulca	AAACCCT	AACAT	pacbio
 Leontodon hispidus	AAACCCT	AAACCCTAAACCCT	pacbio
 Lepidium draba	AAACCCT	AAACCCTAAACCCT	pacbio
 Lepidonotus clava	AACCCT		pacbio
 Leptidea sinapis	AACCT	AACCTAACCT	pacbio
+Leptogaster cylindrica	AACGAT	ACTAGACTATG	pacbio
 Leptoglossus occidentalis	ACACAC	AACCACCCCT	pacbio
+Leptophyes punctatissima	AAGTAAGT	AAGTAAGTAAGT	pacbio
 Leucocybe candicans			pacbio
+Leucoma salicis	AACCT	AACCTAACCT	pacbio
 Leucophora obtusa	AAATAAAT	AAATAAATAAAT	pacbio
 Leucophora personata	AAATAAAT	ACAGACAG	pacbio
 Leucozona laternaria	AATAG	AACAAC	pacbio
@@ -1307,6 +1405,7 @@ Limnephilus lunatus	AACCT		pacbio
 Limnephilus marmoratus	AACCT	AACCTAACCT	pacbio
 Limnephilus rhombicus	AACCT	AACCTAACCT	pacbio
 Limnobaris t-album	ATATAT	ACACAC	pacbio
+Limonius poneli	ATCATCC	AACCT	pacbio
 Limosella aquatica	AAACCCT		pacbio
 Linaria vulgaris	AAACCCT	AATAAT	pacbio
 Lineus longissimus	AACCCT	ATCATC	pacbio
@@ -1318,16 +1417,27 @@ Lipophrys pholis	AGATAGAT	AACCCT	pacbio
 Lispe nana			pacbio
 Lissotriton helveticus	AGATAGAT	ACTACTC	pacbio
 Lissotriton vulgaris	AGATAGAT	AGATAGATAGAT	pacbio
+Litargus connexus	ACCTG	ACTGACTG	pacbio
 Lithobius forficatus	AAAGTCG	AAAGTCGAAAGTCG	pacbio
 Lithobius melanops	AACCT	AACCTAACCT	pacbio
 Lithobius muticus	AACCT	AAATC	pacbio
 Lithobius piceus	AACCT	AACCTAACCT	pacbio
 Lithobius variegatus	AACCT	AACCTAACCT	pacbio
+Lithophane ornitopus	AACCT	AACCTAACCT	pacbio
+Lithophane semibrunnea	AACCT	AACCTAACCT	pacbio
+Lithophane socia	AACCT	AACCTAACCT	pacbio
 Littorella uniflora	AAACCCT	AAACCCTAAACCCT	pacbio
+Littorina arcana	AACCCT	AACCCTAACCCT	pacbio
+Littorina compressa	AACCCT	AACCCTAACCCT	pacbio
 Littorina obtusata	AACCCT	ACACAC	pacbio
 Lobophora halterata	AACCT	AACCTAACCT	pacbio
+Lochmaea crataegi	AACCT	AGATG	pacbio
+Lolium perenne	AAACCCT	AAACCCTAAACCCT	pacbio
 Lomaspilis marginata	AACGTGAT	AATAGAT	pacbio
+Lomographa bimaculata	AACCT	AACCTAACCT	pacbio
+Longitarsus pellucidus	AACCT	ACCTG	pacbio
 Lophosceles cinereiventris	AAATG	AAATCTGAAATG	pacbio
+Loricula elegantula	AAATG	AAATGAAATG	pacbio
 Lotus corniculatus	AAACCCT	AGATAGAT	pacbio
 Lozotaeniodes formosana	AACCT	AACCTAACCT	pacbio
 Lucilia richardsi	AGATAGAT	ACATACAT	pacbio
@@ -1336,13 +1446,16 @@ Lumbricus rubellus	AAGGAC	AACCCT	pacbio
 Lumbricus terrestris	AACTC	AACCCT	pacbio
 Lunularia cruciata	AAACCCT	CCCCC	pacbio
 Luperina testacea	AACCT	AACCTAACCT	pacbio
+Luperus longicornis	AACGAC	AACATCATCTCC	pacbio
+Luzula campestris	AAACCCT	AAACCCTAAACCCT	pacbio
 Luzula sylvatica	AAACCCT	AAACCCTAAACCCT	pacbio
 Lycaena phlaeas	AACCT	AACCTAACCT	pacbio
+Lycia hirtaria	AACCT	AACCTAACCT	pacbio
 Lycopus europaeus	AAACCCT	AATAAT	pacbio
 Lygephila pastinum	AACCATCCCT	AACCATCCCTAACCATCCCT	pacbio
 Lygus pratensis	AACACTCCCT		pacbio
 Lymantria monacha	AACCT	AACCTAACCT	pacbio
-Lyophyllum leucophaeatum			pacbio
+Lyophyllum leucophaeatum	ACAGACAG	ACAGACAGACAG	pacbio
 Lypha dubia	AATAG	AATAAT	pacbio
 Lysandra bellargus	ACATC	AACCT	pacbio
 Lysandra coridon	AACCT	ACATC	pacbio
@@ -1353,6 +1466,8 @@ Machimus atricapillus	ACAGACAG	AATAC	pacbio
 Macomangulus tenuis	AACCCT	AACATGGT	pacbio
 Macrochilo cribrumalis	AACCT	AACCTAACCT	pacbio
 Macrophya alboannulata	ACCTG	ACCTGACCTG	pacbio
+Macrophya annulata	ACCTACCT	ACCCT	pacbio
+Macrophya punctumalbum	ACCTG	AACCT	pacbio
 Macropis europaea			pacbio
 Magallana gigas	AACCCT	AACCCTAACCCT	pacbio
 Malachius bipustulatus	ACCTG	ACCTGACCTG	pacbio
@@ -1365,16 +1480,21 @@ Marasmarcha lunaedactyla	AACCT	AACCTAACCT	pacbio
 Marphysa sanguinea	AACCCT	AACCCTAACCCT	pacbio
 Marpissa muscosa	AGATAGAT	AGATAGATAGAT	pacbio
 Marthasterias glacialis	AACCCT	AAAGGAC	pacbio
+Mecinus pascuorum	AAAAAT	AAAAAAT	pacbio
 Meconema thalassinum	AACCT	AACCTAACCT	pacbio
 Medicago arabica	AAACCCT	AAGAGATAC	pacbio
-Medicago lupulina			pacbio
-Medicago sativa			pacbio
+Medicago lupulina	AAACCCT	AAACCCTAAACCCT	pacbio
+Medicago sativa	AAACCCT	AAACCCTAAACCCT	pacbio
+Megachile leachella	ACAGAG	AACCT	pacbio
 Megachile ligniseca	ACAGAG	AACCT	pacbio
 Megachile willughbiella	ACAGAG	AACCT	pacbio
 Meganola albula	AACCT	AACCTAACCT	pacbio
 Melampyrum pratense	AAACCCT	AAACCCTAAACCCT	pacbio
-Melampyrum sylvaticum			pacbio
+Melampyrum sylvaticum	AAACCCT	AAACCCTAAACCCT	pacbio
 Melanargia galathea	AACCT	AACCTAACCT	pacbio
+Melanchra persicariae	AACCT	AACCTAACCT	pacbio
+Melangyna compositarum	AATGGC	AAGATT	pacbio
+Melangyna quadrimaculata	AATGGC	AAAGT	pacbio
 Melangyna umbellatarum	AAATT	AAGAGTGT	pacbio
 Melanostoma mellinum	AACAAC	AACAACAAC	pacbio
 Melanostoma scalare	AATAAT	AACAAC	pacbio
@@ -1382,6 +1502,8 @@ Meles meles	AACCCT	AACCCTAACCCT	pacbio
 Melinda gentilis	ATCATC	ATCATCATC	pacbio
 Melinda viridicyanea	AATGTATGT	AATGTATGTAATGTATGT	pacbio
 Melinna palmata	ACATACAT	ACATACATACAT	pacbio
+Melinopterus prodromus	AAATAAT	AAATAATAAATAAT	pacbio
+Meliscaeva auricollis	ACATCGAGTATCG	ACAGACTG	pacbio
 Melitaea cinxia	AACCT	AACCTAACCT	pacbio
 Melitta haemorrhoidalis	AACCCAGACCT	AACCCAGACCTAACCCAGACCT	pacbio
 Mellicta athalia	AACCT	AACCTAACCT	pacbio
@@ -1392,12 +1514,15 @@ Mercurialis perennis	AAACCCT	AAACCCTAAACCCT	pacbio
 Merzomyia westermanni	AAAAG	AAAGT	pacbio
 Mesembrina meridiana	AAATAACT	ACAGACTG	pacbio
 Mesoligia furuncula	AACCT	AACCTAACCT	pacbio
+Mesopsocus fuscifrons	AACCT	AACCTAACCT	pacbio
 Meta bourneti	ACCTACCT	ACATACAT	pacbio
 Metacallophyllis laciniata	ACAGGCGTGCCC	AAGCGAGATGCAAGCGATGC	pacbio
 Metellina segmentata	AACTTGT	ACTATGG	pacbio
+Metridium senile	AACCCT	AAGAC	pacbio
 Metschnikowia zobellii			pacbio
-Microchirus variegatus			pacbio
+Microchirus variegatus	AGATAGAT	ACTAT	pacbio
 Microchlamylla gracilis	ACAGTAGC	AACCCT	pacbio
+Microchrysa polita	AAAATTC	ACAGACAG	pacbio
 Micropterix aruncella	AAGACGGTAAGTGTGTATGTATGT	AACCT	pacbio
 Miltochrista miniata	AACCT	AACCTAACCT	pacbio
 Mimachlamys varia	AACCCT	AACCCTAACCCT	pacbio
@@ -1407,7 +1532,9 @@ Misopates orontium	AAACCCT	ATATAT	pacbio
 Misumena vatia	ACACAC	ACATACAT	pacbio
 Mocydia crocea	AACCT	AACCTAACCT	pacbio
 Mompha ochraceella	AACCT	AACCTAACCT	pacbio
-Monotropa hypopitys			pacbio
+Monochroa cytisella	AACCT	AACCTAACCT	pacbio
+Monopis laevigella	AACCT	AACCTAACCT	pacbio
+Monotropa hypopitys	AAACCCT	AAACCCTAAACCCT	pacbio
 Morellia simplex	AATAAT	AAATAT	pacbio
 Morophaga choragella	AACCT	AACCTAACCT	pacbio
 Mucor piriformis	AAAAA	CCCCC	pacbio
@@ -1417,37 +1544,51 @@ Myathropa florea	AGCCAGCC	AAATACAT	pacbio
 Myelois circumvoluta	AACCT	AACCTAACCT	pacbio
 Myodes glareolus	AACCCT	AACCCTAACCCT	pacbio
 Myopa tessellatipennis	ACGCATG	ACTCT	pacbio
+Myopa testacea	ACGCATG	AAACATC	pacbio
 Myosotis scorpioides	AAACCCT	AAACCCTAAACCCT	pacbio
 Myospila meditabunda	AATTAC	AATTACAATTAC	pacbio
 Myotis daubentonii	AACCCT	AACCCTAACCCT	pacbio
 Myrica gale	AAACCCT	AAACCCTAAACCCT	pacbio
 Myrmica ruginodis	AACCT	AGCAGC	pacbio
 Mysia undata			pacbio
+Mystacides azureus	AACCT	AACCTAACCT	pacbio
 Mythimna albipuncta	AACCT	ACAGACAG	pacbio
 Mythimna ferrago	AACCT	ACAGACAG	pacbio
 Mythimna impura	AACCT	ACCTACCT	pacbio
+Mythimna lalbum	AACCT	AACCTAACCT	pacbio
+Mythimna vitellina	AACCT	AACCTAACCT	pacbio
 Myxicola infundibulum	AACCCT	AACCCTAACCCT	pacbio
 Myxine glutinosa	AACCCT	AACCCTAACCCT	pacbio
 Nabis ferus	ACACAC	ACACACAC	pacbio
 Nabis limbatus	ACACAC	ACACACAC	pacbio
 Nabis rugosus	ACACAC	ACACACAC	pacbio
 Narcissus pseudonarcissus	AACCCT	AACCCTAACCCT	pacbio
+Nardus stricta	AAACCCT	AAACCCTAAACCCT	pacbio
+Narthecium ossifragum	AAACCCT	AAACCCTAAACCCT	pacbio
 Nebria brevicollis	AAATAACT	AAACATAC	pacbio
 Nebria salina	AAATAACT	AAACTAACT	pacbio
 Neckera pumila	AAACCCT	ACACAC	pacbio
 Nematopogon swammerdamellus	AACCT	AACCTAACCT	pacbio
 Nematostella vectensis	AACCCT	ACCATC	pacbio
+Nemophora metallica	AACCT	AACCTAACCT	pacbio
 Nemotelus nigrinus	AGATAGAT	AGATAGATAGAT	pacbio
 Nemoura dubitans	AACCT	AGAGC	pacbio
 Nemurella pictetii	AACCT	AAGTAG	pacbio
 Neoamphitrite figulus	ATCCC	ATCCATCC	pacbio
+Neoascia interrupta	AACAAT	AAAAAGT	pacbio
 Neocochylis molliculana	AACCT	AACCTAACCT	pacbio
+Neoitamus cyanurus	ACAGGACTC	ACTCAGG	pacbio
+Neolygus contaminatus	AACAAGCACC	AACAAGCACCAACAAGCACC	pacbio
+Neomyia cornicina	ACATAT	ACATATACATAT	pacbio
+Nephrocerus scutellatus	AAACAAAC	AAACAAACAAAC	pacbio
 Nephrotoma appendiculata	AAAATATG	ACACAC	pacbio
 Nephrotoma flavescens	AAAATATG	AAGTAAT	pacbio
 Nephrotoma flavipalpis	AGATAT	AAATAAATT	pacbio
 Nephtys cirrosa	AACCCT	AAGTAG	pacbio
 Nerophis lumbriciformis	AGATAGAT	AACCCT	pacbio
 Netelia dilatata	AAAAT	AAAATAAAT	pacbio
+Netelia thomsonii			pacbio
+Nicrophorus humator	AACCT	AACCTAACCT	pacbio
 Noctua comes	AACCT	AACCTAACCT	pacbio
 Noctua fimbriata	AACCT	AACCTAACCT	pacbio
 Noctua janthe	AACCT	AACCTAACCT	pacbio
@@ -1456,9 +1597,14 @@ Nola cucullatella	AACCT	ACACAC	pacbio
 Nomada fabriciana			pacbio
 Nomada ferruginata	AGCCG	AAGTAAGT	pacbio
 Nomada flava	ATCATC	ATCATCATC	pacbio
+Nomada fucata	AAACCTAACCC	AGCCG	pacbio
+Nomada goodeniana	AAACCTAACCC	AAACCTAACCCAAACCTAACCC	pacbio
+Nomada hirtipes	AGCCG	AGCCGAGCCGAGCCG	pacbio
 Nomada lathburiana	AAACCTAACCC	AAACCTAACCCAAACCTAACCC	pacbio
+Nomada panzeri	AAACCTAACCC	AGCCG	pacbio
 Nomada ruficornis	AAACCTAACC	AAACCTAACCAAACCTAACC	pacbio
 Notiophilus biguttatus	AGATATAT	AGATATATAGATATAT	pacbio
+Notiophilus substriatus	AACCT	AACCTAACCT	pacbio
 Notocelia uddmanniana	AACCT	AACCTAACCT	pacbio
 Notodonta dromedarius	AACCT	AACCTAACCT	pacbio
 Notodonta ziczac	AACCT	AACCTAACCT	pacbio
@@ -1467,29 +1613,36 @@ Nowickia ferox	AATGAT	ACATAT	pacbio
 Nucella lapillus	ACACAC	ACTACT	pacbio
 Nucula nucleus	AACCCT	AACCCTAACCCT	pacbio
 Nycteola revayana	AAACCACCCT	AAACCACCCTAAACCACCCT	pacbio
-Nymphaea alba			pacbio
+Nymphaea alba	AAACCCT	ACACT	pacbio
 Nymphalis c-album	AACCT	AACCTAACCT	pacbio
 Nymphalis polychloros	AACCT	AACCTAACCT	pacbio
 Nymphalis urticae	AACCT	AACCTAACCT	pacbio
 Nymphoides peltata	AAACCCT		pacbio
 Nymphula nitidulata	AACCT	AACCTAACCT	pacbio
 Nysson spinosus	AACCCAGACCT		pacbio
+Ochlerotatus annulipes	ACTCACTC	ATCCGC	pacbio
 Ochlodes sylvanus	AACCT	AACCTAACCT	pacbio
 Ochropleura plecta	AACCT		pacbio
 Octolasion cyaneum	AACCCT	ACCATC	pacbio
 Ocypus olens	AACCT		pacbio
 Odiellus spinosus	ACGAG	AACCT	pacbio
 Odontocerum albicorne	ATATAT	ATATATAT	pacbio
+Odontopera bidentata	AACCT	AACCTAACCT	pacbio
 Oedemera lurida	ACCTG	ACCTGACCTG	pacbio
 Oedemera nobilis	ACTATG	ACTATGACTATG	pacbio
 Oedemera virescens	AACCCAGACCT	AACCCAGACCTAACCCAGACCT	pacbio
+Oligia latruncula	AACCT	AACCTAACCT	pacbio
+Oligia strigilis	AACCT	AACCTAACCT	pacbio
 Omphaloscelis lunosa	AACCT		pacbio
 Oniscus asellus	ATATAT	ATATATAT	pacbio
 Onobrychis viciifolia	AAACCCT	AAAAA	pacbio
-Ononis repens			pacbio
+Ononis repens	AAACCCT	AAACCCTAAACCCT	pacbio
 Operophtera brumata	AACCT	AACCTAACCT	pacbio
 Operophtera fagata	AACCT	AACCTAACCT	pacbio
 Ophiocomina nigra	AACCCT	AACCCTAACCCT	pacbio
+Ophioglossum vulgatum	AAACCCT	AAACCCTAAACCCT	pacbio
+Ophion crassicornis	AATGG	ATCCATCC	pacbio
+Ophion ellenae	ATCCATCC	AATGG	pacbio
 Ophion luteus	ACACAC	ACACACAC	pacbio
 Ophiopholis aculeata	AACCCT	AACCCTAACCCT	pacbio
 Ophiura albida	AACCCT	AACCCTAACCCT	pacbio
@@ -1502,62 +1655,90 @@ Orcinus orca	AACCCT		pacbio
 Oreojuncus trifidus	AATAAT	AATAATAAT	pacbio
 Orgyia antiqua	AACCT	AACCTAACCT	pacbio
 Orobanche hederae	AAACCCT	AAACCCTAAACCCT	pacbio
+Orthetrum cancellatum	AACCT	AACCTAACCT	pacbio
 Orthosia cerasi	AACCT	AACCTAACCT	pacbio
 Orthosia gothica	AACCT	AACCTAACCT	pacbio
+Orthosia gracilis	AACCT	AACCTAACCT	pacbio
+Orthosia incerta	ACACCTACCCT	AACCT	pacbio
+Ostrea edulis	AACCCT	AACCCTAACCCT	pacbio
 Ostrinia nubilalis	AACCT	AACCTAACCT	pacbio
+Otina ovata	AACCCT	AATAC	pacbio
 Otiorhynchus atroapterus	AGATAGAT	AGATAGATAGAT	pacbio
 Otiorhynchus sulcatus	AAATAAAT	AAATAAATAAAT	pacbio
 Oulema melanopus	ACAGACTG	ACAGACAGACTG	pacbio
 Oxycera rara	AACCCT	CCCCC	pacbio
+Oxycera trilineata			pacbio
+Oxypselaphus obscurus	AACCT	AACCTAACCT	pacbio
 Pachygaster atra	ACAGACGG	AACGAATG	pacbio
 Pagurus bernhardus	AACCT	AACCTAACCT	pacbio
+Palloptera scutellata	AAAGT	AAAGTAAAGT	pacbio
 Palmaria palmata	ACACTGAGT	ACAGGCGTGCCC	pacbio
 Pammene aurita	AACCT	AACCTAACCT	pacbio
 Pammene fasciana	AACCT	AACCTAACCT	pacbio
 Pammene regiana	AACCT	AACCTAACCT	pacbio
 Pandemis cinnamomeana	AACCT	AACCTAACCT	pacbio
 Pandemis corylana	AACCT	AACCTAACCT	pacbio
+Panorpa germanica	AAGAATAT	AAGAATATAAGAATAT	pacbio
 Pantilius tunicatus			pacbio
 Panurgus banksianus	ACGACG	AACCT	pacbio
+Panzeria rudis	ACATACAT	ACATACATACAT	pacbio
 Papaver dubium	AACCCTG	AACCCTGAACCCTG	pacbio
-Papaver rhoeas			pacbio
+Papaver rhoeas	AACCCTG	AACCCTGAACCCTG	pacbio
 Papilio machaon	AACCT	AACCTAACCT	pacbio
 Paradendryphiella salina			pacbio
 Paragus haemorrhous	AATAAT	ATCATC	pacbio
 Parapoynx stratiotata	AACCT		pacbio
 Pararge aegeria	AACCT	AACCTAACCT	pacbio
 Parasteatoda lunata	AAATAAAT	AGATAGAT	pacbio
+Paraswammerdamia nebulella	AACCT	AACCTAACCT	pacbio
 Pardosa saltans	ACTAT	ACTATACTAT	pacbio
+Parectopa ononidis	AACCT	AACCTAACCT	pacbio
+Parectropis similaria	AACCT	AACCTAACCT	pacbio
 Parietaria judaica	AAACCCT	AAAAA	pacbio
+Paris quadrifolia			pacbio
+Parornix anglicella	AACCT	AACCTAACCT	pacbio
 Patania ruralis	AACCT	AACCTAACCT	pacbio
 Patella depressa	AACCCT	AACCCTAACCCT	pacbio
 Patella pellucida	AACTCTCTACT	AACTCTACT	pacbio
 Patella ulyssiponensis	AACCCT	AACCCTAACCCT	pacbio
 Patella vulgata			pacbio
+Pegoplata infirma	ACAGACAG	ACAGACAGACAG	pacbio
 Peltodytes caesus	AAAAATAC		pacbio
 Pelvetia canaliculata	AACCCT	AACCCTAACCCT	pacbio
 Pemphredon lugubris			pacbio
+Peniophora laeta			pacbio
 Pentaglottis sempervirens	AAACCCT	AAACCCTAAACCCT	pacbio
 Pentatoma rufipes	ACACAC	ACACACAC	pacbio
 Perforatus perforatus	AACCT	AACCTAACCT	pacbio
 Peribatodes rhomboidaria	AACCT	AACCTAACCT	pacbio
 Perizoma alchemillatum	AACCT	AACCTAACCT	pacbio
 Perizoma flavofasciatum	AACCT	AACCTAACCT	pacbio
+Perla bipunctata	AAGTCG	ACTGCT	pacbio
 Persicaria maculosa			pacbio
-Petasites fragrans			pacbio
-Petasites japonicus			pacbio
+Petasites fragrans	AAACCCT	AAACCCTAAACCCT	pacbio
+Petasites japonicus	AATGATG	AATGATGAATGATG	pacbio
+Petrobius brevistylis	AACTAACT	AACCT	pacbio
 Phaethon aethereus	AACCCT	AACCCTAACCCT	pacbio
 Phalangium opilio	AACCT	AAGCT	pacbio
+Phalaris arundinacea	AAACCCT	AAACCCTAAACCCT	pacbio
 Phalera bucephala	AACCT	AACCTAACCT	pacbio
+Phaonia gobertii			pacbio
 Phaonia pallida	AATTC	AATTCAATTC	pacbio
+Phaonia palpata	AGATAT	AATTC	pacbio
 Phaonia rufiventris	AAGTC	AAGTCAAGTC	pacbio
+Phaonia subventa	AATTC	AAAAT	pacbio
 Phaonia tuguriorum	AAATAAAT	AAATAAATAAAT	pacbio
+Phasia barbifrons	ACATAT	ACACT	pacbio
 Phasia hemiptera	AATAGT	AATAGTAATAGT	pacbio
 Phasia obesa	ACATAT	AAATT	pacbio
+Phaxas pellucidus	AACAT	AAGTGC	pacbio
+Phegopteris connectilis	AAACCCT	AAACCCTAAACCCT	pacbio
 Pheosia gnoma	AACCT		pacbio
 Pheosia tremula	AACCT		pacbio
 Pherbellia cinerella			pacbio
+Pherbellia dubia	ACTAT	AATGAT	pacbio
 Pherbina coryleti	AACATC	AGAGAT	pacbio
+Philaenus spumarius	AACCT	AACCTAACCT	pacbio
 Philereme vetulata	AACCT	AACCTAACCT	pacbio
 Philonthus cognatus	AACCT	ACAGACAG	pacbio
 Philopedon plagiatum	AGGATG	AGGATGAGGATG	pacbio
@@ -1571,81 +1752,108 @@ Photedes minima	AACCT	AACCTAACCT	pacbio
 Phragmatobia fuliginosa	AACCT	AACCTAACCT	pacbio
 Phragmites australis	AAACCCT	AAACCCTAAACCCT	pacbio
 Phycita roborella	AACCT	AACCTAACCT	pacbio
+Phyllonorycter quercifoliella	AACCT	AACCTAACCT	pacbio
+Phyllotreta exclamationis	ACTCT	ACCCT	pacbio
 Phymatocera aterrima	AACCT	AAGGG	pacbio
 Physa fontinalis	AACCCT	AGATAGAT	pacbio
 Physella acuta	ATCATC	AGATAGAT	pacbio
 Physocephala rufipes	ACAGACAG	AAAGACAAGAC	pacbio
-Phyteuma orbiculare			pacbio
+Phyteuma orbiculare	AAACCCT	AAACCCTAAACCCT	pacbio
 Phyto melanocephala	AAATT	AACAT	pacbio
-Phytolacca acinosa			pacbio
+Phytolacca acinosa	AAACCCT	AAACCCTAAACCCT	pacbio
 Pieris brassicae	AACCT	AACCTAACCT	pacbio
 Pieris napi	AACCT	AACCTAACCT	pacbio
 Pieris rapae	AACCT	AACCTAACCT	pacbio
+Pilophorus perplexus	AGAGGGATG	AACCATCCCT	pacbio
 Pipistrellus pygmaeus	AACCCT	AACCCTAACCCT	pacbio
+Pipizella viduata	AAATAAT	ACAGACTGACTG	pacbio
 Pisaura mirabilis	ATATAT	AAAAA	pacbio
 Piscicola geometra	AACACGAGATG	AACCCT	pacbio
 Pisidia longicornis	AACCT	AACCTAACCT	pacbio
 Pisidium nitidum	ACTACT	ACTACTACT	pacbio
+Pisidium subtruncatum	AACCCT	AACCCTAACCCT	pacbio
 Planococcus citri	AACCT	AACCTAACCT	pacbio
 Planorbis planorbis	AGATGGAT	AGATATAT	pacbio
 Plantago coronopus	AAACCCT	AAACCCTAAACCCT	pacbio
 Plantago lanceolata	AACCCTAAT	AACCCTAATAACCCTAAT	pacbio
 Plantago maritima	AAACCCT	AAACCCTAAACCCT	pacbio
+Plateumaris sericea	ATATCC	AATAG	pacbio
 Platismatia glauca			pacbio
 Platyarthrus hoffmannseggii			pacbio
 Platycheirus albimanus	ACGTAG	ACACAC	pacbio
+Platycheirus rosarum			pacbio
 Platycheirus scutatus			pacbio
 Platycis minutus	AACCT	AGATAGAT	pacbio
 Platycnemis pennipes			pacbio
+Platypus cylindrus	AAACC	AAACCAAACC	pacbio
 Plea minutissima	AAGAATATAGAAT	AAGAATATAGAATAAGAATATAGAAT	pacbio
 Plebejus argus	AACCT	AACCTAACCT	pacbio
 Plemyria rubiginata	AACCT	AACCTAACCT	pacbio
-Pleuronectes platessa			pacbio
+Pleuronectes platessa	AACCCT	AACCCTAACCCT	pacbio
 Pleurotus eryngii			pacbio
 Pleurotus ostreatus			pacbio
 Plodia interpunctella	AACCT	AACCTAACCT	pacbio
 Plutella xylostella	AACCT	AACCTAACCT	pacbio
+Poa infirma	AAACCCT	AAACCCTAAACCCT	pacbio
 Podabrus alpinus	AACCT	AACCTAACCT	pacbio
+Pododesmus patelliformis	AACCCT	AACCCTAACCCT	pacbio
+Podops inunctus	AACCACCCCT		pacbio
+Poecilobothrus nobilitatus	AACAAT	AACAATAACAAT	pacbio
 Poecilocampa populi	AACCT	AACCTAACCT	pacbio
 Polietes domitor	AAATAACT	AAATAACTAAATAACT	pacbio
+Polietes lardarius	AAAGAACAT	AAATGAAT	pacbio
 Polietes meridionalis	AAATGAAT	AAATGAATAAATGAAT	pacbio
 Polititapes rhomboides			pacbio
 Pollenia amentaria	AATGAT	AATGATAATGAT	pacbio
 Pollenia angustigena	ACATACAT	ACATACATACAT	pacbio
 Polycentropus irroratus	AACCT	AACCTAACCT	pacbio
 Polydrusus cervinus	AACAGACCCG	AAATGC	pacbio
+Polydrusus tereticollis	AACCTGAACT	AACCTGAACTAACCTGAACT	pacbio
 Polygonum aviculare	AAACCCT	CCCCC	pacbio
+Polymixis flavicincta	AACCT	AACCTAACCT	pacbio
+Polymixis lichenea	AACCT	AACCTAACCT	pacbio
 Polyommatus icarus	AACTCG	AACCT	pacbio
 Polypodium vulgare	ATATAT	AAACCCT	pacbio
 Polypogon viridis	AAACCCT	AAACCCTAAACCCT	pacbio
 Polysphincta tuberosa	AAACAC	ACACAG	pacbio
+Polystichum setiferum	AAACCCT	AAACCCTAAACCCT	pacbio
 Polytrichum commune	AACCT	AGATAGAT	pacbio
 Populus tremula	AAACCCT	AAACCCTAAACCCT	pacbio
 Porcellana platycheles	AACCT	AAAGTTCCTCG	pacbio
 Porcellio spinicornis	AGGATG	ACTCTG	pacbio
+Portevinia maculata	ACGATG	AAGTCC	pacbio
 Potamogeton natans	AAACCCT	AAACCCTAAACCCT	pacbio
 Potentilla anserina	AAACCCT	AACCT	pacbio
 Potentilla reptans	AACCT	AACCTAACCT	pacbio
 Potentilla sterilis	AAACCCT		pacbio
+Prays ruficeps	AACCT	AACCTAACCT	pacbio
+Priocnemis perturbator	AAGCACAGGCAGC	ACAGGCAGC	pacbio
 Propylea quattuordecimpunctata	AACCT	AACCTAACCT	pacbio
 Protocalliphora azurea	AGATAT	ACATAT	pacbio
 Protodeltote pygarga	AACCT	AACCTAACCT	pacbio
+Protonemura montana	ACTAGC	AACCT	pacbio
+Protophormia terraenovae	AGATAGAT	AAATAAAT	pacbio
 Psammechinus miliaris	AACCCT	AACCCTAACCCT	pacbio
 Pseudofumaria lutea	AAACCG		pacbio
 Pseudoips prasinana	AACCT	AACCTAACCT	pacbio
+Pseudoscleropodium purum	ACATACAT	ACATACATACATACAT	pacbio
 Pseudosperma umbrinellum	AGAGAGAT	AACGAC	pacbio
 Psila merdaria	AATAG	AATACC	pacbio
 Psoricoptera gibbosella	AACCT	AACCTAACCT	pacbio
 Pterostichus madidus	AATAAT	ATCCATCC	pacbio
+Pterostichus niger	AACCT	ACATAT	pacbio
 Pterostichus strenuus	AACCT	AACCTAACCT	pacbio
 Ptilodon capucinus	AACCT		pacbio
+Ptinus dubius	AGATAGAT	AAGAT	pacbio
 Ptycholomoides aeriferana	AACCT	AACCTAACCT	pacbio
 Puccinellia maritima	AAACCCT	AAACCCTAAACCCT	pacbio
 Pulicaria dysenterica	AACAAC	AAACCCT	pacbio
 Pycnococcus provasolii			pacbio
+Pyralis farinalis	AACCT	AACCTAACCT	pacbio
+Pyrausta purpuralis	AACCT	AACCTAACCT	pacbio
 Pyrgus malvae	AACCT	AACCTAACCT	pacbio
 Pyrochroa serraticornis	ACCTG	ACCTGACCTG	pacbio
-Pyrus communis			pacbio
+Pyrus communis	AAACCCT	AAACCCTAAACCCT	pacbio
 Quercus cerris	AAACCCT	AAACCCTAAACCCT	pacbio
 Quercus robor	AAACCCT	AAACCCTAAACCCT	pacbio
 Quercus robur	AAACCCT	AAAAA	pacbio
@@ -1657,10 +1865,15 @@ Recurvaria leucatella	AACCT	AACCTAACCT	pacbio
 Reynoutria japonica	AAACCCT	AACAAC	pacbio
 Rhabdomiris striatellus	AACCATCCCT	AACCATCCCTAACCATCCCT	pacbio
 Rhagio annulatus	AATAAT	AAATAAAT	pacbio
+Rhagio lineola	AAAATAT	AAAATATAAAATAT	pacbio
 Rhagio tringarius	AAAATAAAT	AAATAAAT	pacbio
 Rhagonycha fulva	AACCT	AACCTAACCT	pacbio
+Rhagonycha lutea	AACCT	AACCTAACCT	pacbio
 Rhamnus cathartica	AAACCCT	AAACCCTAAACCCT	pacbio
+Rhaphigaster nebulosa	AACCACCCCT	AGATAGAT	pacbio
+Rhimphoctona megacephalus	AACGAACG	AACGAACGAACG	pacbio
 Rhingia campestris	ACCATCT	AAATATAG	pacbio
+Rhingia rostrata	ACATACAT	ACATACATACAT	pacbio
 Rhinocyllus conicus	AGATAGAT	AGATAGATAGAT	pacbio
 Rhinophora lepida	ACATACAT	ACATAT	pacbio
 Rhithrogena germanica			pacbio
@@ -1670,13 +1883,17 @@ Rhogogaster chlorosoma	AACCT	AACGAC	pacbio
 Rhopalus parumpunctatus	ACACAC	AAGCAT	pacbio
 Rhopalus subrufus	ACTCACTC	ACTCACTCACTCACTC	pacbio
 Rhopobota naevana	AACCT	AACCTAACCT	pacbio
+Rhorus exstirpatorius	AACGAACG	ACGATG	pacbio
 Rhyparochromus vulgaris	AACCATCCCT	AATAAT	pacbio
 Rhytidiadelphus loreus			pacbio
-Rosa agrestis			pacbio
+Rhytistylus proceps	AACCT	AACCTAACCT	pacbio
+Rhyzobius chrysomeloides	AAACTAACTAACT	AACCT	pacbio
+Rosa agrestis	AAACCCT		pacbio
 Rosa rubiginosa	AAACCCT		pacbio
 Rumex acetosa	AACAAC	AACAACAAC	pacbio
 Rumex hydrolapathum	AAACCCT	AAACCCTAAACCCT	pacbio
 Rumex sanguineus	AAACCCT	CCCCC	pacbio
+Ruppia maritima	AAACCCT	ACATACAT	pacbio
 Russula farinipes			pacbio
 Rutpela maculata	AATAAT	ACACAC	pacbio
 Sabellaria alveolata	AACCCT	AACCCTAACCCT	pacbio
@@ -1686,6 +1903,7 @@ Salix lapponum	AAACCCT	AAACCCTAAACCCT	pacbio
 Salix myrsinifolia	AAACCCT	AAACCCTAAACCCT	pacbio
 Salix phylicifolia	AAACCCT	AAACCCTAAACCCT	pacbio
 Salmo trutta	AACCCT	AACCCTAACCCT	pacbio
+Salpingus planirostris	ACCTG	ACCTGACCTG	pacbio
 Salvia verbenaca	AAACCCT	AAACCCTAAACCCT	pacbio
 Sambucus nigra	AAACCCT	AAACCCTAAACCCT	pacbio
 Samolus valerandi	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -1695,9 +1913,12 @@ Sarcophaga caerulescens	AATAG	AATAGAATAG	pacbio
 Sarcophaga carnaria	AATAG	AATAGAATAG	pacbio
 Sarcophaga crassimargo	AATAG	AATAGAATAG	pacbio
 Sarcophaga haemorrhoa	AATAG	AATAGAATAG	pacbio
+Sarcophaga nigriventris	AGATAT	AATAG	pacbio
 Sarcophaga rosellei	AATAG	AATAGAATAG	pacbio
 Sarcophaga subvicina	AATAG	AATAGAATAG	pacbio
 Sarcophaga variegata	AATAG	AATAGAATAG	pacbio
+Sargus bipunctatus	AAGACAGAC	AAATG	pacbio
+Saturnia pavonia	AACCT	AACCTAACCT	pacbio
 Satyrium w-album	AACCT	AACCTAACCT	pacbio
 Scaeva pyrastri	AACTT	AATAG	pacbio
 Scalpellum scalpellum	AAGTCT	AAATACACATAACT	pacbio
@@ -1705,6 +1926,7 @@ Scambus nigricans	ACACAC	ACACAG	pacbio
 Scathophaga stercoraria	AAGAAT	AAATC	pacbio
 Schoenoplectus lacustris	AAACCCT	AATAAT	pacbio
 Schrankia costaestrigalis	AACCT	AACCTAACCT	pacbio
+Scilla verna	AAACCCT	AACCCT	pacbio
 Scinaia forcellata	AACCCT	AACCT	pacbio
 Sciota angustella	AACCT	AACCTAACCT	pacbio
 Scoliopteryx libatrix	AACCT	AACCTAACCT	pacbio
@@ -1715,13 +1937,19 @@ Scrophularia auriculata	AAACCCT	AAACCCTAAACCCT	pacbio
 Scrophularia nodosa	AAACCCT	AAACCCTAAACCCT	pacbio
 Scutellaria galericulata	AAACCCT	CCCCC	pacbio
 Scutellaria minor	AAACCCT	AATAAT	pacbio
+Scymnus frontalis	AAGACT	AAGACTAAGACT	pacbio
 Scytodes thoracica	ACATG	AAATTGTCTAATAAT	pacbio
 Segestria senoculata	ACTCACTC	ACTCACTCACTC	pacbio
 Seladonia tumulorum			pacbio
+Selaginella selaginoides	AAACCCT	AACCT	pacbio
 Selenia dentaria	AACCT	AACCTAACCT	pacbio
 Selenia tetralunaria	AACCT	AACCTAACCT	pacbio
 Semibalanus balanoides	AACCT	ACACAC	pacbio
 Senecio vulgaris	AAACCCT	AATAAT	pacbio
+Sepedon spinipes	AAGATAG	AAGATAGAAGATAG	pacbio
+Sepia officinalis	AACCCT	AACCCTAACCCT	pacbio
+Sepiola tridens	AACCCT	AGATAGAT	pacbio
+Sericomyia silentis	ACAGACTG	ACAGACTGACAGACTG	pacbio
 Sericostoma personatum	ACACAC	ACACACAC	pacbio
 Sesia apiformis	AACCT		pacbio
 Sesia bembeciformis	AACCT	AACCTAACCT	pacbio
@@ -1733,10 +1961,14 @@ Silene acaulis	AACAAC	AATAAT	pacbio
 Silene dioica	AAACCCT	CCCCC	pacbio
 Silene latifolia	AAACCCT	AATGCT	pacbio
 Silo pallipes	ATATAT	ATATATAT	pacbio
+Silvanus unidentatus	AACCT	AACCTAACCT	pacbio
 Sinodendron cylindricum	AATAAT	ACTACT	pacbio
 Sisymbrium officinale	AAACCCT	AACCCT	pacbio
+Sisyra nigra			pacbio
 Smyrnium perfoliatum	AAACCCT	AAACCCTAAACCCT	pacbio
 Solanum dulcamara	AACCCTG	AATAAT	pacbio
+Somatochlora arctica	AACTCACAACTCAG	AACCC	pacbio
+Somatochlora metallica	AAAATAACAC	AACTGTCTCACC	pacbio
 Sonchus arvensis	AAACCCT	AAACCCTAAACCCT	pacbio
 Sonchus asper	AAACCCT	AAACCCTAAACCCT	pacbio
 Sorbus bristoliensis	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -1746,57 +1978,78 @@ Spergularia marina	AAACCCT	AAACCCTAAACCCT	pacbio
 Sphaerophoria scripta	AACTT	AATAAT	pacbio
 Sphaerophoria taeniata	ATCATC	AAAAA	pacbio
 Sphagnum inundatum	AAACCT	AAACCCT	pacbio
+Sphagnum medium	AAACCCT	AAACCT	pacbio
 Sphecodes crassus	AACCCAGACCT	AACCCAGACCTAACCCAGACCT	pacbio
 Sphecodes ephippius	AACCCAGACCT	AGAGATATG	pacbio
 Sphecodes hyalinatus	AACCCAGACCT	AGATATG	pacbio
 Sphecodes monilicornis	AACCCAGACCT	AGATAT	pacbio
+Sphenella marginata	AAAAT	AACATT	pacbio
+Sphinx ligustri	AACCT	AACCTAACCT	pacbio
 Sphinx pinastri	AACCT	AACCTAACCT	pacbio
 Spilarctia lutea	AACCT	AACCTAACCT	pacbio
 Spilosoma lubricipeda	AACCT	AACCTAACCT	pacbio
 Spirobranchus lamarcki	AACCCT	AACCCTAACCCT	pacbio
 Spisula solida	AACCCT	AACCCTAACCCT	pacbio
-Squalius cephalus			pacbio
+Spisula subtruncata	AACCCT	AACCCTAACCCT	pacbio
+Squalius cephalus	AACCCT	AACCCTAACCCT	pacbio
 Stachys palustris	AAACCCT	AACCT	pacbio
 Stachys sylvatica	AAACCCT	AAACCCTAAACCCT	pacbio
 Stagnicola fuscus	AACCCT	AACCCTAACCCT	pacbio
 Steatoda bipunctata			pacbio
-Steatoda grossa			pacbio
+Steatoda grossa	ACCTACCT	ACTCACTC	pacbio
 Stelis phaeoptera	AAAGGC	AACCCT	pacbio
 Stellaria media	AAACCCT	AAACCCTAAACCCT	pacbio
+Stenobothrus lineatus	AACCT	AACCTAACCT	pacbio
 Stenocranus minutus	AACCT	ATCATC	pacbio
 Stenodema laevigata	AACCATCCCT	ACATACAT	pacbio
+Stenophylax permistus	AACCT	AACCTAACCT	pacbio
 Stenoptilia bipunctidactyla	AACCT	AACCTAACCT	pacbio
+Stenus bimaculatus	AACCT	AATCC	pacbio
 Stereum gausapatum			pacbio
 Steromphala cineraria	AACCCT	AACCCTAACCCT	pacbio
+Steromphala umbilicalis	AACCCT	AACCCTAACCCT	pacbio
+Stethorus punctillum	ACACACTACCTACCTATC	ACACACCCTATCACTACTCTACCTGTACT	pacbio
 Sthenelais limicola	AACCCT	AACCCTAACCCT	pacbio
 Stigmatogaster subterranea	AACCT	AACCTAACCT	pacbio
 Stomorhina lunata	AACTAGAACTG	AACAGAACTAG	pacbio
 Stratiomys potamida	AATACAG	AAAGTAAGTCTCTGT	pacbio
 Stratiomys singularior	AATCATC	AATCATCAATCATC	pacbio
+Stratiotes aloides	AACCGAGCCCAT	AACCGAGCCCATAACCGAGCCCAT	pacbio
+Strophosoma melanogrammum	ACATACAT	ACCACTC	pacbio
 Styela clava	AACCCT	AACCCTAACCCT	pacbio
+Stylops melittae	ACCAGTG	AACCT	pacbio
 Suaeda vera	AAACCCT	AATAAT	pacbio
+Subacronicta megacephala	AACCT	AACCTAACCT	pacbio
 Subcoccinella vigintiquattuorpunctata	AACAT	AACATAACAT	pacbio
 Succisa pratensis	AAACCCT		pacbio
+Suillia variegata	AAATAAAT	AAATAAATAAAT	pacbio
+Sussaba pulchella	AATCATC	AAGTGT	pacbio
+Sympetrum sanguineum	AACCC	AACCCAACCC	pacbio
 Sympetrum striolatum	ACACAC	ACTCACTC	pacbio
 Symphodus melops	AACCCT	AACCCTAACCCT	pacbio
 Symphytum officinale	AAACCCT	AAACCCTAAACCCT	pacbio
 Synanthedon andrenaeformis	AACCT	AACCTAACCT	pacbio
 Synanthedon formicaeformis	AACCT	AACCTAACCT	pacbio
 Synanthedon myopaeformis	AACCT	AACCTAACCT	pacbio
+Synanthedon tipuliformis	AACCT	AACCTAACCT	pacbio
 Synanthedon vespiformis	AACCT	AACCTAACCT	pacbio
 Syngnathus acus	AACCCT	AACCCTAACCCT	pacbio
-Synisoma lancifer			pacbio
+Synisoma lancifer	AGATAGAT	ACAGACAG	pacbio
+Syntomus foveatus	AACCT	AAACATGAACATG	pacbio
 Syritta pipiens	ATCATC	ACACAT	pacbio
 Syrphus ribesii	AACAAC	ATGCCC	pacbio
+Syrphus vitripennis	AACAAG	AACAAT	pacbio
 Tabanus autumnalis	ATCATC	ACACAC	pacbio
 Tabanus bromius	AAAACAT	ATCATC	pacbio
 Tachina fera	AATAG	AATAGAATAG	pacbio
 Tachina grossa	ACATAT	AATAG	pacbio
 Tachina lurida	ACATAT	AATAG	pacbio
 Tachycixius pilosus	AACCT	AAAAAA	pacbio
+Tachyporus hypnorum	ACCCT	AATAC	pacbio
 Tamarix gallica	AAACCCT	AAACCCTAAACCCT	pacbio
 Tanacetum vulgare	AAACCCT	ATATAT	pacbio
 Taurulus bubalis	AACCCT	ACACAC	pacbio
+Teleiodes luculella	AACCT	AACCTAACCT	pacbio
 Teleogryllus oceanicus	AACCT	ACTACT	pacbio
 Telmatherina bonti	ACCAG	AACCCT	pacbio
 Tenthredo distinguenda	ACTCTG	ACTCTGACTCTG	pacbio
@@ -1807,17 +2060,24 @@ Tephritis neesii	AAAAT	AAGACC	pacbio
 Terebella lapidaria	ACTGACTG	ACACAC	pacbio
 Terellia serratulae	AATAAT	AAAAAT	pacbio
 Testudinalia testudinalis	AACCCT	AACCCTAACCCT	pacbio
+Tetanocera arrogans	AAAGTT	AAAGTTAAAGTT	pacbio
 Tetramitus jugosus	AAACCC	CCCCC	pacbio
-Tetrao urogallus			pacbio
+Tetrao urogallus	AACCCT	AACCCTAACCCT	pacbio
 Tetraselmis chuii			pacbio
+Tetrix subulata	AACCT	ACTCTGC	pacbio
 Teucrium scorodonia	AAACCCT	AAACCCTAAACCCT	pacbio
 Thalassema thalassema	AACCCT	AACCCTAACCCT	pacbio
+Thalpophila matura	AACCT	AACCTAACCT	pacbio
 Thamnobryum alopecurum			pacbio
 Thecla betulae	AACCT	AACCTAACCT	pacbio
 Thecocarcelia acutangulata	AATCAT	AATCATAATCAT	pacbio
 Thecophora atra	AACCAGCACACG		pacbio
+Thelaira solivaga	AAAAT	AACCATACC	pacbio
 Theodoxus fluviatilis	ACACAC	AGATAGAT	pacbio
 Thera britannica	AACCT	AACCTAACCT	pacbio
+Thera juniperata	AACCT	AACCTAACCT	pacbio
+Thera obeliscata	AACCT	AACCTAACCT	pacbio
+Thereva unica	AATACAT	AATACATAATACAT	pacbio
 Theria primaria	AACCT	AACCTAACCT	pacbio
 Tholera decimalis	AACCT	AACCTAACCT	pacbio
 Thricops semicinereus	ACAGACGG	ACAGACGGACAGACGG	pacbio
@@ -1826,20 +2086,29 @@ Thuidium tamariscinum			pacbio
 Thumatha senex	AACCT	AACCTAACCT	pacbio
 Thunnus albacares	AACCCT	ACACAC	pacbio
 Thyatira batis	AACCT	AACCTAACCT	pacbio
+Thymelicus acteon	AACCT	AACCTAACCT	pacbio
 Thymelicus lineola	AACCT	AACCTAACCT	pacbio
 Thymelicus sylvestris	AACCT	AACCTAACCT	pacbio
 Thymus serpyllum	AAACCCT	AAACCCTAAACCCT	pacbio
 Tibellus oblongus	AACAT	ATATAT	pacbio
+Tiliacea aurago	AACCT	AACCTAACCT	pacbio
+Timarcha tenebricosa	AAACGAT	AAACGATAAACGAT	pacbio
+Tinea pellionella	AACCT	AACCTAACCT	pacbio
 Tinea semifulvella	AACCT	AACCTAACCT	pacbio
 Tinea trinotella	AACCT	AACCTAACCT	pacbio
 Tiphia femorata	AGAGAT		pacbio
+Tipula luna	AAATAAATT	AAGTCC	pacbio
 Tipula paludosa	AGATATAT	AGATAT	pacbio
+Tipula unca	AAATTCTT	AAATTCTTAAATTCTT	pacbio
 Tipula vernalis	AAAATGT	ACCATC	pacbio
+Tolmerus cingulatus	AAAATAT	AAAATATAAAATAT	pacbio
+Tortricodes alternella	AACCT	AACCTAACCT	pacbio
+Toxoneura trimacula	AAACAAAC	AAACAAACAAAC	pacbio
 Trachurus trachurus			pacbio
 Trichoderma pseudokoningii	CCCCC	CCCCCC	pacbio
 Tricholauxania praeusta	AACTCACTC	AATAAT	pacbio
 Tricholoma cingulatum			pacbio
-Tricholoma hemisulphureum			pacbio
+Tricholoma hemisulphureum	AAACCCT	AAACCCTAAACCCT	pacbio
 Trifolium fragiferum	AAACCCT	AACCCTG	pacbio
 Trifolium pratense	AAACCCT	AAACCCTAAACCCT	pacbio
 Trifolium subterraneum	AAACCCT	ACCCTAG	pacbio
@@ -1852,12 +2121,18 @@ Trisateles emortualis	AACCT	AACCTAACCT	pacbio
 Tritia reticulata	ACTACT	AACCCT	pacbio
 Tritomegas bicolor	ACACAC	ACACACACAC	pacbio
 Trivia monacha	ACACAC	ACACACAC	pacbio
+Trochulus hispidus	AGATAGAT	AGATAGATAGAT	pacbio
 Troilus luridus	AAATCCCTCTAGGGACCTAG	ACATACAT	pacbio
 Trollius europaeus	AAACCCT	AAACCCTAAACCCT	pacbio
+Trypoxylon attenuatum	ACCTG	ACTGGG	pacbio
 Trypoxylon clavicerum			pacbio
+Tulipa sylvestris	AAACCCT	AAACCCTAAACCCT	pacbio
 Tussilago farfara	AAACCCT	AAACCCTAAACCCT	pacbio
 Typha latifolia	AAACCCT	AAACCCTAAACCCT	pacbio
+Tyria jacobaeae	AACCT	AACCTAACCT	pacbio
+Udea olivalis	AACCT	AACCTAACCT	pacbio
 Udea prunalis	AACCT		pacbio
+Uleiota planata	AACCT	AACCTAACCT	pacbio
 Ulex europaeus	AAACCCT	AAACCCTAAACCCT	pacbio
 Uloborus plumipes	ACACAC	ATATAT	pacbio
 Umbilicus rupestris	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -1867,6 +2142,7 @@ Valvata piscinalis	AATACTAC	AATACTACAATACTAC	pacbio
 Vanessa atalanta	AACCT	AACCTAACCT	pacbio
 Vanessa cardui	AACCT	AACCTAACCT	pacbio
 Venerupis corrugata	AACCCT	AATGAATG	pacbio
+Venturia canescens	AAATTC	AAATTCAAATTC	pacbio
 Verbena officinalis	AAACCCT	AAACCCTAAACCCT	pacbio
 Veronica arvensis	AAACCCT		pacbio
 Veronica chamaedrys	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -1882,39 +2158,50 @@ Viburnum lantana	AAACCCT	AAACCCTAAACCCT	pacbio
 Vicia cracca	AATAAT	AATAATAAT	pacbio
 Vicia sativa	AAACCCT	AATAAT	pacbio
 Vicia sepium	AGATAGAT	AAACCCT	pacbio
+Villa cingulata	AACCCT	AACCCTAACCCT	pacbio
 Villa modesta	AATAAT	CCCCC	pacbio
 Vinca minor	AAACCCT	AAACCCTAAACCCT	pacbio
 Viola riviniana	AAACCCT	AACCCT	pacbio
 Viscum album	CCCCC	CCCCCC	pacbio
+Volucella bombylans	AAATAAT	AAGTAAGT	pacbio
 Volucella inanis	AAATAAC	AAATAAT	pacbio
 Volucella inflata	AATAAT		pacbio
 Volucella pellucens	AATAAT	AATAATAAT	pacbio
+Volucella zonaria	AACACC	AACAC	pacbio
 Volvariella surrecta			pacbio
 Volvopluteus gloiocephalus			pacbio
 Watersipora subatra	AAGTCT	AAGTCTAAGTCT	pacbio
 Watsonalla binaria	AACCT		pacbio
 Watsonalla cultraria	AACCT	AACCTAACCT	pacbio
+Xanthia icteritia	AACCT	AACCTAACCT	pacbio
 Xantho hydrophilus	AACCT	ACACAC	pacbio
 Xanthogramma pedissequum	ACAGACTG	ATCATC	pacbio
+Xantholinus longiventris	ACAGACAG	ACAGACAGACCG	pacbio
 Xanthorhoe fluctuata	AACCT	AACCTAACCT	pacbio
 Xanthorhoe quadrifasciata	AACCT	AACCTAACCT	pacbio
+Xanthorhoe spadicearia	AACCT	AACCTAACCT	pacbio
 Xanthostigma xanthostigma	AAGACAGT	AAGACAGTAAGACAGT	pacbio
 Xeroplexa intersecta	AACTAACT	AACTAACTAACT	pacbio
+Xestia agathina	AACCT	AACCTAACCT	pacbio
 Xestia c-nigrum	AACCT		pacbio
 Xestia sexstrigata	AACCT	AACCTAACCT	pacbio
 Xestia triangulum	AACCT	AACCTAACCT	pacbio
 Xestia xanthographa	AACCT		pacbio
 Xylocampa areola	AACCT	AACCTAACCT	pacbio
+Xylophagus ater	AACATAT	AACATATAACATAT	pacbio
 Xylota sylvarum	ACTGACTG	AGGATG	pacbio
 Xysticus cristatus	ACACAC	ACACACAC	pacbio
 Yponomeuta cagnagella	AACCT	AACCTAACCT	pacbio
+Yponomeuta padella	AACCT	AACCTAACCT	pacbio
 Yponomeuta plumbellus	AACCT	AACCTAACCT	pacbio
+Yponomeuta rorrellus	AACCT	AACCTAACCT	pacbio
 Yponomeuta sedellus	AACCT	ACAGACAG	pacbio
 Ypsolopha alpella	AACCT	AACCTAACCT	pacbio
 Ypsolopha parenthesella	AACCT	AACCTAACCT	pacbio
 Ypsolopha scabrella	AACCT	AACCTAACCT	pacbio
 Ypsolopha sequella	AACCT	AACCTAACCT	pacbio
 Zeiraphera isertana	AACCT	AACCTAACCT	pacbio
+Zelleria hepariella	AACCT	AACCTAACCT	pacbio
 Zelotes latreillei	AGATAGAT	AACAT	pacbio
 Zeuzera pyrina	AACCT	AACAAC	pacbio
 Zoropsis spinimana	ATATAT	ATATATAT	pacbio

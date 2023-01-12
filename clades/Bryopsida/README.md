@@ -2,10 +2,14 @@
 
 | Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
 | -- | --- | --- | --- | --- | --- |
+| *Anomodon viticulosus* | Anomodontaceae | Hypnales | AATGAT | ACTCACTC | pacbio |
+| *Pseudoscleropodium purum* | Brachytheciaceae | Hypnales | ACATACAT | ACATACATACATACAT | pacbio |
+| *Climacium dendroides* | Climaciaceae | Hypnales | AAACCCT | AATGG | pacbio |
 | *Hylocomiadelphus triquetrus* | Hylocomiaceae | Hypnales | AACAG |  | pacbio |
 | *Rhytidiadelphus loreus* | Hylocomiaceae | Hypnales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Rhytidiadelphus loreus* | Hylocomiaceae | Hypnales |  |  | pacbio |
 | *Isothecium myosuroides* | Lembophyllaceae | Hypnales | AAACCCT | AACCCT | pacbio |
+| *Exsertotheca crispa* | Neckeraceae | Hypnales | AAACCCT | AACCCT | pacbio |
 | *Neckera pumila* | Neckeraceae | Hypnales | AAACCCT | ACACAC | pacbio |
 | *Thamnobryum alopecurum* | Neckeraceae | Hypnales |  |  | pacbio |
 | *Thuidium delicatulum* | Thuidiaceae | Hypnales |  |  | pacbio |

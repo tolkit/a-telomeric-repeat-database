@@ -1,1 +1,5 @@
 telomeric_repeat	reverse_complement	frequency
+ACTCT	AGAGT	45017
+AGAGGC	GCCTCT	4065
+AGGATG	CATCCT	3194
+ACTCTACTCT	AGAGTAGAGT	2156

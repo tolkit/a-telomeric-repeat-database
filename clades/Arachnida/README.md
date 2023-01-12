@@ -4,7 +4,7 @@
 | -- | --- | --- | --- | --- | --- |
 | *Agelena labyrinthica* | Agelenidae | Araneae | ACATACAT | AGATAGAT | pacbio |
 | *Eratigena atrica* | Agelenidae | Araneae | ACACAC | ATATAT | pacbio |
-| *Eratigena duellica* | Agelenidae | Araneae |  |  | pacbio |
+| *Eratigena duellica* | Agelenidae | Araneae | AGATAGAT | ACTCACTC | pacbio |
 | *Eratigena saeva* | Agelenidae | Araneae | AACAC | ACATACAT | pacbio |
 | *Amaurobius ferox* | Amaurobiidae | Araneae | ATATAT | ATATATAT | pacbio |
 | *Amaurobius similis* | Amaurobiidae | Araneae | ACACAC | ACACACAC | pacbio |
@@ -41,7 +41,7 @@
 | *Enoplognatha ovata* | Theridiidae | Araneae | ACACAC | ACACACAC | pacbio |
 | *Parasteatoda lunata* | Theridiidae | Araneae | AAATAAAT | AGATAGAT | pacbio |
 | *Steatoda bipunctata* | Theridiidae | Araneae |  |  | pacbio |
-| *Steatoda grossa* | Theridiidae | Araneae |  |  | pacbio |
+| *Steatoda grossa* | Theridiidae | Araneae | ACCTACCT | ACTCACTC | pacbio |
 | *Misumena vatia* | Thomisidae | Araneae | ACACAC | ACATACAT | pacbio |
 | *Xysticus cristatus* | Thomisidae | Araneae | ACACAC | ACACACAC | pacbio |
 | *Uloborus plumipes* | Uloboridae | Araneae | ACACAC | ATATAT | pacbio |

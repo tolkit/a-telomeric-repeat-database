@@ -14,7 +14,7 @@
 | *Astacilla damnoniensis* | Arcturidae | Isopoda | AGATAGAT | AACCCT | pacbio |
 | *Asellus aquaticus* | Asellidae | Isopoda |  |  | pacbio |
 | *Idotea granulosa* | Idoteidae | Isopoda | ATATAT | AGATAGATAT | pacbio |
-| *Synisoma lancifer* | Idoteidae | Isopoda |  |  | pacbio |
+| *Synisoma lancifer* | Idoteidae | Isopoda | AGATAGAT | ACAGACAG | pacbio |
 | *Oniscus asellus* | Oniscidae | Isopoda | ATATAT | ATATATAT | pacbio |
 | *Philoscia muscorum* | Philosciidae | Isopoda |  |  | pacbio |
 | *Platyarthrus hoffmannseggii* | Platyarthridae | Isopoda |  |  | pacbio |
