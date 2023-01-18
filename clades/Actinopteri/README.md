@@ -12,6 +12,8 @@
 | *Carassius carassius* | Cyprinidae | Cypriniformes | AGATAGAT | AACCCT | pacbio |
 | *Danio rerio* | Danionidae | Cypriniformes | AACCCT | AGATAGAT | pacbio |
 | *Gobio gobio* | Gobionidae | Cypriniformes | AACCCT | AGATAGAT | pacbio |
+| *Phoxinus phoxinus* | Leuciscidae | Cypriniformes | AACCCT | AATGC | pacbio |
+| *Rutilus rutilus* | Leuciscidae | Cypriniformes | AACCCT | AGATAGAT | pacbio |
 | *Squalius cephalus* | Leuciscidae | Cypriniformes | AACCCT | AACCCTAACCCT | pacbio |
 | *Barbatula barbatula* | Nemacheilidae | Cypriniformes | AACCCT | AACCCTAACCCT | assembly |
 | *Barbatula barbatula* | Nemacheilidae | Cypriniformes | AACCCT | AACCCTAACCCT | pacbio |

@@ -15,15 +15,15 @@
 | *Leucocybe candicans* | Lyophyllaceae | Agaricales |  |  | pacbio |
 | *Lyophyllum leucophaeatum* | Lyophyllaceae | Agaricales | ACAGACAG | ACAGACAGACAG | pacbio |
 | *Armillaria gallica* | Physalacriaceae | Agaricales | AAACCCT | AACCCTG | pacbio |
-| *Flammulina velutipes var. lupinicola* | Physalacriaceae | Agaricales | CCCCC |  | pacbio |
 | *Flammulina velutipes var. lactea* | Physalacriaceae | Agaricales | CCCCC |  | pacbio |
+| *Flammulina velutipes var. lupinicola* | Physalacriaceae | Agaricales | CCCCC |  | pacbio |
 | *Flammulina velutipes* | Physalacriaceae | Agaricales | CCCCC |  | pacbio |
 | *Pleurotus eryngii var. eryngii* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus eryngii var. ferulae* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus eryngii var. elaeoselini* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus eryngii* | Pleurotaceae | Agaricales |  |  | pacbio |
-| *Pleurotus sp. 'Florida'* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus ostreatus var. ostreatus* | Pleurotaceae | Agaricales |  |  | pacbio |
+| *Pleurotus sp. 'Florida'* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Pleurotus ostreatus* | Pleurotaceae | Agaricales |  |  | pacbio |
 | *Volvariella surrecta* | Pluteaceae | Agaricales |  |  | pacbio |
 | *Volvopluteus gloiocephalus* | Pluteaceae | Agaricales |  |  | pacbio |

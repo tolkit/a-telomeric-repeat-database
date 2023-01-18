@@ -7,6 +7,7 @@
 | *Atelecyclus rotundatus* | Atelecyclidae | Decapoda | AACCT | AACCTAACCT | pacbio |
 | *Cancer pagurus* | Cancridae | Decapoda | AACCT | ACAGACAG | pacbio |
 | *Pagurus bernhardus* | Paguridae | Decapoda | AACCT | AACCTAACCT | pacbio |
+| *Pagurus pubescens* | Paguridae | Decapoda | AACCT | AACCTAACCT | pacbio |
 | *Liocarcinus pusillus* | Polybiidae | Decapoda | AACCT | AACCTAACCT | pacbio |
 | *Pisidia longicornis* | Porcellanidae | Decapoda | AACCT | AACCTAACCT | pacbio |
 | *Porcellana platycheles* | Porcellanidae | Decapoda | AACCT | AAAGTTCCTCG | pacbio |

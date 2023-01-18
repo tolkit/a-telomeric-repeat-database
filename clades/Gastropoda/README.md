@@ -25,6 +25,7 @@
 | *Littorina compressa* | Littorinidae | Littorinimorpha | AACCCT | AACCCTAACCCT | pacbio |
 | *Littorina obtusata* | Littorinidae | Littorinimorpha | AACCCT | ACACAC | pacbio |
 | *Trivia monacha* | Triviidae | Littorinimorpha | ACACAC | ACACACAC | pacbio |
+| *Colus gracilis* | Colidae | Neogastropoda |  |  | pacbio |
 | *Nucella lapillus* | Muricidae | Neogastropoda | ACACAC | ACTACT | pacbio |
 | *Tritia reticulata* | Nassariidae | Neogastropoda | ACTACT | AACCCT | pacbio |
 | *Crimora papillata* |  | Nudibranchia | ACTACT | ACTACTACT | pacbio |
