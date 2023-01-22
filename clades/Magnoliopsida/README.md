@@ -18,7 +18,7 @@
 | *Angelica sylvestris* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Anthriscus sylvestris* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Conopodium majus* | Apiaceae | Apiales | AAACCCT | AACCCTG | pacbio |
-| *Daucus carota* | Apiaceae | Apiales |  |  | pacbio |
+| *Daucus carota* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Helosciadium nodiflorum* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Heracleum sphondylium* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Ligusticum scoticum* | Apiaceae | Apiales |  |  | pacbio |
@@ -81,7 +81,7 @@
 | *Cakile maritima* | Brassicaceae | Brassicales | AAACCCT | ACAGACT | pacbio |
 | *Cochlearia danica* | Brassicaceae | Brassicales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Lepidium draba* | Brassicaceae | Brassicales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Raphanus raphanistrum* | Brassicaceae | Brassicales |  |  | pacbio |
+| *Raphanus raphanistrum* | Brassicaceae | Brassicales | AAACCCT |  | pacbio |
 | *Sisymbrium officinale* | Brassicaceae | Brassicales | AAACCCT | AACCCT | pacbio |
 | *Buxus sempervirens* | Buxaceae | Buxales | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Buxus sempervirens* | Buxaceae | Buxales | AAACCCT | CCCCC | pacbio |
@@ -198,7 +198,7 @@
 | *Erythranthe lutea* | Phrymaceae | Lamiales |  |  | pacbio |
 | *Callitriche obtusangula* | Plantaginaceae | Lamiales | AAGTAAGT | AAGTAAGTAAGT | pacbio |
 | *Chaenorhinum minus* | Plantaginaceae | Lamiales | AAACCCT | AAAAA | pacbio |
-| *Cymbalaria muralis* | Plantaginaceae | Lamiales |  |  | pacbio |
+| *Cymbalaria muralis* | Plantaginaceae | Lamiales | AAAAAACCCT |  | pacbio |
 | *Hippuris vulgaris* | Plantaginaceae | Lamiales | AAACCCT | AATCT | pacbio |
 | *Linaria vulgaris* | Plantaginaceae | Lamiales | AAACCCT | AATAAT | pacbio |
 | *Littorella uniflora* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -280,7 +280,7 @@
 | *Puccinellia maritima* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Typha latifolia* | Typhaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Berberis aquifolium* | Berberidaceae | Ranunculales |  |  | pacbio |
-| *Berberis vulgaris* | Berberidaceae | Ranunculales |  |  | pacbio |
+| *Berberis vulgaris* | Berberidaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Chelidonium majus* | Papaveraceae | Ranunculales | AAACCCT | AACCCT | pacbio |
 | *Fumaria muralis* | Papaveraceae | Ranunculales | AAACCG | AAACCGAAACCG | pacbio |
 | *Fumaria officinalis* | Papaveraceae | Ranunculales | AAACCG | AAACCGAAACCG | pacbio |

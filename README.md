@@ -578,7 +578,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Nephrotoma flavescens* | Tipulidae | Diptera | Insecta | AAAATATG | AAAATATGAAAATATG | assembly |
 | *Nephrotoma flavescens* | Tipulidae | Diptera | Insecta | AAAATATG | AAGTAAT | pacbio |
 | *Nephrotoma flavipalpis* | Tipulidae | Diptera | Insecta | AGATAT | AAATAAATT | pacbio |
-| *Tipula confusa* | Tipulidae | Diptera | Insecta |  |  | pacbio |
+| *Tipula confusa* | Tipulidae | Diptera | Insecta | AATAATAT | AAACAAACT | pacbio |
 | *Tipula luna* | Tipulidae | Diptera | Insecta | AAATAAATT | AAGTCC | pacbio |
 | *Tipula paludosa* | Tipulidae | Diptera | Insecta | AGATATAT | AGATAT | pacbio |
 | *Tipula unca* | Tipulidae | Diptera | Insecta | AAATTCTT | AAATTCTTAAATTCTT | pacbio |
@@ -709,7 +709,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Athalia rosae* | Athaliidae | Hymenoptera | Insecta | AAAAA | AAAAAA | pacbio |
 | *Homolobus annulicornis* | Braconidae | Hymenoptera | Insecta | ACGATG | AAGAGAC | pacbio |
 | *Chalcis sispes* | Chalcididae | Hymenoptera | Insecta | ACGATG | ATCATC | pacbio |
-| *Abia sericea* | Cimbicidae | Hymenoptera | Insecta |  |  | pacbio |
+| *Abia sericea* | Cimbicidae | Hymenoptera | Insecta | ACCAGGC | ACCAGGCACCAGGC | pacbio |
 | *Hylaeus communis* | Colletidae | Hymenoptera | Insecta |  |  | pacbio |
 | *Cerceris arenaria* | Crabronidae | Hymenoptera | Insecta | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Cerceris rybyensis* | Crabronidae | Hymenoptera | Insecta | AACCCAGACCT | AAAAT | assembly |
@@ -1741,7 +1741,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Streptopelia turtur* | Columbidae | Columbiformes | Aves |  |  | assembly |
 | *Tetrao urogallus* | Phasianidae | Galliformes | Aves | AACCCT | AACCCTAACCCT | pacbio |
 | *Cinclus cinclus* | Cinclidae | Passeriformes | Aves | AACCCT | AAGGG | pacbio |
-| *Fringilla coelebs* | Fringillidae | Passeriformes | Aves |  |  | pacbio |
+| *Fringilla coelebs* | Fringillidae | Passeriformes | Aves | AACCCT | AACCCTAACCCT | pacbio |
 | *Erithacus rubecula* | Turdidae | Passeriformes | Aves | AAGGAAGG | AGAGG | assembly |
 | *Phaethon aethereus* | Phaethontidae | Pelecaniformes | Aves | AACCCT | AACCCTAACCCT | pacbio |
 | *Calonectris borealis* | Procellariidae | Procellariiformes | Aves | AACCCT | CCCCC | pacbio |
@@ -1909,7 +1909,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Angelica sylvestris* | Apiaceae | Apiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Anthriscus sylvestris* | Apiaceae | Apiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Conopodium majus* | Apiaceae | Apiales | Magnoliopsida | AAACCCT | AACCCTG | pacbio |
-| *Daucus carota* | Apiaceae | Apiales | Magnoliopsida |  |  | pacbio |
+| *Daucus carota* | Apiaceae | Apiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Helosciadium nodiflorum* | Apiaceae | Apiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Heracleum sphondylium* | Apiaceae | Apiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Ligusticum scoticum* | Apiaceae | Apiales | Magnoliopsida |  |  | pacbio |
@@ -1972,7 +1972,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Cakile maritima* | Brassicaceae | Brassicales | Magnoliopsida | AAACCCT | ACAGACT | pacbio |
 | *Cochlearia danica* | Brassicaceae | Brassicales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Lepidium draba* | Brassicaceae | Brassicales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Raphanus raphanistrum* | Brassicaceae | Brassicales | Magnoliopsida |  |  | pacbio |
+| *Raphanus raphanistrum* | Brassicaceae | Brassicales | Magnoliopsida | AAACCCT |  | pacbio |
 | *Sisymbrium officinale* | Brassicaceae | Brassicales | Magnoliopsida | AAACCCT | AACCCT | pacbio |
 | *Buxus sempervirens* | Buxaceae | Buxales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | assembly |
 | *Buxus sempervirens* | Buxaceae | Buxales | Magnoliopsida | AAACCCT | CCCCC | pacbio |
@@ -2089,7 +2089,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Erythranthe lutea* | Phrymaceae | Lamiales | Magnoliopsida |  |  | pacbio |
 | *Callitriche obtusangula* | Plantaginaceae | Lamiales | Magnoliopsida | AAGTAAGT | AAGTAAGTAAGT | pacbio |
 | *Chaenorhinum minus* | Plantaginaceae | Lamiales | Magnoliopsida | AAACCCT | AAAAA | pacbio |
-| *Cymbalaria muralis* | Plantaginaceae | Lamiales | Magnoliopsida |  |  | pacbio |
+| *Cymbalaria muralis* | Plantaginaceae | Lamiales | Magnoliopsida | AAAAAACCCT |  | pacbio |
 | *Hippuris vulgaris* | Plantaginaceae | Lamiales | Magnoliopsida | AAACCCT | AATCT | pacbio |
 | *Linaria vulgaris* | Plantaginaceae | Lamiales | Magnoliopsida | AAACCCT | AATAAT | pacbio |
 | *Littorella uniflora* | Plantaginaceae | Lamiales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
@@ -2171,7 +2171,7 @@ A curated list is being worked on currently, and can be seen in `./data/curated/
 | *Puccinellia maritima* | Poaceae | Poales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Typha latifolia* | Typhaceae | Poales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Berberis aquifolium* | Berberidaceae | Ranunculales | Magnoliopsida |  |  | pacbio |
-| *Berberis vulgaris* | Berberidaceae | Ranunculales | Magnoliopsida |  |  | pacbio |
+| *Berberis vulgaris* | Berberidaceae | Ranunculales | Magnoliopsida | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Chelidonium majus* | Papaveraceae | Ranunculales | Magnoliopsida | AAACCCT | AACCCT | pacbio |
 | *Fumaria muralis* | Papaveraceae | Ranunculales | Magnoliopsida | AAACCG | AAACCGAAACCG | pacbio |
 | *Fumaria officinalis* | Papaveraceae | Ranunculales | Magnoliopsida | AAACCG | AAACCGAAACCG | pacbio |

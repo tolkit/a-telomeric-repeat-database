@@ -469,7 +469,7 @@
 | *Nephrotoma flavescens* | Tipulidae | Diptera | AAAATATG | AAAATATGAAAATATG | assembly |
 | *Nephrotoma flavescens* | Tipulidae | Diptera | AAAATATG | AAGTAAT | pacbio |
 | *Nephrotoma flavipalpis* | Tipulidae | Diptera | AGATAT | AAATAAATT | pacbio |
-| *Tipula confusa* | Tipulidae | Diptera |  |  | pacbio |
+| *Tipula confusa* | Tipulidae | Diptera | AATAATAT | AAACAAACT | pacbio |
 | *Tipula luna* | Tipulidae | Diptera | AAATAAATT | AAGTCC | pacbio |
 | *Tipula paludosa* | Tipulidae | Diptera | AGATATAT | AGATAT | pacbio |
 | *Tipula unca* | Tipulidae | Diptera | AAATTCTT | AAATTCTTAAATTCTT | pacbio |
@@ -600,7 +600,7 @@
 | *Athalia rosae* | Athaliidae | Hymenoptera | AAAAA | AAAAAA | pacbio |
 | *Homolobus annulicornis* | Braconidae | Hymenoptera | ACGATG | AAGAGAC | pacbio |
 | *Chalcis sispes* | Chalcididae | Hymenoptera | ACGATG | ATCATC | pacbio |
-| *Abia sericea* | Cimbicidae | Hymenoptera |  |  | pacbio |
+| *Abia sericea* | Cimbicidae | Hymenoptera | ACCAGGC | ACCAGGCACCAGGC | pacbio |
 | *Hylaeus communis* | Colletidae | Hymenoptera |  |  | pacbio |
 | *Cerceris arenaria* | Crabronidae | Hymenoptera | AAACCCT | AAACCCTAAACCCT | pacbio |
 | *Cerceris rybyensis* | Crabronidae | Hymenoptera | AACCCAGACCT | AAAAT | assembly |

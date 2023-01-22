@@ -589,7 +589,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 2719080	species	Nephrotoma flavescens	Nephrotoma flavescens	Nephrotoma	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	222495000	AAAATATG	AAAATATGAAAATATG	assembly
 2719080	species	Nephrotoma flavescens	Nephrotoma flavescens	Nephrotoma	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	222495000	AAAATATG	AAGTAAT	pacbio
 2746509	species	Nephrotoma flavipalpis	Nephrotoma flavipalpis	Nephrotoma	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	222495000	AGATAT	AAATAAATT	pacbio
-2881124	species	Tipula confusa	Tipula confusa	Tipula	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	222495000	""	""	pacbio
+2881124	species	Tipula confusa	Tipula confusa	Tipula	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	222495000	AATAATAT	AAACAAACT	pacbio
 1118048	species	Tipula luna	Tipula luna	Tipula	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	222495000	AAATAAATT	AAGTCC	pacbio
 52757	species	Tipula paludosa	Tipula paludosa	Tipula	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	222495000	AGATATAT	AGATAT	pacbio
 2867263	species	Tipula unca	Tipula unca	Tipula	Tipulidae	Diptera	Insecta	Arthropoda	Metazoa	Eukaryota	222495000	AAATTCTT	AAATTCTTAAATTCTT	pacbio
@@ -720,7 +720,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 37344	species	Athalia rosae	Athalia rosae	Athalia	Athaliidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	287898750	AAAAA	AAAAAA	pacbio
 2922070	species	Homolobus annulicornis	Homolobus annulicornis	Homolobus	Braconidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	144255000	ACGATG	AAGAGAC	pacbio
 1118640	species	Chalcis sispes	Chalcis sispes	Chalcis	Chalcididae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	332520000	ACGATG	ATCATC	pacbio
-410258	species	Abia sericea	Abia sericea	Abia	Cimbicidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	287898750	""	""	pacbio
+410258	species	Abia sericea	Abia sericea	Abia	Cimbicidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	287898750	ACCAGGC	ACCAGGCACCAGGC	pacbio
 1190792	species	Hylaeus communis	Hylaeus communis	Hylaeus	Colletidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	625920000	""	""	pacbio
 1507109	species	Cerceris arenaria	Cerceris arenaria	Cerceris	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	413205000	AAACCCT	AAACCCTAAACCCT	pacbio
 1167272	species	Cerceris rybyensis	Cerceris rybyensis	Cerceris	Crabronidae	Hymenoptera	Insecta	Arthropoda	Metazoa	Eukaryota	413205000	AACCCAGACCT	AAAAT	assembly
@@ -1752,7 +1752,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 177155	species	Streptopelia turtur	Streptopelia turtur	Streptopelia	Columbidae	Columbiformes	Aves	Chordata	Metazoa	Eukaryota	1202940000	""	""	assembly
 100830	species	Tetrao urogallus	Tetrao urogallus	Tetrao	Phasianidae	Galliformes	Aves	Chordata	Metazoa	Eukaryota	1290960000	AACCCT	AACCCTAACCCT	pacbio
 127875	species	Cinclus cinclus	Cinclus cinclus	Cinclus	Cinclidae	Passeriformes	Aves	Chordata	Metazoa	Eukaryota	1251840000	AACCCT	AAGGG	pacbio
-37598	species	Fringilla coelebs	Fringilla coelebs	Fringilla	Fringillidae	Passeriformes	Aves	Chordata	Metazoa	Eukaryota	1095360000	""	""	pacbio
+37598	species	Fringilla coelebs	Fringilla coelebs	Fringilla	Fringillidae	Passeriformes	Aves	Chordata	Metazoa	Eukaryota	1095360000	AACCCT	AACCCTAACCCT	pacbio
 37610	species	Erithacus rubecula	Erithacus rubecula	Erithacus	Turdidae	Passeriformes	Aves	Chordata	Metazoa	Eukaryota	1779960000	AAGGAAGG	AGAGG	assembly
 37045	species	Phaethon aethereus	Phaethon aethereus	Phaethon	Phaethontidae	Pelecaniformes	Aves	Chordata	Metazoa	Eukaryota	1325190000	AACCCT	AACCCTAACCCT	pacbio
 1323832	species	Calonectris borealis	Calonectris borealis	Calonectris	Procellariidae	Procellariiformes	Aves	Chordata	Metazoa	Eukaryota	1396095000	AACCCT	CCCCC	pacbio
@@ -1920,7 +1920,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 54703	species	Angelica sylvestris	Angelica sylvestris	Angelica	Apiaceae	Apiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	2215170000	AAACCCT	AAACCCTAAACCCT	pacbio
 48027	species	Anthriscus sylvestris	Anthriscus sylvestris	Anthriscus	Apiaceae	Apiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1916880000	AAACCCT	AAACCCTAAACCCT	pacbio
 173702	species	Conopodium majus	Conopodium majus	Conopodium	Apiaceae	Apiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1393649999	AAACCCT	AACCCTG	pacbio
-4039	species	Daucus carota	Daucus carota	Daucus	Apiaceae	Apiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	547680000	""	""	pacbio
+4039	species	Daucus carota	Daucus carota	Daucus	Apiaceae	Apiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	547680000	AAACCCT	AAACCCTAAACCCT	pacbio
 99497	species	Helosciadium nodiflorum	Helosciadium nodiflorum	Helosciadium	Apiaceae	Apiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1036680000	AAACCCT	AAACCCTAAACCCT	pacbio
 40919	species	Heracleum sphondylium	Heracleum sphondylium	Heracleum	Apiaceae	Apiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	2051355000	AAACCCT	AAACCCTAAACCCT	pacbio
 49554	species	Ligusticum scoticum	Ligusticum scoticum	Ligusticum	Apiaceae	Apiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	3246960000	""	""	pacbio
@@ -1983,7 +1983,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 220483	species	Cakile maritima	Cakile maritima	Cakile	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	850860000	AAACCCT	ACAGACT	pacbio
 126279	species	Cochlearia danica	Cochlearia danica	Cochlearia	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	684600000	AAACCCT	AAACCCTAAACCCT	pacbio
 153317	species	Lepidium draba	Lepidium draba	Lepidium	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1085580000	AAACCCT	AAACCCTAAACCCT	pacbio
-109996	species	Raphanus raphanistrum	Raphanus raphanistrum	Raphanus	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	513948979	""	""	pacbio
+109996	species	Raphanus raphanistrum	Raphanus raphanistrum	Raphanus	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	513948979	AAACCCT	""	pacbio
 203582	species	Sisymbrium officinale	Sisymbrium officinale	Sisymbrium	Brassicaceae	Brassicales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	289488000	AAACCCT	AACCCT	pacbio
 4002	species	Buxus sempervirens	Buxus sempervirens	Buxus	Buxaceae	Buxales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	889980000	AAACCCT	AAACCCTAAACCCT	assembly
 4002	species	Buxus sempervirens	Buxus sempervirens	Buxus	Buxaceae	Buxales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	889980000	AAACCCT	CCCCC	pacbio
@@ -2100,7 +2100,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 270988	species	Erythranthe lutea	Erythranthe lutea	Erythranthe	Phrymaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	386310000	""	""	pacbio
 1155256	species	Callitriche obtusangula	Callitriche obtusangula	Callitriche	Plantaginaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1823970000	AAGTAAGT	AAGTAAGTAAGT	pacbio
 105913	species	Chaenorhinum minus	Chaenorhinum minus	Chaenorhinum	Plantaginaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	449880000	AAACCCT	AAAAA	pacbio
-4166	species	Cymbalaria muralis	Cymbalaria muralis	Cymbalaria	Plantaginaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	481665000	""	""	pacbio
+4166	species	Cymbalaria muralis	Cymbalaria muralis	Cymbalaria	Plantaginaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	481665000	AAAAAACCCT	""	pacbio
 39321	species	Hippuris vulgaris	Hippuris vulgaris	Hippuris	Plantaginaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	704160000	AAACCCT	AATCT	pacbio
 43171	species	Linaria vulgaris	Linaria vulgaris	Linaria	Plantaginaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	938880000	AAACCCT	AATAAT	pacbio
 223169	species	Littorella uniflora	Littorella uniflora	Littorella	Plantaginaceae	Lamiales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	6278760000	AAACCCT	AAACCCTAAACCCT	pacbio
@@ -2182,7 +2182,7 @@ taxon_id	taxon_rank	scientific_name	species	genus	family	order	class	phylum	king
 492098	species	Puccinellia maritima	Puccinellia maritima	Puccinellia	Poaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	5163840000	AAACCCT	AAACCCTAAACCCT	pacbio
 4733	species	Typha latifolia	Typha latifolia	Typha	Typhaceae	Poales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	293400000	AAACCCT	AAACCCTAAACCCT	pacbio
 203270	species	Berberis aquifolium	Berberis aquifolium	Berberis	Berberidaceae	Ranunculales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1300740000	""	""	pacbio
-258209	species	Berberis vulgaris	Berberis vulgaris	Berberis	Berberidaceae	Ranunculales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1603920000	""	""	pacbio
+258209	species	Berberis vulgaris	Berberis vulgaris	Berberis	Berberidaceae	Ranunculales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1603920000	AAACCCT	AAACCCTAAACCCT	pacbio
 71251	species	Chelidonium majus	Chelidonium majus	Chelidonium	Papaveraceae	Ranunculales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	1232280000	AAACCCT	AACCCT	pacbio
 1053350	species	Fumaria muralis	Fumaria muralis	Fumaria	Papaveraceae	Ranunculales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	577020000	AAACCG	AAACCGAAACCG	pacbio
 200993	species	Fumaria officinalis	Fumaria officinalis	Fumaria	Papaveraceae	Ranunculales	Magnoliopsida	Streptophyta	Viridiplantae	Eukaryota	625920000	AAACCG	AAACCGAAACCG	pacbio

@@ -517,7 +517,7 @@ Ypsolopha scabrella	AACCT	AACCTAACCT	assembly
 Ypsolopha sequella	AACCT	AACCTAACCT	assembly
 Zeuzera pyrina	AACCT	AACCTAACCT	assembly
 Zygaena filipendulae	AACCT	AACCTAACCT	assembly
-Abia sericea			pacbio
+Abia sericea	ACCAGGC	ACCAGGCACCAGGC	pacbio
 Abrostola tripartita	AACCT	AACCTAACCT	pacbio
 Abrostola triplasia	AACCT	AACCTAACCT	pacbio
 Acanthochitona crinita	AACCCT	AACAT	pacbio
@@ -754,7 +754,7 @@ Bembecia ichneumoniformis	AACCT	AACCTAACCT	pacbio
 Bembidion guttula	AACCT	AAACCTAACCT	pacbio
 Bena bicolorana	AACCT	AACCTAACCT	pacbio
 Berberis aquifolium			pacbio
-Berberis vulgaris			pacbio
+Berberis vulgaris	AAACCCT	AAACCCTAAACCCT	pacbio
 Beris chalybata	AAACATTTCAAATGATGGCTGAGGTT	AGATAGAT	pacbio
 Betula pubescens	AAACCCT	AAACCCTAAACCCT	pacbio
 Betulapion simile	ACCTG	ACCTGACCTG	pacbio
@@ -1009,7 +1009,7 @@ Cydia fagiglandana	AACCT	AACCTAACCT	pacbio
 Cydia splendana	AACCT	AACCTAACCT	pacbio
 Cydia strobilella	AACCT	AACCTAACCT	pacbio
 Cylloceria caligata	ACATACAT	ACATACATACAT	pacbio
-Cymbalaria muralis			pacbio
+Cymbalaria muralis	AAAAAACCCT		pacbio
 Dactylorhiza maculata	AAACCCT	AAACCCTAAACCCT	pacbio
 Danio rerio	AACCCT	AGATAGAT	pacbio
 Danthonia decumbens	AAACCCT	CCCCC	pacbio
@@ -1018,7 +1018,7 @@ Dascillus cervinus	AACCT	AACCTAACCT	pacbio
 Dasiphora fruticosa	AAACCCT		pacbio
 Dasysyrphus albostriatus	AACAAC	AACAACAAC	pacbio
 Dasysyrphus tricinctus	AACATGC	AACATGCAACATGC	pacbio
-Daucus carota			pacbio
+Daucus carota	AAACCCT	AAACCCTAAACCCT	pacbio
 Daudebardia rufa	AACTAACT	AACTAACTAACT	pacbio
 Deilephila elpenor	AACCT	AACCTAACCT	pacbio
 Deilephila porcellus	AACCT	AACCTAACCT	pacbio
@@ -1215,7 +1215,7 @@ Fissipunctia ypsillon	AACCT	AACCTAACCT	pacbio
 Flammulina velutipes	CCCCC		pacbio
 Flavoplaca marina			pacbio
 Forficula auricularia	AAAAA	AAAAAA	pacbio
-Fringilla coelebs			pacbio
+Fringilla coelebs	AACCCT	AACCCTAACCCT	pacbio
 Fumaria muralis	AAACCG	AAACCGAAACCG	pacbio
 Fumaria officinalis	AAACCG	AAACCGAAACCG	pacbio
 Furcula furcula	AACCT	AACCTAACCT	pacbio
@@ -1887,7 +1887,7 @@ Quercus robur	AAACCCT	AAAAA	pacbio
 Ranunculus acris			pacbio
 Ranunculus bulbosus	AACCCCG	AACCCCGAACCCCG	pacbio
 Ranunculus sardous	ACTCACTC	AATCAATC	pacbio
-Raphanus raphanistrum			pacbio
+Raphanus raphanistrum	AAACCCT		pacbio
 Rattus norvegicus	AACCCT	AACCCTAACCCT	pacbio
 Recurvaria leucatella	AACCT	AACCTAACCT	pacbio
 Reynoutria japonica	AAACCCT	AACAAC	pacbio
@@ -2127,7 +2127,7 @@ Tinea pellionella	AACCT	AACCTAACCT	pacbio
 Tinea semifulvella	AACCT	AACCTAACCT	pacbio
 Tinea trinotella	AACCT	AACCTAACCT	pacbio
 Tiphia femorata	AGAGAT		pacbio
-Tipula confusa			pacbio
+Tipula confusa	AATAATAT	AAACAAACT	pacbio
 Tipula luna	AAATAAATT	AAGTCC	pacbio
 Tipula paludosa	AGATATAT	AGATAT	pacbio
 Tipula unca	AAATTCTT	AAATTCTTAAATTCTT	pacbio
