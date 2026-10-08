@@ -179,3 +179,23 @@ for key in my_dict:
 	print(key + "/" +  my_dict[key][0])
 ```
 
+
+## tidk 0.3.0, Tree of Life-wide (2026-10-08)
+
+`src/import_tidk_v03.py` imports the ToL-wide tidk 0.3.0 run
+(`/lustre/scratch122/tol/teams/blaxter/users/mb39/tol_telomeres`: one
+curated assembly per Darwin species, 3,422 species) with NCBI taxonomy
+(`/data/tol/resources/taxonomy/2026-10-03`), into `data/tidk_v0.3/`:
+
+- `telo_calls.tsv`: one row per species. The telomere call is the explore
+  candidate (of the top 5) found at the most chromosome ends, with how many
+  ends it is at (`support`: strong >= 25% of ends, weak, none).
+- `comparison.tsv`: species also in the tidk 0.2 table or the curated list,
+  and whether the calls agree (same / compound / different).
+
+Unlike the 0.2 entries, which are the most abundant repeat in the assembly
+or reads, the 0.3.0 calls are checked at chromosome ends. Where they differ
+and the 0.3.0 call is strong, the 0.2 entry is usually a satellite (e.g.
+Nebria AAATAACT, now AACCT). Where they differ and it is weak or none, the
+0.2 entry is often the real telomere ranked just below the top 5 explore
+units (Arvicola, Bufo, Scyliorhinus: AACCCT at rank 6).
