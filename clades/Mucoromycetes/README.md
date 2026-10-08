@@ -1,6 +1,5 @@
 # Mucoromycetes
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Mucor piriformis* | Mucoraceae | Mucorales | AACCCTCGCAGGCCGTAGGCCGTGGGTGCT |  | assembly |
-| *Mucor piriformis* | Mucoraceae | Mucorales | AAAAA | CCCCC | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Mucor piriformis* | Mucoraceae | Mucorales | AACCCTCGCAGGCCGTAGGCCGTGGGTGCT | none | 0/12 | tidk 0.3.0 assembly |

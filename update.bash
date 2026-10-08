@@ -1,13 +1,15 @@
 #!/usr/bin/env bash
 
-# fetch data
+# Since 2026-10: the database is built from the ToL-wide tidk 0.3.0 run
+# (see src/README.md), keeping the tidk 0.2 entries only for species it
+# doesn't cover.
 cd src
-bash fetch_data.bash
-# generate the higher taxon data
-bash goat_names.bash
-# make tabular data from rsync'd data
-bash get_telo_seqs.bash > ../data/telo_seqs.tsv
-# update the README.md
-Rscript make_database_and_README.R > ../README.md
-# and make all the clade tables
-python3 clade_README.py
+# tidk 0.3.0 calls with NCBI taxonomy, and the comparison with tidk 0.2
+python3 import_tidk_v03.py
+# data/telo_database_v2.tsv, README.md and the clade tables
+python3 make_database_v2.py
+
+# The tidk 0.2 pipeline (fetch_data.bash, goat_names.bash,
+# get_telo_seqs.bash, make_database_and_README.R, clade_README.py) built
+# data/telo_database.tsv, which is kept as it was; running it again would
+# overwrite README.md and the clade tables with the 0.2 table.

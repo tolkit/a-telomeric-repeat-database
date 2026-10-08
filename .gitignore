@@ -1,2 +1,3 @@
 /data/taxdmp
 /src/analyses/gotree_amd64_darwin
+__pycache__/

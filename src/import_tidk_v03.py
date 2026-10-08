@@ -4,14 +4,18 @@ NCBI taxonomy, and compare them with the earlier tidk 0.2 entries.
 
 The tidk 0.3.0 run (one curated assembly per Darwin Tree of Life species,
 2026-10-08) lives in its own project, TOL_DIR. For each species tidk
-explore finds tandem repeats, and tidk ends checks the top five at each
-chromosome end; the telomere call is the candidate at the most ends. That
+explore finds tandem repeats, and tidk ends checks the top five, plus a
+list of known telomeric units, at each chromosome end; the telomere call
+is the candidate at the most ends (telomere_source: explore or known). That
 end check is what the 0.2 entries here lacked: they are the most abundant
 repeat in the assembly or reads, telomeric or not.
 
 Writes, under data/tidk_v0.3/:
   telo_calls.tsv   one row per species: taxonomy, the telomere call and its
                    support (chromosome ends with it out of those checked)
+  known_telomere_units.tsv
+                   the known telomeric units checked at chromosome ends
+                   alongside the top five explore units
   comparison.tsv   species with both a 0.3.0 call and a 0.2 entry (raw
                    assembly / raw PacBio / manually curated), and how the
                    calls relate
@@ -35,6 +39,7 @@ unit (AAACCCTAAACCCT -> AAACCCT).
 """
 import csv
 import re
+import shutil
 import sys
 from collections import Counter
 from pathlib import Path
@@ -180,9 +185,10 @@ def main():
     lineages = load_lineages(wanted)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    shutil.copy(TOL_DIR / "inputs" / "known_telomere_units.tsv", OUT_DIR)
     cols = ["taxon_id", *RANKS, "darwin_group", "assembly", "telomere_unit",
             "support", "ends_with_telomere", "ends_checked", "t2t_sequences",
-            "minor_strand", "telomere_rank", "top_explore_unit"]
+            "minor_strand", "telomere_rank", "telomere_source", "top_explore_unit"]
     out_rows, no_taxonomy = [], []
     for c in calls:
         n = norm(c["species"])
@@ -210,6 +216,7 @@ def main():
             ends_with_telomere=present, ends_checked=checked, t2t_sequences=t2t,
             minor_strand=c["telomere_minor_strand"] if present else c["top_minor_strand"],
             telomere_rank=c["telomere_rank"] if present else "",
+            telomere_source=c.get("telomere_source", "") if present else "",
             top_explore_unit=c["top_unit"],
             _norm=n,
         ))

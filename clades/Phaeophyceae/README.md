@@ -1,8 +1,8 @@
 # Phaeophyceae
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Pelvetia canaliculata* | Fucaceae | Fucales | AACCCT | AACCCTAACCCT | pacbio |
-| *Carpodesmia tamariscifolia* | Sargassaceae | Fucales | ACACT | ACACAC | pacbio |
-| *Halidrys siliquosa* | Sargassaceae | Fucales | AACCCT | ACAGT | pacbio |
-| *Alaria esculenta* | Alariaceae | Laminariales | ACAGACAG | AAAGC | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Pelvetia canaliculata* | Fucaceae | Fucales | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Carpodesmia tamariscifolia* | Sargassaceae | Fucales | ACACT | not checked |  | tidk 0.2 pacbio |
+| *Halidrys siliquosa* | Sargassaceae | Fucales | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Alaria esculenta* | Alariaceae | Laminariales | ACAGACAG | not checked |  | tidk 0.2 pacbio |

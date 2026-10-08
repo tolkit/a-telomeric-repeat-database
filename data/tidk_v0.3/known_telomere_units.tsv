@@ -1,0 +1,29 @@
+unit	g_rich	source
+AACCT	TTAGG	literature: arthropods
+AACCCT	TTAGGG	literature: vertebrates and many other animals, fungi
+AAACCCT	TTTAGGG	literature: Arabidopsis-type plants
+AAGCCT	TTAGGC	literature: Caenorhabditis and other nematodes
+ACCTG	TCAGG	literature: Tribolium and other Coleoptera
+AACCCC	TTGGGG	literature: Tetrahymena and other ciliates
+AAAACCCC	TTTTGGGG	literature: Oxytricha and other hypotrich ciliates
+AAAACCCT	TTTTAGGG	literature: Chlamydomonas and other green algae
+AACCC	TTGGG	run: strong in 18 species (Coleoptera, Orthoptera)
+AACCCAGACCT	AGGTCTGGGTT	run: strong in 23 species (bees and crabronid wasps)
+AACCATCCCT	AGGGATGGTT	run: strong in 17 species (Hemiptera)
+AAAGAACCT	AGGTTCTTT	run: strong in 15 species (Hymenoptera)
+AAACAAACCC	GGGTTTGTTT	run: strong in 14 species (Hymenoptera)
+AACCCCAACCT	AGGTTGGGGTT	run: strong in 13 species
+AACCCTG	CAGGGTT	run: strong in 6 species (dicots)
+AAACTAACCC	GGGTTAGTTT	run: strong in 6 species
+AAACCC	GGGTTT	run: strong in 6 species
+AAACC	GGTTT	run: strong in 6 species
+AACCCAGACGC	GCGTCTGGGTT	run: strong in 5 species
+AAACCTAACCC	GGGTTAGGTTT	run: strong in 4 species
+AAACCCGAAC	GTTCGGGTTT	run: strong in 4 species
+AAACCCC	GGGGTTT	run: strong in 4 species (bryozoans)
+ACCCT	AGGGT	run: strong in 3 species (Carabus)
+AACCTGAACT	AGTTCAGGTT	run: strong in 3 species
+AACCG	CGGTT	run: strong in 3 species (Carlina, with AACTG)
+AACCCACTCT	AGAGTGGGTT	run: strong in 3 species
+AAAACTAACC	GGTTAGTTTT	run: strong in 3 species
+AAAAAACCCT	AGGGTTTTTT	run: strong in 3 species

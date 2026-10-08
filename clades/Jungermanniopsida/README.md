@@ -1,0 +1,39 @@
+# Jungermanniopsida
+
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Petalophyllum ralfsii* | Petalophyllaceae | Fossombroniales | AAACCCT | strong | 15/36 | tidk 0.3.0 assembly |
+| *Anastrepta orcadensis* | Anastrophyllaceae | Jungermanniales | AAACCCT | strong | 7/26 | tidk 0.3.0 assembly |
+| *Anastrophyllum donnianum* | Anastrophyllaceae | Jungermanniales | AAACCCT | weak | 1/18 | tidk 0.3.0 assembly |
+| *Barbilophozia sudetica* | Anastrophyllaceae | Jungermanniales | AAACCCT | strong | 15/18 | tidk 0.3.0 assembly |
+| *Neoorthocaulis attenuatus* | Anastrophyllaceae | Jungermanniales | AAACCCT | strong | 11/18 | tidk 0.3.0 assembly |
+| *Anthelia julacea* | Antheliaceae | Jungermanniales | AAACCCT | strong | 16/18 | tidk 0.3.0 assembly |
+| *Odontoschisma sphagni* | Cephaloziaceae | Jungermanniales | AAACCCT | strong | 14/18 | tidk 0.3.0 assembly |
+| *Marsupella aquatica* | Gymnomitriaceae | Jungermanniales | AAACCCT | weak | 4/18 | tidk 0.3.0 assembly |
+| *Marsupella emarginata* | Gymnomitriaceae | Jungermanniales | AAACCCT | strong | 8/18 | tidk 0.3.0 assembly |
+| *Nardia scalaris* | Gymnomitriaceae | Jungermanniales | AAACCCT | strong | 14/26 | tidk 0.3.0 assembly |
+| *Herbertus borealis* | Herbertaceae | Jungermanniales | AAACCCT | strong | 7/16 | tidk 0.3.0 assembly |
+| *Herbertus hutchinsiae* | Herbertaceae | Jungermanniales | AAACCCT | strong | 6/18 | tidk 0.3.0 assembly |
+| *Herbertus stramineus* | Herbertaceae | Jungermanniales | AAACCCT | strong | 10/18 | tidk 0.3.0 assembly |
+| *Mesoptychia rutheana* | Jungermanniaceae | Jungermanniales | AAACCCT | strong | 34/36 | tidk 0.3.0 assembly |
+| *Bazzania pearsonii* | Lepidoziaceae | Jungermanniales | AAACCCT | strong | 5/18 | tidk 0.3.0 assembly |
+| *Bazzania tricrenata* | Lepidoziaceae | Jungermanniales | AAACCCT | weak | 4/20 | tidk 0.3.0 assembly |
+| *Bazzania trilobata* | Lepidoziaceae | Jungermanniales | AAACCCT | strong | 7/20 | tidk 0.3.0 assembly |
+| *Kurzia trichoclados* | Lepidoziaceae | Jungermanniales | AAACCCT | weak | 3/28 | tidk 0.3.0 assembly |
+| *Lepidozia cupressina* | Lepidoziaceae | Jungermanniales | AAACCCT | strong | 19/20 | tidk 0.3.0 assembly |
+| *Lepidozia reptans* | Lepidoziaceae | Jungermanniales | AAACCCT | weak | 4/20 | tidk 0.3.0 assembly |
+| *Tricholepidozia tetradactyla* | Lepidoziaceae | Jungermanniales | AAACCCT | strong | 17/20 | tidk 0.3.0 assembly |
+| *Lophozia ventricosa* | Lophoziaceae | Jungermanniales | AAACCCT | strong | 7/18 | tidk 0.3.0 assembly |
+| *Trilophozia quinquedentata* | Lophoziaceae | Jungermanniales | AAACCCT | strong | 15/18 | tidk 0.3.0 assembly |
+| *Mastigophora woodsii* | Mastigophoraceae | Jungermanniales | AAACCCT | strong | 16/18 | tidk 0.3.0 assembly |
+| *Plagiochila carringtonii* | Plagiochilaceae | Jungermanniales | AAACCCT | strong | 5/18 | tidk 0.3.0 assembly |
+| *Douinia ovata* | Scapaniaceae | Jungermanniales | AAACCCT | strong | 17/18 | tidk 0.3.0 assembly |
+| *Scapania compacta* | Scapaniaceae | Jungermanniales | AAACCCT | strong | 16/18 | tidk 0.3.0 assembly |
+| *Scapania gracilis* | Scapaniaceae | Jungermanniales | AAACCCT | strong | 16/18 | tidk 0.3.0 assembly |
+| *Scapania ornithopodioides* | Scapaniaceae | Jungermanniales | AAACCCT | strong | 13/18 | tidk 0.3.0 assembly |
+| *Scapania undulata* | Scapaniaceae | Jungermanniales | AAACCCT | strong | 13/18 | tidk 0.3.0 assembly |
+| *Southbya tophacea* | Southbyaceae | Jungermanniales | AAACCCT | strong | 17/26 | tidk 0.3.0 assembly |
+| *Pleurozia purpurea* | Pleuroziaceae | Pleuroziales | AAACCCT | strong | 17/18 | tidk 0.3.0 assembly |
+| *Porella arboris-vitae* | Porellaceae | Porellales | AAACCCT | strong | 12/16 | tidk 0.3.0 assembly |
+| *Ptilidium ciliare* | Ptilidiaceae | Ptilidiales | AAACCCT | strong | 14/16 | tidk 0.3.0 assembly |
+| *Radula complanata* | Radulaceae | Radulales | AAACCCT | strong | 15/32 | tidk 0.3.0 assembly |

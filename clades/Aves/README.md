@@ -1,14 +1,153 @@
 # Aves
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Accipiter gentilis* | Accipitridae | Accipitriformes | AACCCT | AACCCTAACCCT | assembly |
-| *Accipiter gentilis* | Accipitridae | Accipitriformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Caprimulgus europaeus* | Caprimulgidae | Caprimulgiformes | AACCCT | AACCCTAACCCT | assembly |
-| *Streptopelia turtur* | Columbidae | Columbiformes |  |  | assembly |
-| *Tetrao urogallus* | Phasianidae | Galliformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Cinclus cinclus* | Cinclidae | Passeriformes | AACCCT | AAGGG | pacbio |
-| *Fringilla coelebs* | Fringillidae | Passeriformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Erithacus rubecula* | Turdidae | Passeriformes | AAGGAAGG | AGAGG | assembly |
-| *Phaethon aethereus* | Phaethontidae | Pelecaniformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Calonectris borealis* | Procellariidae | Procellariiformes | AACCCT | CCCCC | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Accipiter nisus* | Accipitridae | Accipitriformes | AACCCT | weak | 13/88 | tidk 0.3.0 assembly |
+| *Aquila chrysaetos* | Accipitridae | Accipitriformes |  | not checked |  | tidk 0.2 assembly |
+| *Aquila chrysaetos* | Accipitridae | Accipitriformes | AGCCG | none | 0/66 | tidk 0.3.0 assembly |
+| *Aquila chrysaetos* | Accipitridae | Accipitriformes | AGCCG | none | 0/66 | tidk 0.3.0 assembly |
+| *Astur gentilis* | Accipitridae | Accipitriformes | AACCCT | not checked |  | tidk 0.2 assembly |
+| *Astur gentilis* | Accipitridae | Accipitriformes | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Astur gentilis* | Accipitridae | Accipitriformes | AACCCT | strong | 39/150 | tidk 0.3.0 assembly |
+| *Buteo buteo* | Accipitridae | Accipitriformes | AACCCT | strong | 35/82 | tidk 0.3.0 assembly |
+| *Circus cyaneus* | Accipitridae | Accipitriformes | AACCCT | strong | 62/72 | tidk 0.3.0 assembly |
+| *Haliaeetus albicilla* | Accipitridae | Accipitriformes | AACCCT | strong | 25/84 | tidk 0.3.0 assembly |
+| *Alopochen aegyptiaca* | Anatidae | Anseriformes | AACCCT | strong | 44/134 | tidk 0.3.0 assembly |
+| *Anas acuta* | Anatidae | Anseriformes | AACCCT | strong | 44/88 | tidk 0.3.0 assembly |
+| *Anas platyrhynchos* | Anatidae | Anseriformes | AACCCT | strong | 38/112 | tidk 0.3.0 assembly |
+| *Anser albifrons* | Anatidae | Anseriformes | AACCCT | weak | 24/126 | tidk 0.3.0 assembly |
+| *Anser anser* | Anatidae | Anseriformes | AACCCT | strong | 29/108 | tidk 0.3.0 assembly |
+| *Anser brachyrhynchus* | Anatidae | Anseriformes | AACCCT | weak | 12/90 | tidk 0.3.0 assembly |
+| *Anser erythropus* | Anatidae | Anseriformes | AACCCT | weak | 27/130 | tidk 0.3.0 assembly |
+| *Anser fabalis* | Anatidae | Anseriformes | AACCCT | weak | 12/114 | tidk 0.3.0 assembly |
+| *Aythya ferina* | Anatidae | Anseriformes | AACCCT | strong | 32/96 | tidk 0.3.0 assembly |
+| *Aythya fuligula* | Anatidae | Anseriformes | AACCCT | strong | 39/94 | tidk 0.3.0 assembly |
+| *Aythya marila* | Anatidae | Anseriformes | AACCCT | strong | 37/84 | tidk 0.3.0 assembly |
+| *Branta canadensis* | Anatidae | Anseriformes | AACCCT | strong | 32/120 | tidk 0.3.0 assembly |
+| *Branta leucopsis* | Anatidae | Anseriformes | AACCCT | weak | 28/152 | tidk 0.3.0 assembly |
+| *Bucephala clangula* | Anatidae | Anseriformes | AACCCT | strong | 45/94 | tidk 0.3.0 assembly |
+| *Clangula hyemalis* | Anatidae | Anseriformes | AACCCT | strong | 49/98 | tidk 0.3.0 assembly |
+| *Cygnus columbianus* | Anatidae | Anseriformes | AACCCT | strong | 46/124 | tidk 0.3.0 assembly |
+| *Cygnus cygnus* | Anatidae | Anseriformes | AACCCT | weak | 19/80 | tidk 0.3.0 assembly |
+| *Cygnus olor* | Anatidae | Anseriformes | AACCCT | strong | 35/126 | tidk 0.3.0 assembly |
+| *Mareca penelope* | Anatidae | Anseriformes | AACCCT | strong | 38/104 | tidk 0.3.0 assembly |
+| *Mareca strepera* | Anatidae | Anseriformes | AACCCT | strong | 41/130 | tidk 0.3.0 assembly |
+| *Mergellus albellus* | Anatidae | Anseriformes | AACCCT | strong | 34/106 | tidk 0.3.0 assembly |
+| *Mergus serrator* | Anatidae | Anseriformes | AACCCCT | weak | 14/102 | tidk 0.3.0 assembly |
+| *Netta rufina* | Anatidae | Anseriformes | AACCCT | strong | 37/78 | tidk 0.3.0 assembly |
+| *Somateria mollissima* | Anatidae | Anseriformes | AACCCT | strong | 59/86 | tidk 0.3.0 assembly |
+| *Spatula clypeata* | Anatidae | Anseriformes | AACCCT | strong | 30/118 | tidk 0.3.0 assembly |
+| *Tadorna tadorna* | Anatidae | Anseriformes | AACCCT | strong | 65/108 | tidk 0.3.0 assembly |
+| *Caprimulgus europaeus* | Caprimulgidae | Caprimulgiformes | AACCCT | strong | 68/94 | tidk 0.3.0 assembly |
+| *Charadrius hiaticula* | Charadriidae | Charadriiformes | AACCCT | weak | 18/86 | tidk 0.3.0 assembly |
+| *Vanellus vanellus* | Charadriidae | Charadriiformes | AACCCT | weak | 21/130 | tidk 0.3.0 assembly |
+| *Haematopus ostralegus* | Haematopodidae | Charadriiformes | AACCCT | strong | 30/82 | tidk 0.3.0 assembly |
+| *Chroicocephalus ridibundus* | Laridae | Charadriiformes | AACCCT | weak | 22/150 | tidk 0.3.0 assembly |
+| *Larus argentatus* | Laridae | Charadriiformes | AACCCT | strong | 39/98 | tidk 0.3.0 assembly |
+| *Larus canus* | Laridae | Charadriiformes | AACCCT | strong | 41/84 | tidk 0.3.0 assembly |
+| *Larus fuscus* | Laridae | Charadriiformes | AACCCT | weak | 13/92 | tidk 0.3.0 assembly |
+| *Larus glaucescens* | Laridae | Charadriiformes | AACCCT | strong | 21/76 | tidk 0.3.0 assembly |
+| *Larus hyperboreus* | Laridae | Charadriiformes | AACCCT | strong | 15/54 | tidk 0.3.0 assembly |
+| *Larus marinus* | Laridae | Charadriiformes | AACCCT | strong | 51/94 | tidk 0.3.0 assembly |
+| *Larus michahellis* | Laridae | Charadriiformes | AACCCT | weak | 33/134 | tidk 0.3.0 assembly |
+| *Larus occidentalis* | Laridae | Charadriiformes | AACCCT | weak | 25/104 | tidk 0.3.0 assembly |
+| *Sterna paradisaea* | Laridae | Charadriiformes | AACCCT | strong | 45/88 | tidk 0.3.0 assembly |
+| *Thalasseus sandvicensis* | Laridae | Charadriiformes | AACCCT | strong | 66/116 | tidk 0.3.0 assembly |
+| *Arenaria interpres* | Scolopacidae | Charadriiformes | AACCCT | strong | 82/96 | tidk 0.3.0 assembly |
+| *Calidris alba* | Scolopacidae | Charadriiformes | AACCCT | strong | 79/88 | tidk 0.3.0 assembly |
+| *Calidris alpina* | Scolopacidae | Charadriiformes | AACCCT | strong | 92/100 | tidk 0.3.0 assembly |
+| *Calidris canutus* | Scolopacidae | Charadriiformes | AACCCT | strong | 63/96 | tidk 0.3.0 assembly |
+| *Gallinago gallinago* | Scolopacidae | Charadriiformes | AACCCT | strong | 55/120 | tidk 0.3.0 assembly |
+| *Limosa lapponica* | Scolopacidae | Charadriiformes | AACCCT | strong | 50/98 | tidk 0.3.0 assembly |
+| *Limosa limosa* | Scolopacidae | Charadriiformes | AACCCT | strong | 39/100 | tidk 0.3.0 assembly |
+| *Numenius arquata* | Scolopacidae | Charadriiformes | AACCCT | strong | 32/106 | tidk 0.3.0 assembly |
+| *Tringa totanus* | Scolopacidae | Charadriiformes | AACCCT | weak | 20/100 | tidk 0.3.0 assembly |
+| *Ciconia ciconia* | Ciconiidae | Ciconiiformes | AACCCT | strong | 26/80 | tidk 0.3.0 assembly |
+| *Ciconia episcopus* | Ciconiidae | Ciconiiformes | AACCCT | strong | 47/74 | tidk 0.3.0 assembly |
+| *Columba oenas* | Columbidae | Columbiformes | AACCCT | strong | 49/144 | tidk 0.3.0 assembly |
+| *Columba palumbus* | Columbidae | Columbiformes | AACCCT | weak | 33/208 | tidk 0.3.0 assembly |
+| *Streptopelia decaocto* | Columbidae | Columbiformes | AACCCT | strong | 25/92 | tidk 0.3.0 assembly |
+| *Streptopelia turtur* | Columbidae | Columbiformes | AACCCT | weak | 1/64 | tidk 0.3.0 assembly |
+| *Alcedo atthis* | Alcedinidae | Coraciiformes | AACCCT | strong | 56/190 | tidk 0.3.0 assembly |
+| *Falco peregrinus* | Falconidae | Falconiformes | AACCCT | strong | 21/72 | tidk 0.3.0 assembly |
+| *Falco punctatus* | Falconidae | Falconiformes | AACCCT | strong | 33/56 | tidk 0.3.0 assembly |
+| *Falco tinnunculus* | Falconidae | Falconiformes | AACCCT | weak | 5/80 | tidk 0.3.0 assembly |
+| *Alectoris rufa* | Phasianidae | Galliformes | AACCCT | strong | 62/84 | tidk 0.3.0 assembly |
+| *Perdix perdix* | Phasianidae | Galliformes | AACCCT | strong | 55/170 | tidk 0.3.0 assembly |
+| *Phasianus colchicus* | Phasianidae | Galliformes | AACCCT | strong | 62/94 | tidk 0.3.0 assembly |
+| *Tetrao urogallus* | Phasianidae | Galliformes | AACCCT | weak | 13/64 | tidk 0.3.0 assembly |
+| *Grus grus* | Gruidae | Gruiformes | AACCCT | strong | 35/92 | tidk 0.3.0 assembly |
+| *Crex crex* | Rallidae | Gruiformes | AACCCT | strong | 76/80 | tidk 0.3.0 assembly |
+| *Gallinula chloropus* | Rallidae | Gruiformes | AACCCT | weak | 18/84 | tidk 0.3.0 assembly |
+| *Rallus aquaticus* | Rallidae | Gruiformes | AACCCT | weak | 14/72 | tidk 0.3.0 assembly |
+| *Otis tarda* | Otididae | Otidiformes | AACCCT | strong | 43/82 | tidk 0.3.0 assembly |
+| *Aegithalos caudatus* | Aegithalidae | Passeriformes | AACCCT | weak | 18/100 | tidk 0.3.0 assembly |
+| *Alauda arvensis* | Alaudidae | Passeriformes | AACCCT | strong | 80/82 | tidk 0.3.0 assembly |
+| *Lullula arborea* | Alaudidae | Passeriformes | AACCCT | strong | 73/82 | tidk 0.3.0 assembly |
+| *Certhia familiaris* | Certhiidae | Passeriformes | AACCCT | strong | 24/82 | tidk 0.3.0 assembly |
+| *Troglodytes troglodytes* | Certhiidae | Passeriformes | AACCCT | strong | 63/102 | tidk 0.3.0 assembly |
+| *Cinclus cinclus* | Cinclidae | Passeriformes | AACCCT | weak | 19/102 | tidk 0.3.0 assembly |
+| *Coloeus monedula* | Corvidae | Passeriformes | AACCCT | weak | 8/100 | tidk 0.3.0 assembly |
+| *Corvus corax* | Corvidae | Passeriformes | AACCCT | strong | 38/116 | tidk 0.3.0 assembly |
+| *Corvus corone* | Corvidae | Passeriformes | AACCCT | strong | 42/132 | tidk 0.3.0 assembly |
+| *Corvus frugilegus* | Corvidae | Passeriformes | AACCCT | strong | 56/92 | tidk 0.3.0 assembly |
+| *Garrulus glandarius* | Corvidae | Passeriformes | AACCCT | strong | 60/102 | tidk 0.3.0 assembly |
+| *Pica pica* | Corvidae | Passeriformes | AACCCT | strong | 64/122 | tidk 0.3.0 assembly |
+| *Pyrrhocorax pyrrhocorax* | Corvidae | Passeriformes | AACCCT | strong | 63/78 | tidk 0.3.0 assembly |
+| *Acanthis cabaret* | Fringillidae | Passeriformes | AACCCT | strong | 64/88 | tidk 0.3.0 assembly |
+| *Acanthis flammea* | Fringillidae | Passeriformes | AACCCT | strong | 74/84 | tidk 0.3.0 assembly |
+| *Carduelis carduelis* | Fringillidae | Passeriformes | AACCCT | strong | 58/104 | tidk 0.3.0 assembly |
+| *Chloris chloris* | Fringillidae | Passeriformes | AACCCT | strong | 78/82 | tidk 0.3.0 assembly |
+| *Emberiza calandra* | Fringillidae | Passeriformes | AACCCT | weak | 25/118 | tidk 0.3.0 assembly |
+| *Emberiza citrinella* | Fringillidae | Passeriformes | AACCCT | strong | 42/130 | tidk 0.3.0 assembly |
+| *Fringilla coelebs* | Fringillidae | Passeriformes | AACCCT | strong | 32/120 | tidk 0.3.0 assembly |
+| *Fringilla montifringilla* | Fringillidae | Passeriformes | AACCCT | strong | 78/84 | tidk 0.3.0 assembly |
+| *Linaria cannabina* | Fringillidae | Passeriformes | AACCCT | strong | 50/84 | tidk 0.3.0 assembly |
+| *Pyrrhula pyrrhula* | Fringillidae | Passeriformes | AACCCT | strong | 75/94 | tidk 0.3.0 assembly |
+| *Spinus spinus* | Fringillidae | Passeriformes | AACCCT | strong | 80/84 | tidk 0.3.0 assembly |
+| *Delichon urbicum* | Hirundinidae | Passeriformes | AACCCT | strong | 47/90 | tidk 0.3.0 assembly |
+| *Riparia riparia* | Hirundinidae | Passeriformes | AACCCT | strong | 60/186 | tidk 0.3.0 assembly |
+| *Leiothrix argentauris* | Leiothrichidae | Passeriformes | AACCCT | strong | 66/124 | tidk 0.3.0 assembly |
+| *Anthus petrosus* | Motacillidae | Passeriformes | AACCCT | strong | 72/218 | tidk 0.3.0 assembly |
+| *Anthus pratensis* | Motacillidae | Passeriformes | AACCCT | strong | 62/132 | tidk 0.3.0 assembly |
+| *Anthus trivialis* | Motacillidae | Passeriformes | AACCCT | strong | 78/80 | tidk 0.3.0 assembly |
+| *Motacilla cinerea* | Motacillidae | Passeriformes | AACCCT | strong | 72/82 | tidk 0.3.0 assembly |
+| *Motacilla flava* | Motacillidae | Passeriformes | AACCCT | strong | 80/82 | tidk 0.3.0 assembly |
+| *Ficedula hypoleuca* | Muscicapidae | Passeriformes | AAACTTCCCTTCCCTG | strong | 59/236 | tidk 0.3.0 assembly |
+| *Muscicapa striata* | Muscicapidae | Passeriformes | AACCCT | strong | 75/140 | tidk 0.3.0 assembly |
+| *Oenanthe oenanthe* | Muscicapidae | Passeriformes | AACCCT | strong | 72/106 | tidk 0.3.0 assembly |
+| *Phoenicurus phoenicurus* | Muscicapidae | Passeriformes | AACCCT | strong | 58/174 | tidk 0.3.0 assembly |
+| *Cyanistes caeruleus* | Paridae | Passeriformes | AACCCT | strong | 48/126 | tidk 0.3.0 assembly |
+| *Poecile palustris* | Paridae | Passeriformes | AACCCT | strong | 67/92 | tidk 0.3.0 assembly |
+| *Phylloscopus collybita* | Phylloscopidae | Passeriformes | AACCCT | strong | 66/92 | tidk 0.3.0 assembly |
+| *Phylloscopus proregulus* | Phylloscopidae | Passeriformes | AACCCT | strong | 35/86 | tidk 0.3.0 assembly |
+| *Phylloscopus trochilus* | Phylloscopidae | Passeriformes | AACCCT | strong | 75/86 | tidk 0.3.0 assembly |
+| *Prunella modularis* | Prunellidae | Passeriformes | AACCCT | weak | 33/146 | tidk 0.3.0 assembly |
+| *Pycnonotus jocosus* | Pycnonotidae | Passeriformes | AACCCT | strong | 59/122 | tidk 0.3.0 assembly |
+| *Regulus ignicapilla* | Regulidae | Passeriformes | AACCCT | strong | 69/94 | tidk 0.3.0 assembly |
+| *Regulus regulus* | Regulidae | Passeriformes | AACCCT | strong | 60/94 | tidk 0.3.0 assembly |
+| *Sturnus vulgaris* | Sturnidae | Passeriformes | AACCCT | weak | 18/158 | tidk 0.3.0 assembly |
+| *Acrocephalus schoenobaenus* | Sylviidae | Passeriformes | AACCCT | strong | 37/82 | tidk 0.3.0 assembly |
+| *Cettia cetti* | Sylviidae | Passeriformes | AACCCT | strong | 33/106 | tidk 0.3.0 assembly |
+| *Curruca communis* | Sylviidae | Passeriformes | AACCCT | strong | 78/82 | tidk 0.3.0 assembly |
+| *Erithacus rubecula* | Turdidae | Passeriformes | AACCCT | weak | 2/82 | tidk 0.3.0 assembly |
+| *Geokichla citrina* | Turdidae | Passeriformes | AACCCT | weak | 34/174 | tidk 0.3.0 assembly |
+| *Ardea cinerea* | Ardeidae | Pelecaniformes | AACCCT | strong | 52/66 | tidk 0.3.0 assembly |
+| *Eudocimus ruber* | Threskiornithidae | Pelecaniformes | AACCCT | strong | 26/70 | tidk 0.3.0 assembly |
+| *Geronticus eremita* | Threskiornithidae | Pelecaniformes | AACCCT | strong | 51/70 | tidk 0.3.0 assembly |
+| *Platalea leucorodia* | Threskiornithidae | Pelecaniformes | AACCCT | strong | 29/72 | tidk 0.3.0 assembly |
+| *Threskiornis aethiopicus* | Threskiornithidae | Pelecaniformes | AACCCT | strong | 49/102 | tidk 0.3.0 assembly |
+| *Phaethon aethereus* | Phaethontidae | Phaethontiformes | AACCCT | weak | 11/76 | tidk 0.3.0 assembly |
+| *Dendrocopos major* | Picidae | Piciformes | AACCCT | strong | 51/122 | tidk 0.3.0 assembly |
+| *Tachybaptus ruficollis* | Podicipedidae | Podicipediformes | AACCCT | weak | 27/114 | tidk 0.3.0 assembly |
+| *Calonectris borealis* | Procellariidae | Procellariiformes | AACCCT | strong | 53/100 | tidk 0.3.0 assembly |
+| *Puffinus puffinus* | Procellariidae | Procellariiformes | AACCCT | strong | 62/88 | tidk 0.3.0 assembly |
+| *Agapornis nigrigenis* | Psittacidae | Psittaciformes | AACCCT | strong | 19/66 | tidk 0.3.0 assembly |
+| *Ara militaris* | Psittacidae | Psittaciformes | AACCCT | strong | 50/82 | tidk 0.3.0 assembly |
+| *Psittacula krameri* | Psittacidae | Psittaciformes | AACCCT | strong | 60/88 | tidk 0.3.0 assembly |
+| *Athene noctua* | Strigidae | Strigiformes | AACCCT | strong | 24/92 | tidk 0.3.0 assembly |
+| *Strix aluco* | Strigidae | Strigiformes | AACCCT | strong | 28/94 | tidk 0.3.0 assembly |
+| *Tyto alba* | Tytonidae | Strigiformes | AACGGCCGAGGGGGCGGGGCT | weak | 48/234 | tidk 0.3.0 assembly |
+| *Phalacrocorax aristotelis* | Phalacrocoracidae | Suliformes | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Phalacrocorax aristotelis* | Phalacrocoracidae | Suliformes | AACCCT | strong | 40/106 | tidk 0.3.0 assembly |
+| *Phalacrocorax carbo* | Phalacrocoracidae | Suliformes | AACCCT | strong | 30/78 | tidk 0.3.0 assembly |
