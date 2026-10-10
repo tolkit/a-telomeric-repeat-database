@@ -1,0 +1,4 @@
+[warn] ToLID/group mismatch: protists/Isochrysis_galbana uses uhIsoGalb1.1 (group usually 'p'); check it is not misfiled
+[info] 3422 species selected; rules: {'release_reference': 3196, 'newest_curated_no_reference': 186, 'newer_curation_than_reference': 39, 'newest_curated_reference_unresolved': 1}
+[info] file kinds: {'primary': 1892, 'hap1': 1400, 'hap2': 99, 'legacy_curated_primary': 27, 'paternal': 1, 'hap8': 1, 'hap4': 1, 'maternal': 1}
+[info] 103 without a usable host assembly: {'host_curation_not_finalised': 67, 'symbiont_only': 35, 'organelle_only': 1}
