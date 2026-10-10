@@ -1,2 +1,9 @@
 /data/taxdmp
 /src/analyses/gotree_amd64_darwin
+__pycache__/
+
+# tol_run: raw tidk outputs stay on disk (see tol_run/README.md)
+tol_run/bin/
+tol_run/outputs/explore/
+tol_run/outputs/ends/
+tol_run/outputs/logs/

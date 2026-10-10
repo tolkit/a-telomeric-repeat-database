@@ -179,3 +179,34 @@ for key in my_dict:
 	print(key + "/" +  my_dict[key][0])
 ```
 
+
+## tidk 0.3.0, Tree of Life-wide (2026-10-08)
+
+`src/import_tidk_v03.py` imports the ToL-wide tidk 0.3.0 run
+(`/lustre/scratch122/tol/teams/blaxter/users/mb39/tol_telomeres`: one
+curated assembly per Darwin species, 3,422 species) with NCBI taxonomy
+(`/data/tol/resources/taxonomy/2026-10-03`), into `data/tidk_v0.3/`:
+
+- `telo_calls.tsv`: one row per species. The telomere call is the
+  candidate found at the most chromosome ends, of the top 5 explore units
+  and the known telomeric units (`known_telomere_units.tsv`;
+  `telomere_source` says which), with how many ends it is at (`support`:
+  strong >= 25% of ends, weak, none).
+- `comparison.tsv`: species also in the tidk 0.2 table or the curated list,
+  and whether the calls agree (same / compound / different).
+
+Unlike the 0.2 entries, which are the most abundant repeat in the assembly
+or reads, the 0.3.0 calls are checked at chromosome ends. Where they differ
+and the 0.3.0 call is strong, the 0.2 entry is usually a satellite (e.g.
+Nebria AAATAACT, now AACCT). Where they differ and it is weak or none, the
+0.2 entry was sometimes the real telomere ranked just below the top 5
+explore units (Bufo, Scyliorhinus: AACCCT at rank 6), which is why the
+known units are checked too; others (Arvicola) have no telomere at any
+assembled chromosome end.
+
+`src/make_database_v2.py` then builds `data/telo_database_v2.tsv` (the
+0.3.0 calls, plus the 0.2 entries, marked "not checked", for species the
+0.3.0 run doesn't cover), `README.md` and the `clades` tables. Taxonomy is
+NCBI's throughout, so a few classes have new names (Hexanauplia ->
+Thecostraca, Saccharomycetes -> Pichiomycetes, ...). `update.bash` runs
+both; the 0.2 pipeline above is kept for reference but no longer run.

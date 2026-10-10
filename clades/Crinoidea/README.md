@@ -1,5 +1,5 @@
 # Crinoidea
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Antedon bifida* | Antedonidae | Comatulida | AACCCT | AACAAC | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Antedon bifida* | Antedonidae | Comatulida | AACCCT | strong | 19/22 | tidk 0.3.0 assembly |

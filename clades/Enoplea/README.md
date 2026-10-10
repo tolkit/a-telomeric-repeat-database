@@ -1,5 +1,5 @@
 # Enoplea
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Dioctophyme renale* | Dioctophymatidae | Dioctophymatida | ACGATG | ATCATC | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Dioctophyme renale* | Dioctophymatidae | Dioctophymatida | ACGATG | not checked |  | tidk 0.2 pacbio |

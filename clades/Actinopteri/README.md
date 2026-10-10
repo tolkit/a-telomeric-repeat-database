@@ -1,38 +1,73 @@
 # Actinopteri
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Conger conger* | Congridae | Anguilliformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Telmatherina bonti* | Telmatherinidae | Atheriniformes | ACCAG | AACCCT | pacbio |
-| *Lipophrys pholis* | Blenniidae | Blenniiformes | AGATAGAT | AACCCT | pacbio |
-| *Trachurus trachurus* | Carangidae | Carangiformes | AAAAA | AACCCT | assembly |
-| *Trachurus trachurus* | Carangidae | Carangiformes |  |  | pacbio |
-| *Barbus barbus* | Cyprinidae | Cypriniformes | AACCCT | AACCCTAACCCT | assembly |
-| *Barbus barbus* | Cyprinidae | Cypriniformes | AACCCT | ACACAC | pacbio |
-| *Carassius carassius* | Cyprinidae | Cypriniformes | AGATAGAT | AACCCT | pacbio |
-| *Danio rerio* | Danionidae | Cypriniformes | AACCCT | AGATAGAT | pacbio |
-| *Gobio gobio* | Gobionidae | Cypriniformes | AACCCT | AGATAGAT | pacbio |
-| *Phoxinus phoxinus* | Leuciscidae | Cypriniformes | AACCCT | AATGC | pacbio |
-| *Rutilus rutilus* | Leuciscidae | Cypriniformes | AACCCT | AGATAGAT | pacbio |
-| *Squalius cephalus* | Leuciscidae | Cypriniformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Barbatula barbatula* | Nemacheilidae | Cypriniformes | AACCCT | AACCCTAACCCT | assembly |
-| *Barbatula barbatula* | Nemacheilidae | Cypriniformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Ciliata mustela* | Lotidae | Gadiformes | AGATAGATAGAT | AACCCT | pacbio |
-| *Symphodus melops* | Labridae | Labriformes | AACCCT | AACCCTAACCCT | assembly |
-| *Symphodus melops* | Labridae | Labriformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Taurulus bubalis* | Cottidae | Perciformes | AACCCT | AACCCTAACCCT | assembly |
-| *Taurulus bubalis* | Cottidae | Perciformes | AACCCT | ACACAC | pacbio |
-| *Gasterosteus aculeatus* | Gasterosteidae | Perciformes | AGATAGAT | AACCCT | pacbio |
-| *Pholis gunnellus* | Pholidae | Perciformes | AACCCT | AACCCTAACCCT | assembly |
-| *Pholis gunnellus* | Pholidae | Perciformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Pleuronectes platessa* | Pleuronectidae | Pleuronectiformes | AACCCT | AACCCTAACCCT | assembly |
-| *Pleuronectes platessa* | Pleuronectidae | Pleuronectiformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Microchirus variegatus* | Soleidae | Pleuronectiformes | AGATAGAT | ACTAT | pacbio |
-| *Coregonus lavaretus* | Salmonidae | Salmoniformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Salmo trutta* | Salmonidae | Salmoniformes | ACACAC | AACCCT | assembly |
-| *Salmo trutta* | Salmonidae | Salmoniformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Thunnus albacares* | Scombridae | Scombriformes | AACCCT | ACACAC | pacbio |
-| *Nerophis lumbriciformis* | Syngnathidae | Syngnathiformes | AGATAGAT | AACCCT | pacbio |
-| *Syngnathus acus* | Syngnathidae | Syngnathiformes | AACCCT | AACCCTAACCCT | assembly |
-| *Syngnathus acus* | Syngnathidae | Syngnathiformes | AACCCT | AACCCTAACCCT | pacbio |
-| *Hyperoplus immaculatus* | Ammodytidae | Uranoscopiformes | AACCCT | AACCCTAACCCT | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Conger conger* | Congridae | Anguilliformes | AACCCT | weak | 11/46 | tidk 0.3.0 assembly |
+| *Nansenia antarctica* | Microstomatidae | Argentiniformes | AACCCT | strong | 17/52 | tidk 0.3.0 assembly |
+| *Telmatherina bonti* | Telmatherinidae | Atheriniformes | ACCAG | not checked |  | tidk 0.2 pacbio |
+| *Bathysaurus mollis* | Bathysauridae | Aulopiformes | AACCCT | strong | 21/50 | tidk 0.3.0 assembly |
+| *Notolepis coatsorum* | Paralepididae | Aulopiformes | ACAG | weak | 1/80 | tidk 0.3.0 assembly |
+| *Poromitra crassiceps* | Melamphaidae | Beryciformes | AACCCT | weak | 4/94 | tidk 0.3.0 assembly |
+| *Blennius ocellaris* | Blenniidae | Blenniiformes | AACCCT | weak | 6/66 | tidk 0.3.0 assembly |
+| *Lipophrys pholis* | Blenniidae | Blenniiformes | AACCCT | strong | 17/56 | tidk 0.3.0 assembly |
+| *Diplecogaster bimaculata* | Gobiesocidae | Blenniiformes | AAAAACACACAAAATGACTCC | weak | 3/90 | tidk 0.3.0 assembly |
+| *Trachurus trachurus* | Carangidae | Carangiformes | AACCCT | weak | 4/48 | tidk 0.3.0 assembly |
+| *Sardina pilchardus* | Clupeidae | Clupeiformes | AACCCT | strong | 18/48 | tidk 0.3.0 assembly |
+| *Sprattus sprattus* | Clupeidae | Clupeiformes | AACCCT | strong | 19/42 | tidk 0.3.0 assembly |
+| *Cobitis taenia* | Cobitidae | Cypriniformes | AACCCT | weak | 9/64 | tidk 0.3.0 assembly |
+| *Barbus barbus* | Cyprinidae | Cypriniformes | AACCCT | strong | 25/100 | tidk 0.3.0 assembly |
+| *Carassius carassius* | Cyprinidae | Cypriniformes | AACCCT | strong | 30/110 | tidk 0.3.0 assembly |
+| *Danio rerio* | Danionidae | Cypriniformes | AACCCT | strong | 28/50 | tidk 0.3.0 assembly |
+| *Gobio gobio* | Gobionidae | Cypriniformes | AACCCT | weak | 5/50 | tidk 0.3.0 assembly |
+| *Abramis brama* | Leuciscidae | Cypriniformes | AACCCT | strong | 24/50 | tidk 0.3.0 assembly |
+| *Leuciscus leuciscus* | Leuciscidae | Cypriniformes | AACCCT | weak | 7/54 | tidk 0.3.0 assembly |
+| *Phoxinus phoxinus* | Leuciscidae | Cypriniformes | AACCCT | strong | 33/50 | tidk 0.3.0 assembly |
+| *Pimephales promelas* | Leuciscidae | Cypriniformes | AACCCT | strong | 45/50 | tidk 0.3.0 assembly |
+| *Rutilus rutilus* | Leuciscidae | Cypriniformes | AACCCT | strong | 30/50 | tidk 0.3.0 assembly |
+| *Scardinius erythrophthalmus* | Leuciscidae | Cypriniformes | AACCCT | strong | 23/56 | tidk 0.3.0 assembly |
+| *Squalius cephalus* | Leuciscidae | Cypriniformes | AACCCT | strong | 29/54 | tidk 0.3.0 assembly |
+| *Barbatula barbatula* | Nemacheilidae | Cypriniformes | AACCCT | strong | 15/50 | tidk 0.3.0 assembly |
+| *Micromesistius poutassou* | Gadidae | Gadiformes | AACCCT | weak | 9/50 | tidk 0.3.0 assembly |
+| *Pollachius pollachius* | Gadidae | Gadiformes | AACCCT | weak | 7/40 | tidk 0.3.0 assembly |
+| *Trisopterus luscus* | Gadidae | Gadiformes | AACCCT | strong | 16/54 | tidk 0.3.0 assembly |
+| *Gaidropsarus vulgaris* | Gaidropsaridae | Gadiformes | AACCCT | weak | 15/70 | tidk 0.3.0 assembly |
+| *Ciliata mustela* | Lotidae | Gadiformes | AACCCT | strong | 31/32 | tidk 0.3.0 assembly |
+| *Gobius niger* | Gobiidae | Gobiiformes | AACCCT | strong | 25/48 | tidk 0.3.0 assembly |
+| *Gobius paganellus* | Gobiidae | Gobiiformes | AACCCT | strong | 20/48 | tidk 0.3.0 assembly |
+| *Labrus bergylta* | Labridae | Labriformes | AACCCT | strong | 20/48 | tidk 0.3.0 assembly |
+| *Labrus mixtus* | Labridae | Labriformes | AACCCT | weak | 10/60 | tidk 0.3.0 assembly |
+| *Symphodus melops* | Labridae | Labriformes | AACCCT | strong | 13/46 | tidk 0.3.0 assembly |
+| *Chelon labrosus* | Mugilidae | Mugiliformes | AACCCT | weak | 7/50 | tidk 0.3.0 assembly |
+| *Electrona antarctica* | Myctophidae | Myctophiformes | AGAT | weak | 1/64 | tidk 0.3.0 assembly |
+| *Osmerus eperlanus* | Osmeridae | Osmeriformes | AACCCT | weak | 13/56 | tidk 0.3.0 assembly |
+| *Taurulus bubalis* | Cottidae | Perciformes | AACCCT | strong | 28/42 | tidk 0.3.0 assembly |
+| *Cyclopterus lumpus* | Cyclopteridae | Perciformes | AACCCT | strong | 19/50 | tidk 0.3.0 assembly |
+| *Gasterosteus aculeatus* | Gasterosteidae | Perciformes | AACCCT | strong | 17/46 | tidk 0.3.0 assembly |
+| *Pungitius pungitius* | Gasterosteidae | Perciformes | AACCCT | strong | 21/48 | tidk 0.3.0 assembly |
+| *Pholis gunnellus* | Pholidae | Perciformes | AACCCT | strong | 20/48 | tidk 0.3.0 assembly |
+| *Sebastes mentella* | Sebastidae | Perciformes | AACCCT | strong | 31/50 | tidk 0.3.0 assembly |
+| *Echiichthys vipera* | Trachinidae | Perciformes | AACCCT | weak | 6/50 | tidk 0.3.0 assembly |
+| *Chelidonichthys cuculus* | Triglidae | Perciformes | AACCCT | weak | 8/48 | tidk 0.3.0 assembly |
+| *Chelidonichthys lucerna* | Triglidae | Perciformes | AACCCT | strong | 16/50 | tidk 0.3.0 assembly |
+| *Eutrigla gurnardus* | Triglidae | Perciformes | AACCCT | weak | 4/60 | tidk 0.3.0 assembly |
+| *Trigloporus lastoviza* | Triglidae | Perciformes | AACCCT | strong | 32/48 | tidk 0.3.0 assembly |
+| *Limanda limanda* | Pleuronectidae | Pleuronectiformes | AACCCT | weak | 13/66 | tidk 0.3.0 assembly |
+| *Microstomus kitt* | Pleuronectidae | Pleuronectiformes | AACCCT | strong | 17/66 | tidk 0.3.0 assembly |
+| *Platichthys flesus* | Pleuronectidae | Pleuronectiformes | AACCCT | weak | 11/48 | tidk 0.3.0 assembly |
+| *Pleuronectes platessa* | Pleuronectidae | Pleuronectiformes | AACCCT | weak | 15/76 | tidk 0.3.0 assembly |
+| *Scophthalmus maximus* | Scophthalmidae | Pleuronectiformes | AACCCT | strong | 21/44 | tidk 0.3.0 assembly |
+| *Buglossidium luteum* | Soleidae | Pleuronectiformes | AACCCT | weak | 10/74 | tidk 0.3.0 assembly |
+| *Microchirus variegatus* | Soleidae | Pleuronectiformes | AACCCT | strong | 22/58 | tidk 0.3.0 assembly |
+| *Cepola macrophthalma* | Cepolidae (in: ray-finned fishes) | Priacanthiformes | AACCCT | weak | 17/88 | tidk 0.3.0 assembly |
+| *Coregonus lavaretus* | Salmonidae | Salmoniformes | AACCCT | weak | 11/136 | tidk 0.3.0 assembly |
+| *Salmo trutta* | Salmonidae | Salmoniformes | AACCCT | weak | 9/138 | tidk 0.3.0 assembly |
+| *Scomber scombrus* | Scombridae | Scombriformes | AACCCT | weak | 6/48 | tidk 0.3.0 assembly |
+| *Thunnus albacares* | Scombridae | Scombriformes | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Pagrus pagrus* | Sparidae | Spariformes | AACCCT | weak | 11/48 | tidk 0.3.0 assembly |
+| *Borostomias antarcticus* | Stomiidae | Stomiiformes | AACCCT | weak | 19/124 | tidk 0.3.0 assembly |
+| *Callionymus lyra* | Callionymidae | Syngnathiformes | AACCCT | strong | 14/40 | tidk 0.3.0 assembly |
+| *Mullus surmuletus* | Mullidae | Syngnathiformes | AACCCT | strong | 32/44 | tidk 0.3.0 assembly |
+| *Nerophis lumbriciformis* | Syngnathidae | Syngnathiformes | AGATAGAT | not checked |  | tidk 0.2 pacbio |
+| *Syngnathus acus* | Syngnathidae | Syngnathiformes | AACCCT | strong | 11/44 | tidk 0.3.0 assembly |
+| *Hyperoplus immaculatus* | Ammodytidae | Uranoscopiformes | AACCCT | weak | 1/48 | tidk 0.3.0 assembly |
+| *Zeus faber* | Zeidae | Zeiformes | AACCCT | weak | 12/52 | tidk 0.3.0 assembly |

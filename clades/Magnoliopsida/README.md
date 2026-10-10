@@ -1,336 +1,681 @@
 # Magnoliopsida
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Alisma plantago-aquatica* | Alismataceae | Alismatales | ATCATC | AAACCCT | pacbio |
-| *Aponogeton distachyos* | Aponogetonaceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Arum italicum* | Araceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Arum maculatum* | Araceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lemna minuta* | Araceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lemna trisulca* | Araceae | Alismatales | AAACCCT | AACAT | pacbio |
-| *Butomus umbellatus* | Butomaceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Ruppia maritima* | Cymodoceaceae | Alismatales | AAACCCT | ACATACAT | pacbio |
-| *Stratiotes aloides* | Hydrocharitaceae | Alismatales | AACCGAGCCCAT | AACCGAGCCCATAACCGAGCCCAT | pacbio |
-| *Triglochin maritima* | Juncaginaceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Triglochin palustris* | Juncaginaceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Potamogeton natans* | Potamogetonaceae | Alismatales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Angelica archangelica* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Angelica sylvestris* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Anthriscus sylvestris* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Conopodium majus* | Apiaceae | Apiales | AAACCCT | AACCCTG | pacbio |
-| *Daucus carota* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Helosciadium nodiflorum* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Heracleum sphondylium* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Ligusticum scoticum* | Apiaceae | Apiales |  |  | pacbio |
-| *Smyrnium perfoliatum* | Apiaceae | Apiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Hedera helix* | Araliaceae | Apiales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Hedera helix* | Araliaceae | Apiales | AAACCCT | AATAAT | pacbio |
-| *Ilex aquifolium* | Aquifoliaceae | Aquifoliales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Allium ampeloprasum* | Amaryllidaceae | Asparagales |  |  | pacbio |
-| *Allium triquetrum* | Amaryllidaceae | Asparagales | AACCGAGCCCAT | AACCGAGCCCATAACCGAGCCCAT | pacbio |
-| *Allium vineale* | Amaryllidaceae | Asparagales | AACCGAGCCCAT |  | pacbio |
-| *Narcissus pseudonarcissus* | Amaryllidaceae | Asparagales | AACCCT | AACCCTAACCCT | pacbio |
-| *Hyacinthoides non-scripta* | Hyacinthaceae | Asparagales |  |  | pacbio |
-| *Scilla verna* | Hyacinthaceae | Asparagales | AAACCCT | AACCCT | pacbio |
-| *Iris foetidissima* | Iridaceae | Asparagales | AACCCT | AACCCTAACCCT | pacbio |
-| *Iris pseudacorus* | Iridaceae | Asparagales | AACCCT | AACCCTAACCCT | pacbio |
-| *Cephalanthera longifolia* | Orchidaceae | Asparagales |  |  | pacbio |
-| *Dactylorhiza maculata* | Orchidaceae | Asparagales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Epipactis palustris* | Orchidaceae | Asparagales | AAACCCT |  | pacbio |
-| *Epipactis purpurata* | Orchidaceae | Asparagales |  |  | pacbio |
-| *Ophrys apifera* | Orchidaceae | Asparagales | ACCAGT | ACGCACGC | pacbio |
-| *Achillea millefolium* | Asteraceae | Asterales | AAACCCT | AGATAGAT | pacbio |
-| *Achillea ptarmica* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Arctium minus* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Artemisia maritima* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Artemisia vulgaris* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Bellis perennis* | Asteraceae | Asterales | AAACCCT | AGATAGAT | pacbio |
-| *Centaurea nigra* | Asteraceae | Asterales |  |  | pacbio |
-| *Chamaemelum nobile* | Asteraceae | Asterales | AAACCCT | ATATAT | pacbio |
-| *Cicerbita muralis* | Asteraceae | Asterales | ACATACAT | AAACCCT | pacbio |
-| *Filago vulgaris* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Helminthotheca echioides* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Hypochaeris maculata* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Hypochaeris radicata* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Inula conyza* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Leontodon hispidus* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Petasites fragrans* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Petasites japonicus* | Asteraceae | Asterales | AATGATG | AATGATGAATGATG | pacbio |
-| *Pulicaria dysenterica* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Pulicaria dysenterica* | Asteraceae | Asterales | AACAAC | AAACCCT | pacbio |
-| *Scorzoneroides autumnalis* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Senecio squalidus* | Asteraceae | Asterales | AAACCCT |  | assembly |
-| *Senecio vulgaris* | Asteraceae | Asterales | AAACCCT | AATAAT | pacbio |
-| *Sonchus arvensis* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Sonchus asper* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Tanacetum vulgare* | Asteraceae | Asterales | AAACCCT | ATATAT | pacbio |
-| *Tripleurospermum maritimum* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Tripolium pannonicum* | Asteraceae | Asterales | AGATAGAT | AACGAT | pacbio |
-| *Tussilago farfara* | Asteraceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Campanula glomerata* | Campanulaceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Jasione montana* | Campanulaceae | Asterales | AACCCTG | AACCCCTG | pacbio |
-| *Phyteuma orbiculare* | Campanulaceae | Asterales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Nymphoides peltata* | Menyanthaceae | Asterales | AAACCCT |  | pacbio |
-| *Borago officinalis* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Echium vulgare* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Myosotis scorpioides* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Pentaglottis sempervirens* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Symphytum officinale* | Boraginaceae | Boraginales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Arabidopsis thaliana* | Brassicaceae | Brassicales | AAACCCT | AACCT | pacbio |
-| *Brassica oleracea* | Brassicaceae | Brassicales |  |  | pacbio |
-| *Cakile maritima* | Brassicaceae | Brassicales | AAACCCT | ACAGACT | pacbio |
-| *Cochlearia danica* | Brassicaceae | Brassicales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lepidium draba* | Brassicaceae | Brassicales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Raphanus raphanistrum* | Brassicaceae | Brassicales | AAACCCT |  | pacbio |
-| *Sisymbrium officinale* | Brassicaceae | Brassicales | AAACCCT | AACCCT | pacbio |
-| *Buxus sempervirens* | Buxaceae | Buxales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Buxus sempervirens* | Buxaceae | Buxales | AAACCCT | CCCCC | pacbio |
-| *Agrostemma githago* | Caryophyllaceae | Caryophyllales | AATAAT | AAACCCT | pacbio |
-| *Cerastium fontanum* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Cerastium glomeratum* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Dianthus deltoides* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Herniaria ciliolata* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Honckenya peploides* | Caryophyllaceae | Caryophyllales | AAACCCT | AAAAA | pacbio |
-| *Sagina procumbens* | Caryophyllaceae | Caryophyllales | AAACCCT | AACCT | pacbio |
-| *Saponaria officinalis* | Caryophyllaceae | Caryophyllales | ACAGACAGATAG | ACAGACAGATAGACAGACAGATAG | pacbio |
-| *Silene acaulis* | Caryophyllaceae | Caryophyllales | AACAAC | AATAAT | pacbio |
-| *Silene dioica* | Caryophyllaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
-| *Silene latifolia* | Caryophyllaceae | Caryophyllales | AAACCCT | AATGCT | pacbio |
-| *Spergularia bocconei* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Spergularia marina* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Stellaria media* | Caryophyllaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Atriplex glabriuscula* | Chenopodiaceae | Caryophyllales | AAATAAT | AAATAATAAATAAT | pacbio |
-| *Chenopodium album* | Chenopodiaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Suaeda vera* | Chenopodiaceae | Caryophyllales | AAACCCT | AATAAT | pacbio |
-| *Phytolacca acinosa* | Phytolaccaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Fallopia sachalinensis* | Polygonaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Persicaria maculosa* | Polygonaceae | Caryophyllales |  |  | pacbio |
-| *Polygonum aviculare* | Polygonaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Polygonum aviculare* | Polygonaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
-| *Reynoutria japonica* | Polygonaceae | Caryophyllales | AAACCCT | AACAAC | pacbio |
-| *Rumex acetosa* | Polygonaceae | Caryophyllales | AACAAC | AACAACAAC | pacbio |
-| *Rumex hydrolapathum* | Polygonaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Rumex sanguineus* | Polygonaceae | Caryophyllales | AAACCCT | CCCCC | pacbio |
-| *Tamarix gallica* | Tamaricaceae | Caryophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Euonymus europaeus* | Celastraceae | Celastrales | AAACCCT | AAAAA | pacbio |
-| *Ceratophyllum demersum* | Ceratophyllaceae | Ceratophyllales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Cornus suecica* | Cornaceae | Cornales |  |  | pacbio |
-| *Bryonia dioica* | Cucurbitaceae | Cucurbitales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Narthecium ossifragum* | Nartheciaceae | Dioscoreales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Adoxa moschatellina* | Adoxaceae | Dipsacales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Sambucus nigra* | Adoxaceae | Dipsacales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Viburnum lantana* | Adoxaceae | Dipsacales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Knautia arvensis* | Caprifoliaceae | Dipsacales | AGATAGAT | AATAAT | pacbio |
-| *Linnaea borealis* | Caprifoliaceae | Dipsacales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Succisa pratensis* | Caprifoliaceae | Dipsacales | AAACCCT |  | pacbio |
-| *Impatiens glandulifera* | Balsaminaceae | Ericales | AAGCATT | AAGCATC | assembly |
-| *Impatiens glandulifera* | Balsaminaceae | Ericales | AAGCATC | AAGCATCAAGCATC | pacbio |
-| *Impatiens noli-tangere* | Balsaminaceae | Ericales |  |  | pacbio |
-| *Diapensia lapponica* | Diapensiaceae | Ericales | AACCCT |  | pacbio |
-| *Arctostaphylos uva-ursi* | Ericaceae | Ericales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Monotropa hypopitys* | Ericaceae | Ericales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lysimachia vulgaris* | Primulaceae | Ericales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Samolus valerandi* | Primulaceae | Ericales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Anthyllis vulneraria* | Fabaceae | Fabales | AACCT | AACCTAACCT | pacbio |
-| *Galega officinalis* | Fabaceae | Fabales | AAACCCT | AGATAGAT | pacbio |
-| *Genista pilosa* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lathyrus aphaca* | Fabaceae | Fabales | AGATAGAT |  | pacbio |
-| *Lathyrus linifolius* | Fabaceae | Fabales |  |  | pacbio |
-| *Lotus corniculatus* | Fabaceae | Fabales | AAACCCT | AGATAGAT | pacbio |
-| *Medicago arabica* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Medicago arabica* | Fabaceae | Fabales | AAACCCT | AAGAGATAC | pacbio |
-| *Medicago lupulina* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Medicago sativa* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Onobrychis viciifolia* | Fabaceae | Fabales | AAACCCT | AAAAA | pacbio |
-| *Trifolium dubium* | Fabaceae | Fabales | AAGAGATAC | AAACCCT | pacbio |
-| *Trifolium fragiferum* | Fabaceae | Fabales | AAACCCT | AACCCTG | pacbio |
-| *Trifolium pratense* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Trifolium subterraneum* | Fabaceae | Fabales | AAACCCT | ACCCTAG | pacbio |
-| *Ulex europaeus* | Fabaceae | Fabales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Vicia cracca* | Fabaceae | Fabales | AATAAT | AATAATAAT | pacbio |
-| *Vicia sativa* | Fabaceae | Fabales | AAACCCT | AATAAT | pacbio |
-| *Vicia sepium* | Fabaceae | Fabales | AGATAGAT | AAACCCT | pacbio |
-| *Alnus glutinosa* | Betulaceae | Fagales | AAACCCT | CCCCC | pacbio |
-| *Betula pubescens* | Betulaceae | Fagales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Carpinus betulus* | Betulaceae | Fagales | AAACCCT | CCCCC | pacbio |
-| *Castanea sativa* | Fagaceae | Fagales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Quercus cerris* | Fagaceae | Fagales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Quercus robur* | Fagaceae | Fagales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Quercus robur* | Fagaceae | Fagales | AAACCCT | AAAAA | pacbio |
-| *Myrica gale* | Myricaceae | Fagales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Vinca minor* | Apocynaceae | Gentianales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Centaurium erythraea* | Gentianaceae | Gentianales | AAACCCT |  | pacbio |
-| *Cruciata laevipes* | Rubiaceae | Gentianales | AAACCCT |  | pacbio |
-| *Galium aparine* | Rubiaceae | Gentianales | AAACCCT | CCCCC | pacbio |
-| *Galium odoratum* | Rubiaceae | Gentianales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Galium verum* | Rubiaceae | Gentianales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Sherardia arvensis* | Rubiaceae | Gentianales | CCCCC |  | pacbio |
-| *Erodium maritimum* | Geraniaceae | Geraniales | CCCCC | CCCCCC | pacbio |
-| *Erodium moschatum* | Geraniaceae | Geraniales | ACTACT | AAACCCT | pacbio |
-| *Geranium dissectum* | Geraniaceae | Geraniales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Geranium lucidum* | Geraniaceae | Geraniales | AACCCT | AACCCTAACCCT | pacbio |
-| *Geranium robertianum* | Geraniaceae | Geraniales | AACCCT |  | pacbio |
-| *Geranium sanguineum* | Geraniaceae | Geraniales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Geranium sylvaticum* | Geraniaceae | Geraniales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Gunnera manicata* | Gunneraceae | Gunnerales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Gunnera tinctoria* | Gunneraceae | Gunnerales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Ballota nigra* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Ballota nigra* | Lamiaceae | Lamiales | AAACCCT | AAAAA | pacbio |
-| *Lamium album* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lamium purpureum* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lycopus europaeus* | Lamiaceae | Lamiales | AAACCCT | AATAAT | pacbio |
-| *Salvia verbenaca* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Scutellaria galericulata* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Scutellaria galericulata* | Lamiaceae | Lamiales | AAACCCT | CCCCC | pacbio |
-| *Scutellaria minor* | Lamiaceae | Lamiales | AAACCCT | AATAAT | pacbio |
-| *Stachys palustris* | Lamiaceae | Lamiales | AAACCCT | AACCT | pacbio |
-| *Stachys sylvatica* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Teucrium scorodonia* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Thymus serpyllum* | Lamiaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Ligustrum vulgare* | Oleaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Euphrasia confusa* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Euphrasia foulaensis* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lathraea clandestina* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lathraea squamaria* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Melampyrum pratense* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Melampyrum sylvaticum* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Orobanche hederae* | Orobanchaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Erythranthe lutea* | Phrymaceae | Lamiales |  |  | pacbio |
-| *Callitriche obtusangula* | Plantaginaceae | Lamiales | AAGTAAGT | AAGTAAGTAAGT | pacbio |
-| *Chaenorhinum minus* | Plantaginaceae | Lamiales | AAACCCT | AAAAA | pacbio |
-| *Cymbalaria muralis* | Plantaginaceae | Lamiales | AAAAAACCCT |  | pacbio |
-| *Hippuris vulgaris* | Plantaginaceae | Lamiales | AAACCCT | AATCT | pacbio |
-| *Linaria vulgaris* | Plantaginaceae | Lamiales | AAACCCT | AATAAT | pacbio |
-| *Littorella uniflora* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Misopates orontium* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Misopates orontium* | Plantaginaceae | Lamiales | AAACCCT | ATATAT | pacbio |
-| *Plantago coronopus* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Plantago lanceolata* | Plantaginaceae | Lamiales | AACCCTAAT | AACCCTAATAACCCTAAT | pacbio |
-| *Plantago maritima* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Veronica arvensis* | Plantaginaceae | Lamiales | AAACCCT |  | pacbio |
-| *Veronica chamaedrys* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Veronica hederifolia* | Plantaginaceae | Lamiales | AAGAAG | AAGAAGAAG | pacbio |
-| *Veronica officinalis* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Veronica serpyllifolia* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Veronica spicata* | Plantaginaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Buddleja davidii* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Limosella aquatica* | Scrophulariaceae | Lamiales | AAACCCT |  | pacbio |
-| *Scrophularia auriculata* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Scrophularia nodosa* | Scrophulariaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Verbena officinalis* | Verbenaceae | Lamiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Colchicum autumnale* | Colchicaceae | Liliales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Tulipa sylvestris* | Liliaceae | Liliales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Paris quadrifolia* | Melanthiaceae | Liliales |  |  | pacbio |
-| *Euphorbia amygdaloides* | Euphorbiaceae | Malpighiales | AACCCT | AACCCTAACCCT | pacbio |
-| *Euphorbia lathyris* | Euphorbiaceae | Malpighiales | AAACCCT | ACATACATAT | pacbio |
-| *Euphorbia peplus* | Euphorbiaceae | Malpighiales | AACCCT | CCCCC | pacbio |
-| *Mercurialis annua* | Euphorbiaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Mercurialis annua* | Euphorbiaceae | Malpighiales | AAACCCT | AAAAA | pacbio |
-| *Mercurialis perennis* | Euphorbiaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Hypericum perforatum* | Hypericaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Populus tremula* | Salicaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Salix lapponum* | Salicaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Salix myrsinifolia* | Salicaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Salix phylicifolia* | Salicaceae | Malpighiales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Viola riviniana* | Violaceae | Malpighiales | AAACCCT | AACCCT | pacbio |
-| *Helianthemum apenninum* | Cistaceae | Malvales |  |  | pacbio |
-| *Daphne mezereum* | Thymelaeaceae | Malvales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lythrum salicaria* | Lythraceae | Myrtales | AAACCCT | CCCCC | pacbio |
-| *Chamaenerion angustifolium* | Onagraceae | Myrtales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Chamaenerion angustifolium* | Onagraceae | Myrtales | AAACCCT | CCCCC | pacbio |
-| *Circaea lutetiana* | Onagraceae | Myrtales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Nymphaea alba* | Nymphaeaceae | Nymphaeales | AAACCCT | ACACT | pacbio |
-| *Aristolochia clematitis* | Aristolochiaceae | Piperales | AACCCTG | AGAGGGCG | pacbio |
-| *Carex arenaria* | Cyperaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Carex depauperata* | Cyperaceae | Poales | AAACCCT | AACCCTG | pacbio |
-| *Carex divulsa* | Cyperaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Carex nigra* | Cyperaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Carex pendula* | Cyperaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Carex rostrata* | Cyperaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Schoenoplectus lacustris* | Cyperaceae | Poales | AAACCCT | AATAAT | pacbio |
-| *Eriocaulon aquaticum* | Eriocaulaceae | Poales | AAAAAACCCT | AACCT | pacbio |
-| *Juncus effusus* | Juncaceae | Poales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Juncus effusus* | Juncaceae | Poales | AAACCCT | ATATAT | pacbio |
-| *Juncus inflexus* | Juncaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Luzula campestris* | Juncaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Luzula sylvatica* | Juncaceae | Poales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Luzula sylvatica* | Juncaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Oreojuncus trifidus* | Juncaceae | Poales | AATAAT | AATAATAAT | pacbio |
-| *Agrostis stolonifera* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Alopecurus pratensis* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Anthoxanthum odoratum* | Poaceae | Poales | AACCCT | AAACCCT | pacbio |
-| *Arrhenatherum elatius* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Briza media* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Bromus hordeaceus* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Bromus interruptus* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Bromus ramosus* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Bromus sterilis* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Danthonia decumbens* | Poaceae | Poales | AAACCCT | CCCCC | pacbio |
-| *Deschampsia cespitosa* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Glyceria maxima* | Poaceae | Poales | AAACCCT | ACCCTAG | pacbio |
-| *Hierochloe odorata* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Holcus mollis* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Leymus arenarius* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Lolium perenne* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Nardus stricta* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Phalaris arundinacea* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Phragmites australis* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Poa infirma* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Polypogon viridis* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Puccinellia maritima* | Poaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Typha latifolia* | Typhaceae | Poales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Berberis aquifolium* | Berberidaceae | Ranunculales |  |  | pacbio |
-| *Berberis vulgaris* | Berberidaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Chelidonium majus* | Papaveraceae | Ranunculales | AAACCCT | AACCCT | pacbio |
-| *Fumaria muralis* | Papaveraceae | Ranunculales | AAACCG | AAACCGAAACCG | pacbio |
-| *Fumaria officinalis* | Papaveraceae | Ranunculales | AAACCG | AAACCGAAACCG | pacbio |
-| *Glaucium flavum* | Papaveraceae | Ranunculales | AAAACCCTACCCG | AAAACCCTACCCGAAAACCCTACCCG | pacbio |
-| *Papaver dubium* | Papaveraceae | Ranunculales | AACCCTG | AACCCTGAACCCTG | pacbio |
-| *Papaver rhoeas* | Papaveraceae | Ranunculales | AACCCTG | AACCCTGAACCCTG | pacbio |
-| *Pseudofumaria lutea* | Papaveraceae | Ranunculales | AAACCG |  | pacbio |
-| *Adonis annua* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Anemone nemorosa* | Ranunculaceae | Ranunculales | AAACCCT | AAACAC | pacbio |
-| *Caltha palustris* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Clematis vitalba* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Ranunculus acris* | Ranunculaceae | Ranunculales |  |  | pacbio |
-| *Ranunculus bulbosus* | Ranunculaceae | Ranunculales | AACCCCG | AACCCCGAACCCCG | pacbio |
-| *Ranunculus sardous* | Ranunculaceae | Ranunculales | ACTCACTC | AATCAATC | pacbio |
-| *Trollius europaeus* | Ranunculaceae | Ranunculales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Humulus lupulus* | Cannabaceae | Rosales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Hippophae rhamnoides* | Elaeagnaceae | Rosales | AAACCCT | AATAAT | pacbio |
-| *Rhamnus cathartica* | Rhamnaceae | Rosales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Agrimonia eupatoria* | Rosaceae | Rosales |  |  | pacbio |
-| *Alchemilla alpina* | Rosaceae | Rosales | AAACCCT |  | pacbio |
-| *Alchemilla arvensis* | Rosaceae | Rosales | AAACCCT |  | pacbio |
-| *Alchemilla micans* | Rosaceae | Rosales | AAACCCT | CCCCC | pacbio |
-| *Comarum palustre* | Rosaceae | Rosales | AAACCCT | AATGG | pacbio |
-| *Crataegus laevigata* | Rosaceae | Rosales | AAACCCT | CCCCC | pacbio |
-| *Crataegus monogyna* | Rosaceae | Rosales | AAACCCT | AATAAT | pacbio |
-| *Dasiphora fruticosa* | Rosaceae | Rosales | AAACCCT |  | pacbio |
-| *Filipendula ulmaria* | Rosaceae | Rosales | AAAAA | CCCCC | pacbio |
-| *Geum rivale* | Rosaceae | Rosales | AAACCCT | AACCCTAAT | pacbio |
-| *Geum urbanum* | Rosaceae | Rosales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Geum urbanum* | Rosaceae | Rosales | AAACCCT | CCCCC | pacbio |
-| *Malus domestica* | Rosaceae | Rosales | AAACCCT | AACCT | pacbio |
-| *Malus sylvestris* | Rosaceae | Rosales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Malus sylvestris* | Rosaceae | Rosales | AAACCCT | CCCCC | pacbio |
-| *Potentilla anserina* | Rosaceae | Rosales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Potentilla anserina* | Rosaceae | Rosales | AAACCCT | AACCT | pacbio |
-| *Potentilla reptans* | Rosaceae | Rosales | AACCT | AACCTAACCT | pacbio |
-| *Potentilla sterilis* | Rosaceae | Rosales | AAACCCT |  | pacbio |
-| *Pyrus communis* | Rosaceae | Rosales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Rosa agrestis* | Rosaceae | Rosales | AAACCCT |  | pacbio |
-| *Rosa rubiginosa* | Rosaceae | Rosales | AAACCCT |  | pacbio |
-| *Parietaria judaica* | Urticaceae | Rosales | AAACCCT | AAAAA | pacbio |
-| *Urtica dioica* | Urticaceae | Rosales | AAACCCT | ACAGTC | pacbio |
-| *Urtica urens* | Urticaceae | Rosales | AAACCCT | AAGAGATAC | pacbio |
-| *Viscum album* | Viscaceae | Santalales | CCCCC | CCCCCC | pacbio |
-| *Acer campestre* | Sapindaceae | Sapindales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Acer pseudoplatanus* | Sapindaceae | Sapindales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Umbilicus rupestris* | Crassulaceae | Saxifragales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Calystegia sepium* | Convolvulaceae | Solanales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Convolvulus arvensis* | Convolvulaceae | Solanales | AAACCCT | ACTACT | pacbio |
-| *Cuscuta epithymum* | Convolvulaceae | Solanales | AAACCCT | AACCCTG | pacbio |
-| *Atropa belladonna* | Solanaceae | Solanales | AAACCCT | AAACCCTAAACCCT | pacbio |
-| *Solanum dulcamara* | Solanaceae | Solanales | AACCCTG | AACCCTGAACCCTG | assembly |
-| *Solanum dulcamara* | Solanaceae | Solanales | AACCCTG | AATAAT | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Alisma plantago-aquatica* | Alismataceae | Alismatales | AAACCCT | strong | 9/14 | tidk 0.3.0 assembly |
+| *Aponogeton distachyos* | Aponogetonaceae | Alismatales | AAACCCT | strong | 24/50 | tidk 0.3.0 assembly |
+| *Arum italicum* | Araceae | Alismatales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Arum maculatum* | Araceae | Alismatales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Lemna minuta* | Araceae | Alismatales | AAACCCT | strong | 15/42 | tidk 0.3.0 assembly |
+| *Lemna trisulca* | Araceae | Alismatales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Butomus umbellatus* | Butomaceae | Alismatales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Ruppia maritima* | Cymodoceaceae | Alismatales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Stratiotes aloides* | Hydrocharitaceae | Alismatales | AACCGAGCCCAT | not checked |  | tidk 0.2 pacbio |
+| *Triglochin maritima* | Juncaginaceae | Alismatales | AAACCCT | strong | 39/50 | tidk 0.3.0 assembly |
+| *Triglochin palustris* | Juncaginaceae | Alismatales | AAACCCT | strong | 19/24 | tidk 0.3.0 assembly |
+| *Potamogeton compressus* | Potamogetonaceae | Alismatales | AAACCCT | strong | 19/28 | tidk 0.3.0 assembly |
+| *Potamogeton crispus* | Potamogetonaceae | Alismatales | AAACCCT | strong | 17/54 | tidk 0.3.0 assembly |
+| *Potamogeton epihydrus* | Potamogetonaceae | Alismatales | AAACCCT | weak | 6/28 | tidk 0.3.0 assembly |
+| *Potamogeton lucens* | Potamogetonaceae | Alismatales | AAACCCT | strong | 28/62 | tidk 0.3.0 assembly |
+| *Potamogeton natans* | Potamogetonaceae | Alismatales | AAACCCT | weak | 20/104 | tidk 0.3.0 assembly |
+| *Potamogeton nodosus* | Potamogetonaceae | Alismatales | AAACCCT | strong | 23/58 | tidk 0.3.0 assembly |
+| *Potamogeton perfoliatus* | Potamogetonaceae | Alismatales | AAACCCT | strong | 27/106 | tidk 0.3.0 assembly |
+| *Potamogeton pusillus* | Potamogetonaceae | Alismatales | AAACCCT | strong | 14/28 | tidk 0.3.0 assembly |
+| *Potamogeton trichoides* | Potamogetonaceae | Alismatales | AAACCCT | strong | 11/34 | tidk 0.3.0 assembly |
+| *Stuckenia pectinata* | Potamogetonaceae | Alismatales | AAACCCT | weak | 33/190 | tidk 0.3.0 assembly |
+| *Scheuchzeria palustris* | Scheuchzeriaceae | Alismatales | AAACCCT | strong | 15/22 | tidk 0.3.0 assembly |
+| *Zostera noltei* | Zosteraceae | Alismatales | AAACCCT | strong | 10/12 | tidk 0.3.0 assembly |
+| *Aethusa cynapium* | Apiaceae | Apiales | AAACCCT | strong | 7/24 | tidk 0.3.0 assembly |
+| *Ammi majus* | Apiaceae | Apiales | AAACCCT | weak | 5/22 | tidk 0.3.0 assembly |
+| *Angelica archangelica* | Apiaceae | Apiales | AAACCCT | strong | 12/22 | tidk 0.3.0 assembly |
+| *Angelica sylvestris* | Apiaceae | Apiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Anthriscus sylvestris* | Apiaceae | Apiales | AAACCCT | weak | 2/16 | tidk 0.3.0 assembly |
+| *Conopodium majus* | Apiaceae | Apiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Daucus carota* | Apiaceae | Apiales | AAACCCT | strong | 8/18 | tidk 0.3.0 assembly |
+| *Eryngium campestre* | Apiaceae | Apiales | AAACCCT | strong | 13/14 | tidk 0.3.0 assembly |
+| *Helosciadium nodiflorum* | Apiaceae | Apiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Heracleum mantegazzianum* | Apiaceae | Apiales | AAACCCT | weak | 4/22 | tidk 0.3.0 assembly |
+| *Heracleum sphondylium* | Apiaceae | Apiales | AAACCCT | weak | 9/44 | tidk 0.3.0 assembly |
+| *Levisticum officinale* | Apiaceae | Apiales | AAACCCT | weak | 12/52 | tidk 0.3.0 assembly |
+| *Ligusticum scoticum* | Apiaceae | Apiales | AAACCCT | weak | 4/22 | tidk 0.3.0 assembly |
+| *Myrrhis odorata* | Apiaceae | Apiales | AAACCCT | strong | 16/22 | tidk 0.3.0 assembly |
+| *Oenanthe lachenalii* | Apiaceae | Apiales | AAACCCT | strong | 12/22 | tidk 0.3.0 assembly |
+| *Pastinaca sativa* | Apiaceae | Apiales | AAACCCT | strong | 16/26 | tidk 0.3.0 assembly |
+| *Seseli libanotis* | Apiaceae | Apiales | AAACCCT | strong | 15/22 | tidk 0.3.0 assembly |
+| *Smyrnium perfoliatum* | Apiaceae | Apiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Torilis japonica* | Apiaceae | Apiales | AAACCCT | strong | 15/16 | tidk 0.3.0 assembly |
+| *Trocdaris verticillata* | Apiaceae | Apiales | AAACCCT | strong | 18/22 | tidk 0.3.0 assembly |
+| *Hedera helix* | Araliaceae | Apiales | AAACCCT | strong | 44/48 | tidk 0.3.0 assembly |
+| *Hydrocotyle vulgaris* | Araliaceae | Apiales | AAACCCT | strong | 73/98 | tidk 0.3.0 assembly |
+| *Ilex aquifolium* | Aquifoliaceae | Aquifoliales | AAACCCT | strong | 21/40 | tidk 0.3.0 assembly |
+| *Allium ampeloprasum* | Amaryllidaceae | Asparagales |  | not checked |  | tidk 0.2 pacbio |
+| *Allium triquetrum* | Amaryllidaceae | Asparagales | AACCGAGCCCAT | not checked |  | tidk 0.2 pacbio |
+| *Allium vineale* | Amaryllidaceae | Asparagales | AACCGAGCCCAT | not checked |  | tidk 0.2 pacbio |
+| *Narcissus pseudonarcissus* | Amaryllidaceae | Asparagales | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Hyacinthoides non-scripta* | Asparagaceae | Asparagales |  | not checked |  | tidk 0.2 pacbio |
+| *Scilla verna* | Asparagaceae | Asparagales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Crocus tommasinianus* | Iridaceae | Asparagales | AACCCT | strong | 8/24 | tidk 0.3.0 assembly |
+| *Iris foetidissima* | Iridaceae | Asparagales | AACCCT | strong | 35/42 | tidk 0.3.0 assembly |
+| *Iris pseudacorus* | Iridaceae | Asparagales | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Cephalanthera longifolia* | Orchidaceae | Asparagales |  | not checked |  | tidk 0.2 pacbio |
+| *Dactylorhiza fuchsii* | Orchidaceae | Asparagales | AAACCCT | strong | 15/44 | tidk 0.3.0 assembly |
+| *Dactylorhiza maculata* | Orchidaceae | Asparagales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Epipactis palustris* | Orchidaceae | Asparagales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Epipactis purpurata* | Orchidaceae | Asparagales |  | not checked |  | tidk 0.2 pacbio |
+| *Ophrys apifera* | Orchidaceae | Asparagales | ACCAGT | not checked |  | tidk 0.2 pacbio |
+| *Achillea maritima* | Asteraceae | Asterales | AAACCCT | strong | 16/18 | tidk 0.3.0 assembly |
+| *Achillea millefolium* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Achillea ptarmica* | Asteraceae | Asterales | AAACCCT | weak | 4/164 | tidk 0.3.0 assembly |
+| *Arctium lappa* | Asteraceae | Asterales | AAACCCT | strong | 21/38 | tidk 0.3.0 assembly |
+| *Arctium minus* | Asteraceae | Asterales | AAACCCT | strong | 13/36 | tidk 0.3.0 assembly |
+| *Artemisia maritima* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Artemisia norvegica* | Asteraceae | Asterales | AAACCCT | weak | 4/34 | tidk 0.3.0 assembly |
+| *Artemisia vulgaris* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Bellis perennis* | Asteraceae | Asterales | AAACCCT | weak | 7/46 | tidk 0.3.0 assembly |
+| *Bidens cernua* | Asteraceae | Asterales | AAACCCT | strong | 12/26 | tidk 0.3.0 assembly |
+| *Calendula officinalis* | Asteraceae | Asterales | AAACCCT | strong | 26/36 | tidk 0.3.0 assembly |
+| *Carduus crispus* | Asteraceae | Asterales | AAACCCT | strong | 10/16 | tidk 0.3.0 assembly |
+| *Carduus nutans* | Asteraceae | Asterales | AAACCCT | strong | 6/22 | tidk 0.3.0 assembly |
+| *Carlina vulgaris* | Asteraceae | Asterales | AAACCGAACCG | strong | 13/26 | tidk 0.3.0 assembly |
+| *Centaurea nigra* | Asteraceae | Asterales |  | not checked |  | tidk 0.2 pacbio |
+| *Chamaemelum nobile* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Cicerbita muralis* | Asteraceae | Asterales | AAACCCT | strong | 13/20 | tidk 0.3.0 assembly |
+| *Cirsium dissectum* | Asteraceae | Asterales | AAACCCT | weak | 9/42 | tidk 0.3.0 assembly |
+| *Cirsium heterophyllum* | Asteraceae | Asterales | AAACCCT | strong | 26/34 | tidk 0.3.0 assembly |
+| *Crepis capillaris* | Asteraceae | Asterales | AAACCCT | weak | 4/26 | tidk 0.3.0 assembly |
+| *Filago lutescens* | Asteraceae | Asterales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Filago pyramidata* | Asteraceae | Asterales | AAACCCT | strong | 26/28 | tidk 0.3.0 assembly |
+| *Filago vulgaris* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Galatella linosyris* | Asteraceae | Asterales | AAACCCT | strong | 15/18 | tidk 0.3.0 assembly |
+| *Galinsoga quadriradiata* | Asteraceae | Asterales | AAACCCT | strong | 22/32 | tidk 0.3.0 assembly |
+| *Gnaphalium uliginosum* | Asteraceae | Asterales | AAACCCT | strong | 13/14 | tidk 0.3.0 assembly |
+| *Helminthotheca echioides* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Hieracium snowdoniense* | Asteraceae | Asterales | AAACCCT | strong | 21/36 | tidk 0.3.0 assembly |
+| *Hypochaeris maculata* | Asteraceae | Asterales | AAACCCT | strong | 7/12 | tidk 0.3.0 assembly |
+| *Hypochaeris radicata* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Inula conyza* | Asteraceae | Asterales | AAACCCT | strong | 21/42 | tidk 0.3.0 assembly |
+| *Inula salicina* | Asteraceae | Asterales | AAACCCT | strong | 10/22 | tidk 0.3.0 assembly |
+| *Jacobaea maritima* | Asteraceae | Asterales | AAACCCT | strong | 13/40 | tidk 0.3.0 assembly |
+| *Jacobaea vulgaris* | Asteraceae | Asterales | AAACCCT | strong | 11/40 | tidk 0.3.0 assembly |
+| *Lactuca saligna* | Asteraceae | Asterales | AAACCCT | strong | 12/18 | tidk 0.3.0 assembly |
+| *Lapsana communis* | Asteraceae | Asterales | AAACCCT | strong | 9/14 | tidk 0.3.0 assembly |
+| *Leontodon hispidus* | Asteraceae | Asterales | AAACCCT | strong | 6/14 | tidk 0.3.0 assembly |
+| *Limbarda crithmoides* | Asteraceae | Asterales | AAACCCT | strong | 14/18 | tidk 0.3.0 assembly |
+| *Logfia minima* | Asteraceae | Asterales | AAACCCT | strong | 26/30 | tidk 0.3.0 assembly |
+| *Lophiolepis eriophora* | Asteraceae | Asterales | AAACCCT | strong | 15/34 | tidk 0.3.0 assembly |
+| *Matricaria chamomilla* | Asteraceae | Asterales | AAACCCT | strong | 13/18 | tidk 0.3.0 assembly |
+| *Matricaria discoidea* | Asteraceae | Asterales | AAACCCT | strong | 10/18 | tidk 0.3.0 assembly |
+| *Omalotheca supina* | Asteraceae | Asterales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Petasites albus* | Asteraceae | Asterales | AAACCCT | strong | 49/62 | tidk 0.3.0 assembly |
+| *Petasites fragrans* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Petasites hybridus* | Asteraceae | Asterales | AAACCCT | strong | 40/66 | tidk 0.3.0 assembly |
+| *Petasites japonicus* | Asteraceae | Asterales | AATGATG | not checked |  | tidk 0.2 pacbio |
+| *Pilosella aurantiaca* | Asteraceae | Asterales | AAACCCT | strong | 22/76 | tidk 0.3.0 assembly |
+| *Pilosella officinarum* | Asteraceae | Asterales | AAACCCT | strong | 38/104 | tidk 0.3.0 assembly |
+| *Pseudognaphalium luteoalbum* | Asteraceae | Asterales | AAACCCT | strong | 12/14 | tidk 0.3.0 assembly |
+| *Pulicaria dysenterica* | Asteraceae | Asterales | AAACCCT | strong | 14/18 | tidk 0.3.0 assembly |
+| *Scorzoneroides autumnalis* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Senecio squalidus* | Asteraceae | Asterales | AAACCCT | none | 0/20 | tidk 0.3.0 assembly |
+| *Senecio sylvaticus* | Asteraceae | Asterales | AAACCCT | strong | 33/40 | tidk 0.3.0 assembly |
+| *Senecio viscosus* | Asteraceae | Asterales | AAACCCT | strong | 34/40 | tidk 0.3.0 assembly |
+| *Senecio vulgaris* | Asteraceae | Asterales | AAACCCT | strong | 37/40 | tidk 0.3.0 assembly |
+| *Solidago canadensis* | Asteraceae | Asterales | AAACCCT | strong | 14/18 | tidk 0.3.0 assembly |
+| *Solidago virgaurea* | Asteraceae | Asterales | AAACCCT | strong | 17/18 | tidk 0.3.0 assembly |
+| *Sonchus arvensis* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Sonchus asper* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Sonchus oleraceus* | Asteraceae | Asterales | AAACCCT | strong | 23/32 | tidk 0.3.0 assembly |
+| *Sonchus palustris* | Asteraceae | Asterales | AAACCCT | strong | 16/18 | tidk 0.3.0 assembly |
+| *Tanacetum parthenium* | Asteraceae | Asterales | AAACCCT | weak | 4/20 | tidk 0.3.0 assembly |
+| *Tanacetum vulgare* | Asteraceae | Asterales | AAACCCT | strong | 7/18 | tidk 0.3.0 assembly |
+| *Tephroseris palustris* | Asteraceae | Asterales | AAACCCT | strong | 27/62 | tidk 0.3.0 assembly |
+| *Tragopogon porrifolius* | Asteraceae | Asterales | AAACCCT | strong | 5/12 | tidk 0.3.0 assembly |
+| *Tragopogon pratensis* | Asteraceae | Asterales | AAACCCT | strong | 6/12 | tidk 0.3.0 assembly |
+| *Tripleurospermum maritimum* | Asteraceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Tripolium pannonicum* | Asteraceae | Asterales | AAACCCT | weak | 3/56 | tidk 0.3.0 assembly |
+| *Tussilago farfara* | Asteraceae | Asterales | AAACCCT | strong | 42/60 | tidk 0.3.0 assembly |
+| *Campanula glomerata* | Campanulaceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Campanula latifolia* | Campanulaceae | Asterales | AAACCCT | strong | 29/34 | tidk 0.3.0 assembly |
+| *Jasione montana* | Campanulaceae | Asterales | AACCCCTGAACCCTG | weak | 1/12 | tidk 0.3.0 assembly |
+| *Lobelia dortmanna* | Campanulaceae | Asterales | AAACCCT | strong | 9/14 | tidk 0.3.0 assembly |
+| *Lobelia urens* | Campanulaceae | Asterales | AAACCCT | strong | 13/14 | tidk 0.3.0 assembly |
+| *Phyteuma orbiculare* | Campanulaceae | Asterales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Nymphoides peltata* | Menyanthaceae | Asterales | AAACCCT | strong | 51/54 | tidk 0.3.0 assembly |
+| *Anchusa arvensis* | Boraginaceae | Boraginales | AAACCCT | strong | 24/48 | tidk 0.3.0 assembly |
+| *Borago officinalis* | Boraginaceae | Boraginales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Echium vulgare* | Boraginaceae | Boraginales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Lithospermum officinale* | Boraginaceae | Boraginales | AAACCCT | strong | 15/44 | tidk 0.3.0 assembly |
+| *Myosotis scorpioides* | Boraginaceae | Boraginales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Pentaglottis sempervirens* | Boraginaceae | Boraginales | AAACCCT | strong | 10/20 | tidk 0.3.0 assembly |
+| *Symphytum officinale* | Boraginaceae | Boraginales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Arabidopsis thaliana* | Brassicaceae | Brassicales | AAACCCT | strong | 8/10 | tidk 0.3.0 assembly |
+| *Arabis hirsuta* | Brassicaceae | Brassicales | AAACCCT | strong | 23/32 | tidk 0.3.0 assembly |
+| *Armoracia rusticana* | Brassicaceae | Brassicales | AAACCCT | strong | 29/32 | tidk 0.3.0 assembly |
+| *Barbarea vulgaris* | Brassicaceae | Brassicales | AAACCCT | strong | 16/16 | tidk 0.3.0 assembly |
+| *Brassica nigra* | Brassicaceae | Brassicales | AAACCCT | strong | 10/16 | tidk 0.3.0 assembly |
+| *Brassica oleracea* | Brassicaceae | Brassicales |  | not checked |  | tidk 0.2 pacbio |
+| *Cakile maritima* | Brassicaceae | Brassicales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Cardamine amara* | Brassicaceae | Brassicales | AAACCCT | strong | 14/16 | tidk 0.3.0 assembly |
+| *Cardamine flexuosa* | Brassicaceae | Brassicales | AAACCCT | strong | 9/16 | tidk 0.3.0 assembly |
+| *Cardamine hirsuta* | Brassicaceae | Brassicales | AAACCCT | strong | 12/16 | tidk 0.3.0 assembly |
+| *Cardamine pratensis* | Brassicaceae | Brassicales | AAACCCT | strong | 16/30 | tidk 0.3.0 assembly |
+| *Cochlearia danica* | Brassicaceae | Brassicales | AAACCCT | strong | 34/44 | tidk 0.3.0 assembly |
+| *Coincya wrightii* | Brassicaceae | Brassicales | AAACCCT | strong | 20/36 | tidk 0.3.0 assembly |
+| *Descurainia sophia* | Brassicaceae | Brassicales | AAACCCT | strong | 28/28 | tidk 0.3.0 assembly |
+| *Draba incana* | Brassicaceae | Brassicales | AAACCCT | strong | 24/32 | tidk 0.3.0 assembly |
+| *Draba verna* | Brassicaceae | Brassicales | AAACCCT | strong | 38/52 | tidk 0.3.0 assembly |
+| *Hesperis matronalis* | Brassicaceae | Brassicales | AAACCCT | none | 0/52 | tidk 0.3.0 assembly |
+| *Lepidium campestre* | Brassicaceae | Brassicales | AAACCCT | strong | 16/16 | tidk 0.3.0 assembly |
+| *Lepidium didymum* | Brassicaceae | Brassicales | AAACCCT | strong | 31/32 | tidk 0.3.0 assembly |
+| *Lepidium draba* | Brassicaceae | Brassicales | AAACCCT | strong | 27/32 | tidk 0.3.0 assembly |
+| *Lepidium latifolium* | Brassicaceae | Brassicales | AAACCCT | strong | 14/16 | tidk 0.3.0 assembly |
+| *Matthiola sinuata* | Brassicaceae | Brassicales | AAACCCT | strong | 10/14 | tidk 0.3.0 assembly |
+| *Nasturtium officinale* | Brassicaceae | Brassicales | AAACCCT | strong | 22/32 | tidk 0.3.0 assembly |
+| *Raphanus raphanistrum* | Brassicaceae | Brassicales | AAACCCT | strong | 15/18 | tidk 0.3.0 assembly |
+| *Sisymbrium officinale* | Brassicaceae | Brassicales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Sisymbrium orientale* | Brassicaceae | Brassicales | AAACCCT | strong | 14/14 | tidk 0.3.0 assembly |
+| *Turritis glabra* | Brassicaceae | Brassicales | AAACCCT | strong | 10/12 | tidk 0.3.0 assembly |
+| *Reseda luteola* | Resedaceae | Brassicales | AAACCCT | strong | 17/26 | tidk 0.3.0 assembly |
+| *Buxus sempervirens* | Buxaceae | Buxales | AAACCCT | strong | 18/28 | tidk 0.3.0 assembly |
+| *Carpobrotus edulis* | Aizoaceae | Caryophyllales | AAACCCT | strong | 6/20 | tidk 0.3.0 assembly |
+| *Atriplex glabriuscula* | Amaranthaceae | Caryophyllales | AAACCCT | strong | 16/24 | tidk 0.3.0 assembly |
+| *Atriplex littoralis* | Amaranthaceae | Caryophyllales | AAACCCT | strong | 12/30 | tidk 0.3.0 assembly |
+| *Blitum bonus-henricus* | Amaranthaceae | Caryophyllales | AAACCCT | strong | 33/36 | tidk 0.3.0 assembly |
+| *Chenopodium album* | Amaranthaceae | Caryophyllales | AAACCCT | strong | 49/54 | tidk 0.3.0 assembly |
+| *Salicornia ramosissima* | Amaranthaceae | Caryophyllales | AAACCCT | strong | 17/18 | tidk 0.3.0 assembly |
+| *Spinacia oleracea* | Amaranthaceae | Caryophyllales | AAACCCT | strong | 9/14 | tidk 0.3.0 assembly |
+| *Suaeda maritima* | Amaranthaceae | Caryophyllales | AAACCCT | strong | 31/36 | tidk 0.3.0 assembly |
+| *Suaeda vera* | Amaranthaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Agrostemma githago* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 42/50 | tidk 0.3.0 assembly |
+| *Arenaria serpyllifolia* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 34/40 | tidk 0.3.0 assembly |
+| *Cerastium alpinum* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 43/72 | tidk 0.3.0 assembly |
+| *Cerastium fontanum* | Caryophyllaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Cerastium glomeratum* | Caryophyllaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Corrigiola litoralis* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 17/18 | tidk 0.3.0 assembly |
+| *Dianthus deltoides* | Caryophyllaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Herniaria ciliolata* | Caryophyllaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Honckenya peploides* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 62/68 | tidk 0.3.0 assembly |
+| *Moehringia trinervia* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 21/24 | tidk 0.3.0 assembly |
+| *Polycarpon tetraphyllum* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 44/64 | tidk 0.3.0 assembly |
+| *Sagina maritima* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 25/28 | tidk 0.3.0 assembly |
+| *Sagina procumbens* | Caryophyllaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Saponaria officinalis* | Caryophyllaceae | Caryophyllales | ACAGACAGATAG | not checked |  | tidk 0.2 pacbio |
+| *Scleranthus annuus* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 41/44 | tidk 0.3.0 assembly |
+| *Silene acaulis* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 18/26 | tidk 0.3.0 assembly |
+| *Silene dioica* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 12/24 | tidk 0.3.0 assembly |
+| *Silene latifolia* | Caryophyllaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Silene noctiflora* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 21/24 | tidk 0.3.0 assembly |
+| *Spergula arvensis* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 13/18 | tidk 0.3.0 assembly |
+| *Spergularia bocconei* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 33/36 | tidk 0.3.0 assembly |
+| *Spergularia marina* | Caryophyllaceae | Caryophyllales | AAACCCT | strong | 34/36 | tidk 0.3.0 assembly |
+| *Stellaria media* | Caryophyllaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Claytonia sibirica* | Montiaceae | Caryophyllales | AAACCCT | strong | 6/18 | tidk 0.3.0 assembly |
+| *Phytolacca acinosa* | Phytolaccaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Fallopia convolvulus* | Polygonaceae | Caryophyllales | AAACCCT | strong | 31/40 | tidk 0.3.0 assembly |
+| *Oxyria digyna* | Polygonaceae | Caryophyllales | AAACCCT | strong | 9/14 | tidk 0.3.0 assembly |
+| *Persicaria amphibia* | Polygonaceae | Caryophyllales | AAACCCT | strong | 78/96 | tidk 0.3.0 assembly |
+| *Persicaria maculosa* | Polygonaceae | Caryophyllales | AAACCCT | strong | 30/42 | tidk 0.3.0 assembly |
+| *Persicaria nepalensis* | Polygonaceae | Caryophyllales | AAACCCT | strong | 27/50 | tidk 0.3.0 assembly |
+| *Polygonum aviculare* | Polygonaceae | Caryophyllales | AAACCCT | strong | 18/20 | tidk 0.3.0 assembly |
+| *Polygonum maritimum* | Polygonaceae | Caryophyllales | AAACCCT | strong | 11/20 | tidk 0.3.0 assembly |
+| *Reynoutria japonica* | Polygonaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Reynoutria sachalinensis* | Polygonaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Rumex acetosa* | Polygonaceae | Caryophyllales | AAACCCT | strong | 8/18 | tidk 0.3.0 assembly |
+| *Rumex acetosella* | Polygonaceae | Caryophyllales | AAACCCT | strong | 52/88 | tidk 0.3.0 assembly |
+| *Rumex conglomeratus* | Polygonaceae | Caryophyllales | AAACCCT | strong | 18/20 | tidk 0.3.0 assembly |
+| *Rumex hydrolapathum* | Polygonaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Rumex obtusifolius* | Polygonaceae | Caryophyllales | AAACCCT | strong | 36/40 | tidk 0.3.0 assembly |
+| *Rumex sanguineus* | Polygonaceae | Caryophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Tamarix gallica* | Tamaricaceae | Caryophyllales | AAACCCT | strong | 22/24 | tidk 0.3.0 assembly |
+| *Euonymus europaeus* | Celastraceae | Celastrales | AAACCCT | strong | 26/34 | tidk 0.3.0 assembly |
+| *Ceratophyllum demersum* | Ceratophyllaceae | Ceratophyllales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Pontederia cordata* | Pontederiaceae | Commelinales | AAACCCT | strong | 12/16 | tidk 0.3.0 assembly |
+| *Cornus sanguinea* | Cornaceae | Cornales | AAACCCT | strong | 17/32 | tidk 0.3.0 assembly |
+| *Cornus suecica* | Cornaceae | Cornales | AAACCCT | strong | 19/22 | tidk 0.3.0 assembly |
+| *Bryonia cretica* | Cucurbitaceae | Cucurbitales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Narthecium ossifragum* | Nartheciaceae | Dioscoreales | AAACCCT | strong | 13/26 | tidk 0.3.0 assembly |
+| *Adoxa moschatellina* | Adoxaceae | Dipsacales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Sambucus nigra* | Adoxaceae | Dipsacales | AAACCCT | weak | 22/194 | tidk 0.3.0 assembly |
+| *Viburnum lantana* | Adoxaceae | Dipsacales | AAACCCT | weak | 9/42 | tidk 0.3.0 assembly |
+| *Dipsacus fullonum* | Caprifoliaceae | Dipsacales | AAACCCT | strong | 17/18 | tidk 0.3.0 assembly |
+| *Knautia arvensis* | Caprifoliaceae | Dipsacales | AGATAGAT | not checked |  | tidk 0.2 pacbio |
+| *Linnaea borealis* | Caprifoliaceae | Dipsacales | AAACCCT | strong | 27/32 | tidk 0.3.0 assembly |
+| *Succisa pratensis* | Caprifoliaceae | Dipsacales | AAACCCT | strong | 8/24 | tidk 0.3.0 assembly |
+| *Valerianella locusta* | Caprifoliaceae | Dipsacales | AAACCCT | strong | 16/16 | tidk 0.3.0 assembly |
+| *Impatiens glandulifera* | Balsaminaceae | Ericales | AAACCCT | none | 0/22 | tidk 0.3.0 assembly |
+| *Impatiens noli-tangere* | Balsaminaceae | Ericales | AAACCCT | strong | 16/20 | tidk 0.3.0 assembly |
+| *Impatiens parviflora* | Balsaminaceae | Ericales | AAACCCT | weak | 11/58 | tidk 0.3.0 assembly |
+| *Diapensia lapponica* | Diapensiaceae | Ericales | AACCCT | strong | 10/14 | tidk 0.3.0 assembly |
+| *Arbutus unedo* | Ericaceae | Ericales | AAACCCT | strong | 20/26 | tidk 0.3.0 assembly |
+| *Arctostaphylos uva-ursi* | Ericaceae | Ericales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Calluna vulgaris* | Ericaceae | Ericales | AAACCCT | strong | 11/16 | tidk 0.3.0 assembly |
+| *Empetrum nigrum* | Ericaceae | Ericales | AAACCCT | strong | 15/28 | tidk 0.3.0 assembly |
+| *Erica ciliaris* | Ericaceae | Ericales | AAACCCT | strong | 19/24 | tidk 0.3.0 assembly |
+| *Erica cinerea* | Ericaceae | Ericales | AAACCCT | strong | 20/24 | tidk 0.3.0 assembly |
+| *Erica tetralix* | Ericaceae | Ericales | AAACCCT | strong | 20/24 | tidk 0.3.0 assembly |
+| *Monotropa hypopitys* | Ericaceae | Ericales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Rhododendron ponticum* | Ericaceae | Ericales | AAACCCT | strong | 21/26 | tidk 0.3.0 assembly |
+| *Vaccinium myrtillus* | Ericaceae | Ericales | AAACCCT | strong | 22/24 | tidk 0.3.0 assembly |
+| *Vaccinium vitis-idaea* | Ericaceae | Ericales | AAACCCT | strong | 17/24 | tidk 0.3.0 assembly |
+| *Hottonia palustris* | Primulaceae | Ericales |  | none |  | tidk 0.3.0 assembly |
+| *Lysimachia arvensis* | Primulaceae | Ericales | AAAACCCT | strong | 19/40 | tidk 0.3.0 assembly |
+| *Lysimachia maritima* | Primulaceae | Ericales | AAACCCT | strong | 27/30 | tidk 0.3.0 assembly |
+| *Lysimachia thyrsiflora* | Primulaceae | Ericales | AAACCCT | strong | 34/44 | tidk 0.3.0 assembly |
+| *Lysimachia vulgaris* | Primulaceae | Ericales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Primula farinosa* | Primulaceae | Ericales | AAACCCT | strong | 14/18 | tidk 0.3.0 assembly |
+| *Primula scotica* | Primulaceae | Ericales | AAACCCT | weak | 13/110 | tidk 0.3.0 assembly |
+| *Primula veris* | Primulaceae | Ericales | AAACCCT | strong | 20/24 | tidk 0.3.0 assembly |
+| *Primula vulgaris* | Primulaceae | Ericales | AAACCCT | strong | 8/24 | tidk 0.3.0 assembly |
+| *Samolus valerandi* | Primulaceae | Ericales | AAACCCT | strong | 26/26 | tidk 0.3.0 assembly |
+| *Anthyllis vulneraria* | Fabaceae | Fabales | AAACCCT | strong | 4/12 | tidk 0.3.0 assembly |
+| *Astragalus alpinus* | Fabaceae | Fabales | AAACCCT | strong | 11/16 | tidk 0.3.0 assembly |
+| *Astragalus glycyphyllos* | Fabaceae | Fabales | AAACCCT | strong | 13/18 | tidk 0.3.0 assembly |
+| *Galega officinalis* | Fabaceae | Fabales | AAACCCT | strong | 16/20 | tidk 0.3.0 assembly |
+| *Genista pilosa* | Fabaceae | Fabales | AAACCCT | strong | 14/22 | tidk 0.3.0 assembly |
+| *Laburnum anagyroides* | Fabaceae | Fabales | AAACCCT | strong | 35/50 | tidk 0.3.0 assembly |
+| *Lathyrus aphaca* | Fabaceae | Fabales | AAACCCT | strong | 10/14 | tidk 0.3.0 assembly |
+| *Lathyrus linifolius* | Fabaceae | Fabales | AAACCCT | strong | 9/20 | tidk 0.3.0 assembly |
+| *Lotus corniculatus* | Fabaceae | Fabales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Lotus pedunculatus* | Fabaceae | Fabales | AAACCCT | strong | 9/12 | tidk 0.3.0 assembly |
+| *Lotus subbiflorus* | Fabaceae | Fabales | AAACCCT | strong | 18/24 | tidk 0.3.0 assembly |
+| *Lotus tenuis* | Fabaceae | Fabales | AAACCCT | strong | 6/14 | tidk 0.3.0 assembly |
+| *Medicago arabica* | Fabaceae | Fabales | AAACCCT | strong | 14/16 | tidk 0.3.0 assembly |
+| *Medicago lupulina* | Fabaceae | Fabales | AAACCCT | strong | 16/20 | tidk 0.3.0 assembly |
+| *Medicago sativa* | Fabaceae | Fabales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Melilotus altissimus* | Fabaceae | Fabales | AAACCCT | strong | 14/16 | tidk 0.3.0 assembly |
+| *Onobrychis viciifolia* | Fabaceae | Fabales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Ononis reclinata* | Fabaceae | Fabales | AAACCCT | strong | 54/60 | tidk 0.3.0 assembly |
+| *Ononis spinosa* | Fabaceae | Fabales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Ornithopus perpusillus* | Fabaceae | Fabales | AAACCCT | strong | 11/14 | tidk 0.3.0 assembly |
+| *Robinia pseudoacacia* | Fabaceae | Fabales | AAACCCT | strong | 15/22 | tidk 0.3.0 assembly |
+| *Trifolium bocconei* | Fabaceae | Fabales | AAACCCT | strong | 12/12 | tidk 0.3.0 assembly |
+| *Trifolium dubium* | Fabaceae | Fabales | AAACCCT | strong | 25/30 | tidk 0.3.0 assembly |
+| *Trifolium fragiferum* | Fabaceae | Fabales | AAACCCT | strong | 10/16 | tidk 0.3.0 assembly |
+| *Trifolium occidentale* | Fabaceae | Fabales | AAACCCT | strong | 14/16 | tidk 0.3.0 assembly |
+| *Trifolium pratense* | Fabaceae | Fabales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Trifolium repens* | Fabaceae | Fabales | AAACCCT | strong | 19/34 | tidk 0.3.0 assembly |
+| *Trifolium striatum* | Fabaceae | Fabales | AAACCCT | strong | 6/14 | tidk 0.3.0 assembly |
+| *Trifolium subterraneum* | Fabaceae | Fabales | AAACCCT | strong | 15/16 | tidk 0.3.0 assembly |
+| *Ulex europaeus* | Fabaceae | Fabales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Ulex minor* | Fabaceae | Fabales | AAACCCT | strong | 27/32 | tidk 0.3.0 assembly |
+| *Vicia cracca* | Fabaceae | Fabales | AATAAT | not checked |  | tidk 0.2 pacbio |
+| *Vicia hirsuta* | Fabaceae | Fabales | AAACCCT | strong | 12/16 | tidk 0.3.0 assembly |
+| *Vicia lathyroides* | Fabaceae | Fabales | AAACCCT | strong | 6/12 | tidk 0.3.0 assembly |
+| *Vicia parviflora* | Fabaceae | Fabales | AAACCCT | strong | 7/14 | tidk 0.3.0 assembly |
+| *Vicia sativa* | Fabaceae | Fabales | AAACCCT | strong | 7/12 | tidk 0.3.0 assembly |
+| *Vicia sepium* | Fabaceae | Fabales | AGATAGAT | not checked |  | tidk 0.2 pacbio |
+| *Vicia tetrasperma* | Fabaceae | Fabales | AAACCCT | strong | 12/14 | tidk 0.3.0 assembly |
+| *Polygala serpyllifolia* | Polygalaceae | Fabales | AAACCCT | strong | 25/32 | tidk 0.3.0 assembly |
+| *Alnus cordata* | Betulaceae | Fagales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Alnus glutinosa* | Betulaceae | Fagales | AAACCCT | strong | 26/28 | tidk 0.3.0 assembly |
+| *Alnus incana* | Betulaceae | Fagales | AAACCCT | strong | 15/30 | tidk 0.3.0 assembly |
+| *Betula pendula* | Betulaceae | Fagales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Betula pubescens* | Betulaceae | Fagales | AAACCCT | strong | 25/28 | tidk 0.3.0 assembly |
+| *Carpinus betulus* | Betulaceae | Fagales | AAACCCT | strong | 9/16 | tidk 0.3.0 assembly |
+| *Corylus avellana* | Betulaceae | Fagales | AAACCCT | strong | 21/22 | tidk 0.3.0 assembly |
+| *Corylus colurna* | Betulaceae | Fagales | AAACCCT | strong | 17/22 | tidk 0.3.0 assembly |
+| *Castanea sativa* | Fagaceae | Fagales | AAACCCT | strong | 20/24 | tidk 0.3.0 assembly |
+| *Fagus sylvatica* | Fagaceae | Fagales | AAACCCT | strong | 17/26 | tidk 0.3.0 assembly |
+| *Quercus cerris* | Fagaceae | Fagales | AAACCCT | strong | 21/24 | tidk 0.3.0 assembly |
+| *Quercus ilex* | Fagaceae | Fagales | AAACCCT | strong | 21/24 | tidk 0.3.0 assembly |
+| *Quercus petraea* | Fagaceae | Fagales | AAACCCT | strong | 22/24 | tidk 0.3.0 assembly |
+| *Quercus robur* | Fagaceae | Fagales | AAACCCT | strong | 18/24 | tidk 0.3.0 assembly |
+| *Juglans regia* | Juglandaceae | Fagales | AAACCCT | strong | 32/34 | tidk 0.3.0 assembly |
+| *Myrica gale* | Myricaceae | Fagales | AAACCCT | strong | 39/48 | tidk 0.3.0 assembly |
+| *Vinca minor* | Apocynaceae | Gentianales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Centaurium erythraea* | Gentianaceae | Gentianales | AAACCCT | strong | 33/40 | tidk 0.3.0 assembly |
+| *Centaurium intermedium* | Gentianaceae | Gentianales | AAACCCT | strong | 19/20 | tidk 0.3.0 assembly |
+| *Gentianella amarella* | Gentianaceae | Gentianales | AAACCCT | strong | 41/58 | tidk 0.3.0 assembly |
+| *Cruciata laevipes* | Rubiaceae | Gentianales | AAACCCT | strong | 13/22 | tidk 0.3.0 assembly |
+| *Galium aparine* | Rubiaceae | Gentianales | AAACCCT | strong | 60/64 | tidk 0.3.0 assembly |
+| *Galium boreale* | Rubiaceae | Gentianales | AAACCCT | strong | 16/22 | tidk 0.3.0 assembly |
+| *Galium odoratum* | Rubiaceae | Gentianales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Galium uliginosum* | Rubiaceae | Gentianales | AAACCCT | strong | 18/22 | tidk 0.3.0 assembly |
+| *Galium verum* | Rubiaceae | Gentianales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Sherardia arvensis* | Rubiaceae | Gentianales | AAACCCT | strong | 20/22 | tidk 0.3.0 assembly |
+| *Erodium cicutarium* | Geraniaceae | Geraniales | AAACCCT | strong | 18/20 | tidk 0.3.0 assembly |
+| *Erodium maritimum* | Geraniaceae | Geraniales | AAACCCT | strong | 10/18 | tidk 0.3.0 assembly |
+| *Erodium moschatum* | Geraniaceae | Geraniales | AAACCCT | strong | 17/20 | tidk 0.3.0 assembly |
+| *Geranium dissectum* | Geraniaceae | Geraniales | AAACCCT | strong | 19/22 | tidk 0.3.0 assembly |
+| *Geranium lucidum* | Geraniaceae | Geraniales | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Geranium molle* | Geraniaceae | Geraniales | AAACCCT | strong | 23/26 | tidk 0.3.0 assembly |
+| *Geranium pratense* | Geraniaceae | Geraniales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Geranium robertianum* | Geraniaceae | Geraniales | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Geranium rotundifolium* | Geraniaceae | Geraniales | AAACCCT | strong | 24/26 | tidk 0.3.0 assembly |
+| *Geranium sanguineum* | Geraniaceae | Geraniales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Geranium sylvaticum* | Geraniaceae | Geraniales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Gunnera manicata* | Gunneraceae | Gunnerales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Gunnera tinctoria* | Gunneraceae | Gunnerales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Ajuga chamaepitys* | Lamiaceae | Lamiales | AAACCCT | strong | 26/28 | tidk 0.3.0 assembly |
+| *Ajuga reptans* | Lamiaceae | Lamiales | AAACCCT | strong | 16/48 | tidk 0.3.0 assembly |
+| *Ballota nigra* | Lamiaceae | Lamiales | AAACCCT | strong | 17/22 | tidk 0.3.0 assembly |
+| *Galeopsis angustifolia* | Lamiaceae | Lamiales | AAACCCT | strong | 13/16 | tidk 0.3.0 assembly |
+| *Galeopsis tetrahit* | Lamiaceae | Lamiales | AAACCCT | strong | 19/36 | tidk 0.3.0 assembly |
+| *Glechoma hederacea* | Lamiaceae | Lamiales | AAACCCT | strong | 17/36 | tidk 0.3.0 assembly |
+| *Lamium album* | Lamiaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Lamium amplexicaule* | Lamiaceae | Lamiales | AAACCCT | strong | 10/18 | tidk 0.3.0 assembly |
+| *Lamium purpureum* | Lamiaceae | Lamiales | AAACCCT | strong | 6/18 | tidk 0.3.0 assembly |
+| *Lycopus europaeus* | Lamiaceae | Lamiales | AAACCCT | strong | 17/22 | tidk 0.3.0 assembly |
+| *Melittis melissophyllum* | Lamiaceae | Lamiales | AAACCCT | strong | 23/34 | tidk 0.3.0 assembly |
+| *Mentha aquatica* | Lamiaceae | Lamiales | AAACCCT | strong | 59/100 | tidk 0.3.0 assembly |
+| *Prunella vulgaris* | Lamiaceae | Lamiales | AAACCCT | weak | 5/28 | tidk 0.3.0 assembly |
+| *Salvia verbenaca* | Lamiaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Scutellaria galericulata* | Lamiaceae | Lamiales | AAACCCT | strong | 26/30 | tidk 0.3.0 assembly |
+| *Scutellaria minor* | Lamiaceae | Lamiales | AAACCCT | strong | 24/30 | tidk 0.3.0 assembly |
+| *Stachys alpina* | Lamiaceae | Lamiales | AAACCCT | strong | 23/30 | tidk 0.3.0 assembly |
+| *Stachys palustris* | Lamiaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Stachys sylvatica* | Lamiaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Teucrium botrys* | Lamiaceae | Lamiales | AAACCCT | strong | 23/32 | tidk 0.3.0 assembly |
+| *Teucrium scorodonia* | Lamiaceae | Lamiales | AAACCCT | strong | 29/34 | tidk 0.3.0 assembly |
+| *Thymus serpyllum* | Lamiaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Fraxinus excelsior* | Oleaceae | Lamiales | AAACCCT | strong | 33/46 | tidk 0.3.0 assembly |
+| *Ligustrum vulgare* | Oleaceae | Lamiales | AAACCCT | strong | 30/46 | tidk 0.3.0 assembly |
+| *Syringa vulgaris* | Oleaceae | Lamiales | AAACCCT | strong | 38/48 | tidk 0.3.0 assembly |
+| *Bellardia viscosa* | Orobanchaceae | Lamiales | AAACCCT | strong | 41/48 | tidk 0.3.0 assembly |
+| *Euphrasia confusa* | Orobanchaceae | Lamiales | AAACCCT | strong | 15/50 | tidk 0.3.0 assembly |
+| *Euphrasia foulaensis* | Orobanchaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Euphrasia nemorosa* | Orobanchaceae | Lamiales | AAACCCT | strong | 36/44 | tidk 0.3.0 assembly |
+| *Euphrasia tetraquetra* | Orobanchaceae | Lamiales | AAACCCT | strong | 36/44 | tidk 0.3.0 assembly |
+| *Lathraea clandestina* | Orobanchaceae | Lamiales | AAACCCT | strong | 33/58 | tidk 0.3.0 assembly |
+| *Lathraea squamaria* | Orobanchaceae | Lamiales | AAACCCT | strong | 33/40 | tidk 0.3.0 assembly |
+| *Melampyrum pratense* | Orobanchaceae | Lamiales | AAACCCT | strong | 10/22 | tidk 0.3.0 assembly |
+| *Melampyrum sylvaticum* | Orobanchaceae | Lamiales | AAACCCT | strong | 10/24 | tidk 0.3.0 assembly |
+| *Orobanche alba* | Orobanchaceae | Lamiales | AAACCCT | strong | 31/44 | tidk 0.3.0 assembly |
+| *Orobanche hederae* | Orobanchaceae | Lamiales | AAACCCT | strong | 24/38 | tidk 0.3.0 assembly |
+| *Orobanche minor* | Orobanchaceae | Lamiales | AAACCCT | strong | 31/38 | tidk 0.3.0 assembly |
+| *Rhinanthus minor* | Orobanchaceae | Lamiales | AAACCCT | strong | 11/28 | tidk 0.3.0 assembly |
+| *Paulownia tomentosa* | Paulowniaceae | Lamiales | AAACCCT | strong | 39/40 | tidk 0.3.0 assembly |
+| *Erythranthe lutea* | Phrymaceae | Lamiales |  | not checked |  | tidk 0.2 pacbio |
+| *Mimulus peregrinus* | Phrymaceae | Lamiales | AAACCCG | strong | 81/90 | tidk 0.3.0 assembly |
+| *Callitriche obtusangula* | Plantaginaceae | Lamiales | AAACCCT | strong | 4/14 | tidk 0.3.0 assembly |
+| *Callitriche stagnalis* | Plantaginaceae | Lamiales | AAACCCT | strong | 7/10 | tidk 0.3.0 assembly |
+| *Chaenorhinum minus* | Plantaginaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Cymbalaria muralis* | Plantaginaceae | Lamiales | AAAAAACCCT | strong | 10/14 | tidk 0.3.0 assembly |
+| *Hippuris vulgaris* | Plantaginaceae | Lamiales | AAACCCT | strong | 30/30 | tidk 0.3.0 assembly |
+| *Linaria repens* | Plantaginaceae | Lamiales | AAACCCT | strong | 4/12 | tidk 0.3.0 assembly |
+| *Linaria vulgaris* | Plantaginaceae | Lamiales | AAACCCT | weak | 2/14 | tidk 0.3.0 assembly |
+| *Littorella uniflora* | Plantaginaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Misopates orontium* | Plantaginaceae | Lamiales | AAACCCT | strong | 14/16 | tidk 0.3.0 assembly |
+| *Plantago coronopus* | Plantaginaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Plantago lanceolata* | Plantaginaceae | Lamiales | AACCCTAAT | not checked |  | tidk 0.2 pacbio |
+| *Plantago maritima* | Plantaginaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Veronica anagallis-aquatica* | Plantaginaceae | Lamiales | AAACCCT | strong | 24/38 | tidk 0.3.0 assembly |
+| *Veronica arvensis* | Plantaginaceae | Lamiales | AAACCCT | strong | 11/16 | tidk 0.3.0 assembly |
+| *Veronica chamaedrys* | Plantaginaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Veronica filiformis* | Plantaginaceae | Lamiales | AAACCCT | strong | 6/14 | tidk 0.3.0 assembly |
+| *Veronica hederifolia* | Plantaginaceae | Lamiales | AAGAAG | not checked |  | tidk 0.2 pacbio |
+| *Veronica officinalis* | Plantaginaceae | Lamiales | AAACCCT | strong | 61/72 | tidk 0.3.0 assembly |
+| *Veronica persica* | Plantaginaceae | Lamiales | AAACCCT | strong | 20/28 | tidk 0.3.0 assembly |
+| *Veronica scutellata* | Plantaginaceae | Lamiales | AAACCCT | strong | 14/18 | tidk 0.3.0 assembly |
+| *Veronica serpyllifolia* | Plantaginaceae | Lamiales | AAACCCT | strong | 10/14 | tidk 0.3.0 assembly |
+| *Veronica spicata* | Plantaginaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Veronica triphyllos* | Plantaginaceae | Lamiales | AAACCCT | strong | 10/14 | tidk 0.3.0 assembly |
+| *Veronica verna* | Plantaginaceae | Lamiales | AAACCCT | strong | 10/16 | tidk 0.3.0 assembly |
+| *Buddleja davidii* | Scrophulariaceae | Lamiales | AAACCCT | strong | 26/38 | tidk 0.3.0 assembly |
+| *Limosella aquatica* | Scrophulariaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Limosella australis* | Scrophulariaceae | Lamiales | AAACCCT | strong | 18/20 | tidk 0.3.0 assembly |
+| *Scrophularia auriculata* | Scrophulariaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Scrophularia nodosa* | Scrophulariaceae | Lamiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Scrophularia umbrosa* | Scrophulariaceae | Lamiales | AAACCCT | strong | 48/52 | tidk 0.3.0 assembly |
+| *Verbascum nigrum* | Scrophulariaceae | Lamiales | AAACCCT | strong | 30/30 | tidk 0.3.0 assembly |
+| *Verbascum thapsus* | Scrophulariaceae | Lamiales | AAACCCT | strong | 27/36 | tidk 0.3.0 assembly |
+| *Verbena officinalis* | Verbenaceae | Lamiales | AAACCCT | strong | 8/14 | tidk 0.3.0 assembly |
+| *Colchicum autumnale* | Colchicaceae | Liliales | AAACCCT | strong | 74/114 | tidk 0.3.0 assembly |
+| *Tulipa sylvestris* | Liliaceae | Liliales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Paris quadrifolia* | Melanthiaceae | Liliales |  | not checked |  | tidk 0.2 pacbio |
+| *Xerophyllum tenax* | Melanthiaceae | Liliales | AAACCCT | strong | 21/32 | tidk 0.3.0 assembly |
+| *Euphorbia amygdaloides* | Euphorbiaceae | Malpighiales | AACCCT | weak | 8/40 | tidk 0.3.0 assembly |
+| *Euphorbia helioscopia* | Euphorbiaceae | Malpighiales | AAACCCT | strong | 31/42 | tidk 0.3.0 assembly |
+| *Euphorbia lathyris* | Euphorbiaceae | Malpighiales | AAACCCT | strong | 19/20 | tidk 0.3.0 assembly |
+| *Euphorbia maculata* | Euphorbiaceae | Malpighiales | AACCCT | strong | 25/46 | tidk 0.3.0 assembly |
+| *Euphorbia peplus* | Euphorbiaceae | Malpighiales | AACCCT | strong | 12/16 | tidk 0.3.0 assembly |
+| *Mercurialis annua* | Euphorbiaceae | Malpighiales | AAACCCT | strong | 14/16 | tidk 0.3.0 assembly |
+| *Mercurialis perennis* | Euphorbiaceae | Malpighiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Hypericum androsaemum* | Hypericaceae | Malpighiales | AAAAGGCAAG | strong | 15/40 | tidk 0.3.0 assembly |
+| *Hypericum hircinum* | Hypericaceae | Malpighiales | AAAAGGCAAGAAAAGGCATG | strong | 18/56 | tidk 0.3.0 assembly |
+| *Hypericum hirsutum* | Hypericaceae | Malpighiales | AACCCTG | strong | 10/18 | tidk 0.3.0 assembly |
+| *Hypericum maculatum* | Hypericaceae | Malpighiales | AAACCCT | strong | 13/20 | tidk 0.3.0 assembly |
+| *Hypericum perforatum* | Hypericaceae | Malpighiales | AAACCCT | strong | 13/16 | tidk 0.3.0 assembly |
+| *Hypericum pulchrum* | Hypericaceae | Malpighiales | AACCCTG | strong | 12/18 | tidk 0.3.0 assembly |
+| *Linum bienne* | Linaceae | Malpighiales | AAACCCT | strong | 27/30 | tidk 0.3.0 assembly |
+| *Linum catharticum* | Linaceae | Malpighiales | AAACCCT | strong | 13/16 | tidk 0.3.0 assembly |
+| *Populus alba* | Salicaceae | Malpighiales | AAACCCT | strong | 35/38 | tidk 0.3.0 assembly |
+| *Populus nigra* | Salicaceae | Malpighiales | AAACCCT | strong | 34/38 | tidk 0.3.0 assembly |
+| *Populus tremula* | Salicaceae | Malpighiales | AAACCCT | strong | 33/38 | tidk 0.3.0 assembly |
+| *Salix alba* | Salicaceae | Malpighiales | AAACCCT | strong | 53/80 | tidk 0.3.0 assembly |
+| *Salix arbuscula* | Salicaceae | Malpighiales | AAACCCT | strong | 26/54 | tidk 0.3.0 assembly |
+| *Salix cinerea* | Salicaceae | Malpighiales | AAACCCT | strong | 25/48 | tidk 0.3.0 assembly |
+| *Salix euxina* | Salicaceae | Malpighiales | AAACCCT | strong | 33/76 | tidk 0.3.0 assembly |
+| *Salix herbacea* | Salicaceae | Malpighiales | AAACCCT | strong | 29/50 | tidk 0.3.0 assembly |
+| *Salix lanata* | Salicaceae | Malpighiales | AAACCCT | strong | 28/58 | tidk 0.3.0 assembly |
+| *Salix lapponum* | Salicaceae | Malpighiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Salix myrsinifolia* | Salicaceae | Malpighiales | AAACCCT | strong | 24/42 | tidk 0.3.0 assembly |
+| *Salix pentandra* | Salicaceae | Malpighiales | AAACCCT | strong | 65/94 | tidk 0.3.0 assembly |
+| *Salix phylicifolia* | Salicaceae | Malpighiales | AAACCCT | strong | 31/40 | tidk 0.3.0 assembly |
+| *Salix purpurea* | Salicaceae | Malpighiales | AAACCCT | strong | 24/44 | tidk 0.3.0 assembly |
+| *Salix repens* | Salicaceae | Malpighiales | AAACCCT | strong | 17/42 | tidk 0.3.0 assembly |
+| *Salix reticulata* | Salicaceae | Malpighiales | AAACCCT | strong | 26/50 | tidk 0.3.0 assembly |
+| *Salix triandra* | Salicaceae | Malpighiales | AAACCCT | strong | 32/44 | tidk 0.3.0 assembly |
+| *Salix viminalis* | Salicaceae | Malpighiales | AAACCCT | strong | 19/38 | tidk 0.3.0 assembly |
+| *Viola odorata* | Violaceae | Malpighiales | AAACCCT | strong | 15/20 | tidk 0.3.0 assembly |
+| *Viola palustris* | Violaceae | Malpighiales | AAACCCT | strong | 41/48 | tidk 0.3.0 assembly |
+| *Viola riviniana* | Violaceae | Malpighiales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Viola stagnina* | Violaceae | Malpighiales | AAACCCT | strong | 18/20 | tidk 0.3.0 assembly |
+| *Viola tricolor* | Violaceae | Malpighiales | AAACCCT | strong | 15/30 | tidk 0.3.0 assembly |
+| *Helianthemum apenninum* | Cistaceae | Malvales |  | not checked |  | tidk 0.2 pacbio |
+| *Helianthemum oelandicum* | Cistaceae | Malvales | AACCCT | strong | 9/22 | tidk 0.3.0 assembly |
+| *Hibiscus tridactylites* | Malvaceae | Malvales | AAACCCT | strong | 32/56 | tidk 0.3.0 assembly |
+| *Hibiscus verdcourtii* | Malvaceae | Malvales | AAACCCT | strong | 38/56 | tidk 0.3.0 assembly |
+| *Malva arborea* | Malvaceae | Malvales | AAACCCT | strong | 15/40 | tidk 0.3.0 assembly |
+| *Malva neglecta* | Malvaceae | Malvales | AAACCCT | strong | 28/42 | tidk 0.3.0 assembly |
+| *Malva sylvestris* | Malvaceae | Malvales | AAACCCT | strong | 24/42 | tidk 0.3.0 assembly |
+| *Tilia cordata* | Malvaceae | Malvales | AAACCCT | strong | 73/84 | tidk 0.3.0 assembly |
+| *Daphne mezereum* | Thymelaeaceae | Malvales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Lythrum hyssopifolia* | Lythraceae | Myrtales | AAACCCT | strong | 20/20 | tidk 0.3.0 assembly |
+| *Lythrum portula* | Lythraceae | Myrtales | AACCCT | strong | 8/10 | tidk 0.3.0 assembly |
+| *Lythrum salicaria* | Lythraceae | Myrtales | AAACCCT | strong | 25/36 | tidk 0.3.0 assembly |
+| *Chamaenerion angustifolium* | Onagraceae | Myrtales | AAACCCT | strong | 30/44 | tidk 0.3.0 assembly |
+| *Circaea lutetiana* | Onagraceae | Myrtales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Epilobium ciliatum* | Onagraceae | Myrtales | AAACCCT | strong | 29/36 | tidk 0.3.0 assembly |
+| *Epilobium hirsutum* | Onagraceae | Myrtales | AAACCCT | strong | 15/36 | tidk 0.3.0 assembly |
+| *Oenothera biennis* | Onagraceae | Myrtales | AAACCCT | strong | 9/18 | tidk 0.3.0 assembly |
+| *Nuphar lutea* | Nymphaeaceae | Nymphaeales | AAACCCT | strong | 27/34 | tidk 0.3.0 assembly |
+| *Nuphar pumila* | Nymphaeaceae | Nymphaeales | AAACCCT | strong | 31/34 | tidk 0.3.0 assembly |
+| *Nymphaea alba* | Nymphaeaceae | Nymphaeales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Oxalis acetosella* | Oxalidaceae | Oxalidales | AAACCCT | strong | 22/22 | tidk 0.3.0 assembly |
+| *Oxalis corniculata* | Oxalidaceae | Oxalidales | AAACCCT | strong | 23/24 | tidk 0.3.0 assembly |
+| *Oxalis debilis* | Oxalidaceae | Oxalidales | AAACCCT | strong | 36/60 | tidk 0.3.0 assembly |
+| *Aristolochia clematitis* | Aristolochiaceae | Piperales | AACCCTG | not checked |  | tidk 0.2 pacbio |
+| *Carex acutiformis* | Cyperaceae | Poales | AAACCCT | weak | 14/80 | tidk 0.3.0 assembly |
+| *Carex arenaria* | Cyperaceae | Poales | AAACCCT | strong | 48/56 | tidk 0.3.0 assembly |
+| *Carex bigelowii* | Cyperaceae | Poales | AAACCCT | strong | 32/68 | tidk 0.3.0 assembly |
+| *Carex caryophyllea* | Cyperaceae | Poales | AAACCCT | strong | 56/68 | tidk 0.3.0 assembly |
+| *Carex depauperata* | Cyperaceae | Poales | AAACCCT | strong | 18/46 | tidk 0.3.0 assembly |
+| *Carex distans* | Cyperaceae | Poales | AAACCCT | strong | 21/72 | tidk 0.3.0 assembly |
+| *Carex divulsa* | Cyperaceae | Poales | AAACCCT | strong | 50/56 | tidk 0.3.0 assembly |
+| *Carex echinata* | Cyperaceae | Poales | AAACCCT | strong | 50/60 | tidk 0.3.0 assembly |
+| *Carex elata* | Cyperaceae | Poales | AAACCCT | strong | 22/82 | tidk 0.3.0 assembly |
+| *Carex extensa* | Cyperaceae | Poales | AAACCCT | strong | 27/62 | tidk 0.3.0 assembly |
+| *Carex hirta* | Cyperaceae | Poales | AAACCCT | strong | 90/116 | tidk 0.3.0 assembly |
+| *Carex laevigata* | Cyperaceae | Poales | AAACCCT | strong | 38/74 | tidk 0.3.0 assembly |
+| *Carex lasiocarpa* | Cyperaceae | Poales | AAACCCT | strong | 69/82 | tidk 0.3.0 assembly |
+| *Carex montana* | Cyperaceae | Poales | AAACCCT | strong | 33/40 | tidk 0.3.0 assembly |
+| *Carex nigra* | Cyperaceae | Poales | AAACCCT | strong | 43/88 | tidk 0.3.0 assembly |
+| *Carex pendula* | Cyperaceae | Poales | AAACCCT | strong | 53/64 | tidk 0.3.0 assembly |
+| *Carex riparia* | Cyperaceae | Poales | AAACCCT | strong | 47/74 | tidk 0.3.0 assembly |
+| *Carex rostrata* | Cyperaceae | Poales | AAACCCT | strong | 59/72 | tidk 0.3.0 assembly |
+| *Carex spicata* | Cyperaceae | Poales | AAACCCT | strong | 49/60 | tidk 0.3.0 assembly |
+| *Carex sylvatica* | Cyperaceae | Poales | AAACCCT | strong | 37/60 | tidk 0.3.0 assembly |
+| *Cyperus fuscus* | Cyperaceae | Poales | AAACCCT | strong | 31/36 | tidk 0.3.0 assembly |
+| *Eleocharis palustris* | Cyperaceae | Poales | AAACCCT | weak | 15/120 | tidk 0.3.0 assembly |
+| *Eleocharis parvula* | Cyperaceae | Poales | AAACCCT | strong | 3/12 | tidk 0.3.0 assembly |
+| *Eleocharis quinqueflora* | Cyperaceae | Poales | AAACCCT | strong | 99/136 | tidk 0.3.0 assembly |
+| *Eriophorum angustifolium* | Cyperaceae | Poales | AAACCCT | strong | 37/68 | tidk 0.3.0 assembly |
+| *Eriophorum vaginatum* | Cyperaceae | Poales | AAACCCT | strong | 28/60 | tidk 0.3.0 assembly |
+| *Isolepis cernua* | Cyperaceae | Poales | AAACCCT | strong | 44/62 | tidk 0.3.0 assembly |
+| *Schoenoplectus lacustris* | Cyperaceae | Poales | AAACCCT | strong | 25/42 | tidk 0.3.0 assembly |
+| *Schoenoplectus tabernaemontani* | Cyperaceae | Poales | AAACCCT | strong | 28/44 | tidk 0.3.0 assembly |
+| *Schoenoplectus triqueter* | Cyperaceae | Poales | AAACCCT | strong | 34/44 | tidk 0.3.0 assembly |
+| *Schoenus nigricans* | Cyperaceae | Poales | AAACCCT | strong | 31/44 | tidk 0.3.0 assembly |
+| *Scirpus sylvaticus* | Cyperaceae | Poales | AAACCCT | strong | 54/64 | tidk 0.3.0 assembly |
+| *Trichophorum cespitosum* | Cyperaceae | Poales | AAACCCT | strong | 83/108 | tidk 0.3.0 assembly |
+| *Eriocaulon aquaticum* | Eriocaulaceae | Poales | AAAAAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Juncus bufonius* | Juncaceae | Poales | AAACCCT | strong | 98/108 | tidk 0.3.0 assembly |
+| *Juncus conglomeratus* | Juncaceae | Poales | AAACCCT | strong | 34/42 | tidk 0.3.0 assembly |
+| *Juncus effusus* | Juncaceae | Poales | AAACCCT | strong | 39/42 | tidk 0.3.0 assembly |
+| *Juncus inflexus* | Juncaceae | Poales | AAACCCT | strong | 31/42 | tidk 0.3.0 assembly |
+| *Juncus squarrosus* | Juncaceae | Poales | AAACCCT | strong | 35/40 | tidk 0.3.0 assembly |
+| *Luzula campestris* | Juncaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Luzula pallescens* | Juncaceae | Poales | AAACCCT | strong | 8/12 | tidk 0.3.0 assembly |
+| *Luzula sylvatica* | Juncaceae | Poales | AAACCCT | strong | 8/22 | tidk 0.3.0 assembly |
+| *Oreojuncus trifidus* | Juncaceae | Poales | AATAAT | not checked |  | tidk 0.2 pacbio |
+| *Agrostis stolonifera* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Alopecurus geniculatus* | Poaceae | Poales | AAACCCT | weak | 3/38 | tidk 0.3.0 assembly |
+| *Alopecurus pratensis* | Poaceae | Poales | AAACCCT | weak | 8/42 | tidk 0.3.0 assembly |
+| *Anthoxanthum odoratum* | Poaceae | Poales | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Arrhenatherum elatius* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Briza media* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Bromus hordeaceus* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Bromus interruptus* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Bromus ramosus* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Bromus sterilis* | Poaceae | Poales | AAACCCT | strong | 7/14 | tidk 0.3.0 assembly |
+| *Calamagrostis arenaria* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Catapodium rigidum* | Poaceae | Poales | AAACCCT | strong | 8/14 | tidk 0.3.0 assembly |
+| *Danthonia decumbens* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Deschampsia cespitosa* | Poaceae | Poales | AAACCCT | weak | 18/200 | tidk 0.3.0 assembly |
+| *Digitaria sanguinalis* | Poaceae | Poales | AAACCCT | strong | 34/36 | tidk 0.3.0 assembly |
+| *Festuca heterophylla* | Poaceae | Poales | AAACCCT | weak | 7/570 | tidk 0.3.0 assembly |
+| *Glyceria maxima* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Hierochloe odorata* | Poaceae | Poales | AAACCCT | weak | 14/66 | tidk 0.3.0 assembly |
+| *Holcus mollis* | Poaceae | Poales | AAACCCT | weak | 4/94 | tidk 0.3.0 assembly |
+| *Hordeum vulgare* | Poaceae | Poales | AAACCCT | strong | 7/14 | tidk 0.3.0 assembly |
+| *Leersia oryzoides* | Poaceae | Poales | AAACCCT | strong | 41/48 | tidk 0.3.0 assembly |
+| *Leymus arenarius* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Lolium perenne* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Melica uniflora* | Poaceae | Poales | AAACCCT | strong | 16/18 | tidk 0.3.0 assembly |
+| *Nardus stricta* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Phalaris arundinacea* | Poaceae | Poales | AAACCCT | strong | 19/28 | tidk 0.3.0 assembly |
+| *Phleum pratense* | Poaceae | Poales | AAACCCT | weak | 3/50 | tidk 0.3.0 assembly |
+| *Phragmites australis* | Poaceae | Poales | AAACCCT | strong | 43/48 | tidk 0.3.0 assembly |
+| *Poa chaixii* | Poaceae | Poales | AAACCCT | weak | 6/40 | tidk 0.3.0 assembly |
+| *Poa infirma* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Polypogon viridis* | Poaceae | Poales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Puccinellia maritima* | Poaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Sparganium emersum* | Typhaceae | Poales | AAACCCT | strong | 24/30 | tidk 0.3.0 assembly |
+| *Sparganium erectum* | Typhaceae | Poales | AAACCCT | strong | 21/30 | tidk 0.3.0 assembly |
+| *Typha latifolia* | Typhaceae | Poales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Platanus x hispanica* | Platanaceae | Proteales | AAACCCT | strong | 41/42 | tidk 0.3.0 assembly |
+| *Berberis aquifolium* | Berberidaceae | Ranunculales | AAACCCT | strong | 20/28 | tidk 0.3.0 assembly |
+| *Berberis vulgaris* | Berberidaceae | Ranunculales | AAACCCT | strong | 19/28 | tidk 0.3.0 assembly |
+| *Ceratocapnos claviculata* | Papaveraceae | Ranunculales | AAACCG | strong | 25/32 | tidk 0.3.0 assembly |
+| *Chelidonium majus* | Papaveraceae | Ranunculales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Fumaria muralis* | Papaveraceae | Ranunculales | AAACCG | strong | 8/16 | tidk 0.3.0 assembly |
+| *Fumaria officinalis* | Papaveraceae | Ranunculales | AAACCG | not checked |  | tidk 0.2 pacbio |
+| *Glaucium flavum* | Papaveraceae | Ranunculales | AAAACCCTACCCG | strong | 5/14 | tidk 0.3.0 assembly |
+| *Papaver dubium* | Papaveraceae | Ranunculales | AACCCTG | not checked |  | tidk 0.2 pacbio |
+| *Papaver rhoeas* | Papaveraceae | Ranunculales | AACCCTG | not checked |  | tidk 0.2 pacbio |
+| *Pseudo-fumaria lutea* | Papaveraceae | Ranunculales | AAACCG | not checked |  | tidk 0.2 pacbio |
+| *Adonis annua* | Ranunculaceae | Ranunculales | AAACCCT | strong | 19/50 | tidk 0.3.0 assembly |
+| *Anemone nemorosa* | Ranunculaceae | Ranunculales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Aquilegia vulgaris* | Ranunculaceae | Ranunculales | AAACCCT | strong | 10/14 | tidk 0.3.0 assembly |
+| *Caltha palustris* | Ranunculaceae | Ranunculales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Clematis vitalba* | Ranunculaceae | Ranunculales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Pulsatilla vulgaris* | Ranunculaceae | Ranunculales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Ranunculus acris* | Ranunculaceae | Ranunculales |  | not checked |  | tidk 0.2 pacbio |
+| *Ranunculus bulbosus* | Ranunculaceae | Ranunculales | AACCCCG | not checked |  | tidk 0.2 pacbio |
+| *Ranunculus repens* | Ranunculaceae | Ranunculales | AACCCTG | strong | 21/36 | tidk 0.3.0 assembly |
+| *Ranunculus sardous* | Ranunculaceae | Ranunculales | AACCCTG | strong | 11/26 | tidk 0.3.0 assembly |
+| *Ranunculus sceleratus* | Ranunculaceae | Ranunculales | AAACCCT | strong | 23/32 | tidk 0.3.0 assembly |
+| *Thalictrum alpinum* | Ranunculaceae | Ranunculales | AAACCCT | strong | 14/16 | tidk 0.3.0 assembly |
+| *Thalictrum minus* | Ranunculaceae | Ranunculales | AAACCCT | strong | 31/44 | tidk 0.3.0 assembly |
+| *Trollius europaeus* | Ranunculaceae | Ranunculales | AAACCCT | weak | 8/38 | tidk 0.3.0 assembly |
+| *Humulus lupulus* | Cannabaceae | Rosales | AAACCCT | strong | 9/20 | tidk 0.3.0 assembly |
+| *Hippophae rhamnoides* | Elaeagnaceae | Rosales | AAACCCT | strong | 20/54 | tidk 0.3.0 assembly |
+| *Frangula alnus* | Rhamnaceae | Rosales | AAACCCT | strong | 12/20 | tidk 0.3.0 assembly |
+| *Rhamnus cathartica* | Rhamnaceae | Rosales | AAACCCT | strong | 24/24 | tidk 0.3.0 assembly |
+| *Acaena novae-zelandiae* | Rosaceae | Rosales | AAACCCT | strong | 40/42 | tidk 0.3.0 assembly |
+| *Acaena ovalifolia* | Rosaceae | Rosales | AAACCCT | strong | 36/42 | tidk 0.3.0 assembly |
+| *Agrimonia eupatoria* | Rosaceae | Rosales | AAACCCT | strong | 25/30 | tidk 0.3.0 assembly |
+| *Alchemilla alpina* | Rosaceae | Rosales | AAACCCT | strong | 293/318 | tidk 0.3.0 assembly |
+| *Alchemilla arvensis* | Rosaceae | Rosales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Alchemilla micans* | Rosaceae | Rosales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Alchemilla mollis* | Rosaceae | Rosales | AAACCCT | strong | 57/72 | tidk 0.3.0 assembly |
+| *Argentina anserina* | Rosaceae | Rosales | AAACCCT | not checked |  | tidk 0.2 assembly |
+| *Argentina anserina* | Rosaceae | Rosales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Argentina anserina* | Rosaceae | Rosales | AAACCCT | strong | 13/16 | tidk 0.3.0 assembly |
+| *Aria edulis* | Rosaceae | Rosales | AAACCCT | strong | 25/34 | tidk 0.3.0 assembly |
+| *Comarum palustre* | Rosaceae | Rosales | AAACCCT | strong | 26/42 | tidk 0.3.0 assembly |
+| *Crataegus laevigata* | Rosaceae | Rosales | AAACCCT | strong | 30/34 | tidk 0.3.0 assembly |
+| *Crataegus monogyna* | Rosaceae | Rosales | AAACCCT | strong | 30/34 | tidk 0.3.0 assembly |
+| *Dasiphora fruticosa* | Rosaceae | Rosales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Dryas octopetala* | Rosaceae | Rosales | AAACCCT | strong | 11/18 | tidk 0.3.0 assembly |
+| *Filipendula ulmaria* | Rosaceae | Rosales | AAACCCT | strong | 9/14 | tidk 0.3.0 assembly |
+| *Filipendula vulgaris* | Rosaceae | Rosales | AAACCCT | strong | 14/14 | tidk 0.3.0 assembly |
+| *Fragaria moschata* | Rosaceae | Rosales | AAACCCT | strong | 12/14 | tidk 0.3.0 assembly |
+| *Fragaria vesca* | Rosaceae | Rosales | AAACCCT | strong | 10/14 | tidk 0.3.0 assembly |
+| *Geum macrophyllum* | Rosaceae | Rosales | AAACCCT | strong | 34/42 | tidk 0.3.0 assembly |
+| *Geum rivale* | Rosaceae | Rosales | AAACCCT | strong | 34/42 | tidk 0.3.0 assembly |
+| *Geum urbanum* | Rosaceae | Rosales | AAACCCT | strong | 39/42 | tidk 0.3.0 assembly |
+| *Hedlundia anglica* | Rosaceae | Rosales | AAACCCT | strong | 111/138 | tidk 0.3.0 assembly |
+| *Karpatiosorbus bristoliensis* | Rosaceae | Rosales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Karpatiosorbus bristoliensis* | Rosaceae | Rosales | AAACCCT | strong | 56/68 | tidk 0.3.0 assembly |
+| *Karpatiosorbus devoniensis* | Rosaceae | Rosales | AAACCCT | strong | 51/68 | tidk 0.3.0 assembly |
+| *Malus domestica* | Rosaceae | Rosales | AAACCCT | strong | 26/34 | tidk 0.3.0 assembly |
+| *Malus sylvestris* | Rosaceae | Rosales | AAACCCT | strong | 28/34 | tidk 0.3.0 assembly |
+| *Malus x robusta* | Rosaceae | Rosales | AAACCCT | strong | 29/34 | tidk 0.3.0 assembly |
+| *Potentilla anglica* | Rosaceae | Rosales | AAACTCT | strong | 36/58 | tidk 0.3.0 assembly |
+| *Potentilla indica* | Rosaceae | Rosales | AAACCCT | strong | 52/84 | tidk 0.3.0 assembly |
+| *Potentilla reptans* | Rosaceae | Rosales | AACCT | not checked |  | tidk 0.2 pacbio |
+| *Potentilla sterilis* | Rosaceae | Rosales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Prunus avium* | Rosaceae | Rosales | AAACCCT | strong | 11/18 | tidk 0.3.0 assembly |
+| *Prunus lusitanica* | Rosaceae | Rosales | AAACCCT | strong | 47/66 | tidk 0.3.0 assembly |
+| *Prunus padus* | Rosaceae | Rosales | AAACCCT | strong | 26/32 | tidk 0.3.0 assembly |
+| *Pyrus communis* | Rosaceae | Rosales | AAACCCT | strong | 28/34 | tidk 0.3.0 assembly |
+| *Rosa agrestis* | Rosaceae | Rosales | AAACCCT | strong | 48/56 | tidk 0.3.0 assembly |
+| *Rosa canina* | Rosaceae | Rosales | AAACCCT | strong | 41/56 | tidk 0.3.0 assembly |
+| *Rosa rubiginosa* | Rosaceae | Rosales | AAACCCT | strong | 49/56 | tidk 0.3.0 assembly |
+| *Rosa rugosa* | Rosaceae | Rosales | AAACCCT | strong | 11/14 | tidk 0.3.0 assembly |
+| *Rosa spinosissima* | Rosaceae | Rosales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Rubus caesius* | Rosaceae | Rosales | AAACCCT | strong | 16/28 | tidk 0.3.0 assembly |
+| *Rubus idaeus* | Rosaceae | Rosales | AAACCCT | strong | 12/14 | tidk 0.3.0 assembly |
+| *Rubus saxatilis* | Rosaceae | Rosales | AAACCCT | strong | 25/30 | tidk 0.3.0 assembly |
+| *Sibbaldia procumbens* | Rosaceae | Rosales | AAACCCT | strong | 14/14 | tidk 0.3.0 assembly |
+| *Spiraea salicifolia* | Rosaceae | Rosales | AAACCCT | strong | 31/36 | tidk 0.3.0 assembly |
+| *Ulmus glabra* | Ulmaceae | Rosales | AAACCCT | strong | 16/44 | tidk 0.3.0 assembly |
+| *Ulmus minor* | Ulmaceae | Rosales | AAACCCT | strong | 15/34 | tidk 0.3.0 assembly |
+| *Ulmus procera* | Ulmaceae | Rosales | AAACCCT | strong | 21/28 | tidk 0.3.0 assembly |
+| *Parietaria judaica* | Urticaceae | Rosales | AAACCCT | strong | 13/30 | tidk 0.3.0 assembly |
+| *Urtica dioica* | Urticaceae | Rosales | AAACCCT | strong | 18/26 | tidk 0.3.0 assembly |
+| *Urtica urens* | Urticaceae | Rosales | AAACCCT | strong | 13/28 | tidk 0.3.0 assembly |
+| *Viscum album* | Viscaceae | Santalales | AATAATTAGT | weak | 1/676 | tidk 0.3.0 assembly |
+| *Acer campestre* | Sapindaceae | Sapindales | AAACCCT | strong | 15/28 | tidk 0.3.0 assembly |
+| *Acer pseudoplatanus* | Sapindaceae | Sapindales | AAACCCT | strong | 43/70 | tidk 0.3.0 assembly |
+| *Aesculus hippocastanum* | Sapindaceae | Sapindales | AAACCCT | strong | 31/40 | tidk 0.3.0 assembly |
+| *Koelreuteria paniculata* | Sapindaceae | Sapindales | AAACCCT | strong | 26/32 | tidk 0.3.0 assembly |
+| *Ailanthus altissimus* | Simaroubaceae | Sapindales | AAACCCT | not checked |  | tidk 0.2 assembly |
+| *Ailanthus altissimus* | Simaroubaceae | Sapindales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Ailanthus altissimus* | Simaroubaceae | Sapindales | AAACCCT | strong | 58/64 | tidk 0.3.0 assembly |
+| *Crassula aquatica* | Crassulaceae | Saxifragales | AAACCCT | strong | 42/42 | tidk 0.3.0 assembly |
+| *Sedum acre* | Crassulaceae | Saxifragales | AAACCCT | strong | 29/40 | tidk 0.3.0 assembly |
+| *Sedum album* | Crassulaceae | Saxifragales | AAACCCT | strong | 80/104 | tidk 0.3.0 assembly |
+| *Umbilicus rupestris* | Crassulaceae | Saxifragales | AAACCCT | strong | 49/50 | tidk 0.3.0 assembly |
+| *Ribes nigrum* | Grossulariaceae | Saxifragales | AAACCCT | strong | 5/16 | tidk 0.3.0 assembly |
+| *Ribes rubrum* | Grossulariaceae | Saxifragales | AAACCCT | strong | 9/16 | tidk 0.3.0 assembly |
+| *Ribes uva-crispa* | Grossulariaceae | Saxifragales | AAACCCT | none | 0/16 | tidk 0.3.0 assembly |
+| *Myriophyllum alterniflorum* | Haloragaceae | Saxifragales | AAACCCT | strong | 10/16 | tidk 0.3.0 assembly |
+| *Myriophyllum aquaticum* | Haloragaceae | Saxifragales | AAACCCT | strong | 27/42 | tidk 0.3.0 assembly |
+| *Myriophyllum spicatum* | Haloragaceae | Saxifragales | AAACCCT | strong | 32/42 | tidk 0.3.0 assembly |
+| *Myriophyllum verticillatum* | Haloragaceae | Saxifragales | AAACCCT | strong | 23/28 | tidk 0.3.0 assembly |
+| *Chrysosplenium oppositifolium* | Saxifragaceae | Saxifragales | AAAACCG | strong | 37/42 | tidk 0.3.0 assembly |
+| *Saxifraga aizoides* | Saxifragaceae | Saxifragales | AAAACCCT | strong | 15/26 | tidk 0.3.0 assembly |
+| *Saxifraga cespitosa* | Saxifragaceae | Saxifragales | AAAACCCT | strong | 35/86 | tidk 0.3.0 assembly |
+| *Saxifraga oppositifolia* | Saxifragaceae | Saxifragales | AAAACCCT | strong | 19/26 | tidk 0.3.0 assembly |
+| *Tellima grandiflora* | Saxifragaceae | Saxifragales | AAACCCT | strong | 12/20 | tidk 0.3.0 assembly |
+| *Calystegia sepium* | Convolvulaceae | Solanales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Calystegia soldanella* | Convolvulaceae | Solanales | AAACCCT | weak | 3/22 | tidk 0.3.0 assembly |
+| *Convolvulus arvensis* | Convolvulaceae | Solanales | AAACCCT | strong | 43/52 | tidk 0.3.0 assembly |
+| *Cuscuta epithymum* | Convolvulaceae | Solanales | AAACCCT | strong | 10/14 | tidk 0.3.0 assembly |
+| *Atropa belladonna* | Solanaceae | Solanales | AAACCCT | strong | 46/72 | tidk 0.3.0 assembly |
+| *Nicotiana alata* | Solanaceae | Solanales | AAACCCT | strong | 11/18 | tidk 0.3.0 assembly |
+| *Solanum dulcamara* | Solanaceae | Solanales | AACCCTG | strong | 11/24 | tidk 0.3.0 assembly |
+| *Solanum nigrum* | Solanaceae | Solanales | AACCCTG | strong | 26/72 | tidk 0.3.0 assembly |
+| *Vitis vinifera* | Vitaceae | Vitales | AAACCCT | strong | 33/38 | tidk 0.3.0 assembly |

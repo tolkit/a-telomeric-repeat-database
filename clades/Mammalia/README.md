@@ -1,28 +1,65 @@
 # Mammalia
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Cervus elaphus* | Cervidae | Artiodactyla | AAAAA | AAAAAA | assembly |
-| *Cervus elaphus* | Cervidae | Artiodactyla | AAAAA | AAAAAA | pacbio |
-| *Orcinus orca* | Delphinidae | Artiodactyla | AACCCT |  | pacbio |
-| *Hyperoodon ampullatus* | Ziphiidae | Artiodactyla | AACCCT | AACCCTAACCCT | pacbio |
-| *Canis lupus* | Canidae | Carnivora | AACCCT | AACCCTAACCCT | assembly |
-| *Canis lupus* | Canidae | Carnivora | AACCCT | AACCCTAACCCT | pacbio |
-| *Lutra lutra* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | assembly |
-| *Meles meles* | Mustelidae | Carnivora |  |  | assembly |
-| *Meles meles* | Mustelidae | Carnivora | AACCCT | AACCCTAACCCT | pacbio |
-| *Eptesicus nilssonii* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | pacbio |
-| *Myotis daubentonii* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | pacbio |
-| *Pipistrellus pipistrellus* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | assembly |
-| *Pipistrellus pygmaeus* | Vespertilionidae | Chiroptera | AACCCT | AACCCTAACCCT | pacbio |
-| *Sorex araneus* | Soricidae | Eulipotyphla | AACCCT | AACCCTAACCCT | pacbio |
-| *Homo sapiens* | Hominidae | Primates | AATGG | AACCCT | pacbio |
-| *Arvicola amphibius* | Cricetidae | Rodentia | AACCCT | AACCCTAACCCT | assembly |
-| *Myodes glareolus* | Cricetidae | Rodentia | AACCCT | AACCCTAACCCT | pacbio |
-| *Apodemus flavicollis* | Muridae | Rodentia | AACCCT | AACCCTAACCCT | pacbio |
-| *Apodemus sylvaticus* | Muridae | Rodentia | AACCCT | AACCCTAACCCT | pacbio |
-| *Mus musculus* | Muridae | Rodentia | AACCCTAACCCT | AACCCT | pacbio |
-| *Rattus norvegicus* | Muridae | Rodentia | AACCCT | AACCCTAACCCT | assembly |
-| *Rattus norvegicus* | Muridae | Rodentia | AACCCT | AACCCTAACCCT | pacbio |
-| *Sciurus carolinensis* | Sciuridae | Rodentia | AACCCT | AACCCTAACCCT | assembly |
-| *Sciurus vulgaris* | Sciuridae | Rodentia | AACCCT | AACCCTAACCCT | assembly |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Balaenoptera acutorostrata* | Balaenopteridae | Artiodactyla | AACCCT | weak | 16/80 | tidk 0.3.0 assembly |
+| *Balaenoptera borealis* | Balaenopteridae | Artiodactyla | AACCCT | weak | 33/228 | tidk 0.3.0 assembly |
+| *Balaenoptera physalus* | Balaenopteridae | Artiodactyla | AACCCT | weak | 44/356 | tidk 0.3.0 assembly |
+| *Cervus elaphus* | Cervidae | Artiodactyla | AACCCT | weak | 42/306 | tidk 0.3.0 assembly |
+| *Muntiacus reevesi* | Cervidae | Artiodactyla | AACCCT | weak | 20/92 | tidk 0.3.0 assembly |
+| *Delphinus delphis* | Delphinidae | Artiodactyla | AACCCT | weak | 39/192 | tidk 0.3.0 assembly |
+| *Globicephala melas* | Delphinidae | Artiodactyla | AACCCT | weak | 18/156 | tidk 0.3.0 assembly |
+| *Grampus griseus* | Delphinidae | Artiodactyla | AACCCT | weak | 31/128 | tidk 0.3.0 assembly |
+| *Lagenorhynchus albirostris* | Delphinidae | Artiodactyla | AACCCT | weak | 22/118 | tidk 0.3.0 assembly |
+| *Leucopleurus acutus* | Delphinidae | Artiodactyla | AACCCT | weak | 26/126 | tidk 0.3.0 assembly |
+| *Orcinus orca* | Delphinidae | Artiodactyla | AACCCT | weak | 21/132 | tidk 0.3.0 assembly |
+| *Stenella coeruleoalba* | Delphinidae | Artiodactyla | AACCCT | weak | 43/198 | tidk 0.3.0 assembly |
+| *Phocoena phocoena* | Phocoenidae | Artiodactyla | AACCCT | strong | 44/114 | tidk 0.3.0 assembly |
+| *Physeter macrocephalus* | Physeteridae | Artiodactyla | AACCCT | weak | 22/124 | tidk 0.3.0 assembly |
+| *Hyperoodon ampullatus* | Ziphiidae | Artiodactyla | AACCCT | weak | 6/252 | tidk 0.3.0 assembly |
+| *Mesoplodon mirus* | Ziphiidae | Artiodactyla | AACCCT | weak | 17/398 | tidk 0.3.0 assembly |
+| *Canis lupus* | Canidae | Carnivora | AACCCT | strong | 50/96 | tidk 0.3.0 assembly |
+| *Vulpes vulpes* | Canidae | Carnivora | AACCCT | strong | 14/36 | tidk 0.3.0 assembly |
+| *Lutra lutra* | Mustelidae | Carnivora | AACCCT | strong | 16/42 | tidk 0.3.0 assembly |
+| *Martes martes* | Mustelidae | Carnivora | AACCCT | strong | 21/46 | tidk 0.3.0 assembly |
+| *Meles meles* | Mustelidae | Carnivora |  | not checked |  | tidk 0.2 assembly |
+| *Meles meles* | Mustelidae | Carnivora | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Mustela erminea* | Mustelidae | Carnivora | AACCCT | weak | 26/242 | tidk 0.3.0 assembly |
+| *Mustela nivalis* | Mustelidae | Carnivora | AACCCT | weak | 22/454 | tidk 0.3.0 assembly |
+| *Neogale vison* | Mustelidae | Carnivora | AACCCT | strong | 21/32 | tidk 0.3.0 assembly |
+| *Halichoerus grypus* | Phocidae | Carnivora | AACCCT | strong | 23/32 | tidk 0.3.0 assembly |
+| *Phoca vitulina* | Phocidae | Carnivora | AACCCT | strong | 24/44 | tidk 0.3.0 assembly |
+| *Pusa hispida* | Phocidae | Carnivora | AACCCT | strong | 28/34 | tidk 0.3.0 assembly |
+| *Miniopterus schreibersii* | Miniopteridae | Chiroptera | AACCCT | strong | 39/68 | tidk 0.3.0 assembly |
+| *Rhinolophus hipposideros* | Rhinolophidae | Chiroptera | AACCCT | strong | 42/70 | tidk 0.3.0 assembly |
+| *Cnephaeus nilssonii* | Vespertilionidae | Chiroptera | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Cnephaeus nilssonii* | Vespertilionidae | Chiroptera | AACCCT | strong | 24/54 | tidk 0.3.0 assembly |
+| *Myotis daubentonii* | Vespertilionidae | Chiroptera | AACCCT | strong | 29/56 | tidk 0.3.0 assembly |
+| *Myotis emarginatus* | Vespertilionidae | Chiroptera | AACCCT | strong | 20/76 | tidk 0.3.0 assembly |
+| *Myotis mystacinus* | Vespertilionidae | Chiroptera | AACCCT | strong | 30/48 | tidk 0.3.0 assembly |
+| *Myotis nattereri* | Vespertilionidae | Chiroptera | AACCCT | strong | 30/52 | tidk 0.3.0 assembly |
+| *Nyctalus leisleri* | Vespertilionidae | Chiroptera | AACCCT | weak | 26/180 | tidk 0.3.0 assembly |
+| *Pipistrellus nathusii* | Vespertilionidae | Chiroptera | AACCCT | weak | 25/116 | tidk 0.3.0 assembly |
+| *Pipistrellus pipistrellus* | Vespertilionidae | Chiroptera | AACCCT | strong | 32/102 | tidk 0.3.0 assembly |
+| *Pipistrellus pygmaeus* | Vespertilionidae | Chiroptera | AACCCT | strong | 25/60 | tidk 0.3.0 assembly |
+| *Plecotus auritus* | Vespertilionidae | Chiroptera | AACCCT | strong | 21/32 | tidk 0.3.0 assembly |
+| *Vespertilio murinus* | Vespertilionidae | Chiroptera | AACCCT | strong | 25/54 | tidk 0.3.0 assembly |
+| *Erinaceus europaeus* | Erinaceidae | Eulipotyphla | AACCCT | weak | 11/82 | tidk 0.3.0 assembly |
+| *Sorex araneus* | Soricidae | Eulipotyphla | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Talpa europaea* | Talpidae | Eulipotyphla | AACCCT | strong | 26/34 | tidk 0.3.0 assembly |
+| *Oryctolagus cuniculus* | Leporidae | Lagomorpha | AACCCT | strong | 30/72 | tidk 0.3.0 assembly |
+| *Homo sapiens* | Hominidae | Primates | AATGG | not checked |  | tidk 0.2 pacbio |
+| *Castor fiber* | Castoridae | Rodentia | AACCCT | strong | 36/74 | tidk 0.3.0 assembly |
+| *Arvicola amphibius* | Cricetidae | Rodentia | AGAT | weak | 1/36 | tidk 0.3.0 assembly |
+| *Microtus agrestis* | Cricetidae | Rodentia | AACCCT | weak | 26/244 | tidk 0.3.0 assembly |
+| *Myodes glareolus* | Cricetidae | Rodentia | AACCCT | strong | 34/104 | tidk 0.3.0 assembly |
+| *Glis glis* | Gliridae | Rodentia | AACCCT | strong | 53/60 | tidk 0.3.0 assembly |
+| *Muscardinus avellanarius* | Gliridae | Rodentia | AACCCT | strong | 27/48 | tidk 0.3.0 assembly |
+| *Apodemus flavicollis* | Muridae | Rodentia | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Apodemus sylvaticus* | Muridae | Rodentia | AACCCT | weak | 13/104 | tidk 0.3.0 assembly |
+| *Micromys minutus* | Muridae | Rodentia | AACCCT | weak | 44/228 | tidk 0.3.0 assembly |
+| *Mus musculus* | Muridae | Rodentia | AACCCT | weak | 21/100 | tidk 0.3.0 assembly |
+| *Rattus norvegicus* | Muridae | Rodentia | AACCCT | not checked |  | tidk 0.2 assembly |
+| *Rattus norvegicus* | Muridae | Rodentia | AACCCT | not checked |  | tidk 0.2 pacbio |
+| *Sciurus carolinensis* | Sciuridae | Rodentia | AACCCT | weak | 11/178 | tidk 0.3.0 assembly |
+| *Sciurus vulgaris* | Sciuridae | Rodentia | AACCCT | weak | 11/128 | tidk 0.3.0 assembly |

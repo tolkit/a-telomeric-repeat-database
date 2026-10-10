@@ -1,5 +1,6 @@
 # Chromadorea
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Caenorhabditis monodelphis* | Rhabditidae | Rhabditida | AAGCCT | AAGCCTAAGCCT | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Caenorhabditis monodelphis* | Rhabditidae | Rhabditida | AAGCCT | strong | 8/12 | tidk 0.3.0 assembly |
+| *Trichostrongylus colubriformis* | Trichostrongylidae | Rhabditida | AAGCCT | strong | 10/12 | tidk 0.3.0 assembly |

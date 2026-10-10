@@ -1,5 +1,5 @@
 # Myxini
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Myxine glutinosa* | Myxinidae | Myxiniformes | AACCCT | AACCCTAACCCT | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Myxine glutinosa* | Myxinidae | Myxiniformes | AAACTCCAGTTATTCC | none | 0/32 | tidk 0.3.0 assembly |

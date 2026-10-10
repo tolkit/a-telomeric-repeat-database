@@ -1,17 +1,126 @@
 # Bryopsida
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Anomodon viticulosus* | Anomodontaceae | Hypnales | AATGAT | ACTCACTC | pacbio |
-| *Pseudoscleropodium purum* | Brachytheciaceae | Hypnales | ACATACAT | ACATACATACATACAT | pacbio |
-| *Climacium dendroides* | Climaciaceae | Hypnales | AAACCCT | AATGG | pacbio |
-| *Hylocomiadelphus triquetrus* | Hylocomiaceae | Hypnales | AACAG |  | pacbio |
-| *Rhytidiadelphus loreus* | Hylocomiaceae | Hypnales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Rhytidiadelphus loreus* | Hylocomiaceae | Hypnales |  |  | pacbio |
-| *Isothecium myosuroides* | Lembophyllaceae | Hypnales | AAACCCT | AACCCT | pacbio |
-| *Exsertotheca crispa* | Neckeraceae | Hypnales | AAACCCT | AACCCT | pacbio |
-| *Neckera pumila* | Neckeraceae | Hypnales | AAACCCT | ACACAC | pacbio |
-| *Thamnobryum alopecurum* | Neckeraceae | Hypnales |  |  | pacbio |
-| *Thuidium delicatulum* | Thuidiaceae | Hypnales |  |  | pacbio |
-| *Thuidium tamariscinum* | Thuidiaceae | Hypnales | AAACCCT | AAACCCTAAACCCT | assembly |
-| *Thuidium tamariscinum* | Thuidiaceae | Hypnales |  |  | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Aulacomnium androgynum* | Aulacomniaceae | Aulacomniales | AAACCCT | strong | 20/22 | tidk 0.3.0 assembly |
+| *Bryum calophyllum* | Bryaceae | Bryales | AAACCCT | strong | 40/60 | tidk 0.3.0 assembly |
+| *Bryum marratii* | Bryaceae | Bryales | AAACCCT | strong | 33/40 | tidk 0.3.0 assembly |
+| *Bryum riparium* | Bryaceae | Bryales | AAACCCT | strong | 13/20 | tidk 0.3.0 assembly |
+| *Ptychostomum capillare* | Bryaceae | Bryales | AAACCCT | strong | 15/20 | tidk 0.3.0 assembly |
+| *Ptychostomum cyclophyllum* | Bryaceae | Bryales | AAACCCT | strong | 17/20 | tidk 0.3.0 assembly |
+| *Ptychostomum knowltonii* | Bryaceae | Bryales | AAACCCT | strong | 32/40 | tidk 0.3.0 assembly |
+| *Ptychostomum moravicum* | Bryaceae | Bryales | AAACCCT | strong | 11/20 | tidk 0.3.0 assembly |
+| *Ptychostomum pallens* | Bryaceae | Bryales | AAACCCT | weak | 5/24 | tidk 0.3.0 assembly |
+| *Pohlia annotina* | Mniaceae | Bryales | AAACCCT | strong | 18/22 | tidk 0.3.0 assembly |
+| *Pohlia cruda* | Mniaceae | Bryales | AAACCCT | strong | 13/22 | tidk 0.3.0 assembly |
+| *Pohlia nutans* | Mniaceae | Bryales | AAACCCT | strong | 35/44 | tidk 0.3.0 assembly |
+| *Pohlia wahlenbergii* | Mniaceae | Bryales | AAACCCT | strong | 17/22 | tidk 0.3.0 assembly |
+| *Pseudobryum cinclidioides* | Mniaceae | Bryales | AAACCCT | strong | 8/12 | tidk 0.3.0 assembly |
+| *Dicranum bonjeanii* | Dicranaceae | Dicranales | AAACCCT | weak | 4/24 | tidk 0.3.0 assembly |
+| *Dicranum flexicaule* | Dicranaceae | Dicranales | AAACCCT | strong | 10/18 | tidk 0.3.0 assembly |
+| *Dicranum scottianum* | Dicranaceae | Dicranales | AAACCCT | strong | 11/16 | tidk 0.3.0 assembly |
+| *Dicranum tauricum* | Dicranaceae | Dicranales | AAACCCT | strong | 18/24 | tidk 0.3.0 assembly |
+| *Fissidens adianthoides* | Fissidentaceae | Dicranales | AAACCCT | strong | 43/48 | tidk 0.3.0 assembly |
+| *Fissidens bryoides* | Fissidentaceae | Dicranales | AAACCCT | strong | 21/22 | tidk 0.3.0 assembly |
+| *Fissidens dubius* | Fissidentaceae | Dicranales | AAACCCT | strong | 11/24 | tidk 0.3.0 assembly |
+| *Fissidens pusillus* | Fissidentaceae | Dicranales | AAACCCT | strong | 15/24 | tidk 0.3.0 assembly |
+| *Fissidens taxifolius* | Fissidentaceae | Dicranales | AAACCCT | strong | 13/24 | tidk 0.3.0 assembly |
+| *Atractylocarpus subporodictyon* | Leucobryaceae | Dicranales | AAACCCT | strong | 16/22 | tidk 0.3.0 assembly |
+| *Campylopus flexuosus* | Leucobryaceae | Dicranales | AAACCCT | strong | 13/22 | tidk 0.3.0 assembly |
+| *Campylopus introflexus* | Leucobryaceae | Dicranales | AAACCCT | strong | 11/24 | tidk 0.3.0 assembly |
+| *Dicranodontium denudatum* | Leucobryaceae | Dicranales | AAACCCT | strong | 14/22 | tidk 0.3.0 assembly |
+| *Leucobryum glaucum* | Leucobryaceae | Dicranales | AAACCCT | strong | 14/22 | tidk 0.3.0 assembly |
+| *Leucobryum juniperoideum* | Leucobryaceae | Dicranales | AAACCCT | strong | 12/22 | tidk 0.3.0 assembly |
+| *Cynodontium bruntonii* | Rhabdoweisiaceae | Dicranales | AAACCCT | strong | 20/28 | tidk 0.3.0 assembly |
+| *Dicranoweisia cirrata* | Rhabdoweisiaceae | Dicranales | AAACCCT | strong | 20/28 | tidk 0.3.0 assembly |
+| *Hymenoloma crispulum* | Rhabdoweisiaceae | Dicranales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Kiaeria blyttii* | Rhabdoweisiaceae | Dicranales | AAACCCT | strong | 14/28 | tidk 0.3.0 assembly |
+| *Rhabdoweisia crispata* | Rhabdoweisiaceae | Dicranales | AAACCCT | strong | 22/28 | tidk 0.3.0 assembly |
+| *Encalypta ciliata* | Encalyptaceae | Encalyptales | AAACCCT | strong | 22/26 | tidk 0.3.0 assembly |
+| *Encalypta streptocarpa* | Encalyptaceae | Encalyptales | AAACCCT | strong | 22/26 | tidk 0.3.0 assembly |
+| *Funaria hygrometrica* | Funariaceae | Funariales | AAACCCT | strong | 39/52 | tidk 0.3.0 assembly |
+| *Codriophorus aciculare* | Grimmiaceae | Grimmiales | AAACCCT | weak | 3/26 | tidk 0.3.0 assembly |
+| *Dilutineuron fasciculare* | Grimmiaceae | Grimmiales | AAACCCT | weak | 2/26 | tidk 0.3.0 assembly |
+| *Grimmia atrata* | Grimmiaceae | Grimmiales | AAACCCT | strong | 17/26 | tidk 0.3.0 assembly |
+| *Grimmia decipiens* | Grimmiaceae | Grimmiales | AAACCCT | strong | 41/52 | tidk 0.3.0 assembly |
+| *Grimmia donniana* | Grimmiaceae | Grimmiales | AAACCCT | strong | 22/26 | tidk 0.3.0 assembly |
+| *Grimmia elongata* | Grimmiaceae | Grimmiales | AAACCCT | strong | 16/26 | tidk 0.3.0 assembly |
+| *Grimmia funalis* | Grimmiaceae | Grimmiales | AAACCCT | strong | 16/26 | tidk 0.3.0 assembly |
+| *Grimmia montana* | Grimmiaceae | Grimmiales | AAACCCT | weak | 6/26 | tidk 0.3.0 assembly |
+| *Grimmia pulvinata* | Grimmiaceae | Grimmiales | AAACCCT | strong | 28/52 | tidk 0.3.0 assembly |
+| *Grimmia trichophylla* | Grimmiaceae | Grimmiales | AAACCCT | weak | 4/26 | tidk 0.3.0 assembly |
+| *Racomitrium heterostichum* | Grimmiaceae | Grimmiales | AAACCCT | weak | 2/26 | tidk 0.3.0 assembly |
+| *Schistidium strictum* | Grimmiaceae | Grimmiales | AAACCCT | strong | 8/26 | tidk 0.3.0 assembly |
+| *Ptychomitrium polyphyllum* | Ptychomitriaceae | Grimmiales | AAACCCT | strong | 13/26 | tidk 0.3.0 assembly |
+| *Blindiadelphus recurvatus* | Seligeriaceae | Grimmiales | AAACCCT | strong | 16/26 | tidk 0.3.0 assembly |
+| *Brachydontium trichodes* | Seligeriaceae | Grimmiales | AAACCCT | strong | 20/28 | tidk 0.3.0 assembly |
+| *Braunia imberbis* | Hedwigiaceae | Hedwigiales | AAACCCT | strong | 20/22 | tidk 0.3.0 assembly |
+| *Hedwigia stellata* | Hedwigiaceae | Hedwigiales | AAACCCT | strong | 19/20 | tidk 0.3.0 assembly |
+| *Hookeria lucens* | Hookeriaceae | Hookeriales | AAACCCT | strong | 16/24 | tidk 0.3.0 assembly |
+| *Cratoneuron filicinum* | Amblystegiaceae | Hypnales | AAACCCT | strong | 10/20 | tidk 0.3.0 assembly |
+| *Platyhypnum duriusculum* | Amblystegiaceae | Hypnales | AAACCCT | strong | 17/26 | tidk 0.3.0 assembly |
+| *Sarmentypnum sarmentosum* | Amblystegiaceae | Hypnales |  | none |  | tidk 0.3.0 assembly |
+| *Anomodon viticulosus* | Anomodontaceae | Hypnales | AAACCCT | strong | 18/22 | tidk 0.3.0 assembly |
+| *Brachythecium rutabulum* | Brachytheciaceae | Hypnales | AAACCCT | strong | 12/24 | tidk 0.3.0 assembly |
+| *Pseudoscleropodium purum* | Brachytheciaceae | Hypnales | AAACCCT | strong | 18/22 | tidk 0.3.0 assembly |
+| *Rhynchostegiella tenella* | Brachytheciaceae | Hypnales | AAACCCT | strong | 15/20 | tidk 0.3.0 assembly |
+| *Rhynchostegium confertum* | Brachytheciaceae | Hypnales | AAACCCT | strong | 14/22 | tidk 0.3.0 assembly |
+| *Rhynchostegium megapolitanum* | Brachytheciaceae | Hypnales | AAACCCT | strong | 15/22 | tidk 0.3.0 assembly |
+| *Sciuro-hypnum glaciale* | Brachytheciaceae | Hypnales | AAACCCT | strong | 18/22 | tidk 0.3.0 assembly |
+| *Calliergon cordifolium* | Calliergonaceae | Hypnales | AAACCCT | strong | 41/44 | tidk 0.3.0 assembly |
+| *Straminergon stramineum* | Calliergonaceae | Hypnales | AAACCCT | strong | 17/22 | tidk 0.3.0 assembly |
+| *Climacium dendroides* | Climaciaceae | Hypnales | AAACCCT | strong | 15/56 | tidk 0.3.0 assembly |
+| *Cryphaea heteromalla* | Cryphaeaceae | Hypnales | AAACCCT | strong | 20/22 | tidk 0.3.0 assembly |
+| *Hylocomiadelphus triquetrus* | Hylocomiaceae | Hypnales | AAACCCT | weak | 3/24 | tidk 0.3.0 assembly |
+| *Loeskeobryum brevirostre* | Hylocomiaceae | Hypnales | AAACCCT | strong | 19/20 | tidk 0.3.0 assembly |
+| *Rhytidiadelphus loreus* | Hylocomiaceae | Hypnales | AAACCCT | strong | 8/10 | tidk 0.3.0 assembly |
+| *Hyocomium armoricum* | Hypnaceae | Hypnales | AAACCCT | strong | 18/22 | tidk 0.3.0 assembly |
+| *Hypnum cupressiforme* | Hypnaceae | Hypnales | AAACCCT | strong | 16/20 | tidk 0.3.0 assembly |
+| *Pseudisothecium interludens* | Lembophyllaceae | Hypnales | AAACCCT | strong | 13/22 | tidk 0.3.0 assembly |
+| *Pseudisothecium myosuroides* | Lembophyllaceae | Hypnales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Pseudisothecium myosuroides* | Lembophyllaceae | Hypnales | AAACCCT | strong | 14/22 | tidk 0.3.0 assembly |
+| *Antitrichia curtipendula* | Leucodontaceae | Hypnales | AAACCCT | strong | 10/24 | tidk 0.3.0 assembly |
+| *Leucodon sciuroides* | Leucodontaceae | Hypnales | AAACCCT | strong | 12/18 | tidk 0.3.0 assembly |
+| *Nogopterium gracile* | Leucodontaceae | Hypnales | AAACCCT | weak | 2/22 | tidk 0.3.0 assembly |
+| *Neckera pumila* | Neckeraceae | Hypnales | AAACCCT | strong | 20/22 | tidk 0.3.0 assembly |
+| *Rhystophyllum crispum* | Neckeraceae | Hypnales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Thamnobryum alopecurum* | Neckeraceae | Hypnales |  | not checked |  | tidk 0.2 pacbio |
+| *Isopterygiella pulchella* | Plagiotheciaceae | Hypnales | AAACCCT | strong | 37/44 | tidk 0.3.0 assembly |
+| *Orthothecium rufescens* | Plagiotheciaceae | Hypnales | AAACCCT | strong | 15/22 | tidk 0.3.0 assembly |
+| *Plagiothecium denticulatum* | Plagiotheciaceae | Hypnales | AAACCCT | strong | 11/22 | tidk 0.3.0 assembly |
+| *Pseudotaxiphyllum elegans* | Plagiotheciaceae | Hypnales | AAACCCT | strong | 18/22 | tidk 0.3.0 assembly |
+| *Heterocladium heteropterum* | Pterigynandraceae | Hypnales | AAACCCT | strong | 15/22 | tidk 0.3.0 assembly |
+| *Pterigynandrum filiforme* | Pterigynandraceae | Hypnales | AAACCCT | strong | 19/22 | tidk 0.3.0 assembly |
+| *Calliergonella cuspidata* | Pylaisiaceae | Hypnales | AAACCCT | strong | 20/22 | tidk 0.3.0 assembly |
+| *Stereodon callichrous* | Stereodontaceae | Hypnales | AAACCCT | strong | 14/22 | tidk 0.3.0 assembly |
+| *Thuidium delicatulum* | Thuidiaceae | Hypnales | AAACCCT | strong | 19/22 | tidk 0.3.0 assembly |
+| *Thuidium tamariscinum* | Thuidiaceae | Hypnales | AAACCCT | strong | 19/22 | tidk 0.3.0 assembly |
+| *Amphidium lapponicum* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 24/30 | tidk 0.3.0 assembly |
+| *Amphidium mougeotii* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 24/28 | tidk 0.3.0 assembly |
+| *Bryomyces phyllanthus* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 18/22 | tidk 0.3.0 assembly |
+| *Lewinskya affinis* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 10/12 | tidk 0.3.0 assembly |
+| *Lewinskya rupestris* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 9/12 | tidk 0.3.0 assembly |
+| *Lewinskya speciosa* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 22/26 | tidk 0.3.0 assembly |
+| *Lewinskya striata* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 9/12 | tidk 0.3.0 assembly |
+| *Orthotrichum anomalum* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 10/22 | tidk 0.3.0 assembly |
+| *Orthotrichum pulchellum* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 17/20 | tidk 0.3.0 assembly |
+| *Pulvigera lyellii* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 8/14 | tidk 0.3.0 assembly |
+| *Ulota crispa* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 17/22 | tidk 0.3.0 assembly |
+| *Zygodon viridissimus* | Orthotrichaceae | Orthotrichales | AAACCCT | strong | 17/22 | tidk 0.3.0 assembly |
+| *Anoectangium aestivum* | Pottiaceae | Pottiales | AAACCCT | strong | 21/26 | tidk 0.3.0 assembly |
+| *Bryoerythrophyllum caledonicum* | Pottiaceae | Pottiales | AAACCCT | strong | 17/26 | tidk 0.3.0 assembly |
+| *Bryoerythrophyllum ferruginascens* | Pottiaceae | Pottiales | AAACCCT | strong | 18/24 | tidk 0.3.0 assembly |
+| *Didymodon rigidulus* | Pottiaceae | Pottiales | AAACCCT | strong | 16/28 | tidk 0.3.0 assembly |
+| *Geheebia maxima* | Pottiaceae | Pottiales | AAACCCT | strong | 22/26 | tidk 0.3.0 assembly |
+| *Syntrichia ruraliformis* | Pottiaceae | Pottiales | AAACCCT | strong | 23/26 | tidk 0.3.0 assembly |
+| *Tortella tortuosa* | Pottiaceae | Pottiales | AAACCCT | strong | 18/26 | tidk 0.3.0 assembly |
+| *Trichostomum littorale* | Pottiaceae | Pottiales | AAACCCT | strong | 18/26 | tidk 0.3.0 assembly |
+| *Vinealobryum insulanum* | Pottiaceae | Pottiales | AAACCCT | strong | 12/26 | tidk 0.3.0 assembly |
+| *Ceratodon purpureus* | Ditrichaceae | Pseudoditrichales | AAACCCT | strong | 17/26 | tidk 0.3.0 assembly |
+| *Distichium capillaceum* | Ditrichaceae | Pseudoditrichales | AAACCCT | strong | 25/28 | tidk 0.3.0 assembly |
+| *Ditrichum cornubicum* | Ditrichaceae | Pseudoditrichales | AAACCCT | strong | 18/26 | tidk 0.3.0 assembly |
+| *Flexitrichum flexicaule* | Flexitrichaceae | Pseudoditrichales | AAACCCT | strong | 22/28 | tidk 0.3.0 assembly |
+| *Flexitrichum gracile* | Flexitrichaceae | Pseudoditrichales | AAACCCT | strong | 25/28 | tidk 0.3.0 assembly |
+| *Meesia triquetra* | Meesiaceae | Splachnales | AAACCCT | strong | 14/18 | tidk 0.3.0 assembly |
+| *Splachnum sphaericum* | Splachnaceae | Splachnales | AAACCCT | strong | 8/16 | tidk 0.3.0 assembly |
+| *Tetraplodon mnioides* | Splachnaceae | Splachnales | AAACCCT | strong | 11/20 | tidk 0.3.0 assembly |

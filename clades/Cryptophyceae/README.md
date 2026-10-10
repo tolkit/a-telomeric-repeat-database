@@ -1,5 +1,6 @@
 # Cryptophyceae
 
-| Species | Family | Order | Telomeric repeat 1 | Telomeric repeat 2 | Data type |
-| -- | --- | --- | --- | --- | --- |
-| *Rhodomonas baltica* | Pyrenomonadaceae | Pyrenomonadales | AAACCCT | ACACTC | pacbio |
+| Species | Family | Order | Telomeric repeat | Support | Ends with repeat | Source |
+| --- | --- | --- | --- | --- | --- | --- |
+| *Cryptomonas baltica* | Cryptomonadaceae | Cryptomonadales | AAACCCT | not checked |  | tidk 0.2 pacbio |
+| *Cryptomonas baltica* | Cryptomonadaceae | Cryptomonadales | AAACCCT | strong | 93/174 | tidk 0.3.0 assembly |
